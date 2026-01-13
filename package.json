@@ -1,0 +1,10 @@
+{
+  "name": "vodafone-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "express": "latest",
+    "franc": "^6.2.0",
+    "google-play-scraper": "latest"
+  }
+}
