@@ -1,18 +1,216 @@
 {
   "ratings": {
-    "score": 3.2484076,
-    "scoreText": "3,2",
-    "totalRatings": 1720,
-    "totalReviews": 843,
+    "score": 3.1133332,
+    "scoreText": "3,1",
+    "totalRatings": 1763,
+    "totalReviews": 862,
     "histogram": {
-      "1": 579,
-      "2": 65,
-      "3": 141,
-      "4": 207,
-      "5": 722
+      "1": 645,
+      "2": 93,
+      "3": 128,
+      "4": 198,
+      "5": 693
     }
   },
   "reviews": [
+    {
+      "id": "debef564-19db-409c-aec9-a179cfe10950",
+      "userName": "Monika Janoušková",
+      "date": "2026-01-13T13:24:03.707Z",
+      "score": 1,
+      "text": "Nevím no, stále se nedá přes tuhle novou aplikaci vůbec platit, alespoň jsem nezjistila jak. V SMS mám necelé 3k, v aplikaci přes 10k, ale když se chci dostat na vyúčtování nebo platbu, tak mě to ukazuje akorát kredit i přesto, že mám nastavené jako hlavní číslo tarif. Faaaakt otrava, už několikátý měsíc v kuse 😒",
+      "text_normalized": "nevim no, stale se neda pres tuhle novou aplikaci vubec platit, alespon jsem nezjistila jak. v sms mam necele 3k, v aplikaci pres 10k, ale kdyz se chci dostat na vyuctovani nebo platbu, tak me to ukazuje akorat kredit i presto, ze mam nastavene jako hlavni cislo tarif. faaaakt otrava, uz nekolikaty mesic v kuse 😒",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-01-13T13:44:09.459Z",
+      "replyText": "Pěkný den, Moniko,\nu některých zákazníků registruje tyto potíže, které odstraníme novou aktualizací, proběhne v tomto týdnu. Veronika",
+      "version": "3.4.1"
+    },
+    {
+      "id": "fe1bb33b-ce39-4978-9c6b-72d355c6c9d6",
+      "userName": "Marie Šmolikova",
+      "date": "2026-01-13T12:08:52.607Z",
+      "score": 1,
+      "text": "Proč se lidi mají potřebu šťourat v něčem, co funguje bezvadně? Někdy před cca 10.lety měl Vodafone bezproblémovou, přehlednou a hlavně funkční aplikaci. To co má Vodafone teď je katastrofa ať je to první verze aplikace tak i nová Vodafone+",
+      "text_normalized": "proc se lidi maji potrebu stourat v necem, co funguje bezvadne? nekdy pred cca 10.lety mel vodafone bezproblemovou, prehlednou a hlavne funkcni aplikaci. to co ma vodafone ted je katastrofa at je to prvni verze aplikace tak i nova vodafone+",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-13T12:19:49.700Z",
+      "replyText": "Hezký den, Marie,\nje mi líto, že jste nespokojená 🙁 Postupně aplikaci vylepšujeme, věřím, že se vám do budoucna bude líbit více. Zuzana",
+      "version": null
+    },
+    {
+      "id": "ff126c01-ae2c-452a-9ad1-b0d2f7a3400b",
+      "userName": "Michaela Klimentová",
+      "date": "2026-01-13T09:56:21.407Z",
+      "score": 1,
+      "text": "Co je to za novinku? Vždyť se nejde dostat do účtu. Pořád se objevuje \"Aplikace Můj Vodafone+, nereaguje\". Tak co je to za nefunkční novinku? 🙄",
+      "text_normalized": "co je to za novinku? vzdyt se nejde dostat do uctu. porad se objevuje \"aplikace muj vodafone+, nereaguje\". tak co je to za nefunkcni novinku? 🙄",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-13T10:24:12.117Z",
+      "replyText": "Hezký den, Michaelo,\nje mi líto, že nejste s aplikací spokojená 🙁 Doporučuji aplikaci přeinstalovat, poté byste se měla v pořádku přihlásit. Zuzana",
+      "version": "3.5.0"
+    },
+    {
+      "id": "b7bef399-9373-4c53-8152-802a4bfeb022",
+      "userName": "Michal Novák",
+      "date": "2026-01-13T09:23:06.868Z",
+      "score": 1,
+      "text": "Do aplikace se nelze opakovaně přihlásit ani po reinstalaci. Stará aplikace byla fajn, ale UŽ nefunguje, nová JEŠTĚ nefunguje. A my máme dělat co? DEJTE TO DO KUPY, nebo neházejte do koše aplikace, které fungují. Tohle je padlý na hlavu. 🤦‍♂️",
+      "text_normalized": "do aplikace se nelze opakovane prihlasit ani po reinstalaci. stara aplikace byla fajn, ale uz nefunguje, nova jeste nefunguje. a my mame delat co? dejte to do kupy, nebo nehazejte do kose aplikace, ktere funguji. tohle je padly na hlavu. 🤦‍♂️",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-13T09:46:31.560Z",
+      "replyText": "Hezký den, Michale,\nje mi líto, že jste nespokojený s aplikací 🙁 Na aplikaci stále pracujeme, věřím, že se vám do budoucna bude líbit více. Zuzana",
+      "version": "3.5.0"
+    },
+    {
+      "id": "9091c794-1e67-4fcb-a425-86f3a2d78f01",
+      "userName": "Martin Kašpárek",
+      "date": "2026-01-13T06:48:56.956Z",
+      "score": 1,
+      "text": "jak mám provést platbu? když kliknu na cokoliv tak to nejde. musím platit přes web. stará aplikace to uměla. Tak vše při starém. I po přeinstalaci je to pořád stejné. Částka na platbu je zobrazena. Po otevření se zobrazí že platba je 0,- Kč. Po přečtení recenzí nejsem sám komu to nefunguje.",
+      "text_normalized": "jak mam provest platbu? kdyz kliknu na cokoliv tak to nejde. musim platit pres web. stara aplikace to umela. tak vse pri starem. i po preinstalaci je to porad stejne. castka na platbu je zobrazena. po otevreni se zobrazi ze platba je 0,- kc. po precteni recenzi nejsem sam komu to nefunguje.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-13T07:17:55.596Z",
+      "replyText": "Hezký den, Martine,\nje mi moc líto, že jste nespokojený 🙁 Pokud nepomohlo aplikaci přeinstalovat, zavolejte nám na linku 800 77 77 77 a kolegové se s vámi na situaci konkrétně podívají. Zuzana",
+      "version": "3.5.0"
+    },
+    {
+      "id": "89475a8d-3998-431f-86b9-ed63517bbc65",
+      "userName": "Viktor",
+      "date": "2026-01-13T01:30:11.802Z",
+      "score": 1,
+      "text": "Aplikace je bohužel nespolehlivá. Při platbě faktury aplikace uprostřed zamrzla. Peníze se strhly, ale faktura zůstala jako neuhrazená. V aplikaci navíc chybí přehled provedených plateb, takže si nelze ověřit, co bylo zaplaceno. Mám 16 čísel a nelze nastavit výchozí číslo, což je velmi nepraktické. Velké zklamání.",
+      "text_normalized": "aplikace je bohuzel nespolehliva. pri platbe faktury aplikace uprostred zamrzla. penize se strhly, ale faktura zustala jako neuhrazena. v aplikaci navic chybi prehled provedenych plateb, takze si nelze overit, co bylo zaplaceno. mam 16 cisel a nelze nastavit vychozi cislo, coz je velmi neprakticke. velke zklamani.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": null,
+      "replyText": null,
+      "version": "3.5.0"
+    },
+    {
+      "id": "581b7e7c-2f36-4cd7-9507-10d455c95381",
+      "userName": "Jaroslav Kostka",
+      "date": "2026-01-12T19:12:36.546Z",
+      "score": 1,
+      "text": "Nelze najít a nastavit datastrop pro sdílený objem dat. V původní aplikaci Můj Vodafone to šlo bez problémů změnit proklikem z domovské stránky.",
+      "text_normalized": "nelze najit a nastavit datastrop pro sdileny objem dat. v puvodni aplikaci muj vodafone to slo bez problemu zmenit proklikem z domovske stranky.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-13T06:22:53.211Z",
+      "replyText": "Hezké ráno, Jaroslave,\nmrzí mě, že máte potíže 🙁 V aplikaci Můj Vodafone+ nastavíte úpravu DataLimitu v sekci Služby - vyberte telefonní číslo - Balíčky - Datový limit. V případě potíží nám zavolejte na linku *77 a kolegové se na to s vámi podívají. Zuzana",
+      "version": "3.5.0"
+    },
+    {
+      "id": "f89727e8-0452-4d7b-8337-c54ce449f295",
+      "userName": "Karel Hofman",
+      "date": "2026-01-12T17:04:19.425Z",
+      "score": 1,
+      "text": "Pokud si jako plátce uložíte platební kartu do aplikace, jiní plátci ji mohou použít.",
+      "text_normalized": "pokud si jako platce ulozite platebni kartu do aplikace, jini platci ji mohou pouzit.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-13T07:57:34.891Z",
+      "replyText": "Pěkný den, Karle,\njak se do aplikace hlásí ostatní plátci? Mají svůj vlastní přihlašovací e-mail? Prosím, napište nám podrobnosti přes https://tam.je/dotaz, abychom to mohli blíž prozkoumat. Děkuji, Ondra",
+      "version": "3.5.0"
+    },
+    {
+      "id": "40956086-8482-42dd-a842-fa2c96c4417d",
+      "userName": "Adam Zachař",
+      "date": "2026-01-12T11:32:23.286Z",
+      "score": 1,
+      "text": "hrozný už druhý měsíc nemůžu zaplatit svůj tarif akorát mi to napíše error code 8",
+      "text_normalized": "hrozny uz druhy mesic nemuzu zaplatit svuj tarif akorat mi to napise error code 8",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-12T11:42:03.275Z",
+      "replyText": "Dobrý den, Adame,\nje mi líto, že máte takové potíže. Pokud používáte VPN, prosím zkuste ji vypnout, také přepnout z mobilních dat na Wi-Fi nebo naopak. Případně ještě zkuste přeinstalaci. Kdyby to nepomohlo, prosím napište nám na aplikace@vodafone.cz. Viki",
+      "version": "3.4.1"
+    },
+    {
+      "id": "0d1c9495-1db7-4b27-9d0d-e3c23848f102",
+      "userName": "Michal Stieranka",
+      "date": "2026-01-12T08:16:38.574Z",
+      "score": 1,
+      "text": "Nově nelze platit, ukazuje to úplný nesmysly ve vyučování, musím platit přes PC.",
+      "text_normalized": "nove nelze platit, ukazuje to uplny nesmysly ve vyucovani, musim platit pres pc.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-12T08:39:27.410Z",
+      "replyText": "Dobrý den, Michale,\ndíky za zpětnou vazbu. Aplikaci budeme i nadále vylepšovat a další funkce přidáme postupně v následujících aktualizacích. QR kód najdete po stažení konkrétního Vyúčtování v PDF. Viki",
+      "version": "3.4.1"
+    },
+    {
+      "id": "e79251c8-1225-4e92-b8bc-6fe9f0a41e48",
+      "userName": "David Jandl",
+      "date": "2026-01-12T06:55:53.989Z",
+      "score": 2,
+      "text": "Aplikace se odhlašuje a vyžaduje zadávání přihlašovacích údajů i když mám nastaveno přihlašování pomocí biometriky.",
+      "text_normalized": "aplikace se odhlasuje a vyzaduje zadavani prihlasovacich udaju i kdyz mam nastaveno prihlasovani pomoci biometriky.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-12T11:04:44.744Z",
+      "replyText": "Dobrý den, Davide,\ndíky za zpětnou vazbu. Aplikaci budeme i nadále vylepšovat a další funkce přidáme postupně v následujících aktualizacích. Zkontrolujte prosím, jak se přihlášení bude chovat po další aktualizaci, kde budeme dělat úpravy. Viki",
+      "version": "3.4.1"
+    },
+    {
+      "id": "9c4d87db-b54c-4a0d-afdf-7613b0c0f669",
+      "userName": "Luboš Vopasek",
+      "date": "2026-01-12T06:18:44.800Z",
+      "score": 1,
+      "text": "amaterismus, aplikace plna marketingu, ale UX a cokoliv praktickeho jako platby apod je klikacka",
+      "text_normalized": "amaterismus, aplikace plna marketingu, ale ux a cokoliv praktickeho jako platby apod je klikacka",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-01-12T06:40:32.332Z",
+      "replyText": "Dobrý den, Luboši,\nděkujeme za vaši zpětnou vazbu. Mrzí nás, že aplikace působí složitě. Neustále ji vylepšujeme, aby byla přehlednější a praktičtější. Viki",
+      "version": "3.4.1"
+    },
+    {
+      "id": "39f47a2d-1bd5-4120-acf5-02b99058ade1",
+      "userName": "Kristýna Benešová (Ondřej&Lucie)",
+      "date": "2026-01-11T19:06:13.270Z",
+      "score": 1,
+      "text": "Mám pod sebou další dvě čísla. Úprava přezdívky?? Ani za mák. Jen nějaka čísla a odhaduji které je které. Dcera má dobíjecí kartu. Zadám odměnu za dobití 100 volných minut, ukáže se aktivní, dobíjí kredit a zjistím že má odměnu 100kc navíc?? Proboha. O prehlednosti se dá hooodne diskutovat. Než člověk něco najde je to horor. Úplně k ničemu tahle aplikace. A ten slavnej ToBi?? Jednoduché otázky a buď odpovídá furt dokola to stejné a nebo napíše zavolejte tam a tam. Vodafone 100let za opicema 🤦🏽",
+      "text_normalized": "mam pod sebou dalsi dve cisla. uprava prezdivky?? ani za mak. jen nejaka cisla a odhaduji ktere je ktere. dcera ma dobijeci kartu. zadam odmenu za dobiti 100 volnych minut, ukaze se aktivni, dobiji kredit a zjistim ze ma odmenu 100kc navic?? proboha. o prehlednosti se da hooodne diskutovat. nez clovek neco najde je to horor. uplne k nicemu tahle aplikace. a ten slavnej tobi?? jednoduche otazky a bud odpovida furt dokola to stejne a nebo napise zavolejte tam a tam. vodafone 100let za opicema 🤦🏽",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-01-12T06:21:38.249Z",
+      "replyText": "Hezký den, děkujeme za zpětnou vazbu. Mrzí nás, že aplikace nesplnila vaše očekávání. Neustále pracujeme na zlepšení přehlednosti a funkcí. Od verze 3.4.1 je možné pojmenovat jednotlivé služby – změna se projeví do 15 minut. Viki",
+      "version": "3.4.1"
+    },
     {
       "id": "6116a955-dd0d-427f-982e-82c2878a4a27",
       "userName": "Zuzana Čihákova",
@@ -20947,8 +21145,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1456,
-    "extractedAt": "2026-01-12T15:41:33.767Z",
+    "totalReviewsExtracted": 1469,
+    "extractedAt": "2026-01-14T14:29:33.363Z",
     "source": "google-play"
   }
 }
