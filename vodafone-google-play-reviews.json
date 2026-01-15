@@ -1,18 +1,77 @@
 {
   "ratings": {
-    "score": 3.1133332,
+    "score": 3.0927153,
     "scoreText": "3,1",
-    "totalRatings": 1763,
-    "totalReviews": 862,
+    "totalRatings": 1775,
+    "totalReviews": 868,
     "histogram": {
-      "1": 645,
-      "2": 93,
+      "1": 646,
+      "2": 116,
       "3": 128,
-      "4": 198,
-      "5": 693
+      "4": 186,
+      "5": 692
     }
   },
   "reviews": [
+    {
+      "id": "46ce9427-52b3-4838-91bc-a80449a576fd",
+      "userName": "Martin Holeček",
+      "date": "2026-01-14T04:05:13.504Z",
+      "score": 1,
+      "text": "Každá změna co přide stojí za h........ proč jste u placení v apce zrušili QR ? Vymyslíte vždy akorát chujovinu 😭",
+      "text_normalized": "kazda zmena co pride stoji za h........ proc jste u placeni v apce zrusili qr ? vymyslite vzdy akorat chujovinu 😭",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-01-14T06:12:17.331Z",
+      "replyText": "Hezký den, Martine,\nmrzí mě, že jste nespokojený 🙁 Některé funkce budeme do aplikace postupně přidávat, prosím o trpělivost. Nyní QR kód najdete na první straně vašeho Vyúčtování. Zuzana",
+      "version": "3.5.0"
+    },
+    {
+      "id": "6c9f470d-16f0-4fce-8f5c-119968f1fc6b",
+      "userName": "Vladimír Bank",
+      "date": "2026-01-13T22:15:48.839Z",
+      "score": 5,
+      "text": "Oproti, zřejmě starší verzi splňuje tato aplikace vše, co potřebuji. Přihlášení biometrikou je rychlé a nahradilo otravné dvoufázové přihlašování pomocí SMS. Vzhledem k tomu, že jsem u Vodafonu nový, tak jsem ovšem zvědavý, jak to půjde s placením. Inkaso ze zásady odmítám a jsem proto zvědavý, jestli se naplní nedostatky, které zmiňují ostatní recenzenti. Doufám, že bude vše v pořádku,protože je 21 století a funkční app by měly být naprostou samozřejmostí.",
+      "text_normalized": "oproti, zrejme starsi verzi splnuje tato aplikace vse, co potrebuji. prihlaseni biometrikou je rychle a nahradilo otravne dvoufazove prihlasovani pomoci sms. vzhledem k tomu, ze jsem u vodafonu novy, tak jsem ovsem zvedavy, jak to pujde s placenim. inkaso ze zasady odmitam a jsem proto zvedavy, jestli se naplni nedostatky, ktere zminuji ostatni recenzenti. doufam, ze bude vse v poradku,protoze je 21 stoleti a funkcni app by mely byt naprostou samozrejmosti.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-14T06:09:58.500Z",
+      "replyText": "Hezký den, Vladimíre,\ntěší mě, že jste s aplikací spokojený 🙂 Zuzana",
+      "version": "3.5.0"
+    },
+    {
+      "id": "035c3e09-b6ac-487d-8a28-76aeae5b0f2f",
+      "userName": "Marek Vanatka",
+      "date": "2026-01-13T22:02:45.500Z",
+      "score": 1,
+      "text": "katastrofální aplikace, v předchozí šlo aspoň stáhnout QR kód k platbě vyúčtování teď nic takového nejde. furt chcete víc a víc. začínám přemýšlet nad O2.",
+      "text_normalized": "katastrofalni aplikace, v predchozi slo aspon stahnout qr kod k platbe vyuctovani ted nic takoveho nejde. furt chcete vic a vic. zacinam premyslet nad o2.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-14T06:09:39.886Z",
+      "replyText": "Pěkný den, Marku,\naplikace je nová, ale již umí většinu funkcí té původní. Aktualizace nyní probíhají častěji, protože přidáváme stále nové možnosti. Věřím, že i vy budete spokojený. Veronika",
+      "version": null
+    },
+    {
+      "id": "0356912d-5b10-49e3-b31d-48be6b8eb919",
+      "userName": "Honza H",
+      "date": "2026-01-13T21:00:54.441Z",
+      "score": 1,
+      "text": "Hrozná stračka nic nefunguje 🤮🤢",
+      "text_normalized": "hrozna stracka nic nefunguje 🤮🤢",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-14T06:08:51.120Z",
+      "replyText": "Hezký den, Honzo,\nděkujeme za hodnocení a mrzí nás, že se vám aplikace nelíbí 🙁 Postupně ji vylepšujeme, věřím, že se vám do budoucna bude líbit více. Zuzana",
+      "version": "3.5.0"
+    },
     {
       "id": "debef564-19db-409c-aec9-a179cfe10950",
       "userName": "Monika Janoušková",
@@ -21145,8 +21204,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1469,
-    "extractedAt": "2026-01-14T14:29:33.363Z",
+    "totalReviewsExtracted": 1473,
+    "extractedAt": "2026-01-15T05:51:19.539Z",
     "source": "google-play"
   }
 }
