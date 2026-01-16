@@ -1,18 +1,194 @@
 {
   "ratings": {
-    "score": 3.0927153,
+    "score": 3.0864198,
     "scoreText": "3,1",
-    "totalRatings": 1775,
-    "totalReviews": 868,
+    "totalRatings": 1800,
+    "totalReviews": 875,
     "histogram": {
-      "1": 646,
-      "2": 116,
-      "3": 128,
-      "4": 186,
-      "5": 692
+      "1": 677,
+      "2": 110,
+      "3": 99,
+      "4": 199,
+      "5": 710
     }
   },
   "reviews": [
+    {
+      "id": "f532633e-117f-4aae-b6a4-32aca0cc9b36",
+      "userName": "Marek Kop",
+      "date": "2026-01-14T22:59:17.258Z",
+      "score": 1,
+      "text": "Stejně příšerná aplikace, co má stálou tendenci člověka odhlašovat, jako ta předchozí....",
+      "text_normalized": "stejne priserna aplikace, co ma stalou tendenci cloveka odhlasovat, jako ta predchozi....",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-15T06:21:50.768Z",
+      "replyText": "Dobrý den, Marku,\nděkujeme za zpětnou vazbu. Mrzí nás, že se vám aplikace odhlašuje – chápeme, že to může být nepříjemné. Pracujeme na zlepšení stability a přihlášení, aby používání bylo pohodlnější. Zkuste prosím aplikaci přeinstalovat nebo stáhnout nejnovější aktualizaci. Viki",
+      "version": "3.5.0"
+    },
+    {
+      "id": "a06ce230-f00b-4374-a3a5-bf21fc7e31b7",
+      "userName": "Zelena Zelen",
+      "date": "2026-01-14T21:09:25.682Z",
+      "score": 1,
+      "text": "vůbec ta aplikace nefunguje..",
+      "text_normalized": "vubec ta aplikace nefunguje..",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-15T06:26:05.502Z",
+      "replyText": "Hezký den, je mi líto, pokud máte potíže s aplikací 🙁 Napište nám prosím podrobnosti na aplikace@vodafone.cz. Pomůžeme vám. Petra",
+      "version": "3.5.0"
+    },
+    {
+      "id": "677f024e-7fe3-42f8-87ce-7eb94cea5d9f",
+      "userName": "Rendys",
+      "date": "2026-01-14T20:33:15.670Z",
+      "score": 1,
+      "text": "Katastrofa neda se tam nic vyřídit ještě horší jak předchozí aplikace tam se dalo aspon napsat tady ani tohle a dovolat uz vubec zadne kontakty jen odkazy k ničemu! Navic pomalu po 20letech zvedate cenu bez informace zákazníka a navic jste mi snížili rychlost z 20mb na 5 až 13mb také bez informace!Odejdu od vás",
+      "text_normalized": "katastrofa neda se tam nic vyridit jeste horsi jak predchozi aplikace tam se dalo aspon napsat tady ani tohle a dovolat uz vubec zadne kontakty jen odkazy k nicemu! navic pomalu po 20letech zvedate cenu bez informace zakaznika a navic jste mi snizili rychlost z 20mb na 5 az 13mb take bez informace!odejdu od vas",
+      "segments": [
+        "Vykonnost",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-15T06:22:27.370Z",
+      "replyText": "Hezký den, Rendysi, je mi líto, že přemýšlíte o ukončení našich služeb 🙁 Napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Na vše se s vámi podíváme konkrétněji. Petra\n",
+      "version": "3.5.0"
+    },
+    {
+      "id": "2bbe5c4f-2a1c-4acc-9527-587d3d243dee",
+      "userName": "Ment Mentos",
+      "date": "2026-01-14T19:24:38.680Z",
+      "score": 1,
+      "text": "katastrofa chci se přihlásit a nic točí se tam hodinu logo do kolečka",
+      "text_normalized": "katastrofa chci se prihlasit a nic toci se tam hodinu logo do kolecka",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-15T06:24:45.909Z",
+      "replyText": "Hezký den, Mente, je mi líto, že máte potíže s přihlášením 🙁 Zkuste prosím aplikaci přeinstalovat. Pokud by to nepomohlo, napište nám e-mail na aplikace@vodafone.cz. Pomůžeme vám. Petra\n",
+      "version": "3.5.0"
+    },
+    {
+      "id": "79efacaf-961a-43be-aff7-717890180b59",
+      "userName": "Cla Diua",
+      "date": "2026-01-14T19:10:11.874Z",
+      "score": 1,
+      "text": "Kde teď v aplikaci najdu Qrkod na zaplacení ve staré jsem dala zaplatit a u této to nemůžu dohledat",
+      "text_normalized": "kde ted v aplikaci najdu qrkod na zaplaceni ve stare jsem dala zaplatit a u teto to nemuzu dohledat",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-15T06:20:17.978Z",
+      "replyText": "Dobrý den, Cla Diua,\nděkujeme za hodnocení, i když není pozitivní. QR kód máte k dispozici po stažení konkrétního Vyúčtování hned na první stránce. O zobrazení kódu stejnou formou - jako v předešlé aplikaci uvažujeme, úpravy by měla přinést jedna z dalších aktualizací. Viki",
+      "version": "3.5.0"
+    },
+    {
+      "id": "518556de-c6da-4a0a-acce-e14b400ee67e",
+      "userName": "Ondřej Robb",
+      "date": "2026-01-14T18:53:57.889Z",
+      "score": 1,
+      "text": "z bláta do louže...",
+      "text_normalized": "z blata do louze...",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-15T06:23:25.803Z",
+      "replyText": "Hezký den, Ondřeji, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věří, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.5.0"
+    },
+    {
+      "id": "11597943-9e76-4c50-a8ff-400d167521b8",
+      "userName": "Petra Zavadilová",
+      "date": "2026-01-14T18:07:14.139Z",
+      "score": 1,
+      "text": "Aplikaci jsem několikrát zkoušela nainstalovat znovu ale je porad zaseklá, nefunguje, hlavně ze zvysujete ceny ale nemáte ani pořádnou aplikaci přes kterou to platit a hlavně ze tam všechno dáváte, tak si první udělejte poradnou funkční apku. Nezaslouží si ani tu jednu hvězdičku. Vodafon jde poslední dobou do háje.",
+      "text_normalized": "aplikaci jsem nekolikrat zkousela nainstalovat znovu ale je porad zasekla, nefunguje, hlavne ze zvysujete ceny ale nemate ani poradnou aplikaci pres kterou to platit a hlavne ze tam vsechno davate, tak si prvni udelejte poradnou funkcni apku. nezaslouzi si ani tu jednu hvezdicku. vodafon jde posledni dobou do haje.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-14T18:18:13.485Z",
+      "replyText": "Dobrý den, Petro,\nje mi líto, že jste nespokojená 🙁 Chápu správně, že se vám v aplikaci nedaří provést platbu? Nebo jde o něco jiného? Napište nám prosím podrobnosti přes https://tam.je/dotaz, rádi to prověříme. Martina",
+      "version": "3.5.0"
+    },
+    {
+      "id": "94e73576-fc70-4731-b198-6b59c3fcdf8d",
+      "userName": "Olha",
+      "date": "2026-01-14T13:37:36.761Z",
+      "score": 1,
+      "text": "Hrůza, čím dál tím hůř.",
+      "text_normalized": "hruza, cim dal tim hur.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-14T13:47:34.980Z",
+      "replyText": "Dobrý den, Olho,\nděkujeme za vaši zpětnou vazbu, i když nás netěší. Nadále budeme pracovat na tom, aby pro vás byla aplikace v budoucnu užitečnější. Martina\n",
+      "version": "3.5.0"
+    },
+    {
+      "id": "852ceb7f-5fe8-4a5a-810a-9d86b0a69bcb",
+      "userName": "Radek Zatloukal",
+      "date": "2026-01-14T11:40:54.834Z",
+      "score": 4,
+      "text": "Dobrý den. Takže, rychlost aplikace je dobrá (oproti staré verzi), přibyli další užitečné funkce, ale....pořád mi tam chybí informace o konci platnosti balíčků k předplacené SIM kartě (Balíček ke kartě Komplet) na hlavní stránce. Aktuálně je to příliš klikání navíc. Děkuji Radek.",
+      "text_normalized": "dobry den. takze, rychlost aplikace je dobra (oproti stare verzi), pribyli dalsi uzitecne funkce, ale....porad mi tam chybi informace o konci platnosti balicku k predplacene sim karte (balicek ke karte komplet) na hlavni strance. aktualne je to prilis klikani navic. dekuji radek.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita"
+      ],
+      "replyDate": "2026-01-14T11:46:57.634Z",
+      "replyText": "Pěkný den, Radku,\nděkujeme za zpětnou vazbu 🙂 Budeme se snažit, aby vám aplikace v budoucnu vyhovovala lépe, neustále ji aktualizujeme a rozvíjíme 🙂 Veronika",
+      "version": "3.5.0"
+    },
+    {
+      "id": "60ebffc7-13f2-4c30-96bd-17a7ae080e0e",
+      "userName": "Mirek Smejkal",
+      "date": "2026-01-14T09:23:10.930Z",
+      "score": 1,
+      "text": "V aplikaci nejde zaplatit vyúčtovaní, na které mi chodí upomínky, ale přitom v aplikaci se tváří, že je zaplacené. Nepoužitelné.",
+      "text_normalized": "v aplikaci nejde zaplatit vyuctovani, na ktere mi chodi upominky, ale pritom v aplikaci se tvari, ze je zaplacene. nepouzitelne.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-14T09:46:39.713Z",
+      "replyText": "Pěkný den, Mirku,\npošlete nám prosím jednotlivé screenshoty přes https://tam.je/dotaz, rádi to celé prověříme. Veronika",
+      "version": "3.5.0"
+    },
+    {
+      "id": "c1999380-eaa0-44f4-abf6-44175269e28f",
+      "userName": "Jarda Michalec",
+      "date": "2026-01-14T09:03:34.969Z",
+      "score": 4,
+      "text": "VELNI DOBRÁ APLIKACE",
+      "text_normalized": "velni dobra aplikace",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-14T09:16:46.130Z",
+      "replyText": "Pěkný den, Jardo,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.4.1"
+    },
+    {
+      "id": "7507c301-4162-435f-b62c-37e167c8be28",
+      "userName": "Hana Olivová",
+      "date": "2026-01-14T07:03:45.925Z",
+      "score": 1,
+      "text": "Do nové aplikace se vůbec nedá přihlásit, a teď už i do staré, neustále to hlásí nějakou chybu, na které se údajně usilovně pracuje, takže obě aplikace jsou naprosto nepoužitelné 😡",
+      "text_normalized": "do nove aplikace se vubec neda prihlasit, a ted uz i do stare, neustale to hlasi nejakou chybu, na ktere se udajne usilovne pracuje, takze obe aplikace jsou naprosto nepouzitelne 😡",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-14T07:24:40.630Z",
+      "replyText": "Pěkný den, Hano,\npřihlášení do aplikace funguje v pořádku, pokud s tím máte potíže, pošlete nám prosím jednotlivé screenshoty na e-mailovou adresu aplikace@vodafone.cz, abychom vám s tím mohli pomoct. Veronika",
+      "version": "3.5.0"
+    },
     {
       "id": "46ce9427-52b3-4838-91bc-a80449a576fd",
       "userName": "Martin Holeček",
@@ -21204,8 +21380,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1473,
-    "extractedAt": "2026-01-15T05:51:19.539Z",
+    "totalReviewsExtracted": 1485,
+    "extractedAt": "2026-01-16T05:50:43.676Z",
     "source": "google-play"
   }
 }
