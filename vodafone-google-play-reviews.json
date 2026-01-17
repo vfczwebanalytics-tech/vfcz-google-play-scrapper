@@ -1,18 +1,125 @@
 {
   "ratings": {
-    "score": 3.0864198,
+    "score": 3.1463416,
     "scoreText": "3,1",
-    "totalRatings": 1800,
-    "totalReviews": 875,
+    "totalRatings": 1820,
+    "totalReviews": 882,
     "histogram": {
-      "1": 677,
+      "1": 665,
       "2": 110,
-      "3": 99,
-      "4": 199,
-      "5": 710
+      "3": 76,
+      "4": 221,
+      "5": 742
     }
   },
   "reviews": [
+    {
+      "id": "9d52cdd8-eacc-4c56-b9fb-4bcbe00fb85f",
+      "userName": "Mort",
+      "date": "2026-01-16T05:14:00.906Z",
+      "score": 1,
+      "text": "Hrozná aplikace, velmi nepřehledná. U aktivních dat není vidět, do kdy jsou platné. Navíc mám zlatou simku, ke které si údajně můžu každý měsíc vybrat 5+5gb dat navíc. V aplikaci ale tato možnost není. Taky jsem měl dostat za dobití 20% kreditu navíc, ale nic jsem nedostal. Až mi dojde kredit, přecházím ke konkurenci.",
+      "text_normalized": "hrozna aplikace, velmi neprehledna. u aktivnich dat neni videt, do kdy jsou platne. navic mam zlatou simku, ke ktere si udajne muzu kazdy mesic vybrat 5+5gb dat navic. v aplikaci ale tato moznost neni. taky jsem mel dostat za dobiti 20% kreditu navic, ale nic jsem nedostal. az mi dojde kredit, prechazim ke konkurenci.",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-16T06:23:05.673Z",
+      "replyText": "Pěkný den,\nje mi líto, že vám aplikace nevyhovuje 🙁 Aplikaci budeme dále rozvíjet a další funkce přidávat. V případě, že se vám nedaří vyzvednout datový dárek, napište nám prosím přes zabezpečený formulář na https://tam.je/dotaz, abychom to mohli řešit konkrétněji. Lucie",
+      "version": "3.5.0"
+    },
+    {
+      "id": "2482044c-48b5-404e-8d50-c29da416de56",
+      "userName": "JIŘÍ ŘEŘICHA",
+      "date": "2026-01-15T20:48:02.576Z",
+      "score": 5,
+      "text": "Jsem spokojen",
+      "text_normalized": "jsem spokojen",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-16T06:19:50.475Z",
+      "replyText": "Pěkný den, Jiří,\nděkujeme vám za hodnocení. Těší mě, že jste s aplikací spokojený 🙂 Lucie",
+      "version": "3.4.1"
+    },
+    {
+      "id": "bc78deb3-8c0d-408e-b87f-cc5e0a36af17",
+      "userName": "Vaclav Frolik (Wenca89)",
+      "date": "2026-01-15T12:44:16.170Z",
+      "score": 1,
+      "text": "Zatím jsem ani tuhle aplikaci nezkoušel. jelikož s přihlašováním mám problém už delší dobu. I když jsem dal správné údaje, nešlo to. heslo jsem musel změnit už tolikrát, že nevím. A koukám, že je stále stejné i v nové aplikaci. Vodafone na své zákazníky ta ty peníze pěkně se.. .",
+      "text_normalized": "zatim jsem ani tuhle aplikaci nezkousel. jelikoz s prihlasovanim mam problem uz delsi dobu. i kdyz jsem dal spravne udaje, neslo to. heslo jsem musel zmenit uz tolikrat, ze nevim. a koukam, ze je stale stejne i v nove aplikaci. vodafone na sve zakazniky ta ty penize pekne se.. .",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-15T13:11:52.313Z",
+      "replyText": "Hezký den, Václave, je mi líto, že máte potíže s přihlášením do aplikace Můj Vodafone+ 🙁 Napište nám prosím na e-mail aplikace@vodafone.cz. Pomůžeme vám. Petra\n",
+      "version": "3.5.0"
+    },
+    {
+      "id": "c2ecbd63-957d-415a-bf7a-6058b21601a2",
+      "userName": "Milan Marek",
+      "date": "2026-01-15T11:08:42.230Z",
+      "score": 2,
+      "text": "Aplikace je oproti předchozí verzi sice rychlejší, ale problémy jsou tu stále. Například zůstatek dat nesouhlasí se starou verzí aplikace a především z aplikace často vypadává možnost přihlášení pomocí biometrických údajů. Bylo to otravné ve staré verzi a je to otravné i v nové.",
+      "text_normalized": "aplikace je oproti predchozi verzi sice rychlejsi, ale problemy jsou tu stale. napriklad zustatek dat nesouhlasi se starou verzi aplikace a predevsim z aplikace casto vypadava moznost prihlaseni pomoci biometrickych udaju. bylo to otravne ve stare verzi a je to otravne i v nove.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-15T11:27:30.671Z",
+      "replyText": "Hezký den, Milane, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Napište nám prosím více podrobností na aplikace@vodafone.cz. Vše prověříme. Petra\n",
+      "version": "3.5.0"
+    },
+    {
+      "id": "d8374c00-f175-4939-88c9-8d7e9688c397",
+      "userName": "Martin „Šotek“ Šotola",
+      "date": "2026-01-15T09:06:51.599Z",
+      "score": 1,
+      "text": "ten chatbot je úplně na houno, zeptám se ho (2x) kde najdu vyuctovani a jak ho zaplatím a on mi říká o dobíjeni tarifu ? tak sem blbej já nebo on ? proč v tý apce není vyuctovani a info o zaplacení hned někde na úvodní stránce ? fakt to musí bejt všechno složitě schovaný , aby člověk hledal a klikal jak idiot ??? nebudu ji používat. EDIT : Vaše odpověď neřeší můj problém, že nevim kde najdu vyuctovani a to, jak ho zaplatím CO NEJJEDNODUŠŠEJI, nebo nechcete ty peníze ?? mám je dávat konkurenci ?",
+      "text_normalized": "ten chatbot je uplne na houno, zeptam se ho (2x) kde najdu vyuctovani a jak ho zaplatim a on mi rika o dobijeni tarifu ? tak sem blbej ja nebo on ? proc v ty apce neni vyuctovani a info o zaplaceni hned nekde na uvodni strance ? fakt to musi bejt vsechno slozite schovany , aby clovek hledal a klikal jak idiot ??? nebudu ji pouzivat. edit : vase odpoved neresi muj problem, ze nevim kde najdu vyuctovani a to, jak ho zaplatim co nejjednodusseji, nebo nechcete ty penize ?? mam je davat konkurenci ?",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-15T08:22:33.648Z",
+      "replyText": "Hezký den, Martine, je mi líto, že vám aplikace nevyhovuje 🙁 Na jejím vylepšení stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Zpětnou vazbu nám můžete poslat na aplikace@vodafone.cz. Podíváme se na to. Petra\n",
+      "version": "3.4.1"
+    },
+    {
+      "id": "1518103a-1fb2-49bc-912c-de2d0fe605a4",
+      "userName": "Šárka_",
+      "date": "2026-01-15T08:55:12.856Z",
+      "score": 1,
+      "text": "Aplikace je úplně naprd, chtěla bych tu starou. Mám zaplatit vyúčtování, na hlavní stránce ho vidím, ale když kliknu na to vyúčtování najednou je všude nula a u minulých měsíců dokonce: zaplaceno s přeplatkem. Tak co to je? Musím pak čekat na smsku, protože bez ní nemáme specifický symbol. Chci zaplatit pohodlně kartou z appky jako dřív. Aplikace je pomalá, neustále mi odhlašuje moje údaje a když jsem chtěla aktivovat simkartu syna tak to bylo na hodinu, protože se aplikace pořád jen točila.",
+      "text_normalized": "aplikace je uplne naprd, chtela bych tu starou. mam zaplatit vyuctovani, na hlavni strance ho vidim, ale kdyz kliknu na to vyuctovani najednou je vsude nula a u minulych mesicu dokonce: zaplaceno s preplatkem. tak co to je? musim pak cekat na smsku, protoze bez ni nemame specificky symbol. chci zaplatit pohodlne kartou z appky jako driv. aplikace je pomala, neustale mi odhlasuje moje udaje a kdyz jsem chtela aktivovat simkartu syna tak to bylo na hodinu, protoze se aplikace porad jen tocila.",
+      "segments": [
+        "Vykonnost",
+        "Prihlaseni",
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-01-15T09:43:52.849Z",
+      "replyText": "Hezký den, Šárko, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Na vše se s vámi podíváme konkrétněji a pomůžeme vám. Petra\n\n",
+      "version": "3.5.0"
+    },
+    {
+      "id": "050325dd-c99a-4894-9395-6d75d194cbf6",
+      "userName": "ivo h.",
+      "date": "2026-01-15T06:41:04.408Z",
+      "score": 1,
+      "text": "Ajaj... něco se nepovedlo, nedaří se načíst obsah.Toto by mohl být slogan této nové aplikace (+),nebo spíše několikanásobné (-), nechápu proč nejde platit GoPay(em) a můj oblíbený QR kód to vygenerovat taky nedokáže...",
+      "text_normalized": "ajaj... neco se nepovedlo, nedari se nacist obsah.toto by mohl byt slogan teto nove aplikace (+),nebo spise nekolikanasobne (-), nechapu proc nejde platit gopay(em) a muj oblibeny qr kod to vygenerovat taky nedokaze...",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-15T06:52:43.613Z",
+      "replyText": "Dobrý den, Ivo,\nděkujeme za zpětnou vazbu. Mrzí nás, že aplikace nesplnila vaše očekávání. Na rozšíření platebních možností a generování QR kódu pracujeme, aby byly dostupné v dalších verzích. Pokud se obsah nenačítá, zkuste prosím aktualizovat aplikaci nebo vymazat cache. Viki",
+      "version": "3.5.0"
+    },
     {
       "id": "f532633e-117f-4aae-b6a4-32aca0cc9b36",
       "userName": "Marek Kop",
@@ -21380,8 +21487,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1485,
-    "extractedAt": "2026-01-16T05:50:43.676Z",
+    "totalReviewsExtracted": 1492,
+    "extractedAt": "2026-01-17T05:42:52.042Z",
     "source": "google-play"
   }
 }
