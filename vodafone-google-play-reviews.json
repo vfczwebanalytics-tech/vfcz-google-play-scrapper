@@ -1,18 +1,120 @@
 {
   "ratings": {
-    "score": 3.1463416,
-    "scoreText": "3,1",
-    "totalRatings": 1820,
-    "totalReviews": 882,
+    "score": 3.2771084,
+    "scoreText": "3,3",
+    "totalRatings": 1847,
+    "totalReviews": 885,
     "histogram": {
-      "1": 665,
-      "2": 110,
-      "3": 76,
-      "4": 221,
-      "5": 742
+      "1": 633,
+      "2": 99,
+      "3": 66,
+      "4": 210,
+      "5": 834
     }
   },
   "reviews": [
+    {
+      "id": "7bb1202b-fa89-4a00-b348-76e646293ef8",
+      "userName": "Tomas D.",
+      "date": "2026-01-16T18:12:10.189Z",
+      "score": 5,
+      "text": "Aplikace funguje jak má a je přehlednější než ta původní, takže dobrá práce, jen tak dále 👍 a je o dost rychlejší než ta původní 😉",
+      "text_normalized": "aplikace funguje jak ma a je prehlednejsi nez ta puvodni, takze dobra prace, jen tak dale 👍 a je o dost rychlejsi nez ta puvodni 😉",
+      "segments": [
+        "UI",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-16T17:44:57.574Z",
+      "replyText": "Hezký den, Tomáši, děkujeme za hodnocení 🙂 Těší mě, že jste s aplikací spokojený 🙂 Petra",
+      "version": "3.5.1"
+    },
+    {
+      "id": "7a32f7e5-94cc-43bc-b619-622fe9b218d6",
+      "userName": "David Andrysek",
+      "date": "2026-01-16T15:57:24.840Z",
+      "score": 1,
+      "text": "Po poslední aktualizaci se na úvodní obrazovce jako výchozí služba nezobrazuje moje mobilní číslo (se stavem čerpání dat), ale číslo služby, kterou bych zařadil až na konec. Bylo by vhodné umožnit nastavení výchozí služby k zobrazení na úvodní obrazovce, po spuštění aplikace...!",
+      "text_normalized": "po posledni aktualizaci se na uvodni obrazovce jako vychozi sluzba nezobrazuje moje mobilni cislo (se stavem cerpani dat), ale cislo sluzby, kterou bych zaradil az na konec. bylo by vhodne umoznit nastaveni vychozi sluzby k zobrazeni na uvodni obrazovce, po spusteni aplikace...!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-16T16:26:24.334Z",
+      "replyText": "Hezký den, Davide, o potížích se zobrazením primárního čísla naši technici vědí a usilovně pracují na opravě, která bude dokončená v některé z následujících aktualizací. Petra",
+      "version": "3.5.1"
+    },
+    {
+      "id": "8aee17b1-002f-43e1-a47d-f4b3e744b357",
+      "userName": "Uživatel Googlu",
+      "date": "2026-01-16T14:21:04.363Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-16T14:24:35.958Z",
+      "replyText": "Hezký den, děkujeme za hodnocení 🙂 Těší nás, že se vám aplikace líbí 🙂 Petra",
+      "version": "3.5.0"
+    },
+    {
+      "id": "b6cedbfe-8ece-4b12-b8c2-c49cd1baf939",
+      "userName": "Milan Macko",
+      "date": "2026-01-16T14:08:03.944Z",
+      "score": 4,
+      "text": "Stále načítá...",
+      "text_normalized": "stale nacita...",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-15T10:21:55.436Z",
+      "replyText": "Hezký den, Milane, děkujeme za hodnocení 🙂 Těší nás, že se vám aplikace líbí 🙂 Petra",
+      "version": "3.5.0"
+    },
+    {
+      "id": "2d586538-b5e7-47eb-85f7-e12925280bd5",
+      "userName": "Miroslav Kalina",
+      "date": "2026-01-16T13:39:19.375Z",
+      "score": 1,
+      "text": "aplikace velmi rozbitá. stále píše, že vyučování není připraveno a nemohu tedy zaplatit. nefunguje ani po reinstalaci. edit: ano, ale přes aplikaci nejde vyúčtování zaplatit.",
+      "text_normalized": "aplikace velmi rozbita. stale pise, ze vyucovani neni pripraveno a nemohu tedy zaplatit. nefunguje ani po reinstalaci. edit: ano, ale pres aplikaci nejde vyuctovani zaplatit.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-16T13:38:14.177Z",
+      "replyText": "Hezký den, Miroslave, Vyúčtování v PDF máte k dispozici do 3 dnů od jeho vystavení. Pokud potíže trvají i nadále, napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Prověříme to. Petra\n",
+      "version": "3.5.0"
+    },
+    {
+      "id": "d71c524a-f90b-4907-953a-0abe363bc8b2",
+      "userName": "Tomáš Kotík",
+      "date": "2026-01-16T12:19:37.550Z",
+      "score": 1,
+      "text": "Kdy budou konecne dostupne widgety pro tuto verzi aplikace?",
+      "text_normalized": "kdy budou konecne dostupne widgety pro tuto verzi aplikace?",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-16T12:26:21.503Z",
+      "replyText": "Pěkný den, Tomáši,\nwidgety do aplikace zařadit neplánujeme. Většina našich zákazníků má dnes tarify s neomezenými službami, u nich widgety ztrácejí smysl. Mrzí nás, pokud vám budou widgety chybět, přehled o své útratě však nadále v aplikaci uvidíte, tak věříme, že pro vás i tak bude užitečná. Lucie",
+      "version": "3.5.0"
+    },
+    {
+      "id": "ae942cbc-56ad-491c-9a3b-e8d65ccd7951",
+      "userName": "Vit Sasina",
+      "date": "2026-01-16T08:18:32.780Z",
+      "score": 1,
+      "text": "děsivá.",
+      "text_normalized": "desiva.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-16T08:23:33.190Z",
+      "replyText": "Pěkný den, Víte,\nje mi líto, pokud se vám aplikace nelíbí 🙁 Budeme také rádi za konkrétní zpětnou vazbu ke zlepšení. Lucie",
+      "version": "3.5.0"
+    },
     {
       "id": "9d52cdd8-eacc-4c56-b9fb-4bcbe00fb85f",
       "userName": "Mort",
@@ -21487,8 +21589,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1492,
-    "extractedAt": "2026-01-17T05:42:52.042Z",
+    "totalReviewsExtracted": 1499,
+    "extractedAt": "2026-01-18T05:47:15.438Z",
     "source": "google-play"
   }
 }
