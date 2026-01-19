@@ -1,18 +1,33 @@
 {
   "ratings": {
-    "score": 3.3375,
+    "score": 3.3392856,
     "scoreText": "3,3",
-    "totalRatings": 1860,
-    "totalReviews": 888,
+    "totalRatings": 1868,
+    "totalReviews": 890,
     "histogram": {
-      "1": 604,
-      "2": 103,
-      "3": 57,
-      "4": 243,
-      "5": 848
+      "1": 610,
+      "2": 100,
+      "3": 54,
+      "4": 244,
+      "5": 856
     }
   },
   "reviews": [
+    {
+      "id": "10a53053-3f48-4372-aa77-58efff81a3da",
+      "userName": "Vladimír Budina",
+      "date": "2026-01-18T09:46:20.551Z",
+      "score": 1,
+      "text": "nejde nastavit na plochu",
+      "text_normalized": "nejde nastavit na plochu",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-18T10:01:31.384Z",
+      "replyText": "Hezký den, Vladimíre, pokud máte na mysli Widgety, ty jsem do nové aplikace už nezařazovali. Petra",
+      "version": "3.5.1"
+    },
     {
       "id": "d5a39e9e-3c26-431a-b0ef-085c007ea636",
       "userName": "Karel Walek",
@@ -21617,8 +21632,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1501,
-    "extractedAt": "2026-01-19T05:57:42.951Z",
+    "totalReviewsExtracted": 1502,
+    "extractedAt": "2026-01-19T12:26:56.808Z",
     "source": "google-play"
   }
 }
