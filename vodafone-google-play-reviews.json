@@ -1,18 +1,46 @@
 {
   "ratings": {
-    "score": 3.2771084,
+    "score": 3.3375,
     "scoreText": "3,3",
-    "totalRatings": 1847,
-    "totalReviews": 885,
+    "totalRatings": 1860,
+    "totalReviews": 888,
     "histogram": {
-      "1": 633,
-      "2": 99,
-      "3": 66,
-      "4": 210,
-      "5": 834
+      "1": 604,
+      "2": 103,
+      "3": 57,
+      "4": 243,
+      "5": 848
     }
   },
   "reviews": [
+    {
+      "id": "d5a39e9e-3c26-431a-b0ef-085c007ea636",
+      "userName": "Karel Walek",
+      "date": "2026-01-17T10:46:38.210Z",
+      "score": 4,
+      "text": "V původní aplikaci Můj Vodafone, šlo na dálku přes telefon zkontrolovat a restartovat internetový router. Bylo by fajn, kdybyste tuto funkci přidali i do nové aplikace.",
+      "text_normalized": "v puvodni aplikaci muj vodafone, slo na dalku pres telefon zkontrolovat a restartovat internetovy router. bylo by fajn, kdybyste tuto funkci pridali i do nove aplikace.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": null,
+      "replyText": null,
+      "version": "3.5.1"
+    },
+    {
+      "id": "6ed1ac3c-f845-4187-a9b1-5788bbdc240e",
+      "userName": "Vladimír Reiner",
+      "date": "2026-01-17T08:02:51.623Z",
+      "score": 1,
+      "text": "Poslední aktualizace je katastrofa. V mém účtu se dokonce objevil email,který nepoužívám víc jak 8let a ještě k tomu byl služební. Zase se něco hodně nepovedlo že.!!!!!!",
+      "text_normalized": "posledni aktualizace je katastrofa. v mem uctu se dokonce objevil email,ktery nepouzivam vic jak 8let a jeste k tomu byl sluzebni. zase se neco hodne nepovedlo ze.!!!!!!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-17T08:50:14.359Z",
+      "replyText": "Hezký den, Vladimíre, je mi líto, že se v aplikaci objevily nesrovnalosti 🙁 Napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Starý e-mail z vašeho zákaznického účtu odstraníme. Petra\n",
+      "version": "3.5.1"
+    },
     {
       "id": "7bb1202b-fa89-4a00-b348-76e646293ef8",
       "userName": "Tomas D.",
@@ -21589,8 +21617,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1499,
-    "extractedAt": "2026-01-18T05:47:15.438Z",
+    "totalReviewsExtracted": 1501,
+    "extractedAt": "2026-01-19T05:57:42.951Z",
     "source": "google-play"
   }
 }
