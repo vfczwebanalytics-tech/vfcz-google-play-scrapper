@@ -1,18 +1,46 @@
 {
   "ratings": {
-    "score": 3.3392856,
-    "scoreText": "3,3",
-    "totalRatings": 1868,
-    "totalReviews": 890,
+    "score": 3.3511906,
+    "scoreText": "3,4",
+    "totalRatings": 1876,
+    "totalReviews": 893,
     "histogram": {
-      "1": 610,
-      "2": 100,
-      "3": 54,
-      "4": 244,
-      "5": 856
+      "1": 613,
+      "2": 111,
+      "3": 32,
+      "4": 233,
+      "5": 881
     }
   },
   "reviews": [
+    {
+      "id": "ec4f80a1-f4ea-4d5a-aa84-7d0a7a91a96b",
+      "userName": "tatana vehovska",
+      "date": "2026-01-18T20:01:23.365Z",
+      "score": 1,
+      "text": "máte pravdu, aplikace na nic. točí se a točí a potom error",
+      "text_normalized": "mate pravdu, aplikace na nic. toci se a toci a potom error",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-01-19T06:18:47.790Z",
+      "replyText": "Dobrý den, Tatano,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby vám ani poté nefungovala, zavolejte nám na 800 77 00 77, rádi to prověříme na konkrétním příkladu. Martina",
+      "version": "3.5.1"
+    },
+    {
+      "id": "437d2f66-2b58-4b86-b5b3-56f1716a289b",
+      "userName": "Radim Kenis",
+      "date": "2026-01-18T13:07:30.883Z",
+      "score": 1,
+      "text": "Momentálně v nové aplikaci nelze u neomezených dat \"Aktivovat Zrychlení na maximum na 24 hodin\". Ve staré aplikaci to jde. Což je velice smutné, když je to jedna z výhod, kterou jako zákazník platím.",
+      "text_normalized": "momentalne v nove aplikaci nelze u neomezenych dat \"aktivovat zrychleni na maximum na 24 hodin\". ve stare aplikaci to jde. coz je velice smutne, kdyz je to jedna z vyhod, kterou jako zakaznik platim.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-18T13:44:57.342Z",
+      "replyText": "Hezký den, Radime, napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Naši technici se podívají konkrétněji, z jakého důvodu se vám možnost zrychlení dat nezobrazuje. Petra\n",
+      "version": "3.5.0"
+    },
     {
       "id": "10a53053-3f48-4372-aa77-58efff81a3da",
       "userName": "Vladimír Budina",
@@ -21632,8 +21660,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1502,
-    "extractedAt": "2026-01-19T12:26:56.808Z",
+    "totalReviewsExtracted": 1504,
+    "extractedAt": "2026-01-20T05:56:04.810Z",
     "source": "google-play"
   }
 }
