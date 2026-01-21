@@ -1,18 +1,115 @@
 {
   "ratings": {
-    "score": 3.3511906,
-    "scoreText": "3,4",
-    "totalRatings": 1876,
-    "totalReviews": 893,
+    "score": 3.3391812,
+    "scoreText": "3,3",
+    "totalRatings": 1892,
+    "totalReviews": 932,
     "histogram": {
-      "1": 613,
-      "2": 111,
+      "1": 630,
+      "2": 110,
       "3": 32,
-      "4": 233,
-      "5": 881
+      "4": 220,
+      "5": 895
     }
   },
   "reviews": [
+    {
+      "id": "771be390-e104-4767-ad7e-e231dea52bfe",
+      "userName": "Paul",
+      "date": "2026-01-20T03:41:26.900Z",
+      "score": 1,
+      "text": "Tak a je to tady,nelze zaplatit pres aplikaci vyuctovani vyhazuje nam to ajaj vyskytla se chyba!Tak tohle uz ne teda.Nle jen ze nase site zdrazuji ale ted uz nejde ani pres aplikaci zaplatit.Tak a dost!Zdrazujete,aplikace nejde,wedget vubec neni,signal spatny,kdyz uz zdrazujete tak muzete lidem aspon navysovat rychlost mobilniho internetu.Sit vodafone nabral zakazniky a ted jako vzdy v cr zdrazuji ale pro zakazniky nic nevidime!Nejake zlepseni spis naopak.Proc to delate",
+      "text_normalized": "tak a je to tady,nelze zaplatit pres aplikaci vyuctovani vyhazuje nam to ajaj vyskytla se chyba!tak tohle uz ne teda.nle jen ze nase site zdrazuji ale ted uz nejde ani pres aplikaci zaplatit.tak a dost!zdrazujete,aplikace nejde,wedget vubec neni,signal spatny,kdyz uz zdrazujete tak muzete lidem aspon navysovat rychlost mobilniho internetu.sit vodafone nabral zakazniky a ted jako vzdy v cr zdrazuji ale pro zakazniky nic nevidime!nejake zlepseni spis naopak.proc to delate",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-20T06:13:01.248Z",
+      "replyText": "Pěkný den,\nje mi líto, že jste se službami nespokojený 🙁 Zavolejte nám na 800 77 00 77, abychom se s vámi mohli na vše podívat konkrétněji a pomoct vám. Budeme také rádi, když nám napíšete zpětnou vazbu na naši aplikaci Můj Vodafone+. Lucie",
+      "version": "3.5.1"
+    },
+    {
+      "id": "e581030a-7a5c-4b86-9422-995d665aec77",
+      "userName": "Robert Jeřábek",
+      "date": "2026-01-19T19:41:32.758Z",
+      "score": 1,
+      "text": "už vás mám plné zuby. nejde se přihlásit a obnovení hesla přes mail nefunguje. fakt s vámi končím",
+      "text_normalized": "uz vas mam plne zuby. nejde se prihlasit a obnoveni hesla pres mail nefunguje. fakt s vami koncim",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-20T06:10:31.997Z",
+      "replyText": "Pěkný den, Roberte,\nje mi líto, pokud máte potíže s obnovou hesla 🙁 Rádi vám se vším pomůžeme, když nám zavoláte na 800 77 00 77. Lucie",
+      "version": "3.5.1"
+    },
+    {
+      "id": "f6376b38-80db-4f91-9746-b31c1297a67d",
+      "userName": "Ver Kikin",
+      "date": "2026-01-19T18:05:40.275Z",
+      "score": 1,
+      "text": "Ani to neinstalujte.Nová appka Můj Vodafone+ je tady! A je naprosto šunt. Slušné slovo nemám a slibovaný moderní design, přehlednější rozhraní, intuitivní ovládání je k ničemu. Přihlásit nejde. Došel jsem k názoru že měním operátora, čekám že mi přestane fungovat časem internet, TV a nakonec i nebudu telefonovat. Za peníze které platím očekávám jiné služby. Tvůrci aplikace bych hnal........",
+      "text_normalized": "ani to neinstalujte.nova appka muj vodafone+ je tady! a je naprosto sunt. slusne slovo nemam a slibovany moderni design, prehlednejsi rozhrani, intuitivni ovladani je k nicemu. prihlasit nejde. dosel jsem k nazoru ze menim operatora, cekam ze mi prestane fungovat casem internet, tv a nakonec i nebudu telefonovat. za penize ktere platim ocekavam jine sluzby. tvurci aplikace bych hnal........",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-19T18:49:12.416Z",
+      "replyText": "Hezký den,\nje mi líto, že jste nespokojený 🙁 Zavolejte nám na linku *77 a nebo nám napište přes zabezpečený formulář https://tam.je/dotaz a rádi se s vámi na situaci podíváme. Zuzana",
+      "version": "3.5.1"
+    },
+    {
+      "id": "5e108513-2954-4da2-b747-1c035583069f",
+      "userName": "Fanrix",
+      "date": "2026-01-19T17:49:48.311Z",
+      "score": 1,
+      "text": "po otevření aplikace nejde na nic v aplikaci kliknout, jsem zamčený v úvodní obrazovce vodafonu a jediné co mohu je aplikaci vypnout, přeinstalace ani nic dalšího nepomohlo",
+      "text_normalized": "po otevreni aplikace nejde na nic v aplikaci kliknout, jsem zamceny v uvodni obrazovce vodafonu a jedine co mohu je aplikaci vypnout, preinstalace ani nic dalsiho nepomohlo",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-19T18:14:11.441Z",
+      "replyText": "Hezký večer, Fanrix,\nmrzí mě, že nejste s aplikací spokojený 🙁 Doporučuji aplikaci přeinstalovat na novou verzi Můj Vodafone+ a vše by mělo fungovat v pořádku. Zuzana",
+      "version": "3.5.1"
+    },
+    {
+      "id": "9fe87dda-d180-46b1-9065-7cbfb482669b",
+      "userName": "Radek Vomastek",
+      "date": "2026-01-19T10:38:21.250Z",
+      "score": 1,
+      "text": "nefunguje jak ma",
+      "text_normalized": "nefunguje jak ma",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-19T11:08:06.257Z",
+      "replyText": "Dobrý den, Radku,\nje mi líto, že jste s aplikací nespokojený 🙁 Prosím napište nám přes https://tam.je/dotaz, co konkrétně vám v aplikaci nefunguje, rádi to prověříme. Martina",
+      "version": "3.5.1"
+    },
+    {
+      "id": "43e8a748-ecf6-41cc-88e2-1e3d5938ccc5",
+      "userName": "DyckyBerry",
+      "date": "2026-01-19T09:07:50.141Z",
+      "score": 1,
+      "text": "Nejhorší aplikace co znam. Stálé chyby a načítání, nepřehledné a komplikované. Máte to takhle už roky a stále s tím nic neděláte. Jediné co jste dokazali, tak jste zprovoznili novou aplikaci, která je na tom úplně stejně jako ta stará",
+      "text_normalized": "nejhorsi aplikace co znam. stale chyby a nacitani, neprehledne a komplikovane. mate to takhle uz roky a stale s tim nic nedelate. jedine co jste dokazali, tak jste zprovoznili novou aplikaci, ktera je na tom uplne stejne jako ta stara",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ],
+      "replyDate": "2026-01-19T09:39:52.340Z",
+      "replyText": "Dobrý den, DyckyBerry,\nje mi líto, že vám aplikace nevyhovuje 🙁 Na jejích dalších úpravách a doplněních pracujeme, tak třeba s ní budete časem spokojenější. Martina",
+      "version": "3.5.1"
+    },
     {
       "id": "ec4f80a1-f4ea-4d5a-aa84-7d0a7a91a96b",
       "userName": "tatana vehovska",
@@ -21660,8 +21757,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1504,
-    "extractedAt": "2026-01-20T05:56:04.810Z",
+    "totalReviewsExtracted": 1510,
+    "extractedAt": "2026-01-21T05:54:47.852Z",
     "source": "google-play"
   }
 }
