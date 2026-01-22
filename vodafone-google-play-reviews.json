@@ -1,18 +1,479 @@
 {
   "ratings": {
-    "score": 3.3391812,
-    "scoreText": "3,3",
-    "totalRatings": 1892,
-    "totalReviews": 932,
+    "score": 3.127907,
+    "scoreText": "3,1",
+    "totalRatings": 1969,
+    "totalReviews": 968,
     "histogram": {
-      "1": 630,
-      "2": 110,
-      "3": 32,
-      "4": 220,
-      "5": 895
+      "1": 778,
+      "2": 80,
+      "3": 45,
+      "4": 240,
+      "5": 823
     }
   },
   "reviews": [
+    {
+      "id": "fa77a116-1b77-4f70-b86d-8d42c1140c46",
+      "userName": "Michal Skotnica",
+      "date": "2026-01-20T23:56:52.371Z",
+      "score": 1,
+      "text": "špatně funguje nejde se občas přihlásit a jen se načítá, musím pak na google abych mohl na svůj Vodafone",
+      "text_normalized": "spatne funguje nejde se obcas prihlasit a jen se nacita, musim pak na google abych mohl na svuj vodafone",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-21T06:23:18.510Z",
+      "replyText": "Dobrý den, Michale,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdybyste se ani poté nemohl přihlásit, zavolejte nám prosím na 800 77 00 77, abychom to mohli prověřit na konkrétním příkladu. Martina",
+      "version": "3.5.1"
+    },
+    {
+      "id": "02ad3a8c-8ad3-43c8-93b8-8fed2f1400bc",
+      "userName": "Petr Krhovják",
+      "date": "2026-01-20T23:53:22.310Z",
+      "score": 1,
+      "text": "po otevření apky je vyžadováno přihlášení,tak učiním,přijde kód na mobil,ten zadám,aplikace se otevře a vyžaduje přihlásení,tak učiním,přjde kód na mobil,ten zadám,aplikace se otevře a hádejte co... pořád dokola...",
+      "text_normalized": "po otevreni apky je vyzadovano prihlaseni,tak ucinim,prijde kod na mobil,ten zadam,aplikace se otevre a vyzaduje prihlaseni,tak ucinim,prjde kod na mobil,ten zadam,aplikace se otevre a hadejte co... porad dokola...",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-21T06:24:04.519Z",
+      "replyText": "Dobrý den, Petře,\ntakovou chybu plošně neevidujeme. Zkuste prosím aplikaci odinstalovat a znovu stáhnout. Pokud se vám ani poté přihlášení nepodaří, zavolejte nám na 800 77 00 77, rádi to prověříme. Martina",
+      "version": "3.5.1"
+    },
+    {
+      "id": "43293d90-10b8-412b-a783-f9fed675bc3e",
+      "userName": "Jiri",
+      "date": "2026-01-20T23:31:40.807Z",
+      "score": 1,
+      "text": "Chtel jsem vam s novou apkou dat sanci. Proc to poustite mezi lidi, kdyz to ani nedokaze nabidnout formular k prihlaseni a jen to neuspesne neco nacita na pozadi?!",
+      "text_normalized": "chtel jsem vam s novou apkou dat sanci. proc to poustite mezi lidi, kdyz to ani nedokaze nabidnout formular k prihlaseni a jen to neuspesne neco nacita na pozadi?!",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-21T06:23:36.512Z",
+      "replyText": "Pěkný den, Jiří,\naplikace funguje v pořádku, pokud s tím máte potíže, tak ji odinstalujte a znovu nainstalujte, tím budete mít jistotu, že máte v telefonu aktuální verzi. Pokud se vám to nepodaří, pošlete nám screenshoty na e-mailovou adresu aplikace@vodafone.cz. Veronika",
+      "version": "3.5.1"
+    },
+    {
+      "id": "92ebc9e0-12fb-4584-be84-907eaf286c60",
+      "userName": "Angi Shy",
+      "date": "2026-01-20T23:14:06.641Z",
+      "score": 1,
+      "text": "aplikace uplne na picu, ani prihlasit se nejde kdyz pri kliknuti na prihlaseni se pouze obnovi úvodní stranka 👎 zlata stara aplikace!",
+      "text_normalized": "aplikace uplne na picu, ani prihlasit se nejde kdyz pri kliknuti na prihlaseni se pouze obnovi uvodni stranka 👎 zlata stara aplikace!",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-21T06:26:32.575Z",
+      "replyText": "Pěkný den, Angi,\nmáte v telefonu poslední verzi? Aplikaci odinstalujte a znovu nainstalujte. Pokud budete mít nějaké potíže, pošlete nám prosím screenshoty na e-mailovou adresu aplikace@vodafone.cz a nezapomeňte celou situaci popsat. Veronika",
+      "version": "3.5.1"
+    },
+    {
+      "id": "8a676b9f-b0f4-4374-91f3-771f0034907e",
+      "userName": "Funtomas",
+      "date": "2026-01-20T20:51:41.540Z",
+      "score": 1,
+      "text": "Nesnáším Vodafone, opět nefunkční aplikace. Jestli si mysli, že si vydáním nové aplikace zlepší hodnocení, tak se mýlí. Galileo Galilei by na to dnes řekl \" jen se točí, ale nefunguje\".",
+      "text_normalized": "nesnasim vodafone, opet nefunkcni aplikace. jestli si mysli, ze si vydanim nove aplikace zlepsi hodnoceni, tak se myli. galileo galilei by na to dnes rekl \" jen se toci, ale nefunguje\".",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-21T06:19:17.140Z",
+      "replyText": "Pěkný den, Fantomasi,\nje mi líto, že nás nemáte rád. Pokud potřebujete pomoct, neváhejte se na nás obrátit přes https://tam.je/dotaz. Veronika",
+      "version": "3.5.1"
+    },
+    {
+      "id": "8e17a4c5-a609-46ac-a306-8addfea3a1e3",
+      "userName": "Anna Kubicová",
+      "date": "2026-01-20T19:10:44.810Z",
+      "score": 1,
+      "text": "velmi vás prosím, proč stále něco měníte. Tem Vaším novým Vodafone nerozumím, pokaždé změna. Něco se mi tam podařilo udělat, nevím jak najít volání, které jsem volala. To je děs ! Jak se má kdo dostat do mého telefonu ? opravdu tomu nerozumím.",
+      "text_normalized": "velmi vas prosim, proc stale neco menite. tem vasim novym vodafone nerozumim, pokazde zmena. neco se mi tam podarilo udelat, nevim jak najit volani, ktere jsem volala. to je des ! jak se ma kdo dostat do meho telefonu ? opravdu tomu nerozumim.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-21T06:18:08.878Z",
+      "replyText": "Pěkný den, Anno,\nbudu ráda, když nám napíšete přes https://tam.je/dotaz, abychom vám mohli pomoct. Záleží na tom, jaké služby využíváte. Veronika",
+      "version": "3.5.1"
+    },
+    {
+      "id": "e8b3d923-5f76-433c-8fa3-b1abf70d27a2",
+      "userName": "Jan Budský",
+      "date": "2026-01-20T18:44:40.835Z",
+      "score": 1,
+      "text": "Úmyslně komplikovaná, cílená pouze na získávání dalších peněz pro Vodafone. Špatně ukazuje množství spotřebovaných dat a bohužel vůbec nepomůže zákazníkovi při jakémkoli problému. Aplikace úplně k ničemu.",
+      "text_normalized": "umyslne komplikovana, cilena pouze na ziskavani dalsich penez pro vodafone. spatne ukazuje mnozstvi spotrebovanych dat a bohuzel vubec nepomuze zakaznikovi pri jakemkoli problemu. aplikace uplne k nicemu.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-01-21T06:22:25.150Z",
+      "replyText": "Dobrý den, Jane,\nje mi líto, že jste s aplikací nespokojený 🙁 Co se týče zobrazení čerpání dat, případně jiných situací, kdy vám aplikace nepomohla, rádi se na to s vámi podíváme konkrétně. Prosím zavolejte nám na 800 77 00 77, abychom to mohli řešit na základě podrobnějších informací od vás. Martina",
+      "version": "3.5.1"
+    },
+    {
+      "id": "4812932b-bfd8-453d-93c4-c884d7dee254",
+      "userName": "Zeleny caj",
+      "date": "2026-01-20T18:28:11.252Z",
+      "score": 1,
+      "text": "Je to jediná app která neukládá přihlašovací údaje, musi se tedy stále vyplňovat. Tedy je to to same jak vodafone 😁 tak zkusim opět za nějaký rok a opět uinstall.",
+      "text_normalized": "je to jedina app ktera neuklada prihlasovaci udaje, musi se tedy stale vyplnovat. tedy je to to same jak vodafone 😁 tak zkusim opet za nejaky rok a opet uinstall.",
+      "segments": [
+        "UI",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-20T18:46:58.581Z",
+      "replyText": "Dobrý den,\nmrzí mě vaše nespokojenost. Aplikaci budeme i nadále vylepšovat a další funkce přidáme postupně v následujících aktualizacích. Budeme rádi, když ji dáte ještě šanci. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "eff77700-a182-42ae-8db7-dde3aba4bdac",
+      "userName": "S. Š.",
+      "date": "2026-01-20T18:14:27.856Z",
+      "score": 1,
+      "text": "Do aplikace se nelze přihlásit. Píše \"Neplatné přihlašovací údaje\". Po vytvoření nového hesla pomocí funkce \"Zapomenuté heslo\" pořád přihlášení nefunguje. Vytvoření nového hesla zkoušeno dvakrát.",
+      "text_normalized": "do aplikace se nelze prihlasit. pise \"neplatne prihlasovaci udaje\". po vytvoreni noveho hesla pomoci funkce \"zapomenute heslo\" porad prihlaseni nefunguje. vytvoreni noveho hesla zkouseno dvakrat.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-20T18:46:02.329Z",
+      "replyText": "Dobrý den,\nje mi líto, že máte potíže s přihlášením. Je potřeba používat e-mail a alfanumerické heslo, následně ještě pošleme jednorázový kód do SMS. Pokud se vám přihlášení nedaří, prosím zavolejte nám na 800 77 00 77 nebo nám napište na aplikace@vodafone.cz. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "11280c8b-f59f-4bce-b02b-e687f751d340",
+      "userName": "Vlastimil Strnad",
+      "date": "2026-01-20T17:34:35.636Z",
+      "score": 5,
+      "text": "chci tu aplikaci do notebboku",
+      "text_normalized": "chci tu aplikaci do notebboku",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-20T17:42:32.312Z",
+      "replyText": "Dobrý den, Vlastimile,\nděkujeme za kladné hodnocení. Pro PC/notebook můžete využívat webovou samoobsluhu - https://www.vodafone.cz/muj 🙂 Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "e6d43953-2b3d-43b1-bb9f-cf110a2fa205",
+      "userName": "Václav Jopek",
+      "date": "2026-01-20T17:17:34.910Z",
+      "score": 1,
+      "text": "stále.nedostupne widgety",
+      "text_normalized": "stale.nedostupne widgety",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-20T17:43:38.454Z",
+      "replyText": "Dobrý den, Václave,\nmrzí mě vaše nespokojenost. Tuto funkci nemáme v plánu obnovit nebo přidat, mrzí mě to. Věřím ale, že aplikaci i tak dáte šanci. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "3422d404-ae47-49af-bc77-13bd18f51bd8",
+      "userName": "Filip F",
+      "date": "2026-01-20T16:47:41.320Z",
+      "score": 1,
+      "text": "Opět se smazalo přihlášení, tudíž vše od znova. Nejedná se o sociální experiment? Zjišťuje se, co klienti vydrží? A připadne mi, že zde odpovídá na recenze AI.",
+      "text_normalized": "opet se smazalo prihlaseni, tudiz vse od znova. nejedna se o socialni experiment? zjistuje se, co klienti vydrzi? a pripadne mi, ze zde odpovida na recenze ai.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-21T11:00:36.989Z",
+      "replyText": "Dobrý den, Filipe,\npokud máte nastavené biometrické přihlášení, a přesto se vám aplikace opakovaně odhlašuje, zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi to prověříme na konkrétním příkladu. Martina",
+      "version": "3.5.1"
+    },
+    {
+      "id": "75f5ad9c-5fde-4261-8374-96fd13255127",
+      "userName": "Tomáš Soukeník",
+      "date": "2026-01-20T16:45:44.946Z",
+      "score": 1,
+      "text": "Krása, přišel mi email že mají novou lepší aplikaci. Ale (ne)funguje úplně stejně jako ta stará, pustím ji a přihlášení skončí chybou - TOP, vyřiďte vývojářům pochvalu že to dokázali zkonit dvakrát stejným způsobem",
+      "text_normalized": "krasa, prisel mi email ze maji novou lepsi aplikaci. ale (ne)funguje uplne stejne jako ta stara, pustim ji a prihlaseni skonci chybou - top, vyridte vyvojarum pochvalu ze to dokazali zkonit dvakrat stejnym zpusobem",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": null,
+      "replyText": null,
+      "version": null
+    },
+    {
+      "id": "be798d8c-8702-40d9-9593-ae442a4ce717",
+      "userName": "Moravec František",
+      "date": "2026-01-20T16:39:26.187Z",
+      "score": 1,
+      "text": "Nezaslouží si ani hvězdičku, tragédie, po přihlášení se logo vodafonu točí a točí a točí, ztrata času se pokusit přihlásit.",
+      "text_normalized": "nezaslouzi si ani hvezdicku, tragedie, po prihlaseni se logo vodafonu toci a toci a toci, ztrata casu se pokusit prihlasit.",
+      "segments": [
+        "Vykonnost",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-20T17:13:21.806Z",
+      "replyText": "Dobrý den, Františku,\nje mi líto, že máte takové potíže. Prosím zkuste aplikaci přeinstalovat, také přepnout z mobilních dat na Wi-Fi nebo naopak. Kdyby to nepomohlo, prosím napište nám podrobnosti na aplikace@vodafone.cz. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "4e1aa4b9-8039-4423-95bd-f22ee8c6c7d5",
+      "userName": "Jarda Krouský",
+      "date": "2026-01-20T16:28:23.486Z",
+      "score": 5,
+      "text": "aplikace poskytuje komplexní službu, pro mne trochu nepřehledná.Pomohlo by ji členit podle konkrétních problémů, postupovat metodicky . Ale celkově je dobrá. JK",
+      "text_normalized": "aplikace poskytuje komplexni sluzbu, pro mne trochu neprehledna.pomohlo by ji clenit podle konkretnich problemu, postupovat metodicky . ale celkove je dobra. jk",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ],
+      "replyDate": "2026-01-20T16:42:19.360Z",
+      "replyText": "Dobrý den, Jardo,\nděkujeme vám za hodnocení aplikace a zpětnou vazbu. Průběžně aplikaci budeme vylepšovat v následujících aktualizacích. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "eef69825-488f-47f1-877e-1fda3b7d147e",
+      "userName": "Pavel Kalný",
+      "date": "2026-01-20T16:18:03.300Z",
+      "score": 1,
+      "text": "Vydat aplikaci v teto kondici je tragedie... Odbornici ve Vodafonu by se nad tim meli zamyslet... Mate se proc stydet...",
+      "text_normalized": "vydat aplikaci v teto kondici je tragedie... odbornici ve vodafonu by se nad tim meli zamyslet... mate se proc stydet...",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-01-20T16:43:21.433Z",
+      "replyText": "Dobrý den, Pavle,\ndíky za zpětnou vazbu, i když není pozitivní. Aplikaci budeme dál vylepšovat a další funkce přidáme postupně v následujících aktualizacích. Věřím, že do budoucna bude vyhovovat víc. Viki",
+      "version": null
+    },
+    {
+      "id": "9487f0f2-0982-4e93-bd17-5be73ec7b9c7",
+      "userName": "Karel Kolarik",
+      "date": "2026-01-20T16:08:30.408Z",
+      "score": 1,
+      "text": "Nelze použít email a SMS, komunikuje pouze hlasem, což mi nevyhovuje pro moji poruchu sluchu.",
+      "text_normalized": "nelze pouzit email a sms, komunikuje pouze hlasem, coz mi nevyhovuje pro moji poruchu sluchu.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-20T16:16:24.852Z",
+      "replyText": "Dobrý den, Karle,\nděkujeme vám za hodnocení aplikace. Pokud řešíte, jak s námi komunikovat písemně, můžete nám napsat přes Můj Vodafone na webu https://www.vodafone.cz/muj v sekci Zeptejte se nás. Rádi vám pomůžeme. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "d91c6f8f-60fe-4ecd-b98b-337d3323a159",
+      "userName": "T. Tom",
+      "date": "2026-01-20T15:53:24.820Z",
+      "score": 1,
+      "text": "Aplikace nejde vůbec spustit. Ihned naskočí stránka \"Něco se nepovedlo\"",
+      "text_normalized": "aplikace nejde vubec spustit. ihned naskoci stranka \"neco se nepovedlo\"",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-20T16:24:58.647Z",
+      "replyText": "Dobrý den, Tome,\nje mi líto, že máte takové potíže. Zkuste prosím aplikace přeinstalovat, případně pak přepněte z mobilních dat na Wi-Fi nebo naopak. Pokud to nepomůže, prosím napište nám podrobnosti včetně typu telefonu a screenu chyby na aplikace@vodafone.cz. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "c9482fb2-e582-4452-a3a1-d81ed8bad999",
+      "userName": "Pavel Fiala",
+      "date": "2026-01-20T15:32:19.931Z",
+      "score": 1,
+      "text": "Tato \"ještě lepší náhrada\" neustále tvrdí, že se něco pokazilo. Z mého pohledu totální sra*ka. Původní aplikace, která měla skončit koncem měsíce nefunguje už dnes (dvacátého). Dík, Vodafone za nevšední zážitek. Ještě, že teď od tebe níž speciálního nepotřebují, jinak bych se vztekl.",
+      "text_normalized": "tato \"jeste lepsi nahrada\" neustale tvrdi, ze se neco pokazilo. z meho pohledu totalni sra*ka. puvodni aplikace, ktera mela skoncit koncem mesice nefunguje uz dnes (dvacateho). dik, vodafone za nevsedni zazitek. jeste, ze ted od tebe niz specialniho nepotrebuji, jinak bych se vztekl.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-20T15:42:17.853Z",
+      "replyText": "Dobrý den, Pavle,\nmrzí nás, že vám nová aplikace Můj Vodafone+ momentálně nefunguje tak, jak má. Zkuste prosím aplikaci aktualizovat na nejnovější verzi a případně ji zkusit odinstalovat a znovu nainstalovat. Pokud potíže přetrvají, napište nám prosím na aplikace@vodafone.cz. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "9ca31450-20fc-4878-b5b6-e9749921bf46",
+      "userName": "Václav Hanzl",
+      "date": "2026-01-20T15:15:18.487Z",
+      "score": 1,
+      "text": "Základní funkce asi jakžtakž zvládá, ale jinak je načítání dat aplikací zoufale pomalé, lhostejno zda na rychlé wifi (900Mbps) nebo datech (tarif až 20Mbps). Na přehlednosti a nematení uživatelů (například v přehledech vyúčtování) je potřeba v používané terminologii také ještě hodně zapracovat. VELKÉ minus za chybějící widget pro předplacenkáře (moje babičky etc...)",
+      "text_normalized": "zakladni funkce asi jakztakz zvlada, ale jinak je nacitani dat aplikaci zoufale pomale, lhostejno zda na rychle wifi (900mbps) nebo datech (tarif az 20mbps). na prehlednosti a nemateni uzivatelu (napriklad v prehledech vyuctovani) je potreba v pouzivane terminologii take jeste hodne zapracovat. velke minus za chybejici widget pro predplacenkare (moje babicky etc...)",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-20T15:45:53.397Z",
+      "replyText": "Dobrý den, Václave,\ndíky za zpětnou vazbu. Aplikaci budeme i nadále vylepšovat a další funkce přidáme postupně v následujících aktualizacích. Widgety přidat neplánujeme. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "b28f7cf1-62d6-416e-a271-b10c58f6e6b2",
+      "userName": "Lucie Zemanová",
+      "date": "2026-01-20T15:13:42.635Z",
+      "score": 1,
+      "text": "Bohužel aplikace mi na telefonu Google Pixel Pro 6 vůbec nefunguje, po otevření se jen dozvím, že ,,Něco se nepovedlo!\". na obrazovce se objeví kód chyby, který mám sdílet s podporou, jenže ten nelze ani zkopírovat do schránky.",
+      "text_normalized": "bohuzel aplikace mi na telefonu google pixel pro 6 vubec nefunguje, po otevreni se jen dozvim, ze ,,neco se nepovedlo!\". na obrazovce se objevi kod chyby, ktery mam sdilet s podporou, jenze ten nelze ani zkopirovat do schranky.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-20T15:47:29.780Z",
+      "replyText": "Dobrý den, Lucie,\nmrzí mě, že vám nová aplikace Můj Vodafone+ momentálně nefunguje tak, jak má. Zkuste prosím aplikaci odinstalovat a znovu nainstalovat. Pokud potíže přetrvají, napište nám prosím na aplikace@vodafone.cz. Chybu můžete vyscreenovat a poslat nám ji v příloze. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "cddd75ab-05f1-4657-8eb4-a5d575cc01f8",
+      "userName": "Roman Zadělák",
+      "date": "2026-01-20T15:03:14.228Z",
+      "score": 1,
+      "text": "Aplikace je šíleně zasekaná a pomalá. V možnostech plateb chybí možnost QR platba, opravdu mě nebaví pokaždé hledat přes fakturu, když nechci platit kartou. Rozhraní je sice průměrné, ale to je tak jediné.",
+      "text_normalized": "aplikace je silene zasekana a pomala. v moznostech plateb chybi moznost qr platba, opravdu me nebavi pokazde hledat pres fakturu, kdyz nechci platit kartou. rozhrani je sice prumerne, ale to je tak jedine.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-20T15:14:20.757Z",
+      "replyText": "Dobrý den, Romane,\nděkujeme za zpětnou vazbu. Přidání QR kódu zvažujeme a plánujeme ho zařadit v jedné z příštích aktualizací, spolu s dalšími vylepšeními výkonu a rychlosti aplikace. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "90994efe-c68a-46ce-bd5d-6d70236b8718",
+      "userName": "Vlastislav Štěpnička",
+      "date": "2026-01-20T14:54:52.301Z",
+      "score": 1,
+      "text": "velké zklamání aplikace je krokem zpět. 1. vyúčtování nejde zaplatit qr kódem, jen ručním vypsáním čísla karty a cvv kódu- již delší dobu fyzickou kartu vůbec nepoužívám, musím ji vždy hledat kvůli platbě. proč není kód nebo agoogle pay? 2. po rozkliknuti služby internet není možné spravovat modem- třeba restart a stav služby. To jde jen v internetové samoobsluze. ani u internetu, ani u jiných služeb nejde zobrazit smlouva a detailní údaje o službě. aplikace je jen pro pasivní prohlížení.",
+      "text_normalized": "velke zklamani aplikace je krokem zpet. 1. vyuctovani nejde zaplatit qr kodem, jen rucnim vypsanim cisla karty a cvv kodu- jiz delsi dobu fyzickou kartu vubec nepouzivam, musim ji vzdy hledat kvuli platbe. proc neni kod nebo agoogle pay? 2. po rozkliknuti sluzby internet neni mozne spravovat modem- treba restart a stav sluzby. to jde jen v internetove samoobsluze. ani u internetu, ani u jinych sluzeb nejde zobrazit smlouva a detailni udaje o sluzbe. aplikace je jen pro pasivni prohlizeni.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-20T15:17:37.818Z",
+      "replyText": "Dobrý den, Vlastislave,\nmrzí nás, že vám nová aplikace nevyhovuje. Platbu přes QR kód plánujeme přidat, u Google Pay hledáme technické řešení. Co se týče internetu — restart modemu ani diagnostika nejsou v této verzi aplikace garantované, ale funkce správy služeb budeme dál rozšiřovat. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "957a7764-0e9c-4d04-a1ec-9e0b34fbb3cb",
+      "userName": "Martin W.",
+      "date": "2026-01-20T13:47:26.573Z",
+      "score": 1,
+      "text": "Byl jsem na tuto aplikaci odkazan Vodafonem. Bohužel 2x jsem ji přeinstaloval a nic. Jen stale načítá a k přihlašení se ani nedostane. Zatim apka na prd !",
+      "text_normalized": "byl jsem na tuto aplikaci odkazan vodafonem. bohuzel 2x jsem ji preinstaloval a nic. jen stale nacita a k prihlaseni se ani nedostane. zatim apka na prd !",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-20T14:15:31.344Z",
+      "replyText": "Dobrý den, Martine,\nděkujeme za zpětnou vazbu. Je mi líto, že jste zaznamenal takové potíže. Zkuste prosím případně ještě přepnout z mobilních dat na Wi-Fi nebo naopak. Když to nepomůže, prosím napište nám na aplikace@vodafone.cz. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "ee28a0f2-3e7e-4874-9276-e6593fd51988",
+      "userName": "Jenom Lida",
+      "date": "2026-01-20T13:41:48.202Z",
+      "score": 1,
+      "text": "Jedním slovem katastrofa! Nechápu, proč něco, co fungovalo, se nějaká \"chytrá\" hlava rozhodne \"vylepšit\" tím, že člověka donutí stáhnout aplikaci, která je úplně k ničemu. Předchozí aplikace super, tahle je hrůza. Takže se po staru budu přihlašovat na webu. Aplikaci si strčte víte kam...Jestli jste chtěli zákazníky nas*at, tak se vám to opravdu podařilo. Jestli se někdy tahle apka dostane na úroveň té staré, dejte mi vědět.",
+      "text_normalized": "jednim slovem katastrofa! nechapu, proc neco, co fungovalo, se nejaka \"chytra\" hlava rozhodne \"vylepsit\" tim, ze cloveka donuti stahnout aplikaci, ktera je uplne k nicemu. predchozi aplikace super, tahle je hruza. takze se po staru budu prihlasovat na webu. aplikaci si strcte vite kam...jestli jste chteli zakazniky nas*at, tak se vam to opravdu podarilo. jestli se nekdy tahle apka dostane na uroven te stare, dejte mi vedet.",
+      "segments": [
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-20T14:19:48.886Z",
+      "replyText": "Dobrý den, Jenom Lido,\nmrzí nás, že vám nová aplikace Můj Vodafone+ nevyhovuje. Neustále na ní pracujeme a nové funkce postupně přineseme. Budeme rádi, když ji dáte ještě šanci. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "70945218-9bcc-4c01-9e96-9d012e5004ff",
+      "userName": "Lukáš Kalčík",
+      "date": "2026-01-20T12:44:21.980Z",
+      "score": 1,
+      "text": "Stará aplikace byla v pohodě. Musel jsem přejít na novou, která nefunguje. Nejde v ní milion věci, včetně přihlášení... Tím pádem je aplikace úplně k ničemu. Už to trvá několik týdnů a stále žádná oprava.",
+      "text_normalized": "stara aplikace byla v pohode. musel jsem prejit na novou, ktera nefunguje. nejde v ni milion veci, vcetne prihlaseni... tim padem je aplikace uplne k nicemu. uz to trva nekolik tydnu a stale zadna oprava.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-20T13:22:03.288Z",
+      "replyText": "Hezký den, Lukáši,\nje mi líto, že nejste spokojený 🙁 Postupně přecházíme na novou aplikaci, do nové aplikace přidáváme postupně i nové funkce. Věřím, že se vám do budoucna bude líbit více. Zuzana",
+      "version": "3.5.1"
+    },
+    {
+      "id": "5539c850-ca06-4571-98ca-6e6042eabae8",
+      "userName": "Mir. Markus",
+      "date": "2026-01-20T11:10:22.390Z",
+      "score": 1,
+      "text": "Nelze se přihlásit dnes 20.1.26 v 12.00 hod., pořád se motá znak.",
+      "text_normalized": "nelze se prihlasit dnes 20.1.26 v 12.00 hod., porad se mota znak.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-20T11:40:25.866Z",
+      "replyText": "Hezký den, Markusi,\nje mi líto, že máte potíže s aplikací 🙁 Doporučuji aplikaci přeinstalovat, poté by to mělo být v pořádku. V případě, že by potíže přetrvávaly, zavolejte nám na linku *77 a situaci s vámi prověříme. Zuzana",
+      "version": "3.5.1"
+    },
+    {
+      "id": "c045ed49-0674-4408-a8a5-c60a6170b103",
+      "userName": "Vojtěch Karas",
+      "date": "2026-01-20T10:10:53.516Z",
+      "score": 2,
+      "text": "Přes starou jsem platil vyúčtovaní za pevný internet. Tady to nemohu najít. Doplnění: Prosím, můžete mě odnavigovat, kde to v aplikaci Vodafone+ naleznu?",
+      "text_normalized": "pres starou jsem platil vyuctovani za pevny internet. tady to nemohu najit. doplneni: prosim, muzete me odnavigovat, kde to v aplikaci vodafone+ naleznu?",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-20T09:55:17.652Z",
+      "replyText": "Hezký den, Vojtěchu,\nmrzí mě, že máte potíže s platbou Vyúčtování 🙁 Vyúčtování můžete hradit online kartou v samoobsluze nebo v aplikaci Můj Vodafone+, případně přes QR kód, který najdete na první straně vašeho Vyúčtování. Zuzana",
+      "version": "3.5.1"
+    },
+    {
+      "id": "227bd5da-a805-4cce-a13b-cb69f2b1ba4f",
+      "userName": "Šárka Jungmannová",
+      "date": "2026-01-20T07:39:15.826Z",
+      "score": 1,
+      "text": "teď jsem ji nainstalovala a nejde se přihlásit pořád se tam točí ta slza a nic zkusila jsem znovu nainstalovat a nic. to je zabrzděná apka. jak mám mamce zaplatit jako zlatá ta stará",
+      "text_normalized": "ted jsem ji nainstalovala a nejde se prihlasit porad se tam toci ta slza a nic zkusila jsem znovu nainstalovat a nic. to je zabrzdena apka. jak mam mamce zaplatit jako zlata ta stara",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-20T08:17:42.902Z",
+      "replyText": "Hezký den, Šárko,\nmrzí mě, že s aplikací nejste spokojená 🙁 Pokud nepomohlo ani přeinstalování aplikace, doporučuji se nám ozvat na linku *77 a kolegové s vámi situaci prověří konkrétně. Zuzana",
+      "version": "3.5.1"
+    },
+    {
+      "id": "8fce44d3-0824-4c55-999a-bc9c225188b4",
+      "userName": "Magrawag",
+      "date": "2026-01-20T07:00:56.737Z",
+      "score": 1,
+      "text": "Aplikace Vodafonu jsou obrovská ostuda. Neintuitivní ovládání, neustále problémy s přihlašováním. Neumí udělat ani jednoduché zaplacení vyúčtování pres qr kod v aplikaci nebo pomoci gpay. Hlavně že předělávají vzhled, ale funkčnost a ovladatelnost stoji za prd!",
+      "text_normalized": "aplikace vodafonu jsou obrovska ostuda. neintuitivni ovladani, neustale problemy s prihlasovanim. neumi udelat ani jednoduche zaplaceni vyuctovani pres qr kod v aplikaci nebo pomoci gpay. hlavne ze predelavaji vzhled, ale funkcnost a ovladatelnost stoji za prd!",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-20T07:13:35.587Z",
+      "replyText": "Hezký den,\nmrzí mě, že jste s aplikací nespokojený 😢 Na aplikaci stále pracujeme a vylepšujeme ji, některé funkce do ní budeme postupně přidávat, věřím, že se vám v budoucnu bude líbit více. Zuzana",
+      "version": "3.5.1"
+    },
     {
       "id": "771be390-e104-4767-ad7e-e231dea52bfe",
       "userName": "Paul",
@@ -21757,8 +22218,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1510,
-    "extractedAt": "2026-01-21T05:54:47.852Z",
+    "totalReviewsExtracted": 1540,
+    "extractedAt": "2026-01-22T05:55:15.602Z",
     "source": "google-play"
   }
 }
