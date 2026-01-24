@@ -1,18 +1,442 @@
 {
   "ratings": {
-    "score": 2.9578948,
-    "scoreText": "3,0",
-    "totalRatings": 2050,
-    "totalReviews": 1000,
+    "score": 2.886256,
+    "scoreText": "2,9",
+    "totalRatings": 2106,
+    "totalReviews": 1005,
     "histogram": {
-      "1": 917,
-      "2": 85,
-      "3": 53,
-      "4": 150,
-      "5": 840
+      "1": 967,
+      "2": 99,
+      "3": 69,
+      "4": 139,
+      "5": 827
     }
   },
   "reviews": [
+    {
+      "id": "676e0261-65bc-41e1-8344-5580dab034ed",
+      "userName": "Pavel Volf",
+      "date": "2026-01-22T23:27:08.853Z",
+      "score": 1,
+      "text": "Ta stará app toho uměla víc, např. zobrazovala čerpání dat po jednotlivých číslech.",
+      "text_normalized": "ta stara app toho umela vic, napr. zobrazovala cerpani dat po jednotlivych cislech.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-23T06:27:57.924Z",
+      "replyText": "Hezký den, Pavle, na vylepšení aplikace stále pracujeme a postupně přidáváme nové funkce. Věřím, že s aplikací budete do budoucna spokojený. Petra",
+      "version": "3.5.1"
+    },
+    {
+      "id": "06734e90-f7b7-4c1c-8d6e-21e641004e8e",
+      "userName": "Martin Toušek",
+      "date": "2026-01-22T22:52:51.321Z",
+      "score": 1,
+      "text": "to je krok k horšímu. oprava 5 kroků k horšímu. Všechno vylepšujete, ale je to k ničemu. PROČ?!",
+      "text_normalized": "to je krok k horsimu. oprava 5 kroku k horsimu. vsechno vylepsujete, ale je to k nicemu. proc?!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-23T06:25:35.427Z",
+      "replyText": "Hezký den, Martine. děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Aplikaci opravdu vylepšujeme a postupně přidáváme nové funkce, tak pevně věří, že se vám bude do budoucna líbit více. Petra",
+      "version": "3.5.1"
+    },
+    {
+      "id": "30dff579-566c-4a28-8c43-41ac101814c9",
+      "userName": "František Soudil",
+      "date": "2026-01-22T22:43:28.736Z",
+      "score": 5,
+      "text": "dobrá práce",
+      "text_normalized": "dobra prace",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-23T06:30:17.701Z",
+      "replyText": "Hezký den, Františku,\nděkujeme vám za kladné hodnocení a zpětnou vazbu 🙂 Jsem ráda, že vám aplikace vyhovuje. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "75370b8e-46d4-4d81-9b26-c3b05f7aee9e",
+      "userName": "Roman Boháček",
+      "date": "2026-01-22T19:10:16.187Z",
+      "score": 1,
+      "text": "Ještě horší než ta stará, nejde nastavit, aby se mi primarně zobrazovalo zvolené tel. číslo, nepřehledné, neuntivni, nefunkční",
+      "text_normalized": "jeste horsi nez ta stara, nejde nastavit, aby se mi primarne zobrazovalo zvolene tel. cislo, neprehledne, neuntivni, nefunkcni",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-23T06:24:29.483Z",
+      "replyText": "Dobrý den, Romane,\nje mi líto, že aplikace nesplnila vaše očekávání. Budeme ji i nadále vylepšovat a další funkce přidáme postupně v následujících aktualizacích. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "124f5bd6-dfab-485a-819e-e663256e72cc",
+      "userName": "Ladislav Karbus",
+      "date": "2026-01-22T18:36:49.205Z",
+      "score": 3,
+      "text": "Základní funkce jsou ok, ale hned během prvních minut jsem se dostal do dalších nabídek, kde nejsou správně pojmenována tlačítka a je tam Tlačítko 1 a Tlačítko 2. Vůbec netuším, na co jsem vlastně kliknul a s čím souhlasil...",
+      "text_normalized": "zakladni funkce jsou ok, ale hned behem prvnich minut jsem se dostal do dalsich nabidek, kde nejsou spravne pojmenovana tlacitka a je tam tlacitko 1 a tlacitko 2. vubec netusim, na co jsem vlastne kliknul a s cim souhlasil...",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-23T08:30:45.782Z",
+      "replyText": "Dobrý den, Ladislave,\nje mi moc líto, že jste zaznamenal takové potíže. Prosím napište nám přes https://tam.je/dotaz a připojte screeny těchto chyb do přílohy. Také budeme potřebovat typ telefonu a operační systém, rádi to předáme k prověření. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "03983f51-4f6f-4f71-8750-880fc9b431a1",
+      "userName": "Václav Steinhauser",
+      "date": "2026-01-22T16:23:10.963Z",
+      "score": 1,
+      "text": "Nefunguje přihlášení. Píše \"neplatné údaje\" i když na webu fungují.",
+      "text_normalized": "nefunguje prihlaseni. pise \"neplatne udaje\" i kdyz na webu funguji.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-22T16:53:01.685Z",
+      "replyText": "Hezký den, Václave, je mi líto, že máte potíže s přihlášením 🙁 Zkuste prosím aplikaci přeinstalovat, a pokud by to nepomohlo, napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Pomůžeme vám. Petra\n",
+      "version": null
+    },
+    {
+      "id": "b0c80685-2047-441d-9284-04edf4001cbf",
+      "userName": "Herbert Prchala",
+      "date": "2026-01-22T15:04:24.315Z",
+      "score": 5,
+      "text": "super. díky.",
+      "text_normalized": "super. diky.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-22T15:18:32.400Z",
+      "replyText": "Hezký den, Herberte, děkujeme za hodnocení 🙂 Těší mě, že jste s aplikací spokojený 🙂 Petra",
+      "version": "3.5.1"
+    },
+    {
+      "id": "367374df-c0ed-4d57-b8ca-76b535275ce4",
+      "userName": "Jan Joneš",
+      "date": "2026-01-22T14:51:19.197Z",
+      "score": 1,
+      "text": "hlášky \"něco se nepovedlo\" místo přehledu a vašich služeb hned po instalaci :-(",
+      "text_normalized": "hlasky \"neco se nepovedlo\" misto prehledu a vasich sluzeb hned po instalaci :-(",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-01-22T15:21:09.755Z",
+      "replyText": "Hezký den, Jane, je mi líto, že máte s aplikací potíže 🙁 Zkuste ji prosím přeinstalovat, a pokud by to nepomohlo, napište nám prosím přes formulář https://tam.je/dotaz. Prověříme to. Petra",
+      "version": "3.5.1"
+    },
+    {
+      "id": "ac785205-2540-4ca2-b8a9-4e5fe0c35178",
+      "userName": "Werner Zuglauer",
+      "date": "2026-01-22T14:47:16.171Z",
+      "score": 1,
+      "text": "absolutně katastrofa, nefunguje nic. Co to má být?",
+      "text_normalized": "absolutne katastrofa, nefunguje nic. co to ma byt?",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-22T15:22:32.370Z",
+      "replyText": "Hezký den, mrzí mě, že vám aplikace nefunguje 🙁 Napište nám prosím podrobnosti na aplikace@vodafone.cz. Na vše se s vámi podíváme konkrétněji. Petra\n",
+      "version": "3.5.1"
+    },
+    {
+      "id": "1824f8c9-f69a-40ae-9887-ca2f2834f275",
+      "userName": "Dalibor Novák",
+      "date": "2026-01-22T14:44:08.864Z",
+      "score": 1,
+      "text": "Nelíbí se mi že je po mne vyžadován souhlas s nabídkami třetích stran jen abych si mohl vybrat nasmlouvanou odměnu. Toto jsme si nedomluvili. Pokud by šlo jen o reklamy uvnitř aplikace ještě bych to zakousnul ale to mi nikde garantováno není, klidně by mi tak mohli volat nejrůznější firmy.",
+      "text_normalized": "nelibi se mi ze je po mne vyzadovan souhlas s nabidkami tretich stran jen abych si mohl vybrat nasmlouvanou odmenu. toto jsme si nedomluvili. pokud by slo jen o reklamy uvnitr aplikace jeste bych to zakousnul ale to mi nikde garantovano neni, klidne by mi tak mohli volat nejruznejsi firmy.",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-22T14:53:05.798Z",
+      "replyText": "Hezká den, Dalibore, souhlasy s nabídkami Vodafonu nebo 3. stran si můžete upravit podle návodu, který najdete na https://www.vodafone.cz/pece/muj-ucet-cislo/o-vasem-zakaznickem-uctu/souhlas-s-os/?=fb. Petra",
+      "version": "3.5.1"
+    },
+    {
+      "id": "89dc3cff-ec2f-4700-98a7-0ae3ff86bfa0",
+      "userName": "Sabina Andryskova",
+      "date": "2026-01-22T14:37:34.500Z",
+      "score": 1,
+      "text": "dobrý den aplikacemi vůbec nefunguje,je mi k ničemu. Stará byla lepší.",
+      "text_normalized": "dobry den aplikacemi vubec nefunguje,je mi k nicemu. stara byla lepsi.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-22T14:50:19.681Z",
+      "replyText": "Hezký den, Sabino, je mi líto, že máte potíže s aplikací 😕 Napište nám prosím podrobnosti přes zabezpečený formulář https://tam.je/dotaz. Pomůžeme vám. Petra\n",
+      "version": "3.5.1"
+    },
+    {
+      "id": "7c4fb2cf-7570-4d9a-8ca8-33e89d42972a",
+      "userName": "alena martinkova",
+      "date": "2026-01-22T14:35:57.177Z",
+      "score": 1,
+      "text": "Po instalaci a nabídce otevřít se nelze přihlásit,aplikace zatuhne ( lego Vodafone ta kapka se stále točí)a musím restart mobil,to se opakuje stále dokola",
+      "text_normalized": "po instalaci a nabidce otevrit se nelze prihlasit,aplikace zatuhne ( lego vodafone ta kapka se stale toci)a musim restart mobil,to se opakuje stale dokola",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-22T14:51:52.990Z",
+      "replyText": "Hezký den, Aleno, je mi líto, že máte potíže s přihlášením 🙁 Zkuste prosí aplikaci přeinstalovat, a pokud by to nepomohlo, nepište nám přes https://tam.je/dotaz. Prověříme to. Petra",
+      "version": "3.5.1"
+    },
+    {
+      "id": "f3e38589-101e-4e4f-a9af-3f5ae62dd680",
+      "userName": "Martin Kaska",
+      "date": "2026-01-22T13:36:59.916Z",
+      "score": 1,
+      "text": "Aplikace se spusti ale v prehledu vidim jen \"Neco se nepovedlo\"",
+      "text_normalized": "aplikace se spusti ale v prehledu vidim jen \"neco se nepovedlo\"",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-01-22T13:53:51.123Z",
+      "replyText": "Hezký den, Martine. je mi líto, že máte potíže s aplikací 🙁 Zkuste ji prosím přeinstalovat, a pokud by to nepomohlo, napište nám prosím více informací přes zabezpečený formulář https://tam.je/dotaz. Prověříme to. Petra\n",
+      "version": "3.5.1"
+    },
+    {
+      "id": "1c6b7eb6-ba81-4103-bf7a-ff25f75fc36d",
+      "userName": "Db Hx",
+      "date": "2026-01-22T13:11:11.425Z",
+      "score": 5,
+      "text": "V pohodě",
+      "text_normalized": "v pohode",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-22T13:32:10.112Z",
+      "replyText": "Hezký den, děkujeme za vaše hodnocení 🙂 Petra",
+      "version": "3.5.1"
+    },
+    {
+      "id": "f4e6c452-7caf-4221-ba9c-6f010962171e",
+      "userName": "Roman Němec",
+      "date": "2026-01-22T13:03:44.520Z",
+      "score": 1,
+      "text": "věčně vidím, že \"něco se pokazilo, zkuste to prosím znovu\". Virtuální asistent Tobi úplně ničemnej.",
+      "text_normalized": "vecne vidim, ze \"neco se pokazilo, zkuste to prosim znovu\". virtualni asistent tobi uplne nicemnej.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-22T13:50:01.450Z",
+      "replyText": "Hezký den, Romane, je mi líto, že máte potíže s aplikací 🙁 Zkuste ji prosím přeinstalovat, a pokud by to nepomohlo, napište nám prosím podrobnosti přes https://tam.je/dotaz. Prověříme to. Petra\n",
+      "version": "3.5.1"
+    },
+    {
+      "id": "7a0a9536-b373-408f-93cc-2748d8c5f773",
+      "userName": "Martin Koci",
+      "date": "2026-01-22T12:59:32.552Z",
+      "score": 2,
+      "text": "Dávám 2 hvězdičky, že se mi alespoň podařilo přihlásit do aplikace. Po přihlášení vidím na displeji hromadu reklam na služby Vodafonu a až když sjezdu dolů, tak vidím informace o mých službách. Tak to si strčte za klobouk, nechci aplikaci zobrazující primárně reklamy.",
+      "text_normalized": "davam 2 hvezdicky, ze se mi alespon podarilo prihlasit do aplikace. po prihlaseni vidim na displeji hromadu reklam na sluzby vodafonu a az kdyz sjezdu dolu, tak vidim informace o mych sluzbach. tak to si strcte za klobouk, nechci aplikaci zobrazujici primarne reklamy.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-22T13:46:37.821Z",
+      "replyText": "Hezký den, Martine, je mi líto, že vám aplikace nevyhovuje 🙁 Na jejím vylepšení stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.5.1"
+    },
+    {
+      "id": "aee6aebf-a94b-4b5c-96a5-aa9fb74d800b",
+      "userName": "Jiří Moravec",
+      "date": "2026-01-22T12:57:16.502Z",
+      "score": 5,
+      "text": "OK",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-22T13:43:03.118Z",
+      "replyText": "Hezký den, Jiří, děkujeme za hodnocení 🙂 Těší mě, že se vám aplikace líbí 🙂 Petra",
+      "version": "3.5.1"
+    },
+    {
+      "id": "bcc8dc2b-e0b4-479c-9038-67ba216f6703",
+      "userName": "Vaclav Dlouhy",
+      "date": "2026-01-22T12:52:29.666Z",
+      "score": 1,
+      "text": "Nemohu přes aplikaci zaplatit vyúčtování jako dřív. Manželce se to taky nedaří. Že by soudruzi udělali někde chybu? Jinak je úplně jedno jak ta aplikace vypadá.",
+      "text_normalized": "nemohu pres aplikaci zaplatit vyuctovani jako driv. manzelce se to taky nedari. ze by soudruzi udelali nekde chybu? jinak je uplne jedno jak ta aplikace vypada.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-01-22T12:49:14.445Z",
+      "replyText": "Pěkný den, Václave,\nomlouvám se vám za komplikace 🙁 Momentálně se u některých zákazníků potýkáme s výpadkem a na opravě pracujeme. Prozatím je možné Vyúčtování uhradit třeba ve webové samoobsluze. Lucie",
+      "version": "3.5.1"
+    },
+    {
+      "id": "76685c35-e9b2-4909-870a-c029be6edd95",
+      "userName": "Jirka Petlan",
+      "date": "2026-01-22T12:45:32.566Z",
+      "score": 5,
+      "text": "Nedá se k ní vůbec přihlá Už OK",
+      "text_normalized": "neda se k ni vubec prihla uz ok",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-22T12:48:00.835Z",
+      "replyText": "Pěkný den, Jirko,\nděkujeme vám za hodnocení. Jsem ráda, pokud už je vše v pořádku 🙂 Lucie",
+      "version": "3.5.1"
+    },
+    {
+      "id": "278d20c4-25c8-4c1a-8478-f72f41a8bb54",
+      "userName": "Martin Rada",
+      "date": "2026-01-22T12:22:23.596Z",
+      "score": 1,
+      "text": "Jak můžete převádět své zákazníky na novou aplikaci, která vubec nefunguje. Jak mám platit vyúčtování, když nejde vubec rozklinknout? Proč novou aplikaci nejdříve pořádně neotestujete a pak vyladite? Tohle je hodně amatérský přístup.",
+      "text_normalized": "jak muzete prevadet sve zakazniky na novou aplikaci, ktera vubec nefunguje. jak mam platit vyuctovani, kdyz nejde vubec rozklinknout? proc novou aplikaci nejdrive poradne neotestujete a pak vyladite? tohle je hodne amatersky pristup.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-22T12:50:09.716Z",
+      "replyText": "Pěkný den, Martine,\nomlouvám se vám za komplikace 🙁 Vyúčtování bylo funkční, ale aktuálně se potýkáme s výpadkem na jehož opravě pracujeme. Prozatím je možné Vyúčtování uhradit ve webové samoobsluze. Lucie",
+      "version": "3.5.1"
+    },
+    {
+      "id": "386fe8f7-17c3-4858-81f7-6383312db170",
+      "userName": "Matouš Zub",
+      "date": "2026-01-22T10:55:19.760Z",
+      "score": 2,
+      "text": "Oproti staré aplikaci není možno platit ani qr kódem ani Google pay.",
+      "text_normalized": "oproti stare aplikaci neni mozno platit ani qr kodem ani google pay.",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-22T11:19:14.405Z",
+      "replyText": "Pěkný den, Matouši,\nmožnost platby QR kódem do aplikace plánujeme přidat. Pevně věřím, že se vám bude líbit více. Lucie",
+      "version": "3.5.1"
+    },
+    {
+      "id": "43046103-3331-4013-974a-9e4a8d662f45",
+      "userName": "Veny Rico",
+      "date": "2026-01-22T10:53:19.192Z",
+      "score": 1,
+      "text": "Dal bych minus pět, ale taková možnost neni. Kontaktovat podporu je nemožné. Pořád mi vnucujete robota, co nic neumí a ničemu nerozumí. Bezdůvodně mě odpojujete od sítě na cca 5 minut. Přišel jsem o část svojí práce, protože pracuji na systému, který potřebuje být neustále připojen k síti. Žádal jsem Vás, aby jste mě na Vaše plánované opravy a restarty upozornili dopředu, abych nemusel přijít o svou práci. Vám je to jedno, jde Vám jenom o prachy. Nejhorší operátor v Česku!",
+      "text_normalized": "dal bych minus pet, ale takova moznost neni. kontaktovat podporu je nemozne. porad mi vnucujete robota, co nic neumi a nicemu nerozumi. bezduvodne me odpojujete od site na cca 5 minut. prisel jsem o cast svoji prace, protoze pracuji na systemu, ktery potrebuje byt neustale pripojen k siti. zadal jsem vas, aby jste me na vase planovane opravy a restarty upozornili dopredu, abych nemusel prijit o svou praci. vam je to jedno, jde vam jenom o prachy. nejhorsi operator v cesku!",
+      "segments": [
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-22T11:20:24.411Z",
+      "replyText": "Hezký den,\nje mi líto, pokud došlo k nějakým potížím 🙁 Bohužel v případě neplánovaného výpadku nebo jiným komplikacím na síti, nemáme možnost vás informovat dopředu. Lucie",
+      "version": "3.5.1"
+    },
+    {
+      "id": "d5a6c130-148d-4907-8b6b-41082f5c5da2",
+      "userName": "Antonín Pohanka",
+      "date": "2026-01-22T10:29:50.253Z",
+      "score": 3,
+      "text": "trochu nepřehledné",
+      "text_normalized": "trochu neprehledne",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-01-22T10:51:24.685Z",
+      "replyText": "Hezký den, Antoníne, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na jejím vylepšení stále pracujeme, tak pevně věří, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.5.1"
+    },
+    {
+      "id": "12e96168-7e55-477f-83e3-bb2e1a9e3d23",
+      "userName": "Tomas Blazej",
+      "date": "2026-01-22T10:29:22.439Z",
+      "score": 1,
+      "text": "otřes, jsme zase v devadesatkach? 🤣 MOBILNÍ miliardový operátor a neumi udělat nativní MOBILNÍ appku, smutný příběh.",
+      "text_normalized": "otres, jsme zase v devadesatkach? 🤣 mobilni miliardovy operator a neumi udelat nativni mobilni appku, smutny pribeh.",
+      "segments": [
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-22T10:52:22.160Z",
+      "replyText": "Hezký den, Tomáši, je mi líto, že vám aplikace nevyhovuje 🙁 Stále ji vylepšujeme a přidáváme do ní nové funkce, tak věřím, že s ní budete do budoucna spokojenější. Petra",
+      "version": "3.5.1"
+    },
+    {
+      "id": "970de82b-2477-4930-a9f9-4ec536a12abf",
+      "userName": "Petr husarik",
+      "date": "2026-01-22T10:23:45.264Z",
+      "score": 3,
+      "text": "seká se musel jsem preinstalovat a několikrát vypnout a zapnout",
+      "text_normalized": "seka se musel jsem preinstalovat a nekolikrat vypnout a zapnout",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-01-22T10:53:56.150Z",
+      "replyText": "Hezký den, Petře, děkujeme za hodnocení. Pokud by potíže přetrvávaly i po přeinstalování, napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Naši technici to prověří. Petra\n",
+      "version": "3.5.1"
+    },
+    {
+      "id": "f594ddab-60a5-44a6-939d-12f28ee7eb16",
+      "userName": "Jakub Zůna",
+      "date": "2026-01-22T09:40:07.869Z",
+      "score": 1,
+      "text": "Při pokusu o přihlášení se, aplikace vždy spadne.",
+      "text_normalized": "pri pokusu o prihlaseni se, aplikace vzdy spadne.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-22T09:51:35.220Z",
+      "replyText": "Pěkný den, Jakube,\nje mi líto, že máte potíže s přihlášením 🙁 Zkuste prosím aplikaci přeinstalovat. Pokud to nepomůže, napište nám prosím detaily přes https://tam.je/engform, rádi se na to podíváme. Lucie",
+      "version": "3.5.1"
+    },
+    {
+      "id": "f5f9a6cc-b7de-49b4-8324-0e0052a10250",
+      "userName": "Jan Borůvka",
+      "date": "2026-01-22T09:39:53.873Z",
+      "score": 1,
+      "text": "Ani po přeinstalaci se nejde přihlásit. Aplikace se seká, nakonec je problém jí i shodit. Reakce Vodafonu ne zpětnou vazbu jsou jen prefabrikované korporátní žvásty.",
+      "text_normalized": "ani po preinstalaci se nejde prihlasit. aplikace se seka, nakonec je problem ji i shodit. reakce vodafonu ne zpetnou vazbu jsou jen prefabrikovane korporatni zvasty.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-22T09:52:20.721Z",
+      "replyText": "Pěkný den, Jane,\nje mi líto, že ani po přeinstalování aplikace nefunguje 🙁 Napište nám prosím detaily přes zabezpečený formulář na https://tam.je/engform, abychom se na to mohli podívat konkrétněji. Lucie",
+      "version": "3.5.1"
+    },
+    {
+      "id": "c669315d-fd4c-4a2e-8db2-05bf1a5e11be",
+      "userName": "Jakub Jelínek",
+      "date": "2026-01-22T08:57:04.737Z",
+      "score": 1,
+      "text": "Hrozná aplikace oproti staré, všechno na co kliknete se načítá minimálně 10 vteřin zatímco se koukáte na to jejich krásné animované logo nebo bílou obrazovku.",
+      "text_normalized": "hrozna aplikace oproti stare, vsechno na co kliknete se nacita minimalne 10 vterin zatimco se koukate na to jejich krasne animovane logo nebo bilou obrazovku.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-22T09:17:05.537Z",
+      "replyText": "Pěkný den, Jakube,\nje mi líto, že se vám aplikace nelíbí 🙁 Budeme se snažit, abyste byl do budoucna spokojenější. Lucie",
+      "version": "3.5.1"
+    },
+    {
+      "id": "4e2f6fc5-9408-42ea-9411-3652f1c5e693",
+      "userName": "panzerjager",
+      "date": "2026-01-22T08:35:35.831Z",
+      "score": 1,
+      "text": "Takže operátor mě donutí přejít na novou aplikaci, kde nejdou dělat některé úkony jako dřív. Rozhodně ne tak přívětivě. Nechápu...",
+      "text_normalized": "takze operator me donuti prejit na novou aplikaci, kde nejdou delat nektere ukony jako driv. rozhodne ne tak privetive. nechapu...",
+      "segments": [
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-01-22T09:05:13.923Z",
+      "replyText": "Dobrý den,\nmrzí mě, že vám aplikace nevyhovuje 🙁 Některé funkce plánujeme postupně doplňovat, tak věřím, že vaše zkušenost bude lepší. Katka",
+      "version": "3.5.1"
+    },
     {
       "id": "1fa571eb-cff5-47bb-9f50-cc91a854a5cc",
       "userName": "Mivami Paty",
@@ -22786,8 +23210,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1579,
-    "extractedAt": "2026-01-23T05:52:47.268Z",
+    "totalReviewsExtracted": 1608,
+    "extractedAt": "2026-01-24T05:43:58.601Z",
     "source": "google-play"
   }
 }
