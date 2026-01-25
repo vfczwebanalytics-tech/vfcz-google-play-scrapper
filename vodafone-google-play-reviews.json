@@ -1,18 +1,107 @@
 {
   "ratings": {
-    "score": 2.886256,
+    "score": 2.942478,
     "scoreText": "2,9",
-    "totalRatings": 2106,
-    "totalReviews": 1005,
+    "totalRatings": 2119,
+    "totalReviews": 1014,
     "histogram": {
-      "1": 967,
-      "2": 99,
-      "3": 69,
-      "4": 139,
-      "5": 827
+      "1": 937,
+      "2": 102,
+      "3": 74,
+      "4": 149,
+      "5": 852
     }
   },
   "reviews": [
+    {
+      "id": "51052fe9-bc30-4c77-ab96-a6c239e5bb28",
+      "userName": "Nataša Šmoková",
+      "date": "2026-01-23T15:58:26.519Z",
+      "score": 1,
+      "text": "Aplikace je velmi zpomalená a přesměrování loginu na stránky Vodafone je zamrzlé.",
+      "text_normalized": "aplikace je velmi zpomalena a presmerovani loginu na stranky vodafone je zamrzle.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-23T16:52:19.491Z",
+      "replyText": "Dobrý den, Natašo,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby to nepomohlo, napište nám na náš e-mail aplikace@vodafone.cz a my se na to podrobně podíváme. Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "73eae3ef-6fc4-461f-b04e-ffcf64d9bc75",
+      "userName": "Jan Matěcha",
+      "date": "2026-01-23T15:56:46.322Z",
+      "score": 5,
+      "text": "jsem spokojen",
+      "text_normalized": "jsem spokojen",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-23T16:52:44.850Z",
+      "replyText": "Dobrý den, Jane,\nděkuji vám za krásné hodnocení a jsem ráda, že jste spokojený 🙂 Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "36f74d86-d547-44f2-bc97-d8d04e1c5c06",
+      "userName": "Dan Dvorský",
+      "date": "2026-01-23T08:06:54.783Z",
+      "score": 1,
+      "text": "PROČ nemá aplikace widget?",
+      "text_normalized": "proc nema aplikace widget?",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-23T08:23:29.760Z",
+      "replyText": "Dobrý den, Dane,\nmrzí mě, že vám aplikace v tomto směru nevyhovuje. Widgety v nových verzích nepodporujeme — většina zákazníků má dnes neomezené tarify, u kterých nemají moc využití. Aplikaci ale dál rozvíjíme a hledáme způsoby, jak ji udělat co nejpraktičtější. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "2ffc012f-9da5-430e-a5bd-5aa7912f855e",
+      "userName": "Karel Hruza",
+      "date": "2026-01-23T07:58:27.912Z",
+      "score": 2,
+      "text": "Stasna aplikace. Samovolne se odhlašuje i po 5 minutach. z nesmyslneho důvodu se musim přihlašovat přes dvoufaktor a nejde to vypnout. A ty odpovědi tady od operatorek jsou vysmivani nestastnym zákazníkům.",
+      "text_normalized": "stasna aplikace. samovolne se odhlasuje i po 5 minutach. z nesmyslneho duvodu se musim prihlasovat pres dvoufaktor a nejde to vypnout. a ty odpovedi tady od operatorek jsou vysmivani nestastnym zakaznikum.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-23T08:27:53.830Z",
+      "replyText": "Dobrý den, Karle,\nmrzí mě, že máte s aplikací takovou zkušenost. Dvoufaktorové přihlášení bohužel z bezpečnostních důvodů vypnout nejde, ale můžete si zapnout biometrické přihlášení. V případě potíží ji zkuste prosím přeinstalovat — často to pomůže (pak jen bude potřeba si znovu nastavit biometriku ). Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "76d6dc60-ccec-4606-8ce1-806c7dc85751",
+      "userName": "David Cicha",
+      "date": "2026-01-23T06:03:41.616Z",
+      "score": 1,
+      "text": "Bohužel na Redmi 11 Note, ani na Redmi 13 Note tato aplikace nelze spustit. Nedokázal to ani zaměstnanec v pobočce Vodafone. Nedokázal mi poradit... Takže po zrušení minulé aplikace nejsem schopen se do účtu dostat. Po problémech s Vodafone TV na televizi s OS Google TV, neustálém zdražování, uvažuji o změně poskytovatele služeb. Jo, a je mi líto, že jsem musel ohodnotit jednou hvězdou - jinak recenze nejde zveřejnit",
+      "text_normalized": "bohuzel na redmi 11 note, ani na redmi 13 note tato aplikace nelze spustit. nedokazal to ani zamestnanec v pobocce vodafone. nedokazal mi poradit... takze po zruseni minule aplikace nejsem schopen se do uctu dostat. po problemech s vodafone tv na televizi s os google tv, neustalem zdrazovani, uvazuji o zmene poskytovatele sluzeb. jo, a je mi lito, ze jsem musel ohodnotit jednou hvezdou - jinak recenze nejde zverejnit",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Cena"
+      ],
+      "replyDate": "2026-01-23T06:30:18.757Z",
+      "replyText": "Hezký den, Davide, mrzí mě že máte potíže se spuštěním aplikace 🙁 Napište nám prosím podrobnosti přes zabezpečený formulář https://tam.je/dotaz. Naši technici to prověří. Petra\n",
+      "version": "3.5.1"
+    },
+    {
+      "id": "68f0f386-9a7b-4af6-a825-5424a0fef408",
+      "userName": "Petr Novak",
+      "date": "2026-01-23T05:57:44.469Z",
+      "score": 1,
+      "text": "Nová appka stojí za ... .....",
+      "text_normalized": "nova appka stoji za ... .....",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-23T06:32:15.472Z",
+      "replyText": "Hezký den, Petře, je mi líto, že aplikace nesplnila vaše očekávání. Na jejím vylepšení a přidávání nových funkcí stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.5.1"
+    },
     {
       "id": "676e0261-65bc-41e1-8344-5580dab034ed",
       "userName": "Pavel Volf",
@@ -23210,8 +23299,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1608,
-    "extractedAt": "2026-01-24T05:43:58.601Z",
+    "totalReviewsExtracted": 1614,
+    "extractedAt": "2026-01-25T05:53:03.628Z",
     "source": "google-play"
   }
 }
