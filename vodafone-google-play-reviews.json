@@ -1,18 +1,151 @@
 {
   "ratings": {
-    "score": 2.942478,
-    "scoreText": "2,9",
-    "totalRatings": 2119,
-    "totalReviews": 1014,
+    "score": 2.9681275,
+    "scoreText": "3,0",
+    "totalRatings": 2146,
+    "totalReviews": 1027,
     "histogram": {
-      "1": 937,
+      "1": 931,
       "2": 102,
-      "3": 74,
-      "4": 149,
-      "5": 852
+      "3": 75,
+      "4": 170,
+      "5": 863
     }
   },
   "reviews": [
+    {
+      "id": "b3b52092-a465-459f-bd3d-bbac6ba3b0c3",
+      "userName": "Tomáš Werner",
+      "date": "2026-01-24T16:09:31.824Z",
+      "score": 1,
+      "text": "Jak ze špatné aplikace udělat ještě horší a nepřehlednější. Mám rodinný tarif. Používal jsem 3 funkce: Widget se spotřebou dat a PŘÍMO(!) v aplikaci nastavení sdílení dat a kontrolu vyúčtování. PROČ to v nové apce nejednou nejde? Aha, už vím! Přejdi na neomezený tarif a nebudeš nic z toho potřebovat! No jo, zaplatíš víc, ale jsme obchodníci. (Nebo něco horšího?) Možná by bylo dobře si uvědomit, že my zákazníci vás nepotřebujeme, my si můžeme vybírat. To vy potřebujete nás. A Revolut se blíží...",
+      "text_normalized": "jak ze spatne aplikace udelat jeste horsi a neprehlednejsi. mam rodinny tarif. pouzival jsem 3 funkce: widget se spotrebou dat a primo(!) v aplikaci nastaveni sdileni dat a kontrolu vyuctovani. proc to v nove apce nejednou nejde? aha, uz vim! prejdi na neomezeny tarif a nebudes nic z toho potrebovat! no jo, zaplatis vic, ale jsme obchodnici. (nebo neco horsiho?) mozna by bylo dobre si uvedomit, ze my zakaznici vas nepotrebujeme, my si muzeme vybirat. to vy potrebujete nas. a revolut se blizi...",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-25T08:47:49.109Z",
+      "replyText": "Dobrý den, Tomáši,\nděkujeme za zpětnou vazbu a podněty. Widgety zatím aplikace Můj Vodafone+ nepodporuje 🙁 Na rozšiřování funkcí budeme ale nadále pracovat... Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "0ed22e21-cc83-42eb-bfa8-ef4b4929e32e",
+      "userName": "Luděk Štěpnička (Cmoudicek007)",
+      "date": "2026-01-24T15:43:25.781Z",
+      "score": 3,
+      "text": "Widget nebude? Apka nic moc. Připadá mi že je pomalejší než ta kterou rušite",
+      "text_normalized": "widget nebude? apka nic moc. pripada mi ze je pomalejsi nez ta kterou rusite",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-24T15:58:00.828Z",
+      "replyText": "Dobrý den, Luďku,\ns widgetem zatím nepočítáme. Obecně ale můžu napsat, že na vylepšování aplikace stále pracujeme, a věřím, že v budoucnu bude vaše zkušenost lepší. Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "037f3b02-c7ba-4fbd-9402-d96e652abc3e",
+      "userName": "Ztr Ztr",
+      "date": "2026-01-24T13:22:42.416Z",
+      "score": 1,
+      "text": "nefunguje jak má 🤔 tak že to samé co předchozí aplikace, krom změny ikony 🤣",
+      "text_normalized": "nefunguje jak ma 🤔 tak ze to same co predchozi aplikace, krom zmeny ikony 🤣",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-24T13:42:08.701Z",
+      "replyText": "Dobrý den,\npokud pro nás budete mít konkrétní zpětnou vazbu, budeme za ni rádi, aplikaci se snažíme stále rozvíjet a vylepšovat. Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "17da445b-0b6e-436a-b689-895f9a3b3e83",
+      "userName": "PG",
+      "date": "2026-01-24T12:44:10.590Z",
+      "score": 1,
+      "text": "Je to stejná tragédie jako ta předchozí aplikace, navíc zmizela možnost přidat si widget s čerpáním dát, který sice u staré aplikace téměř nefungoval. ale aspoň existoval.",
+      "text_normalized": "je to stejna tragedie jako ta predchozi aplikace, navic zmizela moznost pridat si widget s cerpanim dat, ktery sice u stare aplikace temer nefungoval. ale aspon existoval.",
+      "segments": [
+        "Vykonnost",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-24T13:40:33.997Z",
+      "replyText": "Dobrý den,\nděkuji vám za hodnocení. Na aplikaci stále pracujeme, tak věřím, že v budoucnu bude vaše zkušenost lepší. Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "e328d048-8022-47a3-8e02-3b0029550301",
+      "userName": "Karla Ulbrichtova",
+      "date": "2026-01-24T12:31:46.195Z",
+      "score": 5,
+      "text": "bByla jsem spokojená a jsem spokojená. co potřebuji, vždy najdu.",
+      "text_normalized": "bbyla jsem spokojena a jsem spokojena. co potrebuji, vzdy najdu.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-24T13:40:59.974Z",
+      "replyText": "Dobrý den, Karlo,\nděkuji vám za hodnocení a zpětnou vazbu 🙂 Katka",
+      "version": "3.4.1"
+    },
+    {
+      "id": "7e164d57-277a-42ab-8801-f6e309838db5",
+      "userName": "Jiří Drahokoupil",
+      "date": "2026-01-24T11:36:26.670Z",
+      "score": 5,
+      "text": "vše v naprostém pořádku",
+      "text_normalized": "vse v naprostem poradku",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-24T13:39:40.794Z",
+      "replyText": "Hezký den, Jiří,\nděkuji vám za krásné hodnocení a jsem ráda, že vám aplikace funguje správně 🙂 Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "9d34390a-6210-464a-9e87-1aa364d855b9",
+      "userName": "Vladimír Hořava",
+      "date": "2026-01-24T10:26:24.980Z",
+      "score": 1,
+      "text": "Nepřehledná aplikace, kde hledám a hledám a hledám..... a nenajdu.",
+      "text_normalized": "neprehledna aplikace, kde hledam a hledam a hledam..... a nenajdu.",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-01-24T11:21:53.500Z",
+      "replyText": "Dobrý den, Vladimíre,\nděkujeme za zpětnou vazbu. Pošlete nám prosím svoje dotazy přes https://tam.je/google a my vám poradíme 🙂 Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "e73091fe-ff95-47de-9dcc-411b2e13e842",
+      "userName": "jan kubny",
+      "date": "2026-01-24T09:59:59.260Z",
+      "score": 1,
+      "text": "Vůbec se dnes nedá přihlásit a stále mne to vyhazuje na hlavni stránku....",
+      "text_normalized": "vubec se dnes neda prihlasit a stale mne to vyhazuje na hlavni stranku....",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-24T10:40:51.991Z",
+      "replyText": "Hezký den, Jane,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby to nepomohlo, napište nám prosím na https://tam.je/google a my s vámi všechno projdeme 🙂 Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "c6ebfd51-3a84-4c3c-8d51-379a0ea3490c",
+      "userName": "Romisek Romiskovej",
+      "date": "2026-01-24T09:19:09.987Z",
+      "score": 1,
+      "text": "K čemu je taková aplikace, když přes ni nejde zaplatit vyúčtování ?",
+      "text_normalized": "k cemu je takova aplikace, kdyz pres ni nejde zaplatit vyuctovani ?",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-24T09:43:03.872Z",
+      "replyText": "Hezký den, Romisku,\nv aplikaci najdete všechny informace k platbě a uhradit pak můžete jiným způsobem, například převodem, případně z bankomatu a podobně 🙂 Katka",
+      "version": "3.5.1"
+    },
     {
       "id": "51052fe9-bc30-4c77-ab96-a6c239e5bb28",
       "userName": "Nataša Šmoková",
@@ -23299,8 +23432,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1614,
-    "extractedAt": "2026-01-25T05:53:03.628Z",
+    "totalReviewsExtracted": 1623,
+    "extractedAt": "2026-01-26T05:58:00.282Z",
     "source": "google-play"
   }
 }
