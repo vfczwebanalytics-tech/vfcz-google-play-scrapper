@@ -1,18 +1,198 @@
 {
   "ratings": {
-    "score": 2.9681275,
-    "scoreText": "3,0",
-    "totalRatings": 2146,
-    "totalReviews": 1027,
+    "score": 3.145,
+    "scoreText": "3,1",
+    "totalRatings": 2169,
+    "totalReviews": 1034,
     "histogram": {
-      "1": 931,
-      "2": 102,
-      "3": 75,
-      "4": 170,
-      "5": 863
+      "1": 834,
+      "2": 107,
+      "3": 86,
+      "4": 183,
+      "5": 954
     }
   },
   "reviews": [
+    {
+      "id": "c5efe0c8-e3ad-41a6-912e-4def429335fc",
+      "userName": "David Vučkan",
+      "date": "2026-01-25T16:36:43.289Z",
+      "score": 1,
+      "text": "uz nekolikrat co jsem se pokusil zaplatit prez tuhle verzi vodafone mam problém ze pri platbe mi to penize strhne ale na jejich apce mi to ukaze \"platba nebyla uspesna zkuste to znovu\" ale penize z uctu to strhne nechapu proc mazou starou vodafone apku kfyz tohle funguje jak kdyz nefunguje uz po 3 musim volat na pobocku...",
+      "text_normalized": "uz nekolikrat co jsem se pokusil zaplatit prez tuhle verzi vodafone mam problem ze pri platbe mi to penize strhne ale na jejich apce mi to ukaze \"platba nebyla uspesna zkuste to znovu\" ale penize z uctu to strhne nechapu proc mazou starou vodafone apku kfyz tohle funguje jak kdyz nefunguje uz po 3 musim volat na pobocku...",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-26T06:12:07.570Z",
+      "replyText": "Pěkný den, Davide,\npokud k této situaci dochází, určitě nám o tom dejte vědět přes https://tam.je/dotaz, ať to můžeme řešit s technickým oddělením přímo k vašemu účtu. Nezapomeňte přiložit i screenshoty, budeme potřebovat přesné datum a čas. Veronika",
+      "version": "3.5.1"
+    },
+    {
+      "id": "19d81755-f984-498a-b94f-fe3193550ea6",
+      "userName": "Jana Kroulova",
+      "date": "2026-01-25T14:53:23.256Z",
+      "score": 1,
+      "text": "staženo a nefunkční nejde se vůbec přihlásit. Když už nás nutíte do nové appky tak ať aspoň funguje.",
+      "text_normalized": "stazeno a nefunkcni nejde se vubec prihlasit. kdyz uz nas nutite do nove appky tak at aspon funguje.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-25T15:24:00.306Z",
+      "replyText": "Dobrý den, Jano,\ndo aplikace se přihlásíte dvoufázově - tj. e-mailem a vlastním heslem, poté SMS kódem. Pokud vám toto nefunguje, napište nám prosím na aplikace@vodafone.cz a my všechno zkontrolujeme. Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "646796b0-8c04-445f-a06d-41e378ed595c",
+      "userName": "Václav Štechmüller",
+      "date": "2026-01-25T13:47:42.103Z",
+      "score": 1,
+      "text": "Od kdy má tato aplikace začít fungovat?",
+      "text_normalized": "od kdy ma tato aplikace zacit fungovat?",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-25T14:02:43.232Z",
+      "replyText": "Hezký den, Václave,\naplikaci si můžete stáhnout a rovnou využívat. Přihlásíte se do ní e-mailem a vlastním alfanumerickým heslem, v druhé fázi SMS kódem 🙂 Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "ccf32574-7799-46a5-be17-2b5ca4db6e2f",
+      "userName": "Miroslav Koch",
+      "date": "2026-01-25T12:52:40.950Z",
+      "score": 1,
+      "text": "Velký krok zpět. apka nechodí na tabletu (v landscape režimu) platba jen po opsání bankovních údajů. Žádný QR kód pro platbu, ani platební brána pro karty. Ve službách ukazuje jen údaje za zúčtovací období, nikoli aktuální po změně. Takže se vracím k webové samoobsluze.",
+      "text_normalized": "velky krok zpet. apka nechodi na tabletu (v landscape rezimu) platba jen po opsani bankovnich udaju. zadny qr kod pro platbu, ani platebni brana pro karty. ve sluzbach ukazuje jen udaje za zuctovaci obdobi, nikoli aktualni po zmene. takze se vracim k webove samoobsluze.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-01-25T13:57:36.277Z",
+      "replyText": "Dobrý den, Miroslave,\nděkujeme vám za hodnocení a konkrétní zpětnou vazbu, kterou předávám dále na příslušné oddělení. Všechny podněty od zákazníků sbíráme a budeme na vylepšování aplikace dále pracovat. Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "87900c51-68cf-4700-8b65-7ab6ffa1cd3f",
+      "userName": "1",
+      "date": "2026-01-25T12:51:56.707Z",
+      "score": 4,
+      "text": "Hoodně se to zlepšilo.",
+      "text_normalized": "hoodne se to zlepsilo.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-25T13:58:11.331Z",
+      "replyText": "Hezký den,\nděkujeme za hezké hodnocení a jsme rádi, že vidíte změny 🙂 Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "07abb60d-f925-4f46-a7d9-9325663bc41c",
+      "userName": "Hana Turečková",
+      "date": "2026-01-25T12:44:31.243Z",
+      "score": 1,
+      "text": "Nainstalovala, ale přihlásit se nepodařilo - error, zablokováno Vodafonem... S tím jděte fakt do p...e! Edit: ne, nepřihlásím se nijak, rovnou mi to ukáže error z vaší strany.",
+      "text_normalized": "nainstalovala, ale prihlasit se nepodarilo - error, zablokovano vodafonem... s tim jdete fakt do p...e! edit: ne, neprihlasim se nijak, rovnou mi to ukaze error z vasi strany.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-25T12:36:24.494Z",
+      "replyText": "Dobrý den, Hano,\ndo aplikace se přihlásíte dvoufázově - nejdříve e-mailem a vlastním alfanumerickým heslem, potom SMS kódem. Pokud se vám to nedaří, napište nám prosím na aplikace@vodafone.cz a my to zkontrolujeme. Katka",
+      "version": null
+    },
+    {
+      "id": "ded321b6-b9e3-4bae-ade2-7ed2b663c9f1",
+      "userName": "Michal Šelepa",
+      "date": "2026-01-25T12:42:21.683Z",
+      "score": 1,
+      "text": "Chci zaplatit vyúčtování a buď se nejde přihlásit a nebo aplikace celá přestane fungovat. Katastrofa, nevím proč nenechali původní funkční aplikaci",
+      "text_normalized": "chci zaplatit vyuctovani a bud se nejde prihlasit a nebo aplikace cela prestane fungovat. katastrofa, nevim proc nenechali puvodni funkcni aplikaci",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-25T13:59:15.606Z",
+      "replyText": "Dobrý den, Michale,\nto je mi líto 🙁 Zkuste aplikaci odinstalovat a znovu stáhnout, prosím. Kdyby to nepomohlo, napište nám více na náš e-mail aplikace@vodafone.cz. Katka\n",
+      "version": "3.5.0"
+    },
+    {
+      "id": "eeafb2ac-2aef-4e6d-acb1-f7f03bbed791",
+      "userName": "Silenoz 666",
+      "date": "2026-01-25T12:09:14.458Z",
+      "score": 1,
+      "text": "Tak jsem tu slávu nainstaloval. Vypadá zcela stejně, či možná i hůř než předchůdce. Ve spodní liště mám aktivní pouze ÚVOD a ÚČET... to jistě využiji :D Proč vždy když něco funguje na 100% se to musí předělat a udělat 3x horší, proč????",
+      "text_normalized": "tak jsem tu slavu nainstaloval. vypada zcela stejne, ci mozna i hur nez predchudce. ve spodni liste mam aktivni pouze uvod a ucet... to jiste vyuziji :d proc vzdy kdyz neco funguje na 100% se to musi predelat a udelat 3x horsi, proc????",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-25T12:37:15.117Z",
+      "replyText": "Dobrý den,\nje mi líto, že nejste s aplikací spokojený 🙁 Děkuji vám za zpětnou vazbu, kterou předám dále. Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "9bffdda5-3783-4280-af13-8c616467cf3f",
+      "userName": "David Závacký",
+      "date": "2026-01-25T11:12:23.176Z",
+      "score": 1,
+      "text": "Dobrý den, vaše aplikace je zřejmě kouzelná a potřebuje nějaké zaříkávadlo bohužel jste ho zapomněli uživatelům sdělit. Za mou osobu je tato aplikace je úplně k ničemu.",
+      "text_normalized": "dobry den, vase aplikace je zrejme kouzelna a potrebuje nejake zarikavadlo bohuzel jste ho zapomneli uzivatelum sdelit. za mou osobu je tato aplikace je uplne k nicemu.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-25T11:50:42.393Z",
+      "replyText": "Hezký den, Davide,\nděkuji vám za hodnocení. Když nám budete chtít napsat víc, dejte nám vědět na aplikace@vodafone.cz 🙂 Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "b2e0fa8c-fae5-444c-9e33-f32dd9574628",
+      "userName": "Lukas Marik",
+      "date": "2026-01-25T11:06:22.650Z",
+      "score": 2,
+      "text": "nejde mi přes aplikaci dobít kredit ... respektive popup na zadání tel. čísla vyjede nicméně jakmile kliknu na input pro zadání tel. čísla tak klávesnice jen problikne tedy Focus na input se ihned ztratí",
+      "text_normalized": "nejde mi pres aplikaci dobit kredit ... respektive popup na zadani tel. cisla vyjede nicmene jakmile kliknu na input pro zadani tel. cisla tak klavesnice jen problikne tedy focus na input se ihned ztrati",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-25T11:52:52.739Z",
+      "replyText": "Dobrý den, Lukasi,\nna toto se potřebujeme podívat konkrétně. Napište nám prosím na aplikace@vodafone.cz a my se vašimi potížemi budeme zabývat. Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "51433477-483c-4664-b6a8-fb0392857e8d",
+      "userName": "Zajel Tam",
+      "date": "2026-01-25T10:34:57.511Z",
+      "score": 1,
+      "text": "Proč si nemůžu dobít kredit třeba za 100,- nebo 50,-KC? Proč mám v aplikaci jako první kolonku nabídky na míru? Myslíte si že kredit mám jen omylem nebo nedopatřením? proč musím udělat 3 úkony než se dostanu do nabídky aplikace? Proč kolonka dobít kredit není první? Proč máte tak zlodějské ceny u datových balíčku? Proč musím pokaždé od-klikávat cookies?Jak je možné že jeden z největších operátorů je tak extréme neschopný a drahý? Proč přez známost dostanou 1/3ceny a běžní lidé platí majlant?",
+      "text_normalized": "proc si nemuzu dobit kredit treba za 100,- nebo 50,-kc? proc mam v aplikaci jako prvni kolonku nabidky na miru? myslite si ze kredit mam jen omylem nebo nedopatrenim? proc musim udelat 3 ukony nez se dostanu do nabidky aplikace? proc kolonka dobit kredit neni prvni? proc mate tak zlodejske ceny u datovych balicku? proc musim pokazde od-klikavat cookies?jak je mozne ze jeden z nejvetsich operatoru je tak extreme neschopny a drahy? proc prez znamost dostanou 1/3ceny a bezni lide plati majlant?",
+      "segments": [
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-25T11:38:24.270Z",
+      "replyText": "Dobrý den,\nděkuji vám za hodnocení a připomínky, které předám dále do firmy. Všechny podněty od zákazníků sbíráme a budeme na vylepšování aplikace dále pracovat. Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "cd1a0720-9848-40bd-8515-97a9d9f986bb",
+      "userName": "David Holub",
+      "date": "2026-01-25T10:30:08.679Z",
+      "score": 1,
+      "text": "Prosím o zavedení Gpay !!!!",
+      "text_normalized": "prosim o zavedeni gpay !!!!",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-01-25T11:39:15.323Z",
+      "replyText": "Hezký den, Davide,\nděkuji za podnět. Zatím pro vás nemám konkrétní informace, ale na rozšiřování funkcí budeme nadále pracovat 🙂 Katka",
+      "version": "3.5.1"
+    },
     {
       "id": "b3b52092-a465-459f-bd3d-bbac6ba3b0c3",
       "userName": "Tomáš Werner",
@@ -23432,8 +23612,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1623,
-    "extractedAt": "2026-01-26T05:58:00.282Z",
+    "totalReviewsExtracted": 1635,
+    "extractedAt": "2026-01-27T05:53:30.181Z",
     "source": "google-play"
   }
 }
