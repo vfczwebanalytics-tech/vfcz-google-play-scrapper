@@ -1,18 +1,177 @@
 {
   "ratings": {
-    "score": 3.162896,
-    "scoreText": "3,2",
-    "totalRatings": 2189,
-    "totalReviews": 1046,
+    "score": 3.107438,
+    "scoreText": "3,1",
+    "totalRatings": 2208,
+    "totalReviews": 1059,
     "histogram": {
-      "1": 841,
-      "2": 108,
-      "3": 79,
-      "4": 167,
-      "5": 989
+      "1": 866,
+      "2": 127,
+      "3": 81,
+      "4": 163,
+      "5": 967
     }
   },
   "reviews": [
+    {
+      "id": "857b9594-0472-41dd-b901-f16ebaf15e77",
+      "userName": "Lukáš Nový",
+      "date": "2026-01-28T04:07:02.697Z",
+      "score": 1,
+      "text": "v podstatě stejná appka jako předtím, neustále chce ale updaty což jí činní nepoužitelnou pokaždé když bych ji potřeboval. zbytečná změna.",
+      "text_normalized": "v podstate stejna appka jako predtim, neustale chce ale updaty coz ji cinni nepouzitelnou pokazde kdyz bych ji potreboval. zbytecna zmena.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-28T06:22:39.190Z",
+      "replyText": "Dobrý den, Lukáši,\ndo aplikace postupně přidáváme nové funkce a možnosti, proto jsou nyní aktualizace častější než obvykle. Děkujeme za vaše pochopení. Martina",
+      "version": "3.5.1"
+    },
+    {
+      "id": "627e898c-8e4f-42f0-bbec-4e860b1379d0",
+      "userName": "Zdenek Jaroš",
+      "date": "2026-01-28T01:59:39.391Z",
+      "score": 1,
+      "text": "nepřehledné, vypadá jen jako prodej alužeb, nic nejde nastavit.",
+      "text_normalized": "neprehledne, vypada jen jako prodej aluzeb, nic nejde nastavit.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-28T06:20:39.340Z",
+      "replyText": "Dobrý den, Zdenku,\nmrzí mě, že aplikace nesplnila vaše očekávání. Aplikaci rozvíjíme a nové funkce budou implementovány v dalších verzích. Budeme rádi, když ji dáte ještě šanci. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "71400aa6-330d-4b34-a474-4f655bbdc3c5",
+      "userName": "Jiří Nowak",
+      "date": "2026-01-27T18:39:49.328Z",
+      "score": 5,
+      "text": "App je zdařilá a přehledná. Určitě lepší, než její předchozí verze. Funguje dobře.",
+      "text_normalized": "app je zdarila a prehledna. urcite lepsi, nez jeji predchozi verze. funguje dobre.",
+      "segments": [
+        "UI",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-28T06:18:41.556Z",
+      "replyText": "Hezký den, Jiří,\nděkujeme vám za hodnocení a milou zpětnou vazbu 🙂 Jsem ráda, že vám nová aplikace vyhovuje. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "6329ae7b-b30e-49b4-b64f-a071023c0745",
+      "userName": "DirtyBall",
+      "date": "2026-01-27T17:29:39.497Z",
+      "score": 1,
+      "text": "Nelze přejít na eSIM. Opakovaně hlásí, že objednávka nebyla dokončena.",
+      "text_normalized": "nelze prejit na esim. opakovane hlasi, ze objednavka nebyla dokoncena.",
+      "segments": [
+        "Obmezene_funkce",
+        "Cena"
+      ],
+      "replyDate": "2026-01-27T17:41:33.423Z",
+      "replyText": "Hezký den,\nje mi líto, že máte potíže s aplikací 🙁 Doporučuji aplikaci přeinstalovat, poté by vám měla jít objednávka dokončit. V případě, že by potíže přetrvávaly, zavolejte nám na linku *77 a kolegové se na to s vámi podívají. Zuzana",
+      "version": "3.5.1"
+    },
+    {
+      "id": "6402910e-e0c2-4148-b530-2d02fe58f221",
+      "userName": "Lukáš Volenec",
+      "date": "2026-01-27T17:29:11.354Z",
+      "score": 2,
+      "text": "No nevím, je to složité a nepřehledné. Snad to časem doladí. Tohke je spíš za trest",
+      "text_normalized": "no nevim, je to slozite a neprehledne. snad to casem doladi. tohke je spis za trest",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-01-27T17:42:48.893Z",
+      "replyText": "Hezký den, Lukáši,\nmrzí mě, že vám aplikace nevyhovuje, postupně ji vylepšujeme a přidáváme do ní další funknce, věřím, že se vám v budoucnu bude líbit více. Zuzana",
+      "version": "3.5.1"
+    },
+    {
+      "id": "9fcd751c-5401-4b00-a252-e81c4e2e6f07",
+      "userName": "Milan Hromada",
+      "date": "2026-01-27T15:57:58.226Z",
+      "score": 5,
+      "text": "super apka, kde vyřídím vše co je potřeba",
+      "text_normalized": "super apka, kde vyridim vse co je potreba",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-27T16:27:54.706Z",
+      "replyText": "Hezký den, Milane,\ntěší mě, že se vám aplikace líbí 🙂 Zuzana",
+      "version": "3.5.1"
+    },
+    {
+      "id": "4c66e929-e547-4b5b-aecf-42dc1cd32d79",
+      "userName": "Michal Šimáček",
+      "date": "2026-01-27T14:30:07.577Z",
+      "score": 1,
+      "text": "Nová verze mi přijde spíše jako Beta verze něčeho, co už tu bylo.",
+      "text_normalized": "nova verze mi prijde spise jako beta verze neceho, co uz tu bylo.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-27T14:49:50.591Z",
+      "replyText": "Hezký den, Michale,\nje mi líto, že se vám aplikace nelíbí 😢 Postupně ji vylepšujeme a pracujeme na ni, věřím, že do budoucna budete spokojenější. Zuzana",
+      "version": "3.5.1"
+    },
+    {
+      "id": "44c6deb0-0e2d-4ff3-a5b0-ad1376bc4218",
+      "userName": "Jiri Marek",
+      "date": "2026-01-27T13:17:26.458Z",
+      "score": 1,
+      "text": "je to běs,vše se načítá snad hodinu,spoustu věcí ani nenajdu",
+      "text_normalized": "je to bes,vse se nacita snad hodinu,spoustu veci ani nenajdu",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-27T13:55:46.512Z",
+      "replyText": "Hezký den, Jiří,\nje mi moc líto, že se vám aplikace nelíbí 🙁 Postupně na ni pracujeme a vylepšujeme ji, věřím, že se vám do budoucna bude líbit více. Zuzana",
+      "version": "3.5.1"
+    },
+    {
+      "id": "b6659fba-f9e6-41e7-95ff-02d0614571c2",
+      "userName": "Viktor Židlický",
+      "date": "2026-01-27T08:41:48.854Z",
+      "score": 1,
+      "text": "ani tato aplikace nefunguje, jednou mi napíše, že můj mail je již zaregistrovan podruhé pak , že můj mail neexistuje. Aplikace k ničemu.",
+      "text_normalized": "ani tato aplikace nefunguje, jednou mi napise, ze muj mail je jiz zaregistrovan podruhe pak , ze muj mail neexistuje. aplikace k nicemu.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-27T09:27:19.400Z",
+      "replyText": "Dobrý den, Viktore,\nto by se stávat nemělo, omlouvám se za komplikace 🙁 Napište nám prosím na aplikace@vodafone.cz a my se na vaši zkušenost podíváme. Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "057fbaf2-4dd5-4c12-ab83-296e4198ed5d",
+      "userName": "Jakub Koukal",
+      "date": "2026-01-27T08:18:00.134Z",
+      "score": 1,
+      "text": "Nevím co se vylepšilo. Appku jsem v Google play nemohl najít po zadání \"Vodafone\" to našlo jen tu starou appku nebo pak nějaký zahraniční. Doufal jsem, že třeba konečně půjde zaplatit vyúčtování přes Google pay - leč marně. takže mohu appku zase smazat, protože mi nic nového nepřinese.",
+      "text_normalized": "nevim co se vylepsilo. appku jsem v google play nemohl najit po zadani \"vodafone\" to naslo jen tu starou appku nebo pak nejaky zahranicni. doufal jsem, ze treba konecne pujde zaplatit vyuctovani pres google pay - lec marne. takze mohu appku zase smazat, protoze mi nic noveho neprinese.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-01-27T08:44:00.122Z",
+      "replyText": "Dobrý den, Jakube,\nmrzí mě, že jste zklamaný 🙁 Na vylepšování nové aplikace stále pracujeme a věřím, že v budoucnu bude vaše zkušenost lepší. Katka",
+      "version": "3.5.1"
+    },
+    {
+      "id": "da1677dc-c4f1-46fc-88e4-c3a287fcd557",
+      "userName": "Karel Huml",
+      "date": "2026-01-27T07:07:54.681Z",
+      "score": 2,
+      "text": "Zmizela platba QR kódem, uvidíme v dalších aktualizacích. Platba kartou je nedotažená.",
+      "text_normalized": "zmizela platba qr kodem, uvidime v dalsich aktualizacich. platba kartou je nedotazena.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-01-27T07:10:58.581Z",
+      "replyText": "Hezký den, Karle, děkujeme za hodnocení. Se zobrazením QR kódu v aplikaci počítáme a opravdu přijde v některé z následujících aktualizacích. Poprosím vás o trpělivost. Petra",
+      "version": "3.5.1"
+    },
     {
       "id": "1a0c9687-0066-4c0b-a719-ea8b79cb495f",
       "userName": "Michal Smid (alien82)",
@@ -23761,8 +23920,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1645,
-    "extractedAt": "2026-01-28T05:55:00.280Z",
+    "totalReviewsExtracted": 1656,
+    "extractedAt": "2026-01-29T07:30:18.901Z",
     "source": "google-play"
   }
 }
