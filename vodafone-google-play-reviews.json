@@ -1,18 +1,198 @@
 {
   "ratings": {
-    "score": 3.107438,
-    "scoreText": "3,1",
-    "totalRatings": 2208,
-    "totalReviews": 1059,
+    "score": 3.0384614,
+    "scoreText": "3,0",
+    "totalRatings": 2222,
+    "totalReviews": 1067,
     "histogram": {
-      "1": 866,
-      "2": 127,
-      "3": 81,
-      "4": 163,
-      "5": 967
+      "1": 914,
+      "2": 118,
+      "3": 93,
+      "4": 153,
+      "5": 939
     }
   },
   "reviews": [
+    {
+      "id": "e0ffa4a3-bf63-4bde-8db2-4351e6ab56b0",
+      "userName": "Lucie Peteříková",
+      "date": "2026-01-28T21:21:39.383Z",
+      "score": 1,
+      "text": "Stará aplikace nefunguje, nová taky ne. Nová verze neustále hlásí chybu,nejde se ani přihlásit, natož se podívat na vyúčtování, provést platbu nebo cokoliv dalšího. Nefunguje ani po několikerém odinstalování a novém nainstalování. Přešla mě chuť cokoliv řešit s podporou, ta taky nefunguje. Od Vodafone absolutně neprofesionální a amatérské.",
+      "text_normalized": "stara aplikace nefunguje, nova taky ne. nova verze neustale hlasi chybu,nejde se ani prihlasit, natoz se podivat na vyuctovani, provest platbu nebo cokoliv dalsiho. nefunguje ani po nekolikerem odinstalovani a novem nainstalovani. presla me chut cokoliv resit s podporou, ta taky nefunguje. od vodafone absolutne neprofesionalni a amaterske.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-29T06:24:34.953Z",
+      "replyText": "Dobrý den, Lucie,\nje mi líto, že vám aplikace nefunguje správně 🙁 Napište nám prosím na aplikace@vodafone.cz a my se na vaše potíže podíváme. Katka",
+      "version": null
+    },
+    {
+      "id": "11669aea-84a5-483e-8bc1-8c7d95a8165e",
+      "userName": "Ivan Kopecký",
+      "date": "2026-01-28T18:40:43.106Z",
+      "score": 5,
+      "text": "Tak konečně po nesmírném utrpení instalace a přihlášení hurá!!! Jinak appka dobrá, vše zkontrolováno a funguje, jen chybí QR kód, ale ten se dá stáhnout z vyúčtování PDF. Tak si to nepokažte😀",
+      "text_normalized": "tak konecne po nesmirnem utrpeni instalace a prihlaseni hura!!! jinak appka dobra, vse zkontrolovano a funguje, jen chybi qr kod, ale ten se da stahnout z vyuctovani pdf. tak si to nepokazte😀",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-28T18:45:31.503Z",
+      "replyText": "Pěkný den, Ivane,\nděkujeme za hodnocení a zpětnou vazbu 🙂 Již jsme podnět předali 🙂 Veronika",
+      "version": "3.6.0"
+    },
+    {
+      "id": "9f21f9cb-8aaf-44ae-87cc-def750b09ada",
+      "userName": "TheSamanTK",
+      "date": "2026-01-28T17:42:29.259Z",
+      "score": 3,
+      "text": "Nevím no. Asi funguje. K Vodafonu mám poměrně výhrady a čekám na akci u konkurence. A už vůbec to není \"můj\" Vodafone. A jestli jo, kam mám poslat číslo účtu pro zaslání zisků?",
+      "text_normalized": "nevim no. asi funguje. k vodafonu mam pomerne vyhrady a cekam na akci u konkurence. a uz vubec to neni \"muj\" vodafone. a jestli jo, kam mam poslat cislo uctu pro zaslani zisku?",
+      "segments": [
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-28T18:17:15.253Z",
+      "replyText": "Pěkný den,\nděkujeme za hodnocení a je mi líto, že jste s Vodafonem nespokojený 🙁 Kdybyste potřeboval nějakou pomoc z naší strany, určitě nám můžete napsat přes https://tam.je/dotaz a rádi se na vše podíváme. Veronika",
+      "version": "3.6.0"
+    },
+    {
+      "id": "f0965310-52ff-4260-9e2f-8199e74f4ad8",
+      "userName": "Marek Kužílek",
+      "date": "2026-01-28T17:01:49.281Z",
+      "score": 1,
+      "text": "Ve staré aplikaci jsem klikl na platbu a dal jsem zaplatit QR ale tady možnost není, Ani uložit QR do galerie",
+      "text_normalized": "ve stare aplikaci jsem klikl na platbu a dal jsem zaplatit qr ale tady moznost neni, ani ulozit qr do galerie",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-28T17:13:19.236Z",
+      "replyText": "Pěkný den, Marku,\nv mobilní aplikaci Můj Vodafone+ v sekci Vyúčtování, zde klikněte na požadovaný měsíc a zvolte Stáhnout PDF fakturu. QR kód najdete na první straně PDF Vyúčtování (můžete si udělat screenshot pro nahrání do bankovní aplikace). Veronika",
+      "version": "3.5.1"
+    },
+    {
+      "id": "9e1316b2-a5af-4917-bf1b-524d05492041",
+      "userName": "Jan Mráz",
+      "date": "2026-01-28T15:09:54.639Z",
+      "score": 3,
+      "text": "Ještě ne všechno funguje, ale doufám, že k 1.2. 26 vše doladí tak, aby aplikace byla použitelná a plně funkční. Xiaomi s Androidem 16",
+      "text_normalized": "jeste ne vsechno funguje, ale doufam, ze k 1.2. 26 vse doladi tak, aby aplikace byla pouzitelna a plne funkcni. xiaomi s androidem 16",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-28T15:13:28.703Z",
+      "replyText": "Pěkný den, Jane,\nděkujeme za zpětnou vazbu. Pokud se objevují nějaké potíže, pošlete nám prosím k tomu podrobnosti přes https://tam.je/dotaz a rádi se na vše podíváme. Veronika",
+      "version": "3.6.0"
+    },
+    {
+      "id": "3d0e6dd8-c966-48c0-84e0-0587f3921087",
+      "userName": "Ondřej Jileček",
+      "date": "2026-01-28T13:57:36.463Z",
+      "score": 1,
+      "text": "neumí to co ta předchozí aplikace a všechno je tam podivně schované.",
+      "text_normalized": "neumi to co ta predchozi aplikace a vsechno je tam podivne schovane.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-28T14:17:11.130Z",
+      "replyText": "Pěkný den, Ondřeji,\nděkujeme za zpětnou vazbu, aplikace již umí většinu možností té původní, neustále ji aktualizujeme a vyvíjíme, nicméně je více přehlednější. Veronika",
+      "version": "3.5.1"
+    },
+    {
+      "id": "ccd5f2bd-a871-4d38-8c24-1f84168de7b8",
+      "userName": "Andrej Halaszi",
+      "date": "2026-01-28T12:02:49.408Z",
+      "score": 1,
+      "text": "příšerná aplikace! v srovnání s předchozí je naprosto amatérská a ne přívětivá vůči uživatelů. proč zmizel QR kód pro zaplacení? tak jednoduché bylo vyřídit platbu...",
+      "text_normalized": "priserna aplikace! v srovnani s predchozi je naprosto amaterska a ne privetiva vuci uzivatelu. proc zmizel qr kod pro zaplaceni? tak jednoduche bylo vyridit platbu...",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-01-28T12:14:26.305Z",
+      "replyText": "Dobrý den, Andreji,\nQR kód uvádíme ve Vyúčtování, které si z aplikace můžete stáhnout. Ale do budoucna ho plánujeme přidat i přímo do aplikace. Platbu můžete provést přímo v aplikaci, QR kód k tomu není nutný. Martina",
+      "version": "3.5.1"
+    },
+    {
+      "id": "8eaec7a2-dd8d-4e13-af9b-78184963a81e",
+      "userName": "Michaela Jelenova",
+      "date": "2026-01-28T11:33:25.575Z",
+      "score": 1,
+      "text": "Nejhorší aplikace. K čemu je když vůbec nefunguje. Přihlásit se mi do ni povedlo snad jednou za celou dobu, jinak jen červená obrazovka aaaaa nic.",
+      "text_normalized": "nejhorsi aplikace. k cemu je kdyz vubec nefunguje. prihlasit se mi do ni povedlo snad jednou za celou dobu, jinak jen cervena obrazovka aaaaa nic.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-28T11:45:25.777Z",
+      "replyText": "Dobrý den, Michaelo,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby vám ani poté přihlášení nefungovalo, zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz, abychom to mohli prověřit na konkrétním příkladu. Martina",
+      "version": "3.5.1"
+    },
+    {
+      "id": "b91a0828-e0f3-46d6-a989-0e04b38ab37e",
+      "userName": "Derak",
+      "date": "2026-01-28T10:27:18.821Z",
+      "score": 5,
+      "text": "Mnohem funckčnější (a pohodlnějsí) než předchozí aplikace, vřele doporučuji",
+      "text_normalized": "mnohem funckcnejsi (a pohodlnejsi) nez predchozi aplikace, vrele doporucuji",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-28T10:45:58.893Z",
+      "replyText": "Dobrý den,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.5.1"
+    },
+    {
+      "id": "115ed836-b97a-4135-b417-65469973764f",
+      "userName": "Jirka Polda",
+      "date": "2026-01-28T09:42:27.910Z",
+      "score": 1,
+      "text": "Samá chyba, navíc to působí jako reklamní portál, než aplikace na správu účtu.",
+      "text_normalized": "sama chyba, navic to pusobi jako reklamni portal, nez aplikace na spravu uctu.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-01-28T10:11:26.702Z",
+      "replyText": "Dobrý den, Jirko,\npokud jste zaznamenal nějakou konkrétní chybu, prosím zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi to prověříme. Martina",
+      "version": "3.5.1"
+    },
+    {
+      "id": "b9ed20d2-aedb-43e0-9f75-7f8e844f124a",
+      "userName": "vl d",
+      "date": "2026-01-28T09:11:00.463Z",
+      "score": 2,
+      "text": "Nepřenáší nastavení z předešlé aplikace (hraničí s podvodem), nutno znova přes operátora nastavit, lze i v aplikaci, ale je to nesrozumitelné a složité. AI je hloupá. Pokud máte více čísel pod svým účtem je velmi náročné změnit čerpání dát, ale nevadí operátor vám poradí. Pokud bych neměl skvělý poměr cena výkon chystal bych se jít jinde.",
+      "text_normalized": "neprenasi nastaveni z predesle aplikace (hranici s podvodem), nutno znova pres operatora nastavit, lze i v aplikaci, ale je to nesrozumitelne a slozite. ai je hloupa. pokud mate vice cisel pod svym uctem je velmi narocne zmenit cerpani dat, ale nevadi operator vam poradi. pokud bych nemel skvely pomer cena vykon chystal bych se jit jinde.",
+      "segments": [
+        "Zakaznicka_podpora",
+        "Cena"
+      ],
+      "replyDate": "2026-01-28T09:12:10.808Z",
+      "replyText": "Dobrý den,\nje mi líto, že vám aplikace nevyhovuje 🙁 Na jejích dalších úpravách pracujeme, tak třeba s ní budete časem spokojenější. Martina",
+      "version": "3.5.1"
+    },
+    {
+      "id": "38e18f2d-dd7e-47a8-a498-1dd9d4670e78",
+      "userName": "Roman Slejška",
+      "date": "2026-01-28T08:31:23.208Z",
+      "score": 1,
+      "text": "To je reklamní aplikace na prodej všeho možného? Bude i Horst Fuchs, či jak se jmenoval? Volba vybrat moje odměny vám nabídne různé slevy na různé věci, které si můžete koupit. Tak to hurá, tomu říkám odměna. Myslím, že tou hlavní odměnou pro stálé zákazníky je zdražení služeb! Co víc bychom mohli chtít?",
+      "text_normalized": "to je reklamni aplikace na prodej vseho mozneho? bude i horst fuchs, ci jak se jmenoval? volba vybrat moje odmeny vam nabidne ruzne slevy na ruzne veci, ktere si muzete koupit. tak to hura, tomu rikam odmena. myslim, ze tou hlavni odmenou pro stale zakazniky je zdrazeni sluzeb! co vic bychom mohli chtit?",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-28T08:43:41.753Z",
+      "replyText": "Dobrý den, Romane,\nv aplikaci najdete přehled služeb, které využíváte, máte možnost měnit jejich nastavení, prohlédnout si Vyúčtování atd. Sekce s odměnami je jen jedna část a je na vás, jestli ji chcete využívat nebo ne. Martina",
+      "version": "3.5.1"
+    },
     {
       "id": "857b9594-0472-41dd-b901-f16ebaf15e77",
       "userName": "Lukáš Nový",
@@ -23920,8 +24100,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1656,
-    "extractedAt": "2026-01-29T07:30:18.901Z",
+    "totalReviewsExtracted": 1668,
+    "extractedAt": "2026-01-30T07:29:47.012Z",
     "source": "google-play"
   }
 }
