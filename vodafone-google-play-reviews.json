@@ -1,18 +1,121 @@
 {
   "ratings": {
-    "score": 3.0384614,
-    "scoreText": "3,0",
-    "totalRatings": 2222,
-    "totalReviews": 1067,
+    "score": 2.939394,
+    "scoreText": "2,9",
+    "totalRatings": 2235,
+    "totalReviews": 1078,
     "histogram": {
-      "1": 914,
-      "2": 118,
-      "3": 93,
-      "4": 153,
-      "5": 939
+      "1": 947,
+      "2": 146,
+      "3": 100,
+      "4": 169,
+      "5": 868
     }
   },
   "reviews": [
+    {
+      "id": "7da47870-9d42-4213-afa4-c5d76b2dd9de",
+      "userName": "M D",
+      "date": "2026-01-29T22:10:48.961Z",
+      "score": 1,
+      "text": "Po přečtení cca 100 posledních recenzí musím otevřeně politovat chudáky, kteří pracují pro Vodafone a odpovídají tady lidem na recenze, které jsou z 99% jednohvězdičkové s neustále se opakujícími závěry, že je aplikace hrozná (s čímž 100% souhlasím). Obdivuji vaší trpělivost a naprostou absenci sebereflexe, když místo toho, abyste si slova zákazníků vzali k srdci (kdysi platilo náš zákazník náš pán), tak stále děkujete za hodnocení a ujištujete, že budete pokračovat ve \"vylepšování\" :-)",
+      "text_normalized": "po precteni cca 100 poslednich recenzi musim otevrene politovat chudaky, kteri pracuji pro vodafone a odpovidaji tady lidem na recenze, ktere jsou z 99% jednohvezdickove s neustale se opakujicimi zavery, ze je aplikace hrozna (s cimz 100% souhlasim). obdivuji vasi trpelivost a naprostou absenci sebereflexe, kdyz misto toho, abyste si slova zakazniku vzali k srdci (kdysi platilo nas zakaznik nas pan), tak stale dekujete za hodnoceni a ujistujete, ze budete pokracovat ve \"vylepsovani\" :-)",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-30T06:39:15.384Z",
+      "replyText": "Hezký den, všechny zpětné vazby předáváme kolegům, kteří mají vývoj aplikace na starosti. Věřím, že se vám do budoucna bude aplikace líbit více 🙂 Petra",
+      "version": "3.6.0"
+    },
+    {
+      "id": "999e2fe9-dda4-4870-a7c0-7b98c2e1e50e",
+      "userName": "Lukáš Žiška",
+      "date": "2026-01-29T18:26:01.905Z",
+      "score": 2,
+      "text": "Odpadní aplikace. Proč vydáváte druhou alikaci když neumíte doladit ani tu první? Reset hodnocení moc nezabral co? Třeba QR kod na platbu je fuč, jediné dobré co v té staré bylo. Ani google pay nepodporujete. Fakt hrozná společnost. Se vším jdu ke konkurenci. Fakt plivete lidem do obličeje. Teď navic mail se změnou ceny který se odkazuje na zpravu z 4.11.2025 (přiznali ze nepřišla, chybička). Co je to sakra za zprávu a kde je. O2 appka 4,6* a Tmobile 4,4*. Fak se styďte.",
+      "text_normalized": "odpadni aplikace. proc vydavate druhou alikaci kdyz neumite doladit ani tu prvni? reset hodnoceni moc nezabral co? treba qr kod na platbu je fuc, jedine dobre co v te stare bylo. ani google pay nepodporujete. fakt hrozna spolecnost. se vsim jdu ke konkurenci. fakt plivete lidem do obliceje. ted navic mail se zmenou ceny ktery se odkazuje na zpravu z 4.11.2025 (priznali ze neprisla, chybicka). co je to sakra za zpravu a kde je. o2 appka 4,6* a tmobile 4,4*. fak se stydte.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-29T18:17:15.404Z",
+      "replyText": "Pěkný den, Lukáši,\nje mi líto, že nejste spokojený 🙁 Spoustu funkcí včetně QR kódu budeme do aplikace postupně přidávat. Lucie",
+      "version": "3.6.0"
+    },
+    {
+      "id": "6af83b68-dd37-4dd7-823f-b600cf714ecd",
+      "userName": "T D",
+      "date": "2026-01-29T14:09:30.654Z",
+      "score": 1,
+      "text": "Parodie na aplikaci. To velka firma jako je Vodafone neumi vytvorit slusnou aplikaci? Zasekana, extremne pomala, otresne. Zabalte to a udelejte novou, ktera funguje.",
+      "text_normalized": "parodie na aplikaci. to velka firma jako je vodafone neumi vytvorit slusnou aplikaci? zasekana, extremne pomala, otresne. zabalte to a udelejte novou, ktera funguje.",
+      "segments": [
+        "Vykonnost",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-29T14:16:54.265Z",
+      "replyText": "Pěkný den,\nje mi líto, pokud se vám nová aplikace nelíbí 🙁 Budeme se snažit, abyste byl do budoucna spokojenější. Lucie",
+      "version": null
+    },
+    {
+      "id": "460ec52d-66b6-48e1-b83e-cc30bd6c651c",
+      "userName": "Marek Peřich",
+      "date": "2026-01-29T11:52:43.818Z",
+      "score": 1,
+      "text": "nejde spustit. aktuální android, telefon Samsung galaxy z flip7",
+      "text_normalized": "nejde spustit. aktualni android, telefon samsung galaxy z flip7",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-29T13:29:48.150Z",
+      "replyText": "Pěkný den, Marku,\nje mi líto, že máte potíže 🙁 Zkuste prosím aplikaci přeinstalovat. V případě, že byste měl i poté se spuštěním potíže, napište nám prosím podrobnosti přes https://tam.je/dotaz, abychom se na to mohli podívat konkrétněji. Lucie\n",
+      "version": "3.6.0"
+    },
+    {
+      "id": "276eb185-a5b1-41c1-a356-0afbae8a70cf",
+      "userName": "Gambo Land",
+      "date": "2026-01-29T10:36:00.866Z",
+      "score": 1,
+      "text": "Stejny odpad jako predchozi aplikace. Nekonecny nacitani, nahodny padani aplikace. Ale rozumim, takova hezka mala domu pro nekoho, kdo vyvoj \"nove\" apky nekomu dohodil.",
+      "text_normalized": "stejny odpad jako predchozi aplikace. nekonecny nacitani, nahodny padani aplikace. ale rozumim, takova hezka mala domu pro nekoho, kdo vyvoj \"nove\" apky nekomu dohodil.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-01-29T11:01:28.622Z",
+      "replyText": "Dobrý den,\nmrzí mě, že nejste spokojený 🙁 Budeme rádi, když nám napíšete, co konkrétně vám nefunguje, abychom vše mohli dále řešit. Katka",
+      "version": "3.6.0"
+    },
+    {
+      "id": "e62d37a2-e141-4e75-bfb5-8e52d925dcca",
+      "userName": "Tomas Svoboda",
+      "date": "2026-01-29T09:37:15.653Z",
+      "score": 4,
+      "text": "I když jsem administrátor našeho rodinného účtu, tak to pořád upřednostňuje moji dceru. Prosím aktualizaci.",
+      "text_normalized": "i kdyz jsem administrator naseho rodinneho uctu, tak to porad uprednostnuje moji dceru. prosim aktualizaci.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-29T10:14:57.413Z",
+      "replyText": "Dobrý den, Tomasi,\npokud to myslíte tak, že se jako první zobrazuje dceřino číslo, tak je to opravdu tak. Toto do budoucna plánujeme změnit, prosím vás ještě o trpělivost. Katka",
+      "version": "3.6.0"
+    },
+    {
+      "id": "f7740c76-4a61-471d-b646-61479266f91b",
+      "userName": "Petr",
+      "date": "2026-01-29T09:36:43.339Z",
+      "score": 1,
+      "text": "po přeinstalaci ze staré aplikace tak jak píší moji předřečníci absolutně nepoužitelné. škoda slov. každý se musí přesvědčit sám. nedal by žádnou hvězdu kdyby to šlo. sprostý nebudu nebo mě Google zase za bude hrozit blokací. ať se daří máte co opravovat. jinak kašlu na nějakou češtín",
+      "text_normalized": "po preinstalaci ze stare aplikace tak jak pisi moji predrecnici absolutne nepouzitelne. skoda slov. kazdy se musi presvedcit sam. nedal by zadnou hvezdu kdyby to slo. sprosty nebudu nebo me google zase za bude hrozit blokaci. at se dari mate co opravovat. jinak kaslu na nejakou cestin",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-29T10:13:54.746Z",
+      "replyText": "Dobrý den, Petře,\nděkujeme vám za zpětnou vazbu a mrzí mě, že vám aplikace nevyhovuje 🙁 Na jejím vylepšování budeme stále pracovat a věřím, že v budoucnu bude vaše zkušenost lepší. Katka",
+      "version": "3.6.0"
+    },
     {
       "id": "e0ffa4a3-bf63-4bde-8db2-4351e6ab56b0",
       "userName": "Lucie Peteříková",
@@ -24100,8 +24203,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1668,
-    "extractedAt": "2026-01-30T07:29:47.012Z",
+    "totalReviewsExtracted": 1675,
+    "extractedAt": "2026-01-31T06:04:11.639Z",
     "source": "google-play"
   }
 }
