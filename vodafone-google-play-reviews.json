@@ -1,18 +1,185 @@
 {
   "ratings": {
-    "score": 2.939394,
-    "scoreText": "2,9",
-    "totalRatings": 2235,
-    "totalReviews": 1078,
+    "score": 2.8483412,
+    "scoreText": "2,8",
+    "totalRatings": 2247,
+    "totalReviews": 1081,
     "histogram": {
-      "1": 947,
-      "2": 146,
-      "3": 100,
-      "4": 169,
-      "5": 868
+      "1": 1000,
+      "2": 148,
+      "3": 106,
+      "4": 170,
+      "5": 819
     }
   },
   "reviews": [
+    {
+      "id": "b89ff8dc-f779-4c8c-b902-d14e843ffc17",
+      "userName": "Emil Galert",
+      "date": "2026-01-30T19:13:35.331Z",
+      "score": 1,
+      "text": "každý měsíc platím po termínu protože nejde se mi přihlásit katastrofa po každé volám na operatora, strašný a už mě mám na toe nervy po každé to chce nějakou změnu hesla už je nestarčim vymyslet ne mám na to síly",
+      "text_normalized": "kazdy mesic platim po terminu protoze nejde se mi prihlasit katastrofa po kazde volam na operatora, strasny a uz me mam na toe nervy po kazde to chce nejakou zmenu hesla uz je nestarcim vymyslet ne mam na to sily",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-31T07:38:36.574Z",
+      "replyText": "Dobrý den, Emile,\npro přihlášení do aplikace stačí zadat e-mailovou adresu, alfanumerické heslo, které jste si nastavil, a kód z SMSky. Případně si můžete nastavit inkaso, abyste se o platby nemusel starat. K tomu najdete bližší informace na https://www.vodafone.cz/pece/vyuctovani-platby-kredit/inkaso/inkaso/. Martina",
+      "version": "3.6.0"
+    },
+    {
+      "id": "04f55976-e09d-4d38-ab0c-e8269d3dbad5",
+      "userName": "Někdo Anonymní",
+      "date": "2026-01-30T17:33:28.196Z",
+      "score": 1,
+      "text": "mám aplikaci nainstalovanou na 3 zařízeních a všude stejný problém.. mám ke svému profilu více služeb(čisel..) a snažil jsem nastavit jako výchozí službu svoje osobni číslo aby se mi zobrazovalo jako první-vychozi ale i přes to že to v nastavení mám zvolené aplikace ukazuje jako výchozí jiné číslo.. nelze s tim nic dělat.. proč ta funkce tam je když nefunguje..",
+      "text_normalized": "mam aplikaci nainstalovanou na 3 zarizenich a vsude stejny problem.. mam ke svemu profilu vice sluzeb(cisel..) a snazil jsem nastavit jako vychozi sluzbu svoje osobni cislo aby se mi zobrazovalo jako prvni-vychozi ale i pres to ze to v nastaveni mam zvolene aplikace ukazuje jako vychozi jine cislo.. nelze s tim nic delat.. proc ta funkce tam je kdyz nefunguje..",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-30T18:09:32.301Z",
+      "replyText": "Hezký den,\nděkujeme vám za zpětnou vazbu, i když není pozitivní. O těchto potížích víme a pracujeme na opravě, objeví se v jedné z následujících aktualizací. Viki",
+      "version": "3.6.0"
+    },
+    {
+      "id": "8c35b352-612a-481d-8621-f3ce2f8c05ac",
+      "userName": "Petra Kaderabkova",
+      "date": "2026-01-30T16:27:54.811Z",
+      "score": 1,
+      "text": "V aplikaci mi nejde platit - nezobrazi se policko k vyplneni kodu ze sms. V predchozi aplikaci vse normalne fungovalo.",
+      "text_normalized": "v aplikaci mi nejde platit - nezobrazi se policko k vyplneni kodu ze sms. v predchozi aplikaci vse normalne fungovalo.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-30T16:53:38.110Z",
+      "replyText": "Hezký den, Petro,\nděkujeme vám za hodnocení. Mrzí mě, že jste zaznamenala takové potíže při placení 🙁 Zkuste prosím aplikaci přeinstalovat, případně nám napište podrobnosti přes https://tam.je/dotaz. Viki",
+      "version": "3.6.1"
+    },
+    {
+      "id": "1f02db3d-0fb3-495c-aa28-24b669fb59b4",
+      "userName": "Jiri Brabec",
+      "date": "2026-01-30T13:59:59.194Z",
+      "score": 1,
+      "text": "Zlatá Sazka mobil, po přechodu k Vodafone hrůza . Brzy odejdu jinam .",
+      "text_normalized": "zlata sazka mobil, po prechodu k vodafone hruza . brzy odejdu jinam .",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-30T14:26:03.308Z",
+      "replyText": "Dobrý den, Jiří,\nmrzí mě vaše nespokojenost. Pokud bychom vám mohli s něčím pomoci, prosím napište nám přes https://tam.je/dotaz nebo nám zavolejte na 800 77 00 77. Viki",
+      "version": "3.5.1"
+    },
+    {
+      "id": "052f1327-677a-4e7b-aaad-232a956b1628",
+      "userName": "Lukáš Rosocha",
+      "date": "2026-01-30T13:45:32.940Z",
+      "score": 1,
+      "text": "opět katastrofa jako stara aplikace, chatbot je tupý, vsechno se dlouho načítá a když se to sekne nic s tim nelze dělat. hnus",
+      "text_normalized": "opet katastrofa jako stara aplikace, chatbot je tupy, vsechno se dlouho nacita a kdyz se to sekne nic s tim nelze delat. hnus",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-30T13:50:29.888Z",
+      "replyText": "Dobrý den, Lukáši,\nděkujeme za zpětnou vazbu. Mrzí mě, že aplikace nesplnila vaše očekávání. Na vývoji stále pracujeme a další funkce budou dostupné v nadcházejících verzích. Viki",
+      "version": "3.6.1"
+    },
+    {
+      "id": "bd74d4d2-bb65-459b-8074-390b2bc66e5d",
+      "userName": "marek kovar",
+      "date": "2026-01-30T13:30:35.678Z",
+      "score": 1,
+      "text": "Vodafone nám přebarvil aplikaci, ale střeva zůstala stejná - tedy u platby stále nečekejte podporu Google Pay. Funkci Data strop nejde nastavit vůbec a zda jsou zobrazována mobilní data ta vyčerpaná nebo zbývající si musí člověk pohlídat svým měřením. Jedná hvězda za fungující přihlášení otiskem. Čekal jsem víc, ale co by zákazníci chtěli...",
+      "text_normalized": "vodafone nam prebarvil aplikaci, ale streva zustala stejna - tedy u platby stale necekejte podporu google pay. funkci data strop nejde nastavit vubec a zda jsou zobrazovana mobilni data ta vycerpana nebo zbyvajici si musi clovek pohlidat svym merenim. jedna hvezda za fungujici prihlaseni otiskem. cekal jsem vic, ale co by zakaznici chteli...",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": null,
+      "replyText": null,
+      "version": null
+    },
+    {
+      "id": "75838cf9-3418-43c3-bd64-0b25b405f024",
+      "userName": "Kamilloo JANOTTA",
+      "date": "2026-01-30T12:43:00.430Z",
+      "score": 3,
+      "text": "Furt to Chce Aktualizovat Slozite Prihlasovani",
+      "text_normalized": "furt to chce aktualizovat slozite prihlasovani",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-30T12:53:28.708Z",
+      "replyText": "Hezký den, Kamilloo, aplikaci stále vylepšujeme, z toho důvodu probíhají aktualizace. Pro jednodušší přihlášení vám doporučím zapnout si biometrické přihlášení. Petra",
+      "version": "3.5.1"
+    },
+    {
+      "id": "d952e616-4544-4568-9b20-5e7ca4894b87",
+      "userName": "Jan Konvalina",
+      "date": "2026-01-30T12:35:12.742Z",
+      "score": 1,
+      "text": "Naprostá amateřina. Aplikace má neustále problémy s přihlášením, biometrika nefunguje. Tahle app je jeden z důvodů proč odejít od Vodafone",
+      "text_normalized": "naprosta amaterina. aplikace ma neustale problemy s prihlasenim, biometrika nefunguje. tahle app je jeden z duvodu proc odejit od vodafone",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-01-30T12:51:49.354Z",
+      "replyText": "Hezký den, Jane, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Platnost biometrického přihlášení je 30 snů. Napište nám podrobnosti přes zabezpečený formulář https://tam.je/dotaz. Vše prověříme. Petra\n",
+      "version": "3.6.1"
+    },
+    {
+      "id": "7dd6909a-ce6f-4e31-adb6-8bea4a99ed94",
+      "userName": "Adéla Dvořáková",
+      "date": "2026-01-30T10:58:59.697Z",
+      "score": 1,
+      "text": "daleko horší než předchozí verze.. neustále se aktualizuje a jakékoli změny, které udělám se neuloží.. nezvládá ani odchod plateb..",
+      "text_normalized": "daleko horsi nez predchozi verze.. neustale se aktualizuje a jakekoli zmeny, ktere udelam se neulozi.. nezvlada ani odchod plateb..",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-30T11:36:18.828Z",
+      "replyText": "Hezký den, Adélo, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.5.1"
+    },
+    {
+      "id": "f32083c5-5411-4993-9d18-37f153abb8ea",
+      "userName": "TheSound cz",
+      "date": "2026-01-30T09:40:07.988Z",
+      "score": 1,
+      "text": "Ještě jsem aplikaci ani nespustil kvůli agresivně nastaveném cookie policy. V momentě, kdy dám podrobné nastavení mě nabídka (jediná) nutí používat všechny cookies, což si myslím, že je protizákonné. Já s vámi žádnou analitiku, marketing a další, zdarma sdílet nechci. Žádám o nápravu.",
+      "text_normalized": "jeste jsem aplikaci ani nespustil kvuli agresivne nastavenem cookie policy. v momente, kdy dam podrobne nastaveni me nabidka (jedina) nuti pouzivat vsechny cookies, coz si myslim, ze je protizakonne. ja s vami zadnou analitiku, marketing a dalsi, zdarma sdilet nechci. zadam o napravu.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-01-30T09:56:04.402Z",
+      "replyText": "Pěkný den, povinné jsou jen nezbytné cookies. Výkonnostní, marketingové a personalizované můžete vypnout. Volbu je možné kdykoliv změnit v menu Účet - Ochrana soukromí. Ondra",
+      "version": "3.6.0"
+    },
+    {
+      "id": "c0ed8f58-8a65-4b54-b5c0-5cd64feb0601",
+      "userName": "Dagmar Čechová",
+      "date": "2026-01-30T08:11:58.345Z",
+      "score": 2,
+      "text": "Aplikace mě roky rozčiluje ale teď to byl bonus. Ocitla jsem se na místě s velmi špatným signálem a potřebovala jsem ji použít. Nedovolila mi to, protože potřebovala aktualizovat a přesto nejede vlak. Jako kdyby jste si bez posledni aktualizace nesmeli precist sms 😓",
+      "text_normalized": "aplikace me roky rozciluje ale ted to byl bonus. ocitla jsem se na miste s velmi spatnym signalem a potrebovala jsem ji pouzit. nedovolila mi to, protoze potrebovala aktualizovat a presto nejede vlak. jako kdyby jste si bez posledni aktualizace nesmeli precist sms 😓",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-01-30T08:48:20.555Z",
+      "replyText": "Hezký den, Dagmar, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Je mi líto, že vám aktualizace způsobila potíže 🙁 Petra",
+      "version": "3.6.0"
+    },
     {
       "id": "7da47870-9d42-4213-afa4-c5d76b2dd9de",
       "userName": "M D",
@@ -24203,8 +24370,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1675,
-    "extractedAt": "2026-01-31T06:04:11.639Z",
+    "totalReviewsExtracted": 1686,
+    "extractedAt": "2026-02-01T07:26:22.589Z",
     "source": "google-play"
   }
 }
