@@ -1,18 +1,47 @@
 {
   "ratings": {
-    "score": 2.8483412,
+    "score": 2.8302753,
     "scoreText": "2,8",
-    "totalRatings": 2247,
-    "totalReviews": 1081,
+    "totalRatings": 2253,
+    "totalReviews": 1086,
     "histogram": {
-      "1": 1000,
-      "2": 148,
-      "3": 106,
-      "4": 170,
-      "5": 819
+      "1": 1002,
+      "2": 164,
+      "3": 102,
+      "4": 174,
+      "5": 805
     }
   },
   "reviews": [
+    {
+      "id": "73c76b6d-c789-41aa-800c-4a2234f04f69",
+      "userName": "Milan Kubišta",
+      "date": "2026-01-31T16:44:12.420Z",
+      "score": 1,
+      "text": "složité, plné reklam a nepřehledné. Odměny na ne/slevy. Bohužel nic moc tedy....",
+      "text_normalized": "slozite, plne reklam a neprehledne. odmeny na ne/slevy. bohuzel nic moc tedy....",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-02-02T06:30:35.270Z",
+      "replyText": "Hezký den, Milane,\nmrzí mě, že vás aplikace nezaujala 🙁 Stále na ni pracujeme a vylepšujeme ji, věřím, že do budoucna se vám bude líbit více. Zuzana",
+      "version": "3.6.1"
+    },
+    {
+      "id": "18305858-e095-4303-af6c-e938ea2819ff",
+      "userName": "Rival",
+      "date": "2026-01-31T12:03:35.620Z",
+      "score": 1,
+      "text": "Appka úplně na ****!! Nedá mi ani možnost při koupení datové SIM vybrat data nebo je obnovit.Nebyt prohlížeče ani si je nevyberu.Stara appka byla lepší i když pořád dokola padala.",
+      "text_normalized": "appka uplne na ****!! neda mi ani moznost pri koupeni datove sim vybrat data nebo je obnovit.nebyt prohlizece ani si je nevyberu.stara appka byla lepsi i kdyz porad dokola padala.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-01-31T13:00:32.518Z",
+      "replyText": "Dobrý den, Rival,\nděkujeme za vaši zpětnou vazbu. Na úpravách a dalším vývoji aplikace pracujeme, tak třeba s ní budete časem spokojenější. Martina",
+      "version": "3.6.1"
+    },
     {
       "id": "b89ff8dc-f779-4c8c-b902-d14e843ffc17",
       "userName": "Emil Galert",
@@ -24370,8 +24399,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1686,
-    "extractedAt": "2026-02-01T07:26:22.589Z",
+    "totalReviewsExtracted": 1688,
+    "extractedAt": "2026-02-02T07:55:57.369Z",
     "source": "google-play"
   }
 }
