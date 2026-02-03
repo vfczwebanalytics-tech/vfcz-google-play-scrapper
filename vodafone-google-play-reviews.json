@@ -1,18 +1,107 @@
 {
   "ratings": {
-    "score": 2.8302753,
+    "score": 2.760181,
     "scoreText": "2,8",
-    "totalRatings": 2253,
-    "totalReviews": 1086,
+    "totalRatings": 2255,
+    "totalReviews": 1096,
     "histogram": {
-      "1": 1002,
-      "2": 164,
-      "3": 102,
-      "4": 174,
-      "5": 805
+      "1": 1040,
+      "2": 163,
+      "3": 111,
+      "4": 173,
+      "5": 764
     }
   },
   "reviews": [
+    {
+      "id": "59da150e-56fa-4e52-a505-180c1d7885ae",
+      "userName": "Lucie D",
+      "date": "2026-02-01T21:27:37.128Z",
+      "score": 1,
+      "text": "nelze se přihlásit, napřed hlásí že k číslu není vytvořen účet a pak zas že nemohu vytvořit účet k číslu, které je již aktivní.... aplikace je tedy k ničemu....",
+      "text_normalized": "nelze se prihlasit, napred hlasi ze k cislu neni vytvoren ucet a pak zas ze nemohu vytvorit ucet k cislu, ktere je jiz aktivni.... aplikace je tedy k nicemu....",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-02T06:31:43.371Z",
+      "replyText": "Pěkný den, Lucie,\npřihlášení do aplikace funguje stejně, jako do té původní (https://www.vodafone.cz/pece/muj-vodafone/aplikace-muj-vodafone/aplikace-muj-vodafone-plus/). Pokud s tím máte potíže, pošlete nám screenshoty postupu přihlašování na e-mailovou adresu aplikace@vodafone.cz, abychom vám mohli pomoct. Veronika",
+      "version": "3.6.1"
+    },
+    {
+      "id": "33d94405-6f6d-431b-9bfc-ac68d6174c57",
+      "userName": "Jiřì Zlatohlàvek",
+      "date": "2026-02-01T19:14:30.139Z",
+      "score": 2,
+      "text": "Za Vodafone Happy ty Vaše slevy to je ostuda.Koukně te na T mobile.Neustále dárky,Do kina vstupenka 1+1 ,atd tady......",
+      "text_normalized": "za vodafone happy ty vase slevy to je ostuda.koukne te na t mobile.neustale darky,do kina vstupenka 1+1 ,atd tady......",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-02T06:29:48.510Z",
+      "replyText": "Pěkný den, Jiří,\nděkujeme za zpětnou vazbu, bude se snažit, aby vám nabídka v budoucnu vyhovovala lépe. Veronika",
+      "version": "3.6.1"
+    },
+    {
+      "id": "90d82e26-93f2-46f5-8a40-18744aaba541",
+      "userName": "Dušan Uhrin",
+      "date": "2026-02-01T12:25:56.297Z",
+      "score": 1,
+      "text": "stará aplikace byla lepší přehlednější lepší orientace rychlejší. Nová je tragédie totálně krok zpět odesílateli několik let.",
+      "text_normalized": "stara aplikace byla lepsi prehlednejsi lepsi orientace rychlejsi. nova je tragedie totalne krok zpet odesilateli nekolik let.",
+      "segments": [
+        "Vykonnost",
+        "UI"
+      ],
+      "replyDate": "2026-02-02T06:32:54.454Z",
+      "replyText": "Hezký den, Dušane, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": null
+    },
+    {
+      "id": "76a41888-cf14-4927-9afb-596278a71a9e",
+      "userName": "Zdenek Pelc",
+      "date": "2026-02-01T11:58:23.659Z",
+      "score": 1,
+      "text": "Bohužel, aplikace nejde otevřít - pouze \"po otevření se jen dozvím, že ,,Aj Aj, něco se nepovedlo!\". Ani odinstalace a následná nová aplikace nepomohla. Katastrofa !!!",
+      "text_normalized": "bohuzel, aplikace nejde otevrit - pouze \"po otevreni se jen dozvim, ze ,,aj aj, neco se nepovedlo!\". ani odinstalace a nasledna nova aplikace nepomohla. katastrofa !!!",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-02T06:29:58.420Z",
+      "replyText": "Hezký den, Zdeňku, je mi líto, že máte potíže s aplikací 🙁 Zkuste prosím vypnout VPN, pokud ji využíváte. Pokud by to nepomohlo, napište nám na aplikace@vodafone.cz. Prověříme to. Petra\n",
+      "version": "3.6.1"
+    },
+    {
+      "id": "6e6ee603-326c-4c79-8f9c-e2548b0723e3",
+      "userName": "Eva Lövenhöferová",
+      "date": "2026-02-01T11:36:05.917Z",
+      "score": 1,
+      "text": "V aplikaci najdete prakticky pouze měsíční vyučování, téměř nic nelze nastavit. Doufám, že původní zůstane funkční. Potřebovala jsem nastavit sdílení datového balíčku ve skupině, což ve staré bylo v pohodě, v nové to vůbec nelze.",
+      "text_normalized": "v aplikaci najdete prakticky pouze mesicni vyucovani, temer nic nelze nastavit. doufam, ze puvodni zustane funkcni. potrebovala jsem nastavit sdileni datoveho balicku ve skupine, coz ve stare bylo v pohode, v nove to vubec nelze.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-02T06:28:55.510Z",
+      "replyText": "Pěkný den, Evo,\ni to je možné v aplikaci nastavit. Přes nabídku Služby - vyberte hlavní telefonní číslo s datovým balíčkem, od kterého případně další čísla čerpají sdílená data - Přehled - vyberte Více. Přes filtr zvolte Internet a v části Sdílená data - správce můžete hodnoty DataStropu upravit. Veronika",
+      "version": "3.6.1"
+    },
+    {
+      "id": "05d06418-4ecb-4284-a2ae-dd2855c4a163",
+      "userName": "Jiří Ambrož",
+      "date": "2026-02-01T08:59:41.144Z",
+      "score": 3,
+      "text": "Proč mi nejde aplikace stáhnout do počítače ? Předchozí apku jsem v počítači měl a byla přehlednější než v telefonu.",
+      "text_normalized": "proc mi nejde aplikace stahnout do pocitace ? predchozi apku jsem v pocitaci mel a byla prehlednejsi nez v telefonu.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-02T06:27:11.324Z",
+      "replyText": "Pěkný den, Jiří,\njedná se o mobilní aplikaci, stejně to bylo u té původní. I nadále můžete využívat webové samoobsluhy přes internetový prohlížeč 🙂 Veronika",
+      "version": "3.6.1"
+    },
     {
       "id": "73c76b6d-c789-41aa-800c-4a2234f04f69",
       "userName": "Milan Kubišta",
@@ -24399,8 +24488,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1688,
-    "extractedAt": "2026-02-02T07:55:57.369Z",
+    "totalReviewsExtracted": 1694,
+    "extractedAt": "2026-02-03T07:32:18.862Z",
     "source": "google-play"
   }
 }
