@@ -1,18 +1,179 @@
 {
   "ratings": {
-    "score": 2.760181,
-    "scoreText": "2,8",
-    "totalRatings": 2255,
-    "totalReviews": 1096,
+    "score": 2.6890757,
+    "scoreText": "2,7",
+    "totalRatings": 2272,
+    "totalReviews": 1101,
     "histogram": {
-      "1": 1040,
-      "2": 163,
-      "3": 111,
-      "4": 173,
-      "5": 764
+      "1": 1097,
+      "2": 161,
+      "3": 104,
+      "4": 161,
+      "5": 743
     }
   },
   "reviews": [
+    {
+      "id": "161c5b15-b589-42b6-839b-9228d4c46ae3",
+      "userName": "Marian Lukeš",
+      "date": "2026-02-03T00:00:46.909Z",
+      "score": 1,
+      "text": "Touhle appkou platby opakovaně neprochází, aniž by po potvrzení napsala búú!",
+      "text_normalized": "touhle appkou platby opakovane neprochazi, aniz by po potvrzeni napsala buu!",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-02-03T06:07:49.274Z",
+      "replyText": "Pěkný den, Mariane,\nděkujeme za zpětnou vazbu. Budu ráda, když nám k tomu napíšete víc přes https://tam.je/dotaz. Nezapomeňte přilož i screenshoty. Veronika",
+      "version": "3.6.2"
+    },
+    {
+      "id": "24e3b1e7-1ba0-4e92-b86e-d63de4cdac80",
+      "userName": "U Liboháje",
+      "date": "2026-02-02T23:41:00.522Z",
+      "score": 1,
+      "text": "nelíbí se mě, že stále něco vymyslí te",
+      "text_normalized": "nelibi se me, ze stale neco vymysli te",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-03T06:08:51.577Z",
+      "replyText": "Pěkný den,\nděkujeme za zpětnou vazbu. Budeme se snažit, aby se vám aplikace líbila více. Veronika",
+      "version": "3.6.0"
+    },
+    {
+      "id": "437ffee4-63bb-4c7f-a4dd-9263a3714b4e",
+      "userName": "Miroslav Jirák",
+      "date": "2026-02-02T19:27:05.162Z",
+      "score": 1,
+      "text": "I když mám v rámci ČR neomezená data, tak v cizině mám datový balík omezený. Uvítal bych aspoň nějaký widget, kde bude přehled vyčerpaných dat v zahraničí. Nikde nemohu nic najít. Ani v aplikaci. Poněkud nepřehledné. Všude samá reklama, nic co by lidi potřebovali. Pokud mě vyvedete v omyl, recenzi rád upravím. Hlavně nepište, že na aplikaci a jejím vylepšení pracujete. To už slyším celou dobu co jsem u vás. Skoro 30 let. Asi čas na změnu konečně..",
+      "text_normalized": "i kdyz mam v ramci cr neomezena data, tak v cizine mam datovy balik omezeny. uvital bych aspon nejaky widget, kde bude prehled vycerpanych dat v zahranici. nikde nemohu nic najit. ani v aplikaci. ponekud neprehledne. vsude sama reklama, nic co by lidi potrebovali. pokud me vyvedete v omyl, recenzi rad upravim. hlavne nepiste, ze na aplikaci a jejim vylepseni pracujete. to uz slysim celou dobu co jsem u vas. skoro 30 let. asi cas na zmenu konecne..",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-03T06:10:52.687Z",
+      "replyText": "Pěkný den, Miroslave,\nje mi líto, že se vám aplikace nelíbí 🙁 Informace o čerpání v roamingu najdete po rozkliknutí konkrétního čísla v sekci Čerpání. Lucie",
+      "version": "3.6.2"
+    },
+    {
+      "id": "b5ab3226-ca13-4510-b518-e61a826faadf",
+      "userName": "M H",
+      "date": "2026-02-02T17:37:51.945Z",
+      "score": 1,
+      "text": "Nová app. je jedno velký peklo. Nepřehledná, absolutně ignoruje nastavení hlavního účtu. Po jedné aktualizaci to vypadalo, že to opravili a máme aktualizaci 2.2. a zpátky na stromy. Jednodušší a rychlejší je používat webové rozhraní než tohle.",
+      "text_normalized": "nova app. je jedno velky peklo. neprehledna, absolutne ignoruje nastaveni hlavniho uctu. po jedne aktualizaci to vypadalo, ze to opravili a mame aktualizaci 2.2. a zpatky na stromy. jednodussi a rychlejsi je pouzivat webove rozhrani nez tohle.",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ],
+      "replyDate": "2026-02-02T18:15:17.301Z",
+      "replyText": "Hezký den, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na opravě nastavení výchozí služby technici pracují a bude dokončená v některé z následujících aktualizací. Poprosím vás o trpělivost. Petra",
+      "version": "3.6.2"
+    },
+    {
+      "id": "2344c13b-5a58-421c-80ba-88fd101a2171",
+      "userName": "Karel Vlček",
+      "date": "2026-02-02T16:03:46.537Z",
+      "score": 1,
+      "text": "Extrémně pomalé načítání. Chci se podívat na detail svého tarifu, otevře se další okno a tam jen načítání. A telefonem ani rychlosti internetu to být nemůže. Používání téhle aplikace je za trest, proto se jí snažím vyhýbat a jen přes ni platím. I když to je taky zážitek, když chybí v roce 2026 GPay.",
+      "text_normalized": "extremne pomale nacitani. chci se podivat na detail sveho tarifu, otevre se dalsi okno a tam jen nacitani. a telefonem ani rychlosti internetu to byt nemuze. pouzivani tehle aplikace je za trest, proto se ji snazim vyhybat a jen pres ni platim. i kdyz to je taky zazitek, kdyz chybi v roce 2026 gpay.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-02-02T17:05:59.509Z",
+      "replyText": "Hezký den, Karle, doporučím vám aplikaci přeinstalovat, mohlo by to pomoci. Pokud budou potíže přetrvávat, napište nám na aplikace@vodafone.cz. Prověříme to. Pro platby přes Google Pay hledáme technické řešení. Petra\n",
+      "version": "3.6.2"
+    },
+    {
+      "id": "41e9c96b-53f2-4a28-828d-c7001b14fba4",
+      "userName": "Jan Hofman",
+      "date": "2026-02-02T14:52:12.137Z",
+      "score": 1,
+      "text": "Každé druhé prihlašení vyžaduje aktualizaci. To je hrozna aplikace.",
+      "text_normalized": "kazde druhe prihlaseni vyzaduje aktualizaci. to je hrozna aplikace.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-02T15:04:36.857Z",
+      "replyText": "Hezký den, Jane, děkujeme za hodnocení. Aplikaci stále vylepšujeme, z toho důvodu se mohou aktualizace objevovat častěji. Děkuji za pochopení. Petra",
+      "version": "3.6.2"
+    },
+    {
+      "id": "04b67d10-e0c3-40fa-9181-d7228cde93f3",
+      "userName": "Michal",
+      "date": "2026-02-02T13:48:17.571Z",
+      "score": 5,
+      "text": "Aplikace bez problémů, funguje dobře. Jen tedy netuším proč se z ní nedozvím kolik budu platit (ani z webu Vodafone, není to chyba app jako takové), když dle infolinky v zobrazované ceně nejsou zahrnuty případné slevy. Ani ty trvalé, které jsou součástí smlouvy. K čemu to potom je?",
+      "text_normalized": "aplikace bez problemu, funguje dobre. jen tedy netusim proc se z ni nedozvim kolik budu platit (ani z webu vodafone, neni to chyba app jako takove), kdyz dle infolinky v zobrazovane cene nejsou zahrnuty pripadne slevy. ani ty trvale, ktere jsou soucasti smlouvy. k cemu to potom je?",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-02T14:37:59.317Z",
+      "replyText": "Hezký den, Michale, aktuální útratu vidíte v aplikaci i ve webové samoobsluze Můj Vodafone na hlavní stránce a v sekci Čerpání. Pokud se vám nezobrazují trvalé slevy, napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Prověříme to. Petra\n\n",
+      "version": "3.6.2"
+    },
+    {
+      "id": "607b4dab-b255-43ee-a83c-8a1cfff0b39f",
+      "userName": "Tomas Singer",
+      "date": "2026-02-02T11:09:54.890Z",
+      "score": 1,
+      "text": "Strasny. Vlastne jedna velka reklama na to co si jeste musite poridit. a to co potrebujete je skryte a klukate a klikate a tukate. co par dnu aktualizace co ien prida dalsi reklamy. otravne.",
+      "text_normalized": "strasny. vlastne jedna velka reklama na to co si jeste musite poridit. a to co potrebujete je skryte a klukate a klikate a tukate. co par dnu aktualizace co ien prida dalsi reklamy. otravne.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-02T11:30:33.491Z",
+      "replyText": "Hezký den, Tomáši, je mi líto, že se vám aplikace nelíbí 🙁 Na jejím vylepšení pracujeme, tak pevně věřím, že s ní budete do budoucna spokojenější. Petra",
+      "version": "3.6.1"
+    },
+    {
+      "id": "74cbaa72-0c35-4909-ad3f-37663fe9a54f",
+      "userName": "Lukáš Votava",
+      "date": "2026-02-02T11:08:59.819Z",
+      "score": 1,
+      "text": "mega srágorka",
+      "text_normalized": "mega sragorka",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-02T11:31:42.170Z",
+      "replyText": "Hezký den, Lukáši, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám bude do budoucna vyhovovat více. Petra",
+      "version": null
+    },
+    {
+      "id": "26dd8ba9-3db4-429d-b8ba-a8b328dc356d",
+      "userName": "Uživatel Google",
+      "date": "2026-02-02T10:57:09.908Z",
+      "score": 1,
+      "text": "Dobrý den.Platba přes Google Pay není možná...Přes Apple Pay možná je?...Je to k pláči😭Jinak proti aplikaci jako takové nemám nic.",
+      "text_normalized": "dobry den.platba pres google pay neni mozna...pres apple pay mozna je?...je to k placi😭jinak proti aplikaci jako takove nemam nic.",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-02T11:03:16.998Z",
+      "replyText": "Hezký den, platbu přes Google Pay v tuto chvíli aplikace Můj Vodafone+ nepodporuje. Bližší informace, jestli tuto možnost zařadíme, zatím nemáme k dispozici. Petra",
+      "version": "3.6.1"
+    },
+    {
+      "id": "f45e3a45-a80d-493d-afd7-5eeb4b6239cb",
+      "userName": "ICE ICE",
+      "date": "2026-02-02T09:28:37.990Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-02T09:31:16.598Z",
+      "replyText": "Pěkný den, ICE,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.6.0"
+    },
     {
       "id": "59da150e-56fa-4e52-a505-180c1d7885ae",
       "userName": "Lucie D",
@@ -24488,8 +24649,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1694,
-    "extractedAt": "2026-02-03T07:32:18.862Z",
+    "totalReviewsExtracted": 1705,
+    "extractedAt": "2026-02-04T07:34:37.543Z",
     "source": "google-play"
   }
 }
