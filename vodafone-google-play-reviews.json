@@ -1,18 +1,92 @@
 {
   "ratings": {
-    "score": 2.6890757,
+    "score": 2.7370517,
     "scoreText": "2,7",
-    "totalRatings": 2272,
-    "totalReviews": 1101,
+    "totalRatings": 2284,
+    "totalReviews": 1114,
     "histogram": {
-      "1": 1097,
-      "2": 161,
-      "3": 104,
-      "4": 161,
-      "5": 743
+      "1": 1073,
+      "2": 162,
+      "3": 108,
+      "4": 162,
+      "5": 772
     }
   },
   "reviews": [
+    {
+      "id": "81e9dbfd-ab6c-49ac-9331-1f14da9cadfe",
+      "userName": "Ondrej Bires",
+      "date": "2026-02-04T03:21:41.777Z",
+      "score": 4,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-04T06:18:20.842Z",
+      "replyText": "Hezký den, Ondřeji, děkujeme za hodnocení 🙂 Těší mě, že se vám aplikace líbí 🙂 Petra",
+      "version": "3.6.1"
+    },
+    {
+      "id": "bc7dd33e-6888-438e-875d-f8671a5c7842",
+      "userName": "Lukáš Hertl",
+      "date": "2026-02-03T12:51:36.360Z",
+      "score": 1,
+      "text": "Jako předchozí aplikace náhodně odhlašuje, někdy po dnu, někdy po týdnu jindy měsíci. Velmi otravné, raději volím samoobsluhu v prohlížeči na PC. Kdyby raději peníze investovali do vývoje aplikace než otravných reklamních hovorů",
+      "text_normalized": "jako predchozi aplikace nahodne odhlasuje, nekdy po dnu, nekdy po tydnu jindy mesici. velmi otravne, radeji volim samoobsluhu v prohlizeci na pc. kdyby radeji penize investovali do vyvoje aplikace nez otravnych reklamnich hovoru",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-03T13:07:55.217Z",
+      "replyText": "Hezký den, Lukáši,\ntoto hodně záleží na tom, jak z aplikace odcházíte. Pokud obyčejně přejděte jinam, tak by měla zůstat přihlášená. Když ale odcházíte přes odhlašovací tlačítko, je poté nutné se znovu přihlásit. Napište nám prosím příklady na aplikace@vodafone.cz a my to prověříme. Katka",
+      "version": "3.6.2"
+    },
+    {
+      "id": "6422b415-044e-4b1e-a660-c9624f71d547",
+      "userName": "Jaroslav Jeřábek",
+      "date": "2026-02-03T10:17:42.893Z",
+      "score": 1,
+      "text": "nefunguje",
+      "text_normalized": "nefunguje",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-03T10:36:22.320Z",
+      "replyText": "Pěkný den, Jaroslave,\nje mi líto, že vám aplikace nefunguje správně 🙁 Rádi se na to s vámi podíváme konkrétněji, když nám napíšete podrobnosti přes zabezpečený formulář https://tam.je/dotaz. Lucie\n",
+      "version": null
+    },
+    {
+      "id": "f4d567ec-6409-4cc0-9b44-2a106785fc2e",
+      "userName": "kacka Kukacka",
+      "date": "2026-02-03T09:58:02.794Z",
+      "score": 3,
+      "text": "Člověk v nové aplikaci trochu tápe, není tam nic navíc. Naopak, chybí mi tam podrobné vyúčtování hovorů a SMS, které mám dle nastavení aktivní a nikde ho nemůžu nalézt. Informační zprávy mi přijdou ke každému zařízení zvlášť a všechny jsou stejné. Pokud chci mít přehled o nových, musím každou z nich 5x přečíst 🤦‍♀️.",
+      "text_normalized": "clovek v nove aplikaci trochu tape, neni tam nic navic. naopak, chybi mi tam podrobne vyuctovani hovoru a sms, ktere mam dle nastaveni aktivni a nikde ho nemuzu nalezt. informacni zpravy mi prijdou ke kazdemu zarizeni zvlast a vsechny jsou stejne. pokud chci mit prehled o novych, musim kazdou z nich 5x precist 🤦‍♀️.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-03T10:08:17.594Z",
+      "replyText": "Pěkný den, Kacko,\nděkujeme za zpětnou vazbu. Podrobnosti o čerpání kreditu najdete ve webové samoobsluze, pokud máte tarif, tak tyto informace jsou pouze součástí vystaveného Vyúčtování, které je třeba si stáhnout/zobrazit. Tak tomu bylo vždy. Veronika",
+      "version": "3.6.2"
+    },
+    {
+      "id": "30b45c99-f03e-4dd6-86be-b15c31b58c18",
+      "userName": "Leoš Jan Borský",
+      "date": "2026-02-03T09:10:28.708Z",
+      "score": 2,
+      "text": "Po aktualizaci SW 3.2.26 zcela nefunkční, nutno odinstalovat a nová instalace plus obnovení hesla.",
+      "text_normalized": "po aktualizaci sw 3.2.26 zcela nefunkcni, nutno odinstalovat a nova instalace plus obnoveni hesla.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-03T09:36:12.155Z",
+      "replyText": "Pěkný den, Leoši,\npokud dojde k nějaké komplikaci v telefonu při aktualizaci, je přeinstalování aplikace běžnou situací. Pokud máte i poté nějaké potíže, napište nám k tomu podrobnosti a také screenshoty na e-mail aplikace@vodafone.cz. Veronika",
+      "version": "3.6.2"
+    },
     {
       "id": "161c5b15-b589-42b6-839b-9228d4c46ae3",
       "userName": "Marian Lukeš",
@@ -24649,8 +24723,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1705,
-    "extractedAt": "2026-02-04T07:34:37.543Z",
+    "totalReviewsExtracted": 1710,
+    "extractedAt": "2026-02-05T07:54:59.389Z",
     "source": "google-play"
   }
 }
