@@ -1,18 +1,184 @@
 {
   "ratings": {
-    "score": 2.7370517,
-    "scoreText": "2,7",
-    "totalRatings": 2284,
-    "totalReviews": 1114,
+    "score": 2.470297,
+    "scoreText": "2,5",
+    "totalRatings": 2309,
+    "totalReviews": 1124,
     "histogram": {
-      "1": 1073,
-      "2": 162,
-      "3": 108,
-      "4": 162,
-      "5": 772
+      "1": 1245,
+      "2": 171,
+      "3": 91,
+      "4": 159,
+      "5": 639
     }
   },
   "reviews": [
+    {
+      "id": "508b7a58-0c85-41fd-ae96-37d234535a8f",
+      "userName": "Lukáš Holub",
+      "date": "2026-02-05T06:27:46.892Z",
+      "score": 1,
+      "text": "Kde je QR platba? Edit: Odebírám druhou hvězdu PDF faktura nejde stáhnout. Edit 2. Nevím, jestli chápete psaný text. Ale faktura stáhnout NEJDE. Kam Vám můžu poslat screenshot chyby? Jdou stáhnout faktury pouze za minulé měsíce",
+      "text_normalized": "kde je qr platba? edit: odebiram druhou hvezdu pdf faktura nejde stahnout. edit 2. nevim, jestli chapete psany text. ale faktura stahnout nejde. kam vam muzu poslat screenshot chyby? jdou stahnout faktury pouze za minule mesice",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-05T06:24:40.390Z",
+      "replyText": "Hezký den, Lukáši,\nje mi to líto, ale platba QR kódem zatím nejde 🙁 Naopak stažení Vyúčtování možné je, v sekci Vyúčtování klikněte na požadovaný měsíc a zvolte Stáhnout PDF fakturu. V ní najdete i QR kód, kterým je pak možné uhradit 🙂 Katka",
+      "version": "3.6.2"
+    },
+    {
+      "id": "2c068297-9623-41cf-a33e-1f37b231295b",
+      "userName": "Wyki Fox",
+      "date": "2026-02-05T01:18:23.317Z",
+      "score": 1,
+      "text": "Na H, vidím jen červenej flek. A app startuje až na druhý pokus. Takže k trusu!",
+      "text_normalized": "na h, vidim jen cervenej flek. a app startuje az na druhy pokus. takze k trusu!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-05T06:23:15.464Z",
+      "replyText": "Dobrý den, Wyki Fox,\nprosím zkuste aplikaci odinstalovat a znovu stáhnout. Kdyby i poté potíže přetrvávaly, zavolejte nám na 800 77 00 77, rádi to prověříme na základě podrobnějších informací. Martina",
+      "version": "3.6.2"
+    },
+    {
+      "id": "f37a58e2-187a-41f0-89fa-e616855d2889",
+      "userName": "Michal Albrecht",
+      "date": "2026-02-05T00:09:29.600Z",
+      "score": 1,
+      "text": "Proč je ta aplikace tak zoufale pomalá, vše se načítá půl minuty. Vše je tak nepřehledné. Chatbot neumí ani poradit kde je nastavení přesměrování hovoru. Než jsem toto našel a nastavil trval 15 minut mého drahocenného času 😬",
+      "text_normalized": "proc je ta aplikace tak zoufale pomala, vse se nacita pul minuty. vse je tak neprehledne. chatbot neumi ani poradit kde je nastaveni presmerovani hovoru. nez jsem toto nasel a nastavil trval 15 minut meho drahocenneho casu 😬",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-05T06:22:18.840Z",
+      "replyText": "Dobrý den, Michale,\nje mi líto, že vám aplikace nevyhovuje 🙁 Na jejích dalších úpravách pracujeme, proto věřím, že s ní budete časem spokojenější. Martina",
+      "version": "3.6.2"
+    },
+    {
+      "id": "4c39c742-3dd1-42c6-a678-4718b0109141",
+      "userName": "Erika Orlitová",
+      "date": "2026-02-04T21:16:39.388Z",
+      "score": 1,
+      "text": "​„Kam zmizel QR kód pro zaplacení? Komplikuje to platbu. Ve staré aplikaci bylo placení QR dostupne na první dobrou, vraťte to tam.",
+      "text_normalized": "​„kam zmizel qr kod pro zaplaceni? komplikuje to platbu. ve stare aplikaci bylo placeni qr dostupne na prvni dobrou, vratte to tam.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-02-05T06:17:21.619Z",
+      "replyText": "Dobrý den, Eriko,\nQR kód najdete přímo ve Vyúčtování, které si můžete stáhnout z aplikace. Ale do budoucna ho plánujeme přidat i přímo do aplikace. Martina",
+      "version": "3.6.2"
+    },
+    {
+      "id": "58318141-b64e-4c63-8faf-d65aa09d9e26",
+      "userName": "NeXus",
+      "date": "2026-02-04T20:49:39.680Z",
+      "score": 1,
+      "text": "Jaký byl důvod vývoje nové aplikace?",
+      "text_normalized": "jaky byl duvod vyvoje nove aplikace?",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-05T06:26:57.336Z",
+      "replyText": "Hezký den, NeXusi,\ntěch důvodů je více, ale obecně platí, že na rozvoji našich služeb stále pracujeme. Pravidelně obměňujeme naše tarify, nabídku Vodafone a připojení, případně také aplikace, které poskytujeme 🙂 Katka",
+      "version": "3.6.2"
+    },
+    {
+      "id": "080899fe-dbb6-4dd9-a1bb-49f1d7f9208f",
+      "userName": "Martin O",
+      "date": "2026-02-04T17:46:09.287Z",
+      "score": 1,
+      "text": "V aplikaci mi ukazuje v pravo nahoře že mám 4 zprávy . Není tam nic ani v nepřečtených ani v přečtených . Dale tam chybí možnost nahlášeni výpadku služeb pevného internetu který je tak častý že tolikrát denně ani nejím!! Dále když kliknu na položku centrum péče nahazuje to nějakou chybu . k čemu je aplikace ve které ukazuje zpravy ale i tak musíte jít na web přohlásit se tam a ta. je pročíst . Tohle je parodie na aplikaci.",
+      "text_normalized": "v aplikaci mi ukazuje v pravo nahore ze mam 4 zpravy . neni tam nic ani v neprectenych ani v prectenych . dale tam chybi moznost nahlaseni vypadku sluzeb pevneho internetu ktery je tak casty ze tolikrat denne ani nejim!! dale kdyz kliknu na polozku centrum pece nahazuje to nejakou chybu . k cemu je aplikace ve ktere ukazuje zpravy ale i tak musite jit na web prohlasit se tam a ta. je procist . tohle je parodie na aplikaci.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-04T17:43:45.120Z",
+      "replyText": "Pěkný den, Martine,\npošlete nám prosím jednotlivé screenshoty přes https://tam.je/dotaz. Aplikace aktuálně umí zobrazit právě probíhající výpadek či údržbu, a to přímo na hlavní stránce (Úvod) v části Přehled na \"široké dlaždici\", pokud máte zobrazenou dotčenou službu (pevný internet). Veronika",
+      "version": "3.6.2"
+    },
+    {
+      "id": "94c63171-480c-4830-998f-43d2a5c4dd9b",
+      "userName": "Ondřej Peths",
+      "date": "2026-02-04T16:49:26.867Z",
+      "score": 1,
+      "text": "hergot co to je za zmenu k horsimu? Proc je to tak zoufale pomaly, mam pocit, ze to zacne couvat..nepamatuje si to nastaveni prejmenovani profilu u ruznych sluzeb..to je tragedie tohle..",
+      "text_normalized": "hergot co to je za zmenu k horsimu? proc je to tak zoufale pomaly, mam pocit, ze to zacne couvat..nepamatuje si to nastaveni prejmenovani profilu u ruznych sluzeb..to je tragedie tohle..",
+      "segments": [
+        "Vykonnost",
+        "UI"
+      ],
+      "replyDate": "2026-02-04T17:14:32.829Z",
+      "replyText": "Pěkný den, Ondřeji,\naplikaci prosím odinstalujte, telefon restartujte a znovu nainstalujte. Po přihlášení na stránce Úvod v části Moje služby - vlastní název uvidíte přímo u telefonního čísla nebo čísla internetu či televize. Změnu provedete kliknutím na ikonu tužky. Změna názvu se v aplikaci propíše do cca 15 minut.",
+      "version": "3.6.2"
+    },
+    {
+      "id": "d7a1f3df-5e00-4e70-ba4d-781333ec6184",
+      "userName": "Karidis Leonidas",
+      "date": "2026-02-04T13:15:10.330Z",
+      "score": 1,
+      "text": "vaše nová aplikace je katastrofální! Je nepřehledná, nenačítá se a co už vůbec nemohu pochopit je, proč se musím neustále znovu přihlašovat, přestože se nikdy neodhlásím!!",
+      "text_normalized": "vase nova aplikace je katastrofalni! je neprehledna, nenacita se a co uz vubec nemohu pochopit je, proc se musim neustale znovu prihlasovat, prestoze se nikdy neodhlasim!!",
+      "segments": [
+        "UI",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-04T13:40:59.902Z",
+      "replyText": "Pěkný den, Karidis,\nděkujeme za zpětnou vazbu. Aplikace je naopak intuitivní, pro přepnutí na jinou službu stačí jednoduše přejet prstem. Aplikace podporuje i biometriku, stačí si ji zapnout přes menu. Veronika",
+      "version": "3.6.2"
+    },
+    {
+      "id": "3494fccb-4af7-4c5b-9843-eb2843af0eee",
+      "userName": "Tomas Sofronic",
+      "date": "2026-02-04T12:25:40.250Z",
+      "score": 1,
+      "text": "Aplikace na úrovni velmi špatného školního projektu. V rozumné firmě by tato ubohost nemohla nikdy s respektem k zákazníkovi projít interním testem. Nemožnost platby QR kódem.... kopírovat jednotlivé informace platby? Vážně? Dozvím se jak se jmenuji a mám zde jedinečnou možnost si prohlédnout reklamní leták vodafon k produktům které mě nezajímají... 60% plochy k ničemu... chatbot co nic nemůže pro prednaštvání zákazníka? Výsměch do očí všem vašim zákazníkům. Gratuluji vývojáři k této zrůdnosti.",
+      "text_normalized": "aplikace na urovni velmi spatneho skolniho projektu. v rozumne firme by tato ubohost nemohla nikdy s respektem k zakaznikovi projit internim testem. nemoznost platby qr kodem.... kopirovat jednotlive informace platby? vazne? dozvim se jak se jmenuji a mam zde jedinecnou moznost si prohlednout reklamni letak vodafon k produktum ktere me nezajimaji... 60% plochy k nicemu... chatbot co nic nemuze pro prednastvani zakaznika? vysmech do oci vsem vasim zakaznikum. gratuluji vyvojari k teto zrudnosti.",
+      "segments": [
+        "UI",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-04T12:42:12.667Z",
+      "replyText": "Dobrý den, Tomasi,\nděkujeme za vaši zpětnou vazbu a je mi líto, že pro vás aplikace není přehledná ani praktická. Na vylepšeních průběžně pracujeme a aplikaci pravidelně aktualizujeme. Zobrazení QR kódu pro platbu bez nutnosti otevírat celé vyúčtování také zvažujeme. Viki",
+      "version": null
+    },
+    {
+      "id": "fa615a8b-d490-4baa-9d23-39a4c1d7c62c",
+      "userName": "Jan Kovařík",
+      "date": "2026-02-04T08:47:24.590Z",
+      "score": 1,
+      "text": "katasrofa vyhodte ty lidi co to zprasily .",
+      "text_normalized": "katasrofa vyhodte ty lidi co to zprasily .",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-04T09:09:17.458Z",
+      "replyText": "Dobrý den, Jane,\nje mi líto, že vám Můj Vodafone+ nevyhovuje 🙁 Vývoj aplikace pokračuje a funkcionalitu budeme dále rozšiřovat v nadcházejících aktualizacích. Viki",
+      "version": "3.6.2"
+    },
+    {
+      "id": "72873822-496f-4a0f-aa7d-75db12cbb571",
+      "userName": "Aleš F",
+      "date": "2026-02-04T08:45:15.373Z",
+      "score": 1,
+      "text": "Hrozný vůbec se mi nejde přihlásit strašně dlouho jsem to zkoušel. Ale prostě nejde. Je smutné že jen kvůli kvalitě aplikace přemýšlím o přechodu ke konkurenci.",
+      "text_normalized": "hrozny vubec se mi nejde prihlasit strasne dlouho jsem to zkousel. ale proste nejde. je smutne ze jen kvuli kvalite aplikace premyslim o prechodu ke konkurenci.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-04T09:11:08.684Z",
+      "replyText": "Hezký den, Aleši,\nje mi líto, že máte potíže s přihlášením. Doporučuji tuto stránku - https://www.vodafone.cz/pece/muj-vodafone/hesla/prihlaseni-muj-vodafone-nefunguje/. Případně nám prosím napište podrobnosti na aplikace@vodafone.cz. Viki",
+      "version": "3.6.2"
+    },
     {
       "id": "81e9dbfd-ab6c-49ac-9331-1f14da9cadfe",
       "userName": "Ondrej Bires",
@@ -24723,8 +24889,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1710,
-    "extractedAt": "2026-02-05T07:54:59.389Z",
+    "totalReviewsExtracted": 1721,
+    "extractedAt": "2026-02-06T07:37:19.363Z",
     "source": "google-play"
   }
 }
