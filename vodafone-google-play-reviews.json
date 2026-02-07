@@ -1,18 +1,162 @@
 {
   "ratings": {
-    "score": 2.470297,
-    "scoreText": "2,5",
-    "totalRatings": 2309,
-    "totalReviews": 1124,
+    "score": 2.4372094,
+    "scoreText": "2,4",
+    "totalRatings": 2322,
+    "totalReviews": 1131,
     "histogram": {
-      "1": 1245,
-      "2": 171,
-      "3": 91,
-      "4": 159,
-      "5": 639
+      "1": 1263,
+      "2": 172,
+      "3": 107,
+      "4": 161,
+      "5": 615
     }
   },
   "reviews": [
+    {
+      "id": "7b81149c-0f43-4ed2-8ea2-c7e93ba16d1e",
+      "userName": "Vlastimil Samec",
+      "date": "2026-02-05T22:17:21.231Z",
+      "score": 5,
+      "text": "po X letech můžu říct, že aplikace Vodafone je plně funkční a přehledná!",
+      "text_normalized": "po x letech muzu rict, ze aplikace vodafone je plne funkcni a prehledna!",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-02-06T06:13:08.362Z",
+      "replyText": "Pěkný den, Vlastimile,\nděkujeme za zpětnou vazbu a hodnocení 🙂 Veronika",
+      "version": "3.6.2"
+    },
+    {
+      "id": "983603bc-2a09-4df8-88af-66e7baea8b03",
+      "userName": "Jaroslav Pajma",
+      "date": "2026-02-05T21:52:34.476Z",
+      "score": 3,
+      "text": "Otřes to přihlašování! Nešlo by rovnou do SMS dát číslo účtu nebo QR kód?",
+      "text_normalized": "otres to prihlasovani! neslo by rovnou do sms dat cislo uctu nebo qr kod?",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-02-06T06:12:34.706Z",
+      "replyText": "Pěkný den, Jaroslave,\npřihlašujete se e-mailovou adresou a vlastním heslem a máte možnost nastavit si biometriku. Tento způsob přihlašování je již standardem. Veronika",
+      "version": "3.6.2"
+    },
+    {
+      "id": "09fa525c-79ba-4fa5-b0fd-fa2944bbf416",
+      "userName": "Renáta Šebková",
+      "date": "2026-02-05T20:55:27.604Z",
+      "score": 2,
+      "text": "Teď jsem si nainstalovala novou aplikaci a recenze mě děsí. Tak chci věřit, že Vodafone vše vyřeší!",
+      "text_normalized": "ted jsem si nainstalovala novou aplikaci a recenze me desi. tak chci verit, ze vodafone vse vyresi!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-06T06:16:26.322Z",
+      "replyText": "Hezký den, Renáto,\nzpětná vazba od zákazníků nás zajímá a jak píšete, na rozvoji aplikace budeme nadále pracovat 🙂 Katka",
+      "version": "3.6.2"
+    },
+    {
+      "id": "83f00f42-079b-44fa-904e-420d2c5b0bc1",
+      "userName": "Sur Bann",
+      "date": "2026-02-05T18:05:08.963Z",
+      "score": 1,
+      "text": "co se týka přehlednosti ok? ale aby se mi na samsungu s 24 načítalo info 3 hodiny to je fakt k smíchu",
+      "text_normalized": "co se tyka prehlednosti ok? ale aby se mi na samsungu s 24 nacitalo info 3 hodiny to je fakt k smichu",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-02-05T18:13:41.387Z",
+      "replyText": "Pěkný den,\nděkuji vám za zpětnou vazbu, i když pro nás není pozitivní. Budeme se snažit, aby se vám aplikace do budoucna líbila více. Lucie\n",
+      "version": "3.6.2"
+    },
+    {
+      "id": "4f5e04e1-21bb-41c8-b805-2d9f93a51cdc",
+      "userName": "Richard Skrivanek",
+      "date": "2026-02-05T17:30:27.776Z",
+      "score": 5,
+      "text": "vše běží jak má. hezký vzhled a přehledná aplikace 👍",
+      "text_normalized": "vse bezi jak ma. hezky vzhled a prehledna aplikace 👍",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-02-05T17:42:47.429Z",
+      "replyText": "Hezký den, Richarde,\nděkujeme vám za hodnocení aplikace. Jsem ráda, že jste s ní spokojený 🙂 Lucie",
+      "version": "3.6.2"
+    },
+    {
+      "id": "ff1cd64d-35b7-49a9-8e4e-9e1ffcf32fd5",
+      "userName": "Zdenek Pawera",
+      "date": "2026-02-05T13:55:10.372Z",
+      "score": 4,
+      "text": "2.2. jsem aktualizoval na Můj Vodafone+ a už mí chodí upozornění přestat používat starou mobilní aplikaci a dnes mám znovu aktualizovat, jinak mě do aplikace nepustí, nechápu....",
+      "text_normalized": "2.2. jsem aktualizoval na muj vodafone+ a uz mi chodi upozorneni prestat pouzivat starou mobilni aplikaci a dnes mam znovu aktualizovat, jinak me do aplikace nepusti, nechapu....",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-05T14:12:37.613Z",
+      "replyText": "Pěkný den, Zdenku,\nomlouvám se vám za komplikace 🙁 Do aplikace přidáváme nové funkce, z toho důvodu jsou nyní častější aktualizace. Lucie",
+      "version": "3.6.1"
+    },
+    {
+      "id": "d28c0141-6645-428f-8dba-78e5c4aa6a60",
+      "userName": "Helena Tomsova",
+      "date": "2026-02-05T12:47:37.281Z",
+      "score": 1,
+      "text": "nejde otevřít reset hodinu",
+      "text_normalized": "nejde otevrit reset hodinu",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-05T13:35:46.923Z",
+      "replyText": "Hezký den, Heleno,\nv tomto případě zkuste aplikaci odinstalovat a znovu stáhnout, mohlo by to pomoci. Kdyby ne, napište nám prosím na aplikace@vodafone.cz a vyřešíme to 🙂 Katka",
+      "version": "3.6.2"
+    },
+    {
+      "id": "ef9b40fa-c267-41cb-994b-5bbdfc683c7f",
+      "userName": "jirka vala",
+      "date": "2026-02-05T09:01:48.196Z",
+      "score": 1,
+      "text": "komplikované přihlášení",
+      "text_normalized": "komplikovane prihlaseni",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-05T09:20:28.420Z",
+      "replyText": "Hezký den, Jirko,\nděkujeme za zpětnou vazbu a hodnocení. Chápu, že vám může připadat komplikované, ale děláme to pro ochranu údajů našich zákazníků 🙂 Katka",
+      "version": "3.6.2"
+    },
+    {
+      "id": "fa151977-d6a4-4018-8cf9-c326898d2b66",
+      "userName": "Thomas Impossible",
+      "date": "2026-02-05T08:43:16.207Z",
+      "score": 1,
+      "text": "dik za odebrani jedine dobre funkcionality, qr platby. dalsi potvrzeni nejhorsiho operatora.",
+      "text_normalized": "dik za odebrani jedine dobre funkcionality, qr platby. dalsi potvrzeni nejhorsiho operatora.",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-02-05T09:22:13.889Z",
+      "replyText": "Dobrý den, Thomasi,\nděkujeme za zpětnou vazbu. Přímo v aplikaci nyní QR kód opravdu není možné zobrazit 🙁 V mobilní aplikaci v sekci Vyúčtování klikněte na požadovaný měsíc a zvolte Stáhnout PDF fakturu. QR kód najdete na první straně PDF Vyúčtování 🙂 Katka",
+      "version": "3.6.2"
+    },
+    {
+      "id": "5ede5dea-5db1-4b66-a3e6-d2c68e77f360",
+      "userName": "Tomáš Fous",
+      "date": "2026-02-05T08:00:18.777Z",
+      "score": 3,
+      "text": "to nechápu proč v roce 2026 tam není možnost platby Google play",
+      "text_normalized": "to nechapu proc v roce 2026 tam neni moznost platby google play",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-05T08:11:34.630Z",
+      "replyText": "Hezký den, Tomáši,\nděkujeme za podnět. Všechny nápady od zákazníků sbíráme a máme v plánu funkce nadále rozšiřovat :) Katka",
+      "version": "3.6.2"
+    },
     {
       "id": "508b7a58-0c85-41fd-ae96-37d234535a8f",
       "userName": "Lukáš Holub",
@@ -24889,8 +25033,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1721,
-    "extractedAt": "2026-02-06T07:37:19.363Z",
+    "totalReviewsExtracted": 1731,
+    "extractedAt": "2026-02-07T07:09:50.424Z",
     "source": "google-play"
   }
 }
