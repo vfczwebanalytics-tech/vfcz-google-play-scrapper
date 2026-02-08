@@ -1,18 +1,106 @@
 {
   "ratings": {
-    "score": 2.4372094,
+    "score": 2.4285715,
     "scoreText": "2,4",
-    "totalRatings": 2322,
-    "totalReviews": 1131,
+    "totalRatings": 2329,
+    "totalReviews": 1145,
     "histogram": {
-      "1": 1263,
-      "2": 172,
-      "3": 107,
-      "4": 161,
-      "5": 615
+      "1": 1277,
+      "2": 166,
+      "3": 103,
+      "4": 166,
+      "5": 612
     }
   },
   "reviews": [
+    {
+      "id": "50c07e92-da9c-47b1-93bf-13a770354064",
+      "userName": "Monika Emememem",
+      "date": "2026-02-06T20:08:24.292Z",
+      "score": 1,
+      "text": "nejhorší aplikace co mám operátor dobrý, ale aplikace úplně k ničemu,neustále se seká, kdykoliv otevřu chce aktualizace",
+      "text_normalized": "nejhorsi aplikace co mam operator dobry, ale aplikace uplne k nicemu,neustale se seka, kdykoliv otevru chce aktualizace",
+      "segments": [
+        "Vykonnost",
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-02-07T07:40:51.174Z",
+      "replyText": "Dobrý den, Moniko,\naplikace Můj Vodafone+ je nová a postupně do ní přidáváme nové funkce, proto jsou nyní aktualizace častější. Co se týče potíží s jejím využíváním, rádi to prověříme na základě konkrétního příkladu, proto nám prosím zavolejte na 800 77 00 77. Martina",
+      "version": "3.6.3"
+    },
+    {
+      "id": "8a8b684a-f4b5-4af4-ba54-5130f22da9f7",
+      "userName": "Jirka Hill",
+      "date": "2026-02-06T18:43:18.209Z",
+      "score": 1,
+      "text": "proč se nedá platit normálně přes google pay?😡",
+      "text_normalized": "proc se neda platit normalne pres google pay?😡",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-02-06T18:48:14.848Z",
+      "replyText": "Dobrý den, Jirko,\nje mi líto, že jste nespokojený. Aktuálně hledáme technické řešení pro tuto formu platby. Kdyby se cokoliv měnilo, budeme o tom informovat. Viki",
+      "version": "3.6.3"
+    },
+    {
+      "id": "9e3439d7-f504-4ce0-85fd-3f04fea4621c",
+      "userName": "Zdena Jakesova",
+      "date": "2026-02-06T14:08:59.330Z",
+      "score": 5,
+      "text": "Ok.",
+      "text_normalized": "ok.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-06T14:21:58.310Z",
+      "replyText": "Hezký den, Zdeno,\nděkujeme vám za hodnocení 🙂 Těší mě, že jste s aplikací spokojená. Viki",
+      "version": "3.6.2"
+    },
+    {
+      "id": "d5de5bcb-2306-4b09-85a3-00be9b4a019d",
+      "userName": "Lukas Nedvidek",
+      "date": "2026-02-06T13:33:57.961Z",
+      "score": 1,
+      "text": "zasekla se pokaždé, když jsem ji chtěl spustit,nejde se přihlásit",
+      "text_normalized": "zasekla se pokazde, kdyz jsem ji chtel spustit,nejde se prihlasit",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-06T13:53:29.423Z",
+      "replyText": "Dobrý den, Lukáši, je mi líto, že máte takovou zkušenost. Doporučuji tuto stránku https://www.vodafone.cz/pece/muj-vodafone/hesla/prihlaseni-muj-vodafone-nefunguje/. Zkuste také aplikaci přeinstalovat a pak se přihlásit ještě jednou. Kdyby to nepomohlo, prosím dejte nám vědět na aplikace@vodafone.cz. Viki",
+      "version": "3.6.2"
+    },
+    {
+      "id": "769e1865-af19-42d1-ab29-39d47d56b27f",
+      "userName": "roman rehak",
+      "date": "2026-02-06T09:06:16.477Z",
+      "score": 1,
+      "text": "Veškeré načítání v aplikaci trvá extrémně dlouho (WiFi i data bez rozdílu). Dnes navíc dvojitě stržená platba... Nevím no, nerad dělám neplaceného beta testera.",
+      "text_normalized": "veskere nacitani v aplikaci trva extremne dlouho (wifi i data bez rozdilu). dnes navic dvojite strzena platba... nevim no, nerad delam neplaceneho beta testera.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-02-06T09:20:44.949Z",
+      "replyText": "Pěkný den, Romane,\nmuselo dojít k dvojitému zadání platby za sebou 🙁 Aplikaci odinstalujte, telefon vypněte a zapněte a aplikaci znovu nainstalujte. Veronika",
+      "version": "3.6.2"
+    },
+    {
+      "id": "606d7687-d5ab-4313-b55c-c5e30756d662",
+      "userName": "Kuba Kočí",
+      "date": "2026-02-06T08:08:54.836Z",
+      "score": 1,
+      "text": "Tak upřímně tohle je parodie na aplikaci, to když to po mě chtělo po osmé dvoufázové ověření, jsem myslel že telefon hodim o zeď. Když už jsem se tam konečně dostal, tak aplikace načítá, načítá a načítá a vlastně ani nemám šanci zaplatit to vyúčtování, takže za tohle velkej palec",
+      "text_normalized": "tak uprimne tohle je parodie na aplikaci, to kdyz to po me chtelo po osme dvoufazove overeni, jsem myslel ze telefon hodim o zed. kdyz uz jsem se tam konecne dostal, tak aplikace nacita, nacita a nacita a vlastne ani nemam sanci zaplatit to vyuctovani, takze za tohle velkej palec",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-02-06T08:18:02.583Z",
+      "replyText": "Pěkný den, Kubo,\npodle toho co uvádíte, bude třeba aplikaci odinstalovat a znovu nainstalovat. Ideálně mezitím, než budete aplikaci znovu instalovat, ještě telefon restartujte. Poté si zapněte biometriku. Veronika",
+      "version": "3.6.2"
+    },
     {
       "id": "7b81149c-0f43-4ed2-8ea2-c7e93ba16d1e",
       "userName": "Vlastimil Samec",
@@ -25033,8 +25121,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1731,
-    "extractedAt": "2026-02-07T07:09:50.424Z",
+    "totalReviewsExtracted": 1737,
+    "extractedAt": "2026-02-08T07:28:25.213Z",
     "source": "google-play"
   }
 }
