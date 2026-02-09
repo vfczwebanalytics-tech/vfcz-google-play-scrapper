@@ -1,18 +1,196 @@
 {
   "ratings": {
-    "score": 2.4285715,
-    "scoreText": "2,4",
-    "totalRatings": 2329,
-    "totalReviews": 1145,
+    "score": 2.2863636,
+    "scoreText": "2,3",
+    "totalRatings": 2348,
+    "totalReviews": 1151,
     "histogram": {
-      "1": 1277,
-      "2": 166,
-      "3": 103,
-      "4": 166,
-      "5": 612
+      "1": 1365,
+      "2": 181,
+      "3": 117,
+      "4": 127,
+      "5": 554
     }
   },
   "reviews": [
+    {
+      "id": "ee1a3a3c-2beb-41d3-9ced-986e2867a8b8",
+      "userName": "Marek Uhrin",
+      "date": "2026-02-08T02:06:18.240Z",
+      "score": 1,
+      "text": "Předpokládám že novou aplikaci dělal úplně stejný tým jako předchozí protože funguje respektive nefunguje stejně jako stará aplikace. Jestli je tohle vizitka mobilního operátora tak jsem rád že se někam dovolám.",
+      "text_normalized": "predpokladam ze novou aplikaci delal uplne stejny tym jako predchozi protoze funguje respektive nefunguje stejne jako stara aplikace. jestli je tohle vizitka mobilniho operatora tak jsem rad ze se nekam dovolam.",
+      "segments": [
+        "Stabilita",
+        "Zakaznicka_podpora",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-08T07:59:18.213Z",
+      "replyText": "Dobrý den, Marku,\nje mi líto, že vám aplikace nevyhovuje 🙁 Na jejích dalších úpravách pracujeme, tak třeba s ní budete časem spokojenější. Martina",
+      "version": "3.6.3"
+    },
+    {
+      "id": "b06081f6-75f9-4ec3-90eb-14eb212aedd9",
+      "userName": "Josef. P",
+      "date": "2026-02-08T01:42:19.332Z",
+      "score": 3,
+      "text": "Z aplikace mě z neznámého důvodu odhlásilo, a když se chci znovu přihlásit, obrazovka se jen načítá. Hrozná aplikace",
+      "text_normalized": "z aplikace me z neznameho duvodu odhlasilo, a kdyz se chci znovu prihlasit, obrazovka se jen nacita. hrozna aplikace",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-08T08:00:25.307Z",
+      "replyText": "Dobrý den, Josefe,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdybyste se ani poté nemohl přihlásit, zavolejte nám na 800 77 00 77, rádi to prověříme na základě podrobnějších informací a konkrétního příkladu. Martina",
+      "version": "3.6.3"
+    },
+    {
+      "id": "2a88a22f-41d0-42d4-9f92-9f019f060e2f",
+      "userName": "ja cih",
+      "date": "2026-02-07T19:48:28.764Z",
+      "score": 1,
+      "text": "I po aktualzaci stále nefunguje po startu zobrazení nastaveného hlavního účtu. Celkově téměř vše horší než ve staré aplikaci, která fungovala dobře.",
+      "text_normalized": "i po aktualzaci stale nefunguje po startu zobrazeni nastaveneho hlavniho uctu. celkove temer vse horsi nez ve stare aplikaci, ktera fungovala dobre.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-08T07:57:56.812Z",
+      "replyText": "Dobrý den,\ns opravou zobrazení výchozí služby počítáme v jedné z příštích aktualizací. Omlouvám se vám za komplikaci a děkuji vám za trpělivost. Martina",
+      "version": "3.6.3"
+    },
+    {
+      "id": "0bd4bd60-4b8b-4c8c-8824-71745ad6d33b",
+      "userName": "Vojtěch Richter",
+      "date": "2026-02-07T18:41:22.285Z",
+      "score": 1,
+      "text": "pořád nějaké aktualizace, spousta věcí načítá nesmyslně i na stabilním připojení 200mbps, Fold 6, i iphone 13 pro, random navyšování cen bez vysvětlení. Aplikace strašná. co se Vodafonu týče, bez komentáře, ale to je tak u všech operátorů, jen ČTÚ dělá nic",
+      "text_normalized": "porad nejake aktualizace, spousta veci nacita nesmyslne i na stabilnim pripojeni 200mbps, fold 6, i iphone 13 pro, random navysovani cen bez vysvetleni. aplikace strasna. co se vodafonu tyce, bez komentare, ale to je tak u vsech operatoru, jen ctu dela nic",
+      "segments": [
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-02-08T08:12:22.739Z",
+      "replyText": "Dobrý den, Vojtěchu,\nje mi líto, že jste s Vodafonem celkově nespokojený 🙁 Jestli potřebujete pomoc s vyřešením nějakého konkrétního požadavku, zavolejte nám prosím na 800 77 00 77, rádi se na danou situaci s vámi podíváme. Martina",
+      "version": "3.6.2"
+    },
+    {
+      "id": "e03ab340-3217-4863-bcac-f454cf6cc44d",
+      "userName": "Víťa Mádr",
+      "date": "2026-02-07T18:10:04.102Z",
+      "score": 2,
+      "text": "stále se opakuje, že musím aktivovat",
+      "text_normalized": "stale se opakuje, ze musim aktivovat",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-08T07:54:26.362Z",
+      "replyText": "Dobrý den, Víťo,\nzavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi se s vámi na tuto záležitost podíváme konkrétně. Martina",
+      "version": "3.6.3"
+    },
+    {
+      "id": "38e8347f-170c-4bbd-afd6-d1d07f42a2b0",
+      "userName": "A K",
+      "date": "2026-02-07T17:19:42.510Z",
+      "score": 1,
+      "text": "Vynucení aktualizaci téměř každý týden.",
+      "text_normalized": "vynuceni aktualizaci temer kazdy tyden.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-08T08:09:57.803Z",
+      "replyText": "Dobrý den,\nchápu, že je to pro vás nepříjemné. Aplikaci postupně doplňujeme o nové funkce a možnosti, proto jsou teď aktualizace častější. Děkujeme za pochopení. Martina",
+      "version": "3.6.2"
+    },
+    {
+      "id": "87836bc9-42e2-47fa-a69d-32c623fb4963",
+      "userName": "Dolní Mlýn",
+      "date": "2026-02-07T17:17:41.954Z",
+      "score": 5,
+      "text": "konečně to funguje! Od té doby, co se změnilo přihlašováni, byla pro mne platba faktury noční můrou. I když jsem měla nastaveno heslo a e-mail, pokaždé po mě apka chtěla znovu nastavit heslo. Dnes po aktualizaci jsem klikla a světe, div se! Otevřel se účet a já jsem během půl minuty měla zaplaceno!!!",
+      "text_normalized": "konecne to funguje! od te doby, co se zmenilo prihlasovani, byla pro mne platba faktury nocni murou. i kdyz jsem mela nastaveno heslo a e-mail, pokazde po me apka chtela znovu nastavit heslo. dnes po aktualizaci jsem klikla a svete, div se! otevrel se ucet a ja jsem behem pul minuty mela zaplaceno!!!",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-08T07:51:16.900Z",
+      "replyText": "Dobrý den,\nděkujeme za vaše hodnocení, jsem ráda, že se vaše zkušenost s aplikací zlepšila 🙂 Martina",
+      "version": "3.6.3"
+    },
+    {
+      "id": "bcefe8d3-21e4-4193-9aaa-2018e638e129",
+      "userName": "Tomáš Pavelka",
+      "date": "2026-02-07T16:48:33.959Z",
+      "score": 1,
+      "text": "chcete se podívat na nastavení služeb a přesměruje vás to z aplikace na internetové stránky tak k čemu je ta aplikace",
+      "text_normalized": "chcete se podivat na nastaveni sluzeb a presmeruje vas to z aplikace na internetove stranky tak k cemu je ta aplikace",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-08T07:52:22.300Z",
+      "replyText": "Dobrý den, Tomáši,\naplikaci nadále rozvíjíme a doplňujeme o nové funkce. Proto vás prosím o trpělivost, časem bude v aplikaci více možností. Martina",
+      "version": "3.6.3"
+    },
+    {
+      "id": "e7290c01-1576-4917-a04e-b174a08e67c3",
+      "userName": "Radan Kapu",
+      "date": "2026-02-07T15:09:08.770Z",
+      "score": 1,
+      "text": "Proč nefunguje ta starší verse, která nebyla ani měsíc stará? Bylo by možné ji opět aktivovat? Proč některé funkce, které dříve fungovaly, nefungují? To snad budu muset změnit operátora?",
+      "text_normalized": "proc nefunguje ta starsi verse, ktera nebyla ani mesic stara? bylo by mozne ji opet aktivovat? proc nektere funkce, ktere drive fungovaly, nefunguji? to snad budu muset zmenit operatora?",
+      "segments": [
+        "Stabilita",
+        "Zakaznicka_podpora",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-07T15:20:04.549Z",
+      "replyText": "Dobrý den, Radane,\nprosím zavolejte nám na 800 77 00 77, abychom se společně domluvili na tom, co konkrétně vám nefunguje. Rádi celou situaci prověříme. Martina",
+      "version": "3.6.2"
+    },
+    {
+      "id": "f6c2f766-397a-4793-9c82-6f5fbe617e07",
+      "userName": "Alexandr Studecky",
+      "date": "2026-02-07T14:20:22.200Z",
+      "score": 1,
+      "text": "nějde se přihlásit, vše co dřív fungovalo pos.... půjdu k 02",
+      "text_normalized": "nejde se prihlasit, vse co driv fungovalo pos.... pujdu k 02",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-07T14:52:55.751Z",
+      "replyText": "Dobrý den, Alexandře,\nplošné potíže s přihlášením neevidujeme. Zkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdybyste se ani poté nemohl přihlásit, zavolejte nám na 800 77 00 77, prověříme to. Martina",
+      "version": "3.6.3"
+    },
+    {
+      "id": "0380a12d-695d-467b-a3df-68cba6565523",
+      "userName": "Štěpán Wünsch",
+      "date": "2026-02-07T13:54:39.118Z",
+      "score": 2,
+      "text": "Tato aplikace je snad ještě horší než ta stará... Spousta věcí nefunguje či chybí. Například záložka \"kredit\" vám otevře záložku \"služby\" a na historii kreditu se prostě nedostanete. V záložce \"služby\" zabírá půl obrazovky statické panely, takže musíte scrollovat v opravdu málem okně a dohledat kdy končí předplacený balíček je téměř nadlidský úkol. Je to ostuda",
+      "text_normalized": "tato aplikace je snad jeste horsi nez ta stara... spousta veci nefunguje ci chybi. napriklad zalozka \"kredit\" vam otevre zalozku \"sluzby\" a na historii kreditu se proste nedostanete. v zalozce \"sluzby\" zabira pul obrazovky staticke panely, takze musite scrollovat v opravdu malem okne a dohledat kdy konci predplaceny balicek je temer nadlidsky ukol. je to ostuda",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-07T14:36:18.515Z",
+      "replyText": "Dobrý den, Štěpáne,\nděkuji za vaši zpětnou vazbu. Chápeme vaše výhrady a budeme pracovat na tom, aby aplikace do budoucna lépe odpovídala vašim potřebám. Martina\n",
+      "version": "3.6.2"
+    },
+    {
+      "id": "4a435e53-ba66-4921-b6bc-230573b4ebda",
+      "userName": "Jan Caska",
+      "date": "2026-02-07T13:16:01.748Z",
+      "score": 1,
+      "text": "Absolutně nevhodné - nepřehledné",
+      "text_normalized": "absolutne nevhodne - neprehledne",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-02-07T14:00:58.499Z",
+      "replyText": "Dobrý den, Jane,\nmrzí mě, že aplikace nesplnila vaše očekávání. Uděláme maximum pro to, aby se to do budoucna změnilo k lepšímu. Martina\n",
+      "version": "3.6.2"
+    },
     {
       "id": "50c07e92-da9c-47b1-93bf-13a770354064",
       "userName": "Monika Emememem",
@@ -25121,8 +25299,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1737,
-    "extractedAt": "2026-02-08T07:28:25.213Z",
+    "totalReviewsExtracted": 1749,
+    "extractedAt": "2026-02-09T08:02:35.223Z",
     "source": "google-play"
   }
 }
