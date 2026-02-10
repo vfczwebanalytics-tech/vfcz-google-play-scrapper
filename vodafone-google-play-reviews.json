@@ -1,18 +1,119 @@
 {
   "ratings": {
-    "score": 2.2863636,
+    "score": 2.2739131,
     "scoreText": "2,3",
-    "totalRatings": 2348,
-    "totalReviews": 1151,
+    "totalRatings": 2357,
+    "totalReviews": 1158,
     "histogram": {
-      "1": 1365,
-      "2": 181,
-      "3": 117,
-      "4": 127,
-      "5": 554
+      "1": 1372,
+      "2": 184,
+      "3": 122,
+      "4": 133,
+      "5": 542
     }
   },
   "reviews": [
+    {
+      "id": "0f6b2df4-922e-4aaa-900c-84de0c68e33c",
+      "userName": "Klára Pufferová",
+      "date": "2026-02-09T06:44:11.380Z",
+      "score": 1,
+      "text": "Stejně jako u předchozí aplikace. Načítá se neskutečně dlouho. Většinou se ani neotevře. Připojení na internet v pohodě, všechny ostatní aplikace jedou normálně jen Vodafone ne.",
+      "text_normalized": "stejne jako u predchozi aplikace. nacita se neskutecne dlouho. vetsinou se ani neotevre. pripojeni na internet v pohode, vsechny ostatni aplikace jedou normalne jen vodafone ne.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-09T06:58:58.308Z",
+      "replyText": "Hezký den, Kláro, děkujeme za zpětnou vazbu. Je mi líto, že jste zaznamenala takové potíže :-( Zkuste prosím aplikaci aktualizovat na nejnovější verzi a případně ji přeinstalovat. Kdyby to nepomohlo, prosím napište nám podrobnosti přes zabezpečený formulář https://tam.je/dotaz. Pomůžeme vám. Petra\n\n",
+      "version": "3.6.3"
+    },
+    {
+      "id": "bfee56b4-32ba-4596-b941-4d3d9a0b859d",
+      "userName": "Honza D",
+      "date": "2026-02-09T06:16:48.204Z",
+      "score": 2,
+      "text": "Nechápu, proč není vidět platnost baličku ke kartě na úvodní stránce, ale musím se k tomu proklikat. V původní aplikaci to bylo vidět hned.",
+      "text_normalized": "nechapu, proc neni videt platnost balicku ke karte na uvodni strance, ale musim se k tomu proklikat. v puvodni aplikaci to bylo videt hned.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-09T06:37:13.760Z",
+      "replyText": "Dobrý den, Honzo,\nděkujeme za zpětnou vazbu. S novou aplikací je uspořádání některých informací jiné, chápeme ale, že to může být méně pohodlné. Vaši připomínku si bereme k sobě. Viki",
+      "version": "3.6.3"
+    },
+    {
+      "id": "c768315c-c1cd-4508-8689-a834d5b1bd48",
+      "userName": "NAL NALI",
+      "date": "2026-02-08T23:16:26.232Z",
+      "score": 1,
+      "text": "aplikace k ničemu!!!?",
+      "text_normalized": "aplikace k nicemu!!!?",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-09T06:33:42.390Z",
+      "replyText": "Hezký den,\nmrzí mě, že pokud máte nějakou nepříjemnou zkušenost. Na vývoji aplikace stále pracujeme a další funkce budou dostupné v nadcházejících verzích. Budeme rádi, když ji dáte ještě šanci. Viki",
+      "version": null
+    },
+    {
+      "id": "7bdd1952-6032-4911-9cdb-e797f947e080",
+      "userName": "Jana Vecerova",
+      "date": "2026-02-08T22:19:09.946Z",
+      "score": 1,
+      "text": "Aplikace na mem telefonu Samsung Galaxy A21s bohuzel vubec nefunguje, po otevreni okamzite zamrza.",
+      "text_normalized": "aplikace na mem telefonu samsung galaxy a21s bohuzel vubec nefunguje, po otevreni okamzite zamrza.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-09T06:30:39.494Z",
+      "replyText": "Dobrý den, Jano,\nděkujeme za zpětnou vazbu. Je mi líto, že jste zaznamenala takové problémy 🙁 Zkuste prosím aplikaci aktualizovat na nejnovější verzi a případně ji přeinstalovat. Kdyby to nepomohlo, prosím napište nám podrobnosti na aplikace@vodafone.cz. Viki",
+      "version": "3.6.3"
+    },
+    {
+      "id": "b4916f59-fe71-4ed2-b37e-cf3e7387fbb0",
+      "userName": "Marcel Sláma",
+      "date": "2026-02-08T17:20:46.118Z",
+      "score": 1,
+      "text": "Nefunguje nic, přihlášení, po spuštění spadne, fakt velká spolehlivá apka",
+      "text_normalized": "nefunguje nic, prihlaseni, po spusteni spadne, fakt velka spolehliva apka",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-09T06:28:29.262Z",
+      "replyText": "Hezký den, Marceli, mrzí mě, že máte s aplikací potíže 🙁 Zkuste ji prosím přeinstalovat, a pokud by to nepomohlo, napište nám prosím více přes zabezpečený formulář https://tam.je/dotaz. Pomůžeme vám. Petra\n",
+      "version": "3.6.3"
+    },
+    {
+      "id": "c9ea123c-c1e3-4d13-a29f-b9c996adfcd1",
+      "userName": "J A",
+      "date": "2026-02-08T13:07:32.688Z",
+      "score": 3,
+      "text": "u spotreby dat neni jasne, kolik je spotreba a kolik zustava .... pritom by stacilo dopsat jedno slovo",
+      "text_normalized": "u spotreby dat neni jasne, kolik je spotreba a kolik zustava .... pritom by stacilo dopsat jedno slovo",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-08T13:31:04.935Z",
+      "replyText": "Dobrý den,\nděkujeme za vaši připomínku, podíváme se, co by se s tím dalo udělat. Martina",
+      "version": "3.6.3"
+    },
+    {
+      "id": "a1780a0b-4669-43ca-87ba-91748244dfd9",
+      "userName": "Choco Nutella",
+      "date": "2026-02-08T09:02:58.509Z",
+      "score": 1,
+      "text": "Nepřehledná aplikace",
+      "text_normalized": "neprehledna aplikace",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-02-08T09:22:50.212Z",
+      "replyText": "Dobrý den, Choco Nutella,\nmrzí mě, že aplikace nesplnila vaše očekávání. Uděláme maximum pro to, aby se to do budoucna změnilo k lepšímu. Martina",
+      "version": "3.6.3"
+    },
     {
       "id": "ee1a3a3c-2beb-41d3-9ced-986e2867a8b8",
       "userName": "Marek Uhrin",
@@ -25299,8 +25400,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1749,
-    "extractedAt": "2026-02-09T08:02:35.223Z",
+    "totalReviewsExtracted": 1756,
+    "extractedAt": "2026-02-10T08:05:08.996Z",
     "source": "google-play"
   }
 }
