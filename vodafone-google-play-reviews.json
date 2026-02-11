@@ -1,18 +1,136 @@
 {
   "ratings": {
-    "score": 2.2739131,
-    "scoreText": "2,3",
-    "totalRatings": 2357,
-    "totalReviews": 1158,
+    "score": 2.1860466,
+    "scoreText": "2,2",
+    "totalRatings": 2364,
+    "totalReviews": 1170,
     "histogram": {
-      "1": 1372,
-      "2": 184,
-      "3": 122,
-      "4": 133,
-      "5": 542
+      "1": 1439,
+      "2": 186,
+      "3": 109,
+      "4": 109,
+      "5": 516
     }
   },
   "reviews": [
+    {
+      "id": "ee2ee2e6-4be4-47c7-8e68-bde61aade761",
+      "userName": "Petra Holubcová",
+      "date": "2026-02-10T06:36:27.384Z",
+      "score": 5,
+      "text": "zatím jsem spokojená",
+      "text_normalized": "zatim jsem spokojena",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-10T07:09:34.258Z",
+      "replyText": "Hezký den, Petro,\ntěší mě, že vám aplikace vyhovuje 🙂 Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "10868d7e-f9df-483a-8b61-4ffcb51c7721",
+      "userName": "Tomáš Procházka",
+      "date": "2026-02-10T02:04:28.848Z",
+      "score": 1,
+      "text": "Ani QR kód pro placení aplikace neumí.",
+      "text_normalized": "ani qr kod pro placeni aplikace neumi.",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-10T06:19:16.910Z",
+      "replyText": "Dobrý den, Tomáši,\nQR kód najdete ve Vyúčtování, které si můžete z aplikace stáhnout. Ale počítáme s tím, že ho přidáme i přímo do aplikace v jedné z příštích aktualizací. Martina",
+      "version": "3.6.3"
+    },
+    {
+      "id": "c42fb270-cb8e-439a-8a09-877edc049e72",
+      "userName": "Michal Svoboda",
+      "date": "2026-02-09T20:43:12.743Z",
+      "score": 1,
+      "text": "Naprosto příšerná aplikace. Velmi pomalá.",
+      "text_normalized": "naprosto priserna aplikace. velmi pomala.",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-02-10T06:15:18.478Z",
+      "replyText": "Dobrý den, Michale,\nje mi líto, že vám aplikace nevyhovuje 🙁 Průběžně ji upravujeme a věříme, že její používání pro vás bude časem komfortnější. Martina",
+      "version": null
+    },
+    {
+      "id": "e3f7f7ce-3f86-4061-96fc-b8405acfac36",
+      "userName": "Tomáš Vaňoch",
+      "date": "2026-02-09T20:42:34.516Z",
+      "score": 1,
+      "text": "ja ale nechci jinou aplikaci!! cookies nejdou zakazat, prihlasovani nema dark rezim a oslepuje, ikonu to ma hnusnou, vratte mi puvudni apku!! a k cemu mam google pay, kdyz si pres nej nemuzu nabit kredit... vyplnovat cislo karty jak neandrtalec... pockej-dobiju kredit a platnost se prodlouzi o pul roku? to jako vazne? normalne to ma byt rok.. tak za pul roku sbohem, to je nehoraznost...",
+      "text_normalized": "ja ale nechci jinou aplikaci!! cookies nejdou zakazat, prihlasovani nema dark rezim a oslepuje, ikonu to ma hnusnou, vratte mi puvudni apku!! a k cemu mam google pay, kdyz si pres nej nemuzu nabit kredit... vyplnovat cislo karty jak neandrtalec... pockej-dobiju kredit a platnost se prodlouzi o pul roku? to jako vazne? normalne to ma byt rok.. tak za pul roku sbohem, to je nehoraznost...",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-10T06:18:30.390Z",
+      "replyText": "Dobrý den,\npůvodní aplikaci jsme ukončili, už ji nebude možné používat. Novou aplikaci dál rozvíjíme a upravujeme, proto věřím, že s ní budete časem spokojenější. Kredit má platnost 7 měsíců, k tomu najdete víc informací na https://www.vodafone.cz/pece/vyuctovani-platby-kredit/dobijeni-kredit/aktualni-vyse-kreditu/. M.",
+      "version": "3.6.3"
+    },
+    {
+      "id": "9e57c0af-2ec3-495d-a474-86848992d786",
+      "userName": "Oleh Dovhanjuk",
+      "date": "2026-02-09T19:10:08.442Z",
+      "score": 1,
+      "text": "Aplikace fungovala do dnešního dne. Po zadání dvojfázoveho ověření přestala fungovat. Proč mají zadávat ověření e-mailem když mám nastaveno ověření biometrické? Co považuji za víc bezpečně.",
+      "text_normalized": "aplikace fungovala do dnesniho dne. po zadani dvojfazoveho overeni prestala fungovat. proc maji zadavat overeni e-mailem kdyz mam nastaveno overeni biometricke? co povazuji za vic bezpecne.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-10T06:14:26.584Z",
+      "replyText": "Dobrý den, Olehu,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby se vám ani poté nepodařilo přihlásit s vaším e-mailem, heslem a kódem z SMSky, zavolejte nám na 800 77 00 77, abychom to mohli prověřit přímo na vašem zákaznickém účtu. Martina",
+      "version": "3.6.3"
+    },
+    {
+      "id": "6cdadd50-2b36-4af2-a923-f0db49fb1602",
+      "userName": "Renata Soukupová",
+      "date": "2026-02-09T16:29:56.290Z",
+      "score": 1,
+      "text": "chci zaplatit, aplikace nefunguje",
+      "text_normalized": "chci zaplatit, aplikace nefunguje",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-09T16:59:13.491Z",
+      "replyText": "Dobrý den, Renato,\nplošný výpadek neevidujeme, zkuste tedy prosím aplikaci odinstalovat a znovu stáhnout. Pokud budou i pak potíže přetrvávat, zavolejte nám na 800 77 00 77, abychom se na to mohli podívat přímo na vašem zákaznickém účtu. Martina",
+      "version": "3.6.3"
+    },
+    {
+      "id": "3d71acfd-f301-418e-ab4b-5222972db9c5",
+      "userName": "Filip Sládek",
+      "date": "2026-02-09T15:29:13.563Z",
+      "score": 1,
+      "text": "katastrofa!! ani ten robot nedokázal pochopit co potřebuju, natož poradit. Vadily mi aktualizace na staré aplikaci, netušil jsem že přijde tohle. na místě kde bylo vidět kolik zbývá dat, se zobrazuje reklama, nabídky. Vodafone udělal reklamní aplikaci. Ani mi nejde změnit pořadí zobrazených tarifů. Odinstalovávám naprosto zbytečnou aplikaci. Skočil jsem jim na to opakovaně, jsem asi neponaučitelný.",
+      "text_normalized": "katastrofa!! ani ten robot nedokazal pochopit co potrebuju, natoz poradit. vadily mi aktualizace na stare aplikaci, netusil jsem ze prijde tohle. na miste kde bylo videt kolik zbyva dat, se zobrazuje reklama, nabidky. vodafone udelal reklamni aplikaci. ani mi nejde zmenit poradi zobrazenych tarifu. odinstalovavam naprosto zbytecnou aplikaci. skocil jsem jim na to opakovane, jsem asi neponaucitelny.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-09T16:06:31.281Z",
+      "replyText": "Dobrý den, Filipe,\nje mi líto, že vám aplikace nevyhovuje 🙁 Nadále ji upravujeme a rozvíjíme, proto věřím, že pro vás bude v budoucnu užitečnější. Martina",
+      "version": "3.6.3"
+    },
+    {
+      "id": "dd79fa53-f411-4012-8f7f-306c32cbf258",
+      "userName": "Milada Dvořáková",
+      "date": "2026-02-09T14:06:55.516Z",
+      "score": 1,
+      "text": "moc složité",
+      "text_normalized": "moc slozite",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-09T14:26:58.700Z",
+      "replyText": "Dobrý den, Milado,\nděkujeme za vaši zpětnou vazbu. Na dalších úpravách aplikace pracujeme, proto doufám, že vám bude časem vyhovovat lépe. Martina",
+      "version": "3.6.2"
+    },
     {
       "id": "0f6b2df4-922e-4aaa-900c-84de0c68e33c",
       "userName": "Klára Pufferová",
@@ -25400,8 +25518,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1756,
-    "extractedAt": "2026-02-10T08:05:08.996Z",
+    "totalReviewsExtracted": 1764,
+    "extractedAt": "2026-02-11T08:00:34.276Z",
     "source": "google-play"
   }
 }
