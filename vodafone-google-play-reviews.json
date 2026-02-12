@@ -1,18 +1,143 @@
 {
   "ratings": {
-    "score": 2.1860466,
-    "scoreText": "2,2",
-    "totalRatings": 2364,
-    "totalReviews": 1170,
+    "score": 1.875,
+    "scoreText": "1,9",
+    "totalRatings": 2392,
+    "totalReviews": 1246,
     "histogram": {
-      "1": 1439,
-      "2": 186,
-      "3": 109,
-      "4": 109,
-      "5": 516
+      "1": 1627,
+      "2": 198,
+      "3": 132,
+      "4": 98,
+      "5": 331
     }
   },
   "reviews": [
+    {
+      "id": "ce227461-3411-4d6b-b365-cadebac70ace",
+      "userName": "R B",
+      "date": "2026-02-11T07:33:55.252Z",
+      "score": 2,
+      "text": "fakturační období končí 9. v měsíci, je 11. a aplikace mi hlásí \"omlouváme se. obsah se nepodařilo načíst\". Takže nezbývá než jít do internetové samoobsluhy, kde je faktura k dispozici.",
+      "text_normalized": "fakturacni obdobi konci 9. v mesici, je 11. a aplikace mi hlasi \"omlouvame se. obsah se nepodarilo nacist\". takze nezbyva nez jit do internetove samoobsluhy, kde je faktura k dispozici.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-02-11T08:28:21.698Z",
+      "replyText": "Pěkný den,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít internetové samoobsluhy. Vyúčtování je vždy k dispozici do 3 dnů od jeho vystavení. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "3374de4d-dbe0-41ce-ad21-a70e62445f24",
+      "userName": "Jaroslav Pajma",
+      "date": "2026-02-11T00:11:44.509Z",
+      "score": 4,
+      "text": "Chybí mi možnost zaplatit za jiné číslo...",
+      "text_normalized": "chybi mi moznost zaplatit za jine cislo...",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T06:25:13.580Z",
+      "replyText": "Pěkný den, Jaroslave,\nmyslíte dobít kredit pro jiné telefonní číslo? Napište nám prosím k tomu víc podrobností přes https://tam.je/dotaz. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "47373388-93b3-46f8-b396-07bbb1a36839",
+      "userName": "Leoš K.",
+      "date": "2026-02-10T20:50:57.257Z",
+      "score": 1,
+      "text": "Nejhorší aplikace všech dob. Zlatá stará app. V nové nefunguje QR platba, vyúčtování je podle čísla plátce, ne podle telefonního čísla, ale kdo si má číslo plátce pamatovat, když jich tam mám asi 10, vyúčtování nejde stáhnout, skončí to vždy chybou. Hlavně že je důležité dvoufázové ověření 😂😂",
+      "text_normalized": "nejhorsi aplikace vsech dob. zlata stara app. v nove nefunguje qr platba, vyuctovani je podle cisla platce, ne podle telefonniho cisla, ale kdo si ma cislo platce pamatovat, kdyz jich tam mam asi 10, vyuctovani nejde stahnout, skonci to vzdy chybou. hlavne ze je dulezite dvoufazove overeni 😂😂",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T06:18:26.240Z",
+      "replyText": "Pěkný den, Leoši,\npošlete nám prosím screenshoty přes https://tam.je/dotaz, ať se na to můžeme podívat konkrétně. 10 plátců se mi nezdá... Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "b427f0db-c101-489a-88f5-2f483d56ea2e",
+      "userName": "Viktor Viktor",
+      "date": "2026-02-10T20:16:58.188Z",
+      "score": 1,
+      "text": "Pořád otravuje s aktualizací.",
+      "text_normalized": "porad otravuje s aktualizaci.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-11T06:17:15.700Z",
+      "replyText": "Pěkný den, Viktore,\nto je v pořádku, aktualizace nyní probíhají častěji, aplikace je nová a stále ji vyvíjíme. Veronika",
+      "version": "3.6.2"
+    },
+    {
+      "id": "0e923d24-28d2-4365-bd59-adc4e6800be1",
+      "userName": "Magda Mazáková",
+      "date": "2026-02-10T18:51:06.631Z",
+      "score": 2,
+      "text": "Aplikace me pri kazde aktualizaci odhlasi z uctu. Nefunguje stahnout faktury, a nejak nerozumim tomu, proc zmizel krok pri zaplaceni faktury zrovna stahnout QR kod.",
+      "text_normalized": "aplikace me pri kazde aktualizaci odhlasi z uctu. nefunguje stahnout faktury, a nejak nerozumim tomu, proc zmizel krok pri zaplaceni faktury zrovna stahnout qr kod.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T06:16:42.618Z",
+      "replyText": "Pěkný den, Magdo,\nano, pokud dojde k aktualizaci, může dojít i k odhlášení. V nové aplikaci platba přes QR kód není. Již jsme to předali kolegům jako podnět. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "1d5645df-022a-42f8-8c7e-c7b63b0124a8",
+      "userName": "Jan Rozsypal",
+      "date": "2026-02-10T13:36:50.775Z",
+      "score": 2,
+      "text": "V porovnání s aplikací SAZKAmobilu, který Vodafone koupil i se mnou, je aplikace Můj Vodafone+ o dost horší. Přehlednost nic moc a polovinu obrazovky zabírají reklamy. Absurdně složité opakované prihlašování do aplikace je už jen třešničkou na dortu. Tak to nemám ani v bankovnictví.",
+      "text_normalized": "v porovnani s aplikaci sazkamobilu, ktery vodafone koupil i se mnou, je aplikace muj vodafone+ o dost horsi. prehlednost nic moc a polovinu obrazovky zabiraji reklamy. absurdne slozite opakovane prihlasovani do aplikace je uz jen tresnickou na dortu. tak to nemam ani v bankovnictvi.",
+      "segments": [
+        "UI",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-10T14:06:06.794Z",
+      "replyText": "Pěkný den, Jane,\nreklamy jako takové v aplikaci nejsou a své telefonní číslo můžete spravovat ihned přes úvodní stránku. Pokud potřebujete pomoct, neváhejte nám napsat přes https://tam.je/dotaz. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "1fdd6535-232e-4303-8e58-b70b77fe8f81",
+      "userName": "Hana Stepnikova",
+      "date": "2026-02-10T10:26:44.362Z",
+      "score": 2,
+      "text": "Ani nová appka nevyřešila zásadní problém té staré: nelze platit kartou přes aplikace Google Pay. Tuto možnost při platbě aplikace nenabídne,ale při přihlášení přes web samoobsluha to funguje správně.",
+      "text_normalized": "ani nova appka nevyresila zasadni problem te stare: nelze platit kartou pres aplikace google pay. tuto moznost pri platbe aplikace nenabidne,ale pri prihlaseni pres web samoobsluha to funguje spravne.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-10T10:57:36.209Z",
+      "replyText": "Hezký den, Hano,\nje mi líto, že jste nespokojená 🙁 Je to tak, platbu přes Google Pay zatím nenabízíme, nyní můžete využívat jiné možnosti platby. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "6c88fc37-c675-4150-b096-f64596d05cb5",
+      "userName": "Vojta Bihercz",
+      "date": "2026-02-10T09:06:48.744Z",
+      "score": 1,
+      "text": "stará aplikace byla lepší furt padá nebo je furt néjaký problém.",
+      "text_normalized": "stara aplikace byla lepsi furt pada nebo je furt nejaky problem.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-02-10T09:34:54.404Z",
+      "replyText": "Hezký den, Vojto,\nmrzí mě, že jste s aplikací nespokojený 🙁 Neustále aplikaci zlepšujeme, věřím, že do budoucna se vám bude líbit více. Zuzana",
+      "version": "3.6.3"
+    },
     {
       "id": "ee2ee2e6-4be4-47c7-8e68-bde61aade761",
       "userName": "Petra Holubcová",
@@ -25518,8 +25643,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1764,
-    "extractedAt": "2026-02-11T08:00:34.276Z",
+    "totalReviewsExtracted": 1772,
+    "extractedAt": "2026-02-12T07:57:54.792Z",
     "source": "google-play"
   }
 }
