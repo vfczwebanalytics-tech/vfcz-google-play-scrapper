@@ -1,18 +1,1073 @@
 {
   "ratings": {
-    "score": 1.875,
-    "scoreText": "1,9",
-    "totalRatings": 2392,
-    "totalReviews": 1246,
+    "score": 1.8377193,
+    "scoreText": "1,8",
+    "totalRatings": 2461,
+    "totalReviews": 1264,
     "histogram": {
-      "1": 1627,
-      "2": 198,
-      "3": 132,
-      "4": 98,
-      "5": 331
+      "1": 1715,
+      "2": 172,
+      "3": 150,
+      "4": 96,
+      "5": 322
     }
   },
   "reviews": [
+    {
+      "id": "60c04819-5154-4937-8dc3-61fbf0d85fb7",
+      "userName": "Otto Novotny",
+      "date": "2026-02-12T06:21:03.846Z",
+      "score": 2,
+      "text": "vůbec se s tou aplikací nedá pracovat. Vůbec nerezpekspektuje platby, když se prihlasím na web tak tam je vše v pořádku. Na webu to souhlasí i podle faktůry.Na to že jí propagujete od loňska, tak opravdu nefunkční. Nedá se přes ni platit, neb to nesouhlasí s realitou.",
+      "text_normalized": "vubec se s tou aplikaci neda pracovat. vubec nerezpekspektuje platby, kdyz se prihlasim na web tak tam je vse v poradku. na webu to souhlasi i podle faktury.na to ze ji propagujete od lonska, tak opravdu nefunkcni. neda se pres ni platit, neb to nesouhlasi s realitou.",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-12T06:44:08.573Z",
+      "replyText": "Dobrý den, Otto,\nrádi to prověříme na základě konkrétního příkladu. Prosím zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz (v příloze můžete poslat i screenshoty toho, jak v aplikaci postupujete a kde vidíte chybu). Martina",
+      "version": "3.6.3"
+    },
+    {
+      "id": "bee35788-e728-46f0-b0d0-d10d5e9d244d",
+      "userName": "Lukáš Smolík",
+      "date": "2026-02-12T03:45:14.802Z",
+      "score": 1,
+      "text": "aplikace úplně na nic, oproti předchozí má pouze 1/10 funkcí. Zmizely funkce jako kontrola modemu zda funguje přes toto rozhraní nově Vám oznámí jen jaký máte modem, nahlášení poruch také nelze musíte volat na infolinku, kde Vám stejně řeknou že s tím toho moc neudělají dokud není technické oddělení, které funguje jen 8-19 hodin všední dny mimo tyto hodiny máte smůlu. Nová aplikace je na vyhazov toho kdo ji za Vodafone přebíral.",
+      "text_normalized": "aplikace uplne na nic, oproti predchozi ma pouze 1/10 funkci. zmizely funkce jako kontrola modemu zda funguje pres toto rozhrani nove vam oznami jen jaky mate modem, nahlaseni poruch take nelze musite volat na infolinku, kde vam stejne reknou ze s tim toho moc neudelaji dokud neni technicke oddeleni, ktere funguje jen 8-19 hodin vsedni dny mimo tyto hodiny mate smulu. nova aplikace je na vyhazov toho kdo ji za vodafone prebiral.",
+      "segments": [
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-12T06:09:57.620Z",
+      "replyText": "Dobrý den, Lukáši,\nje mi líto, že nejste spokojený, a děkuji vám za zpětnou vazbu. Některé funkce, jako například kontrola modemu, jsou nyní dostupné pouze ve webové verzi samoobsluhy. Do budoucna počítáme s rozšiřováním funkcí aplikace a o všem budeme zákazníky včas informovat. Prosím o trpělivost 🙂 Katka",
+      "version": "3.6.3"
+    },
+    {
+      "id": "690d87ca-7502-4afe-b0e8-1d80a7ccff6d",
+      "userName": "Štěpán Hejzlar",
+      "date": "2026-02-11T21:13:24.299Z",
+      "score": 5,
+      "text": "Funguje a rychleji než stará aplikace.",
+      "text_normalized": "funguje a rychleji nez stara aplikace.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T08:41:13.260Z",
+      "replyText": "Pěkný den, Štěpáne,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "0537c306-7498-4302-85eb-6e5acb5bf2c0",
+      "userName": "Buček Ivo",
+      "date": "2026-02-11T14:58:57.566Z",
+      "score": 4,
+      "text": "Aplikace opravena a opět funguje.",
+      "text_normalized": "aplikace opravena a opet funguje.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T11:50:06.378Z",
+      "replyText": "Pěkný den, Ivo,\nomlouvám se vám za potíže, potýkali jsme se s výpadkem 🙁 Momentálně už je aplikace funkční a budeme rádi, když ji otestujete a znovu ohodnotíte. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "fcdc01ab-0bfa-4ad7-9461-475d70155cee",
+      "userName": "Jeronimo elektro",
+      "date": "2026-02-11T14:34:24.315Z",
+      "score": 4,
+      "text": "Tak změna. Vypadá to, že už to dali dohromady. Zatím to vypadá, že vše jede.",
+      "text_normalized": "tak zmena. vypada to, ze uz to dali dohromady. zatim to vypada, ze vse jede.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-02-11T08:36:33.897Z",
+      "replyText": "Pěkný den,\nomlouvám se vám za komplikace 🙁 Aktuálně evidujeme výpadek aplikace a usilovně pracujeme na jeho opravě. Prosím vás zatím o strpení. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "27cd3f5a-4760-45ed-bfd1-563c2a4d6682",
+      "userName": "Josef Sasín",
+      "date": "2026-02-11T14:09:13.359Z",
+      "score": 1,
+      "text": "Komplikovane přilasni",
+      "text_normalized": "komplikovane prilasni",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-11T14:38:30.608Z",
+      "replyText": "Hezký den, Josefe,\nje mi líto, že máte potíže s přihlášením 🙁 Zkuste aplikaci přeinstalovat, věřím, že poté to bude v pořádku. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "76bced1d-d1a6-4620-a27b-a2a6ae7cc28c",
+      "userName": "Monika Botoš",
+      "date": "2026-02-11T12:38:22.110Z",
+      "score": 5,
+      "text": "Aktualizují svou předchozí recenzi, aplikace již běží jako po másle, mohu jen doporučit",
+      "text_normalized": "aktualizuji svou predchozi recenzi, aplikace jiz bezi jako po masle, mohu jen doporucit",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-11T11:53:30.143Z",
+      "replyText": "Pěkný den, Moniko,\nomlouvám se vám za potíže, potýkali jsme se s výpadkem aplikace 🙁 Momentálně už by mělo být vše v pořádku a budeme rádi, když aplikaci znovu otestujete a ohodnotíte. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "26ee2cc3-1fca-49ec-bd21-f217caa27ff1",
+      "userName": "Andrea P",
+      "date": "2026-02-11T12:37:23.688Z",
+      "score": 3,
+      "text": "Stará apka fungovala jako arílové počasí, zato ta nová nefunguje vůbec 🙈 Buď se startuje déle jak 4 minuty a po nastartování jen úvodní obrazovka, vše šedé, ani přihlásit se nejde... jen se vrátí na úvodní stránku... Po odpovědi, že výpadek funkčnosti je prozatím odstraněn, aplikace funguje. No uvidíme jak dlouho",
+      "text_normalized": "stara apka fungovala jako arilove pocasi, zato ta nova nefunguje vubec 🙈 bud se startuje dele jak 4 minuty a po nastartovani jen uvodni obrazovka, vse sede, ani prihlasit se nejde... jen se vrati na uvodni stranku... po odpovedi, ze vypadek funkcnosti je prozatim odstranen, aplikace funguje. no uvidime jak dlouho",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T11:34:54.786Z",
+      "replyText": "Pěkný den, Andreo,\nomlouvám se vám za komplikace, potýkali jsme se výpadkem 🙁 Nyní už by mělo být všechno v pořádku. Budeme tedy rádi, když aplikaci znovu otestujete a ohodnotíte 🙂 Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "2213f29a-96c1-49b1-910a-c1c5fcf4bdb5",
+      "userName": "Michal Moric",
+      "date": "2026-02-11T12:15:50.411Z",
+      "score": 3,
+      "text": "V aplikaci se nedá přihlásit k uživatelskému účtu, což je zásadní problém. Stará aplikace fungovala, nyní bohužel zatím nefunkční. Edit: Po opravě chyby v aplikaci se lze přihlásit. Zatím nejde stáhnout faktura vyúčtování v PDF. Prozatím zvedám na tři hvězdy a při příštím vyúčtování zjistím, jestli funguje platba atd.",
+      "text_normalized": "v aplikaci se neda prihlasit k uzivatelskemu uctu, coz je zasadni problem. stara aplikace fungovala, nyni bohuzel zatim nefunkcni. edit: po oprave chyby v aplikaci se lze prihlasit. zatim nejde stahnout faktura vyuctovani v pdf. prozatim zvedam na tri hvezdy a pri pristim vyuctovani zjistim, jestli funguje platba atd.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T11:42:20.441Z",
+      "replyText": "Pěkný den, Michale,\nomlouvám se vám za potíže, potýkali jsme se s výpadkem aplikace 🙁 Nyní už by to mělo být v pořádku a budeme rádi, když aplikaci otestujete a ohodnotíte 🙂 Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "7401fcba-552d-4ec1-b0a9-e8a5a9762345",
+      "userName": "Jan Doutnáč",
+      "date": "2026-02-11T12:11:10.197Z",
+      "score": 3,
+      "text": "Opět katastrofální aplikace. Pomalá, nejde se opakovaně přihlásit... Pixel 9 Pro xl Edit: přihlášení již funguje. Vtipné jsou losy s odměnou, kdy ohlásí aplikace výhru, aby vzápětí napsala, že výhra nebyla nalezena.",
+      "text_normalized": "opet katastrofalni aplikace. pomala, nejde se opakovane prihlasit... pixel 9 pro xl edit: prihlaseni jiz funguje. vtipne jsou losy s odmenou, kdy ohlasi aplikace vyhru, aby vzapeti napsala, ze vyhra nebyla nalezena.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T11:50:51.817Z",
+      "replyText": "Pěkný den, Jane,\nje mi líto, že to tak vnímáte 🙁 Omlouvám se vám za komplikace, potýkali jsme se s výpadkem aplikace, nyní by mělo být vše v pořádku. Zkuste se znovu přihlásit, radost nám uděláte také tím, pokud apllikaci znovu ohodnotíte. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "b214df26-8f65-4e4e-8dda-9e4b948cb3d6",
+      "userName": "Tereza Schaumannova",
+      "date": "2026-02-11T11:52:01.984Z",
+      "score": 1,
+      "text": "aplikace se furt seká nebo má nějaký problém.",
+      "text_normalized": "aplikace se furt seka nebo ma nejaky problem.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita"
+      ],
+      "replyDate": "2026-02-11T12:07:05.955Z",
+      "replyText": "Pěkný den, Terezo,\nje mi líto, pokud sledujete s aplikací nějaké potíže 😕 Zkuste ji prosím přeinstalovat. V případě, že budete potíže sledovat dále, napište nám prosím podrobnosti přes https://tam.je/dotaz, abychom to mohli řešit konkrétněji. Lucie\n",
+      "version": "3.6.3"
+    },
+    {
+      "id": "65164e4f-a426-4605-8f51-e0019da29c49",
+      "userName": "Josef Chrobák",
+      "date": "2026-02-11T11:46:33.300Z",
+      "score": 4,
+      "text": "Oproti původní Vodafone aplikaci se s ní dá pracovat. Zatím spokojenost.",
+      "text_normalized": "oproti puvodni vodafone aplikaci se s ni da pracovat. zatim spokojenost.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T11:21:52.439Z",
+      "replyText": "Pěkný den, Josefe,\nmrzí mě, že jste nespokojený 🙁 Omlouvám se vám za komplikace, potýkali jsme se s výpadkem aplikace, nyní by mělo být vše v pořádku. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "70b65094-b980-4f37-840e-8bcd241bbd16",
+      "userName": "Jaroslav Hlav",
+      "date": "2026-02-11T10:45:15.717Z",
+      "score": 1,
+      "text": "Proč není pro platbu uveden QR kód?",
+      "text_normalized": "proc neni pro platbu uveden qr kod?",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-10T13:06:11.459Z",
+      "replyText": "Hezký den, Jaroslave,\nchápu vás. S další aktualizací plánujeme QR kód do aplikace přidat, nyní ho najdete na první straně vašeho Vyúčtování, které můžete stáhnout v PDF formátu. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "95d56624-19ee-4bca-a623-92db5d51ad4c",
+      "userName": "Vojtěch Mrázek",
+      "date": "2026-02-11T09:25:14.381Z",
+      "score": 1,
+      "text": "Asi poslední aplikace ve vesmíru, která neumožňuje platbu přes Google Pay. Stále neuvěřitelně pomalé, nestabilní. Ale rozumím, Vodafone je garážová firma s malým rozpočtem, vlastně takový start up, buďme trpěliví.",
+      "text_normalized": "asi posledni aplikace ve vesmiru, ktera neumoznuje platbu pres google pay. stale neuveritelne pomale, nestabilni. ale rozumim, vodafone je garazova firma s malym rozpoctem, vlastne takovy start up, budme trpelivi.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-02-11T09:36:30.953Z",
+      "replyText": "Pěkný den, Vojtěchu,\nje mi líto, že se vám aplikace nelíbí 🙁 Přidání Google Pay bychom do budoucna rádi přidali, zatím k tomu ale nemáme žádné podrobnosti 😕 Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "b43fc5f4-f0cd-45f5-8697-037b1b565894",
+      "userName": "Mar Mat",
+      "date": "2026-02-11T09:04:17.230Z",
+      "score": 1,
+      "text": "když se přihlásit,tak se tam furt točí Vodafon ,že se načítá. Měla jsem to puštěné 10 min a stále se načítá. aplikace nefunguje",
+      "text_normalized": "kdyz se prihlasit,tak se tam furt toci vodafon ,ze se nacita. mela jsem to pustene 10 min a stale se nacita. aplikace nefunguje",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T11:15:42.908Z",
+      "replyText": "Hezký den, Mar,\nje mi líto, že jste měl potíže 🙁 Omlouvám se za komplikace, potýkali jsme se s výpadkem a nyní by mělo být vše v pořádku. Budeme rádi, když naši appku vyzkoušíte a ohodnotíte znovu. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "82d03d07-f31a-4cf0-ab5b-7c9b050f2aed",
+      "userName": "Miroslav Bíba",
+      "date": "2026-02-11T09:02:23.403Z",
+      "score": 1,
+      "text": "aplikace nefunguje i když jsem se dříve již řádně přihlásil včetně dvoufázového přihlášení tak mě to do aplikace nepustí a pořád mě to hází na přihlášení. reinstalace nepomohla naopak to spíš zhoršila. kdyby šla dát nula hvězd tak jí tam okamžitě dám. Edit po druhé reinstalaci se aplikace rozběhla",
+      "text_normalized": "aplikace nefunguje i kdyz jsem se drive jiz radne prihlasil vcetne dvoufazoveho prihlaseni tak me to do aplikace nepusti a porad me to hazi na prihlaseni. reinstalace nepomohla naopak to spis zhorsila. kdyby sla dat nula hvezd tak ji tam okamzite dam. edit po druhe reinstalaci se aplikace rozbehla",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T11:53:32.710Z",
+      "replyText": "Hezký den, Miroslave,\nmrzí mě, že jste nespokojený 🙁 Omlouvám se vám za komplikace, potýkali jsme se s výpadkem aplikace, nyní by mělo být vše v pořádku. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "f352c551-a036-4b0a-b500-181f583bf6d0",
+      "userName": "petr stach",
+      "date": "2026-02-11T08:48:45.540Z",
+      "score": 1,
+      "text": "Aplikace nefunguje, tak jsem ji odinstaloval a zase nainstaloval. A nic. Při přihlašování se mi na displeji točí logo Vodafonu a to je vše. Přihlašování složité jak do Pentagonu. Tohle se vám teda nepovedlo.",
+      "text_normalized": "aplikace nefunguje, tak jsem ji odinstaloval a zase nainstaloval. a nic. pri prihlasovani se mi na displeji toci logo vodafonu a to je vse. prihlasovani slozite jak do pentagonu. tohle se vam teda nepovedlo.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T11:49:10.727Z",
+      "replyText": "Pěkný den, Petře,\nomlouvám se vám za potíže, potýkali jsme se s výpadkem 🙁 Momentálně už by mělo být vše v pořádku a budeme rádi, když aplikaci otestujete a ohodnotíte. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "cfcc665f-9e65-415a-ac17-fc40424501c7",
+      "userName": "Arny Hook",
+      "date": "2026-02-11T08:46:24.949Z",
+      "score": 3,
+      "text": "Dnes notifikace něco jako \"TEST\" a po otevření app přihlášení otiskem a poté pouze černá plocha. Reset app, znovu spuštění a to samé :(... Divné... (Samsung Galaxy S24 Ultra 5G, nejnovější Android)",
+      "text_normalized": "dnes notifikace neco jako \"test\" a po otevreni app prihlaseni otiskem a pote pouze cerna plocha. reset app, znovu spusteni a to same :(... divne... (samsung galaxy s24 ultra 5g, nejnovejsi android)",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-11T11:50:20.855Z",
+      "replyText": "Hezký den, Arny,\nchápu vás 🙁 Omlouvám se vám za komplikace, potýkali jsme se s výpadkem aplikace, nyní by mělo být vše v pořádku. Zkuste se znovu přihlásit, radost nám uděláte také tím, pokud apllikaci znovu ohodnotíte. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "8dc63673-6d62-4aec-8916-47f024c89e83",
+      "userName": "Vlastimil Kristofic",
+      "date": "2026-02-11T08:43:43.234Z",
+      "score": 1,
+      "text": "aplikace nefunguje po aktualizaci se po snahu o přihlášení vrací stále na úvodní obrazovku, čím novější verze tím větší potíže, za mě je toto velmi špatně když dříve fungovalo bez potíží ještě dodám, že spojení a nalezení řešení na stránkách je velice špatně dohledatelne navíc automat tobi nic neumí vyřešit a jinam se člověk nedostane, nemíním ztrácet čas a sedět u toho hodinu abych stejně nakonec nic nezjistil",
+      "text_normalized": "aplikace nefunguje po aktualizaci se po snahu o prihlaseni vraci stale na uvodni obrazovku, cim novejsi verze tim vetsi potize, za me je toto velmi spatne kdyz drive fungovalo bez potizi jeste dodam, ze spojeni a nalezeni reseni na strankach je velice spatne dohledatelne navic automat tobi nic neumi vyresit a jinam se clovek nedostane, neminim ztracet cas a sedet u toho hodinu abych stejne nakonec nic nezjistil",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T11:42:07.796Z",
+      "replyText": "Hezký den, Vlastimile,\nje mi líto, že jste nespokojený 🙁 Omlouvám se vám za komplikace, potýkali jsme se s výpadkem aplikace, nyní by mělo být vše v pořádku. Zkuste se znovu přihlásit, radost nám uděláte také tím, pokud apllikaci znovu ohodnotíte. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "2067b11c-8d2a-4a81-9227-3733191a9c34",
+      "userName": "Miloslav Dolezal",
+      "date": "2026-02-11T08:42:45.441Z",
+      "score": 1,
+      "text": "Po poslední aktualizaci se nejde vůbec přihlásit na telefonu",
+      "text_normalized": "po posledni aktualizaci se nejde vubec prihlasit na telefonu",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T11:40:34.675Z",
+      "replyText": "Hezký den, Miloslave,\nje mi líto, že máte potíže s přihlášením 🙁 Potýkali jsme se s výpadkem aplikace, nyní by mělo být vše v pořádku. Zkuste se znovu přihlásit, věřím, že aplikace bude funkční. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "a9e2bb96-0bc5-4850-9e49-5849bba70f15",
+      "userName": "Monika Chmelova (Moňa Humulus)",
+      "date": "2026-02-11T08:42:14.450Z",
+      "score": 1,
+      "text": "Nezlob te se, který hatla patla to dělal. Po aktualizaci vubec nejede. Zaplatě poradneho IT, který to umí. Stará byla taky katastrofa.",
+      "text_normalized": "nezlob te se, ktery hatla patla to delal. po aktualizaci vubec nejede. zaplate poradneho it, ktery to umi. stara byla taky katastrofa.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-11T11:38:54.598Z",
+      "replyText": "Hezký den, Moniko,\nmrzí mě, že s aplikací nejste spokojená 🙁 Omlouvám se vám za komplikace, potýkali jsme se s výpadkem aplikace, nyní by mělo být vše v pořádku. Zkuste se znovu přihlásit, radost nám uděláte také tím, pokud apllikaci znovu ohodnotíte. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "3c51acf4-668f-4602-8910-a6feafcee84a",
+      "userName": "Miloslav Vacek",
+      "date": "2026-02-11T08:41:25.395Z",
+      "score": 1,
+      "text": "Po dnešku totální katastrofa nemohu se dostat k ničemu",
+      "text_normalized": "po dnesku totalni katastrofa nemohu se dostat k nicemu",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-11T11:36:48.912Z",
+      "replyText": "Hezký den, Miloslave,\nmrzí mě, že jste měl potíže 🙁 Omlouvám se vám za komplikace, potýkali jsme se s výpadkem aplikace, nyní by mělo být vše v pořádku. Zkuste se znovu přihlásit, radost nám uděláte také tím, pokud apllikaci znovu ohodnotíte. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "d1aef2cb-f0bd-4634-846c-a5e2368947c4",
+      "userName": "Libor Dokulil",
+      "date": "2026-02-11T08:39:23.861Z",
+      "score": 1,
+      "text": "Nehodnotitelné!!! Pokud by byla 0 tak bych hodnotil 0!!!! Appka vyžaduje časté aktualizace. Trvalé přihlášení nerespektuje a po par dnech automaticky odhlásí z účtu!!!! Přihlášení se nedaří ani po odinstalovàní a opětovné instalaci jak v telefonu tak v tabletu s Android!!! Hnus🤮To se vážně nepovedlo!!!!🤦‍♂️ Stará appka fungovala bez problémů! Pokud se nevyŕeší funkčnost,odcházím ke konkurenci!!!",
+      "text_normalized": "nehodnotitelne!!! pokud by byla 0 tak bych hodnotil 0!!!! appka vyzaduje caste aktualizace. trvale prihlaseni nerespektuje a po par dnech automaticky odhlasi z uctu!!!! prihlaseni se nedari ani po odinstalovani a opetovne instalaci jak v telefonu tak v tabletu s android!!! hnus🤮to se vazne nepovedlo!!!!🤦‍♂️ stara appka fungovala bez problemu! pokud se nevyresi funkcnost,odchazim ke konkurenci!!!",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-11T11:36:00.867Z",
+      "replyText": "Hezký den, Libore,\nje mi líto, že jste nespokojený 🙁 Omlouvám se za komplikace, v aplikaci jsme evidovali potíže, ale nyní by mělo být vše v pořádku, prosím, zkuste se přihlásit znovu. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "4c7c98de-2dfa-4dd5-a3af-f555a40927a5",
+      "userName": "Martin Brhlík",
+      "date": "2026-02-11T08:36:31.266Z",
+      "score": 1,
+      "text": "Původní aplikace alespoň nějak fungovala, tahle je úplně k ničemu...",
+      "text_normalized": "puvodni aplikace alespon nejak fungovala, tahle je uplne k nicemu...",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-11T11:25:37.200Z",
+      "replyText": "Hezký den, Martine,\nmrzí mě, že nejste spokojený 🙁 Dnes jsme se potýkali s výpadkem aplikace, nyní to by to mělo být v pořádku. Za komplikace se vám omlouvám. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "3e4e1135-2d31-4e93-8540-633060d3c53e",
+      "userName": "Zuzana Linková",
+      "date": "2026-02-11T08:34:31.619Z",
+      "score": 1,
+      "text": "Dnes se do aplikace vůbec nemůžu přihlásit. Ťuknu na ni a naskočí jen bílý display. Jak již tu psala spousta lidí stará appka byla mnohem lepší.",
+      "text_normalized": "dnes se do aplikace vubec nemuzu prihlasit. tuknu na ni a naskoci jen bily display. jak jiz tu psala spousta lidi stara appka byla mnohem lepsi.",
+      "segments": [
+        "UI",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T11:20:54.320Z",
+      "replyText": "Hezký den, Zuzano,\nmrzí mě, že máte potíže 🙁 Omlouvám se vám za komplikace, potýkali jsme se s výpadkem aplikace, nyní by mělo být vše v pořádku. Zkuste se znovu přihlásit, radost nám uděláte také tím, pokud aplikaci znovu ohodnotíte. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "61316362-0fb9-4abc-b424-1039e1d8d1c1",
+      "userName": "Pavel Frőhlich",
+      "date": "2026-02-11T08:33:23.888Z",
+      "score": 1,
+      "text": "Opět nová aktualizace, která mě odhlásila od aplikace a od teď nemám šanci se do aplikace přihlásit (točím se stále dokola). Chvíli vše vypadalo dobře, ale opět stav jako před časem - po aktualizaci problémy. Škoda, že toto někdo neodzkouší.",
+      "text_normalized": "opet nova aktualizace, ktera me odhlasila od aplikace a od ted nemam sanci se do aplikace prihlasit (tocim se stale dokola). chvili vse vypadalo dobre, ale opet stav jako pred casem - po aktualizaci problemy. skoda, ze toto nekdo neodzkousi.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-11T11:19:34.316Z",
+      "replyText": "Hezký den, Pavle,\nmrzí mě, že jste nespokojený 🙁 Omlouvám se vám za komplikace, potýkali jsme se s výpadkem aplikace, nyní by mělo být vše v pořádku. Zkuste se znovu přihlásit, uděláte nám také radost, pokud apllikaci znovu ohodnotíte. Zuzana",
+      "version": "3.6.3"
+    },
+    {
+      "id": "9de4e68a-2042-4295-aadf-06cf92e37102",
+      "userName": "Lenka Kulhavá",
+      "date": "2026-02-11T08:32:24.335Z",
+      "score": 1,
+      "text": "Aplikace Vodafon jsou jeden velký propadák. už víc jak rok se nemůžu přihlásit do staré aplikace,tak jsem jí tedy odinstalovala a dala si novou ta pro změnu nejde spustit vůbec. Placení je noční můra ,nemám tak žádný přehled za co vlastně vůbec platím. už mě to začíná pěkně vytáčet. prostě nefunguje..",
+      "text_normalized": "aplikace vodafon jsou jeden velky propadak. uz vic jak rok se nemuzu prihlasit do stare aplikace,tak jsem ji tedy odinstalovala a dala si novou ta pro zmenu nejde spustit vubec. placeni je nocni mura ,nemam tak zadny prehled za co vlastne vubec platim. uz me to zacina pekne vytacet. proste nefunguje..",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T08:35:53.330Z",
+      "replyText": "Pěkný den, Lenko,\nomlouvám se vám za komplikace, momentálně se potýkáme s výpadkem aplikace 🙁 Na jeho opravě už usilovně pracujeme a pevně věřím, že poté už bude vše v pořádku. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "a90c49e6-8b4c-4e1c-97ea-b08b1954518d",
+      "userName": "Stanislav Brejak",
+      "date": "2026-02-11T08:31:04.931Z",
+      "score": 2,
+      "text": "Dnes 11.2. nejde aplikace vůbec spustit ani přihlásit. Dotazem u operátora údajně vše funkční což není pravda, neboť apka hlásí taky chybu. Takže Vodafone + v obvyklých kolejích jednou jde a chvílemi nejde.",
+      "text_normalized": "dnes 11.2. nejde aplikace vubec spustit ani prihlasit. dotazem u operatora udajne vse funkcni coz neni pravda, nebot apka hlasi taky chybu. takze vodafone + v obvyklych kolejich jednou jde a chvilemi nejde.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:36:26.864Z",
+      "replyText": "Pěkný den, Stanislave,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám 🙁 Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "5a50cacb-8c5a-4f5e-aca1-c11c6d13982a",
+      "userName": "Vít Hálek",
+      "date": "2026-02-11T08:30:35.150Z",
+      "score": 1,
+      "text": "aplikace je nepoužitelná nelze ji otevřít",
+      "text_normalized": "aplikace je nepouzitelna nelze ji otevrit",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:36:39.961Z",
+      "replyText": "Pěkný den, Víte,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "6f4bac63-6796-4557-9f66-72bb7eb6afa4",
+      "userName": "Lukáš Navrátil",
+      "date": "2026-02-11T08:30:03.934Z",
+      "score": 1,
+      "text": "Prakticky nefunkční, neustále se zasekává, musím vynuceně ukončovat, mám často problém se vůbec přihlásit. Tak v 50 % případů se mi to vůbec nepodaří ani na 10 pokusů. Silně nedoporučuji. Používejte raději webové rozhraní, než tohle, ušetříte si nervy.",
+      "text_normalized": "prakticky nefunkcni, neustale se zasekava, musim vynucene ukoncovat, mam casto problem se vubec prihlasit. tak v 50 % pripadu se mi to vubec nepodari ani na 10 pokusu. silne nedoporucuji. pouzivejte radeji webove rozhrani, nez tohle, usetrite si nervy.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:36:55.699Z",
+      "replyText": "Pěkný den, Lukáši,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "d9944228-1769-41b1-beab-aed4dbf30f03",
+      "userName": "Petr Mareš",
+      "date": "2026-02-11T08:29:21.416Z",
+      "score": 1,
+      "text": "Jedním slovem \"Tragika\".",
+      "text_normalized": "jednim slovem \"tragika\".",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-11T08:38:24.976Z",
+      "replyText": "Pěkný den, Petře,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "8ea11359-d24b-408a-99e2-27e363814afd",
+      "userName": "Jarka Nováková",
+      "date": "2026-02-11T08:28:15.744Z",
+      "score": 1,
+      "text": "vůbec se mi v app nedaří přihlásit..po kliku na přihlášení čekám a čekám, minuta - dvě a nic.. jen se načítá",
+      "text_normalized": "vubec se mi v app nedari prihlasit..po kliku na prihlaseni cekam a cekam, minuta - dve a nic.. jen se nacita",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-11T08:39:52.604Z",
+      "replyText": "Pěkný den, Jarko,\nomlouvám se vám za komplikace 🙁 Momentálně se potýkáme s výpadkem a na jeho opravě už usilovně pracujeme. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "d0f19595-bbfb-4a6b-a332-231253d00136",
+      "userName": "VVk",
+      "date": "2026-02-11T08:25:24.960Z",
+      "score": 1,
+      "text": "Nejhorší aplikace jakou jsem zažil. Nejde se přihlásit. Nekonečné načítání. ( prý: Něco se pokazilo) Měli jste si vzít příklad ze SAZKAmobil. Tam to perfektně fungovalo dlouhé roky... Hlavně mi nepište, že je vám to líto....",
+      "text_normalized": "nejhorsi aplikace jakou jsem zazil. nejde se prihlasit. nekonecne nacitani. ( pry: neco se pokazilo) meli jste si vzit priklad ze sazkamobil. tam to perfektne fungovalo dlouhe roky... hlavne mi nepiste, ze je vam to lito....",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:43:04.957Z",
+      "replyText": "Pěkný den,\nomlouvám se vám za potíže 🙁 Aktuálně se potýkáme s výpadkem aplikace a na jeho opravě už pracujeme. Pevně věřím, že to bude co nejdříve v pořádku. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "8545071a-fc4e-4cc0-8998-7aa067a35f58",
+      "userName": "Josef Krejci",
+      "date": "2026-02-11T08:24:56.307Z",
+      "score": 1,
+      "text": "Dobrý den do této aplikace se mi vůbec nejde přihlásit jste tragédii jsem hodně naštvaný přemýšlím k přechodu k jinému operatoru.",
+      "text_normalized": "dobry den do teto aplikace se mi vubec nejde prihlasit jste tragedii jsem hodne nastvany premyslim k prechodu k jinemu operatoru.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:39:57.393Z",
+      "replyText": "Pěkný den, Josefe,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "version": null
+    },
+    {
+      "id": "5f3478b8-d08b-4bf2-89f8-deeb426b50af",
+      "userName": "Jan Pšenička",
+      "date": "2026-02-11T08:23:49.757Z",
+      "score": 1,
+      "text": "Nefunguje přihlášení 😡",
+      "text_normalized": "nefunguje prihlaseni 😡",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T08:40:09.919Z",
+      "replyText": "Pěkný den, Jane,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "25094d33-96be-460c-807f-564cc779f820",
+      "userName": "Tomáš Navrátil",
+      "date": "2026-02-11T08:21:15.222Z",
+      "score": 1,
+      "text": "K ničemu, věčně nefunguje!",
+      "text_normalized": "k nicemu, vecne nefunguje!",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T08:41:25.971Z",
+      "replyText": "Pěkný den, Tomáši,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "37839928-7975-4832-a026-7b5f84d873e7",
+      "userName": "Andrej",
+      "date": "2026-02-11T08:20:08.327Z",
+      "score": 1,
+      "text": "Stalo se přesně to co sem čekal... přestali mi v zahraničí chodit přihlašovací sms... přihlášení přes email nefunguje takže sem v prdeli... nechám si asi 6 měsíců naskakovat penále protože se nemůžu vrátit zpátky.... krásný. S žádnou jinou aplikací bych problem neměl... ale aplikace určená na komunikování a přenos informací samozřejmě v krizovej moment selže... nic víc bych od českýho operátora nečekal",
+      "text_normalized": "stalo se presne to co sem cekal... prestali mi v zahranici chodit prihlasovaci sms... prihlaseni pres email nefunguje takze sem v prdeli... necham si asi 6 mesicu naskakovat penale protoze se nemuzu vratit zpatky.... krasny. s zadnou jinou aplikaci bych problem nemel... ale aplikace urcena na komunikovani a prenos informaci samozrejme v krizovej moment selze... nic vic bych od ceskyho operatora necekal",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce",
+        "Cena",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T08:42:13.224Z",
+      "replyText": "Pěkný den, Andreji,\nto záleží na tom, jak máte nastavený roaming. Napište nám prosím více na e-mailovou adresu aplikace@vodafone.cz. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "ac19ad7b-c155-4459-b553-8acb06f7b429",
+      "userName": "SSn0w0",
+      "date": "2026-02-11T08:19:50.918Z",
+      "score": 1,
+      "text": "absolutně příšerný. Po další aktualizaci mě aplikace odhlásila a já se nemůžu znovu přihlásit jelikož je nemožný se dostat z hlavního menu :)",
+      "text_normalized": "absolutne priserny. po dalsi aktualizaci me aplikace odhlasila a ja se nemuzu znovu prihlasit jelikoz je nemozny se dostat z hlavniho menu :)",
+      "segments": [
+        "UI",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:42:29.900Z",
+      "replyText": "Pěkný den,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "8c80340a-3c4a-4b82-83bf-18875158b257",
+      "userName": "Dusan Maruska",
+      "date": "2026-02-11T08:18:45.439Z",
+      "score": 1,
+      "text": "Po aktualizaci se nemohu prihlasit.",
+      "text_normalized": "po aktualizaci se nemohu prihlasit.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-11T08:42:47.587Z",
+      "replyText": "Pěkný den, Dušane,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "efb13642-69fa-4260-8f1a-16014c543688",
+      "userName": "00 00",
+      "date": "2026-02-11T08:18:26.210Z",
+      "score": 1,
+      "text": "nefunguje mi prihlaseni. aplikace se spusti a kdyz dam prihlasit tak nacita a nacita a pak skoci zpet do hlavni nabidky. ucty jsem musel platit skrze prohlizec. takze aplikaci mazu a az prijdete s dalsi a horsi aplikaci treba vodafone ++ tak si ji strcte vite kam",
+      "text_normalized": "nefunguje mi prihlaseni. aplikace se spusti a kdyz dam prihlasit tak nacita a nacita a pak skoci zpet do hlavni nabidky. ucty jsem musel platit skrze prohlizec. takze aplikaci mazu a az prijdete s dalsi a horsi aplikaci treba vodafone ++ tak si ji strcte vite kam",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T08:43:03.813Z",
+      "replyText": "Pěkný den,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "59412caf-8759-4bfa-9d08-05bb07497b8a",
+      "userName": "Mig B",
+      "date": "2026-02-11T08:17:02.543Z",
+      "score": 1,
+      "text": "Po poslední aktualizaci nefunkční na s23 ultra, nepomohlo ani smazání dat a restart telefonu, po stisku na přihlášení se jen točí vodafone logo.",
+      "text_normalized": "po posledni aktualizaci nefunkcni na s23 ultra, nepomohlo ani smazani dat a restart telefonu, po stisku na prihlaseni se jen toci vodafone logo.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:44:51.199Z",
+      "replyText": "Pěkný den, Mig,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "0873368d-6bdb-4a05-8b70-17e131539468",
+      "userName": "Marek M",
+      "date": "2026-02-11T08:14:42.135Z",
+      "score": 1,
+      "text": "Po aktualizaci aplikace se nelze přihlásit.",
+      "text_normalized": "po aktualizaci aplikace se nelze prihlasit.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:45:04.511Z",
+      "replyText": "Pěkný den, Marku,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "58bdb90e-8e18-438f-9f49-da8fa684a273",
+      "userName": "Met Metushe",
+      "date": "2026-02-11T08:13:29.563Z",
+      "score": 1,
+      "text": "Po nove aktualizaci nefunguje nic. Kdyz otevřu aplikaci tak zůstane stránka v menším okénku a nefunguje. Ale pokud se rozjede nejde se přihlásit a vyhazuje mě to z aplikace. zkusila jsem už odinstalovat a zpatky nainstalovat. pořád stejný problém.",
+      "text_normalized": "po nove aktualizaci nefunguje nic. kdyz otevru aplikaci tak zustane stranka v mensim okenku a nefunguje. ale pokud se rozjede nejde se prihlasit a vyhazuje me to z aplikace. zkusila jsem uz odinstalovat a zpatky nainstalovat. porad stejny problem.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T08:45:18.420Z",
+      "replyText": "Pěkný den, Met,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "154f6933-7ce8-4e0b-a8c0-cda1fb6d0b31",
+      "userName": "Yvona Rubášová",
+      "date": "2026-02-11T08:13:13.635Z",
+      "score": 1,
+      "text": "od poslední aktualizace 6.2. se po spuštění aplikace nemohu přihlásit do již existujícího účtu, do kterého jsem předtím byla přihlášena zkoušela jsem aplikaci odinstalovat, restartovat mobil, nic nepomohlo",
+      "text_normalized": "od posledni aktualizace 6.2. se po spusteni aplikace nemohu prihlasit do jiz existujiciho uctu, do ktereho jsem predtim byla prihlasena zkousela jsem aplikaci odinstalovat, restartovat mobil, nic nepomohlo",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-11T11:38:40.940Z",
+      "replyText": "Pěkný den, Yvono,\nomlouvám se vám za potíže, potýkali jsme se s výpadkem aplikace 🙁 Nyní by vše mělo být v pořádku. Budeme rádi, když aplikaci otestujete a ohodnotíte znovu. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "8e8e2f96-4d62-4e57-80f2-b5749e0679b0",
+      "userName": "Radmila Táboříková",
+      "date": "2026-02-11T08:11:34.717Z",
+      "score": 1,
+      "text": "Dnes se nemůžu přihlásit. Po kliknutí na přihlásit se mi chvilku točí znak a spadne mi to zpátky.",
+      "text_normalized": "dnes se nemuzu prihlasit. po kliknuti na prihlasit se mi chvilku toci znak a spadne mi to zpatky.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T11:40:40.774Z",
+      "replyText": "Pěkný den, Radmilo,\nomlouvám se vám za komplikace, potýkali jsme se s výpadkem 🙁 Nyní už by mělo být vše v pořádku. Budeme rádi, když ji otestujete a ohodnotíte 🙂 Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "82918c30-6883-4db6-8688-f0d2f0fb01ed",
+      "userName": "Hess Press",
+      "date": "2026-02-11T08:10:50.991Z",
+      "score": 1,
+      "text": "Proč se furt dokola musím přihlašovat jménem a heslem? Dnes zas, na telefonu notifikace Vodafone test (něco), chci se přihlásit a zas: jste náš zákazník, přihlaste se. Věřte mi, že už dlouho váš zákazník nebudu! Tak aktualita o 15 minut později :vymazal jsem appku, znovu nainstaloval a nejde se přihlásit vůbec. Super, ta apka je čím dál lepší. Gratuluji!!!",
+      "text_normalized": "proc se furt dokola musim prihlasovat jmenem a heslem? dnes zas, na telefonu notifikace vodafone test (neco), chci se prihlasit a zas: jste nas zakaznik, prihlaste se. verte mi, ze uz dlouho vas zakaznik nebudu! tak aktualita o 15 minut pozdeji :vymazal jsem appku, znovu nainstaloval a nejde se prihlasit vubec. super, ta apka je cim dal lepsi. gratuluji!!!",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T08:14:28.742Z",
+      "replyText": "Pěkný den, Hessi,\nv aplikaci je možné nastavit si biometriku, abyste údaje zadávat nemusel při každém přihlášení. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "e258892a-b4b6-4f7f-92fd-a29757d8d4c4",
+      "userName": "Andy 120",
+      "date": "2026-02-11T08:05:14.403Z",
+      "score": 1,
+      "text": "Po aktualizaci aplikace se nelze přihlásit.",
+      "text_normalized": "po aktualizaci aplikace se nelze prihlasit.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T11:50:56.594Z",
+      "replyText": "Pěkný den, Andy,\nomlouvám se vám za nepříjemnosti, potýkali jsme se s výpadkem 🙁 Momentálně už by mělo být vše v pořádku a budeme rádi, když aplikaci otestujete a ohodnotíte. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "5627aa4a-50cb-4e18-8739-40e5f13ec279",
+      "userName": "Jan Rysavy",
+      "date": "2026-02-11T08:04:39.646Z",
+      "score": 1,
+      "text": "Po dnešní aktualizaci mě nefunguje přihlášení do aplikace.",
+      "text_normalized": "po dnesni aktualizaci me nefunguje prihlaseni do aplikace.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T11:54:24.353Z",
+      "replyText": "Pěkný den, Jane,\nomlouvám se vám za potíže, potýkali jsme se s výpadkem aplikace 🙁 V tuto chvíli už by mělo být vše v pořádku a budeme rádi, když aplikaci otestujete a ohodnotíte. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "b2b1177a-0770-4369-915a-96db6eaf1cae",
+      "userName": "Mirda Elektro",
+      "date": "2026-02-11T08:02:33.332Z",
+      "score": 1,
+      "text": "Totální propadák. Zlatá stará funkční verze.",
+      "text_normalized": "totalni propadak. zlata stara funkcni verze.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-02-11T09:30:28.670Z",
+      "replyText": "Pěkný den, Mirdo,\nje mi líto, že vám nová aplikace nevyhovuje 🙁Pokud budete mít konkrétní zpětnou vazbu ke zlepšení, budeme za ni rádi. Lucie",
+      "version": null
+    },
+    {
+      "id": "92ae6558-7c56-4d1c-9abf-7a5216451aea",
+      "userName": "Jan Voldřich",
+      "date": "2026-02-11T08:02:28.802Z",
+      "score": 1,
+      "text": "Nedá se vůbec přihlásit. Ani když jsem přihlášený dávno byl. Obrazovka pro přihlášení se vůbec nenačte. Platit s předchozí aplikací bylo snazší, protože bylo možné generovat qr kód.",
+      "text_normalized": "neda se vubec prihlasit. ani kdyz jsem prihlaseny davno byl. obrazovka pro prihlaseni se vubec nenacte. platit s predchozi aplikaci bylo snazsi, protoze bylo mozne generovat qr kod.",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:07:09.560Z",
+      "replyText": "Pěkný den, Jane,\nomlouvám se vám za komplikace 🙁 Momentálně evidujeme výpadek aplikace a už pracujeme na tom, abychom vše co nejdříve opravili. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "bc5ddb3f-2a5e-4391-bf40-04849478b303",
+      "userName": "Jiří Zahradník",
+      "date": "2026-02-11T08:02:19.463Z",
+      "score": 1,
+      "text": "Aplikace nefunguje hrůza nevím proč mně píše že jiné zařízení nejde nainstalovat když toto zařízení nepoužívám",
+      "text_normalized": "aplikace nefunguje hruza nevim proc mne pise ze jine zarizeni nejde nainstalovat kdyz toto zarizeni nepouzivam",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T08:05:45.694Z",
+      "replyText": "Pěkný den, Jiří,\nomlouvám se vám za komplikace 🙁 Momentálně se potýkáme s výpadkem a na jeho opravě už usilovně pracujeme. Lucie",
+      "version": "3.4.1"
+    },
+    {
+      "id": "0f66efe9-37c8-42e1-bb8b-47370312b7db",
+      "userName": "Lukas Ondrej",
+      "date": "2026-02-11T08:00:59.936Z",
+      "score": 1,
+      "text": "Nefunguje. Aplikace se resetuje a musíte se opět přihlásit heslem při každém novém spuštění aplikace. Veškeré uložené přihlašovací údaje prostě zmizí. To jest, pokud se vám vůbec podaří dostat na přihlášení. U mne osobně je aplikace stále na úvodní stránce a přihlášení se mi nedaří ani zobrazit.",
+      "text_normalized": "nefunguje. aplikace se resetuje a musite se opet prihlasit heslem pri kazdem novem spusteni aplikace. veskere ulozene prihlasovaci udaje proste zmizi. to jest, pokud se vam vubec podari dostat na prihlaseni. u mne osobne je aplikace stale na uvodni strance a prihlaseni se mi nedari ani zobrazit.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T08:06:27.530Z",
+      "replyText": "Pěkný den, Lukasi,\nomlouvám se vám za komplikace. V tuto chvíli evidujeme výpadek a pracujeme usilovně na tom, abychom jej co nejdříve opravili. Lucie",
+      "version": null
+    },
+    {
+      "id": "e3853e9a-30ba-4979-9b87-a71d496927d7",
+      "userName": "Kinghome",
+      "date": "2026-02-11T08:00:24.330Z",
+      "score": 1,
+      "text": "aplikace je absolutně nefunkční, extrémně pomalá a nic nenačítá. dnes mě dokonce odhlásili z účtu a do aplikace se nedá vůbec přihlásit, chvíli to načítá a pak se to hodí zpět na domovskou stránkou. Většinou se updaty aplikací dělají proto, aby byl zážitek pro zákazníky lepší, Vodafone se rozhodl, že bude svým zákazníkům dělat ze života peklo. Jakmile mi skončí smlouva, přecházím k T Mobile, Vodafone je čím dál tím větší joke, nic u nich nefunguje.",
+      "text_normalized": "aplikace je absolutne nefunkcni, extremne pomala a nic nenacita. dnes me dokonce odhlasili z uctu a do aplikace se neda vubec prihlasit, chvili to nacita a pak se to hodi zpet na domovskou strankou. vetsinou se updaty aplikaci delaji proto, aby byl zazitek pro zakazniky lepsi, vodafone se rozhodl, ze bude svym zakaznikum delat ze zivota peklo. jakmile mi skonci smlouva, prechazim k t mobile, vodafone je cim dal tim vetsi joke, nic u nich nefunguje.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T08:07:47.455Z",
+      "replyText": "Pěkný den,\nomlouvám se vám za nepříjemnosti 🙁 Momentálně evidujeme výpadek aplikace a pracujeme na tom, abychom jej opravili co nejdříve. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "d514f3a1-198d-4c31-aa09-f750b59cc539",
+      "userName": "MrYarisek",
+      "date": "2026-02-11T07:58:58.938Z",
+      "score": 1,
+      "text": "strašný, pomalé,přihlašovaní nefunkční.",
+      "text_normalized": "strasny, pomale,prihlasovani nefunkcni.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:11:00.116Z",
+      "replyText": "Pěkný den,\nomlouvám se vám za potíže 🙁 Aktuálně se potýkáme s výpadkem aplikace a pracujeme na jeho opravě. Lucie",
+      "version": null
+    },
+    {
+      "id": "15d8942a-1ff9-46ae-bf0d-d98da8a4743c",
+      "userName": "Jan Červinka",
+      "date": "2026-02-11T07:58:51.395Z",
+      "score": 1,
+      "text": "po aktualizaci se nedá přihlásit do aplikace ani po reinstalaci programu",
+      "text_normalized": "po aktualizaci se neda prihlasit do aplikace ani po reinstalaci programu",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-11T08:11:36.546Z",
+      "replyText": "Pěkný den, Jane,\nomlouvám se vám za nepříjemnosti 🙁 Evidujeme výpadek aplikace a na jeho opravě už usilovně pracujeme. Prosím vás o strpení. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "c9276908-b843-41e5-bbe0-56f0c105e5ef",
+      "userName": "Ten „Protivnej“ Kmotr",
+      "date": "2026-02-11T07:58:17.917Z",
+      "score": 1,
+      "text": "Může mi někdo vysvětlit, jak moc musí být člověk debil aby mohl vyprodukovat takhle špatně fungující aplikaci a ještě tvrdit, že je lepší než předchozí (v rámci možností funkční) aplikace.... To neexistuje nikdo v celé firmě, kdo by byl schopný otestovat aktualizaci než ji vypustíte do světa?",
+      "text_normalized": "muze mi nekdo vysvetlit, jak moc musi byt clovek debil aby mohl vyprodukovat takhle spatne fungujici aplikaci a jeste tvrdit, ze je lepsi nez predchozi (v ramci moznosti funkcni) aplikace.... to neexistuje nikdo v cele firme, kdo by byl schopny otestovat aktualizaci nez ji vypustite do sveta?",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:09:40.610Z",
+      "replyText": "Pěkný den,\nje mi líto, že jste potíže s přihlášením do aplikace zaznamenal. V tuto chvíli se jedná o plošné potíže s přihlášením 🙁 Veronika",
+      "version": "3.4.1"
+    },
+    {
+      "id": "11e817bd-01a3-4c1a-8913-9c364a3ded7d",
+      "userName": "Il Iliev",
+      "date": "2026-02-11T07:56:41.281Z",
+      "score": 1,
+      "text": "Aplikace vůbec se nenačítá , jen tuto kolečko se točí jinak vůbec nic",
+      "text_normalized": "aplikace vubec se nenacita , jen tuto kolecko se toci jinak vubec nic",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-11T08:12:23.350Z",
+      "replyText": "Pěkný den,\nje mi líto, avšak v tuto chvíli se jedná o plošné potíže, které již kolegové řeší. Omlouvám se za komplikace 🙁 Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "5f7c6d8f-71d0-4ff6-8ecb-ba7152e3dcae",
+      "userName": "Kateřina Havranová",
+      "date": "2026-02-11T07:54:58.209Z",
+      "score": 3,
+      "text": "tato apka měla být prý lepší a přehlednějši oproti apce minulé, ale je to děs, dnes aplikace vůbec nefunguje",
+      "text_normalized": "tato apka mela byt pry lepsi a prehlednejsi oproti apce minule, ale je to des, dnes aplikace vubec nefunguje",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T08:15:40.850Z",
+      "replyText": "Pěkný den, Kateřino,\nchápu, že je aplikace rozdílná oproti té původní. V tuto chvíli evidujeme plošné potíže s přihlášením a již to řešíme. Omlouvám se za komplikace:( Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "c8945640-3eee-4be1-b68d-9e613d27fdf6",
+      "userName": "HYNEK ROTH",
+      "date": "2026-02-11T07:54:32.321Z",
+      "score": 1,
+      "text": "Geniální tah neschopnosti jak vytvořit něco méně fungujícího než to předtím. Platba je zdržující víc než v předchozí aplikaci. No a teď když chci opět spustit aplikaci k zaplacení, tak nejen že musím opět vyplnit přihlašovací údaje, pak po mě to chce biometrické přihlášení pro potvrzení a stejnak čekám na SMS kód... a výsledek?! jsem v prázdné aplikaci kde mám jen dvě možnosti a to otázka zda se chci stát novým zákazníkem anebo ať se přihlásím ke stávajícímu účtu. po 3 pokusech na vás....",
+      "text_normalized": "genialni tah neschopnosti jak vytvorit neco mene fungujiciho nez to predtim. platba je zdrzujici vic nez v predchozi aplikaci. no a ted kdyz chci opet spustit aplikaci k zaplaceni, tak nejen ze musim opet vyplnit prihlasovaci udaje, pak po me to chce biometricke prihlaseni pro potvrzeni a stejnak cekam na sms kod... a vysledek?! jsem v prazdne aplikaci kde mam jen dve moznosti a to otazka zda se chci stat novym zakaznikem anebo at se prihlasim ke stavajicimu uctu. po 3 pokusech na vas....",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:12:44.342Z",
+      "replyText": "Pěkný den, Hynku,\nomlouvám se vám za potíže 🙁 Aktuálně se potýkáme s výpadkem na jehož opravě už usilovně pracujeme. Pevně věřím, že po opravě už vám přihlášení bude fungovat. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "2eaec7d7-47f4-48cd-aa92-ba6c9b1bb7a0",
+      "userName": "Lukáš",
+      "date": "2026-02-11T07:54:23.408Z",
+      "score": 1,
+      "text": "BEZPEČNOSTNÍ RIZIKO! Pozor i při zamítnutí cookies třetím stranám tajně předává informace na pozadí společnostem jako Adform, Urban Airship, Adobe a Google! Tyto společnosti střádají vaše data a prodávají je dál. Pokud je to možné, tak se aplikaci vyhněte. K Vodafone se přihlásíte i přes webové rozhraní.",
+      "text_normalized": "bezpecnostni riziko! pozor i pri zamitnuti cookies tretim stranam tajne predava informace na pozadi spolecnostem jako adform, urban airship, adobe a google! tyto spolecnosti stradaji vase data a prodavaji je dal. pokud je to mozne, tak se aplikaci vyhnete. k vodafone se prihlasite i pres webove rozhrani.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-11T08:25:56.222Z",
+      "replyText": "Hezký den, Lukáši, při zamítnutí používáme jen nezbytné cookies. Naše aplikace funguje obdobně jako většina dalších, není potřeba se bát, podrobnosti najdete v podmínkách na https://www.vodafone.cz/podminky/vseobecne-podminky/muj-vodafone-plus/. Ondra",
+      "version": "3.6.3"
+    },
+    {
+      "id": "a938332d-040b-45d7-abf3-d4250fd9e3a7",
+      "userName": "Bohumil Bubník",
+      "date": "2026-02-11T07:53:18.349Z",
+      "score": 1,
+      "text": "Proč vyskakují upozornění jako \"Test - testing pn\" ? Nehledě na to, že nově se do aplikace ani nedá přihlásit, po stisknutí přihlášení se jen vrátí na úvodní stránku. Vnutili jste silou lidem aplikaci, která není odladěná, obsahuje mnoho chyb a některé zásadní funkce, raději neobsahuje vůbec, třeba platbu vyúčtování v aplikaci.",
+      "text_normalized": "proc vyskakuji upozorneni jako \"test - testing pn\" ? nehlede na to, ze nove se do aplikace ani neda prihlasit, po stisknuti prihlaseni se jen vrati na uvodni stranku. vnutili jste silou lidem aplikaci, ktera neni odladena, obsahuje mnoho chyb a nektere zasadni funkce, radeji neobsahuje vubec, treba platbu vyuctovani v aplikaci.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:15:27.566Z",
+      "replyText": "Pěkný den, Bohumile,\nomlouvám se vám za nepříjemnosti 🙁 Aktuálně se potýkáme s výpadkem aplikace a na jeho opravě už usilovně pracujeme. Prosím vás o strpení. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "735a826a-fbb8-40b4-9860-3216f05cb855",
+      "userName": "Miloš Demel",
+      "date": "2026-02-11T07:51:53.992Z",
+      "score": 1,
+      "text": "nejde se přihlásit.",
+      "text_normalized": "nejde se prihlasit.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:16:49.945Z",
+      "replyText": "Pěkný den, Miloši,\nomlouvám se vám za komplikace 🙁 Aktuálně se potýkáme s výpadkem aplikace a na jeho opravě už pracujeme. Prosím vás o strpení. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "ee22a210-4dab-4453-a69c-047c3aed2dca",
+      "userName": "Ondrej Petrnousek",
+      "date": "2026-02-11T07:51:26.320Z",
+      "score": 1,
+      "text": "Věčně nefunguje přihlášení, pořád to chce změnu hesla, už ani nevím jaký si mám dát heslo když to chce pokaždý jiný a ještě 10 speciálních znaků. YX zákazníků a aplikace úplně k ničemu, hlavně zdražit tarif a jede se vesele dál,..",
+      "text_normalized": "vecne nefunguje prihlaseni, porad to chce zmenu hesla, uz ani nevim jaky si mam dat heslo kdyz to chce pokazdy jiny a jeste 10 specialnich znaku. yx zakazniku a aplikace uplne k nicemu, hlavne zdrazit tarif a jede se vesele dal,..",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T08:17:55.395Z",
+      "replyText": "Pěkný den, Ondřeji,\nto by se dít nemělo 🙁 Aktuálně se ale potýkáme s výpadkem aplikace a pracujeme na jeho opravě. Pokud budou potíže přetrvávat po opravě, napište nám prosím detaily přes https://tam.je/dotaz, abychom to mohli řešit konkrétněji. Lucie\n",
+      "version": "3.6.3"
+    },
+    {
+      "id": "2e20fb03-1b0a-4b77-9832-23a2c93e4335",
+      "userName": "Martin Drozen",
+      "date": "2026-02-11T07:49:46.338Z",
+      "score": 1,
+      "text": "Další tragédie která nefunguje.Půl hodiny koukám na animaci kapky.Nic.Je čas změnit operátora.",
+      "text_normalized": "dalsi tragedie ktera nefunguje.pul hodiny koukam na animaci kapky.nic.je cas zmenit operatora.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Zakaznicka_podpora",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T08:18:32.990Z",
+      "replyText": "Pěkný den, Martine,\nomlouvám se vám za nepříjemnosti 🙁 Momentálně se potýkáme s výpadkem aplikace a usilovně pracujeme na jeho opravě. Prosím vás o strpení. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "3613401d-0e1a-4c25-886c-fb9d1a7be0b4",
+      "userName": "Tomáš",
+      "date": "2026-02-11T07:49:32.348Z",
+      "score": 1,
+      "text": "přišlo mi oznámení test1-testing pn. Díky za připomenutí, že si mám vypnout upozornění. dále se mi aplikace jen načítá, ale nenačte se. tudíž apka na 2 věci. původní apka alespoň fungovala.",
+      "text_normalized": "prislo mi oznameni test1-testing pn. diky za pripomenuti, ze si mam vypnout upozorneni. dale se mi aplikace jen nacita, ale nenacte se. tudiz apka na 2 veci. puvodni apka alespon fungovala.",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:20:08.673Z",
+      "replyText": "Pěkný den, Tomáši,\nv tuto chvíli evidujeme plošné potíže s přihlášením do aplikace. Za potíže s tím spojené se vám omlouvám 🙁 Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "5422af18-057f-4c20-9e92-d117482c0854",
+      "userName": "LENKA AUBRECHTOVÁ",
+      "date": "2026-02-11T07:49:12.281Z",
+      "score": 1,
+      "text": "Zas to po aktualizaci nefunguje, nejde se přihlásit. Co můžete, to pokazíte.",
+      "text_normalized": "zas to po aktualizaci nefunguje, nejde se prihlasit. co muzete, to pokazite.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-11T08:23:07.377Z",
+      "replyText": "Pěkný den, Lenko,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace a již to řešíme. Omlouvám se vám za komplikace s tím spojené 🙁 Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "0201e740-f3ed-421e-9f8a-6e9a05d5c054",
+      "userName": "Vyliž Siřiť",
+      "date": "2026-02-11T07:47:47.245Z",
+      "score": 1,
+      "text": "po poslední aktualizaci se nejde přihlásit",
+      "text_normalized": "po posledni aktualizaci se nejde prihlasit",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:26:06.537Z",
+      "replyText": "Pěkný den,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace, za komplikace se vám velmi omlouvám 😕 Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "e0ccc576-c855-4acc-96af-83c83add7026",
+      "userName": "Pavel Manák",
+      "date": "2026-02-11T07:45:27.710Z",
+      "score": 1,
+      "text": "Tak mi tato nová aplikace přestala fungovat. Před chvílí přišla nějaká notifikace s názvem \"Test\". Aplikaci sice spustím, ale nepřihlásím se. Vidím jen logo a kolem něj se točí čárky.",
+      "text_normalized": "tak mi tato nova aplikace prestala fungovat. pred chvili prisla nejaka notifikace s nazvem \"test\". aplikaci sice spustim, ale neprihlasim se. vidim jen logo a kolem nej se toci carky.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-11T08:25:11.192Z",
+      "replyText": "Pěkný den, Pavle,\nomlouvám se vám za nepříjemnosti 🙁 Momentálně se potýkáme s výpadkem a na jeho opravě už usilovně pracujeme. Lucie",
+      "version": "3.6.3"
+    },
     {
       "id": "ce227461-3411-4d6b-b365-cadebac70ace",
       "userName": "R B",
@@ -25643,8 +26698,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1772,
-    "extractedAt": "2026-02-12T07:57:54.792Z",
+    "totalReviewsExtracted": 1840,
+    "extractedAt": "2026-02-13T07:55:58.537Z",
     "source": "google-play"
   }
 }
