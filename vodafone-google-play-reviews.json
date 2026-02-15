@@ -1,18 +1,153 @@
 {
   "ratings": {
-    "score": 1.7991632,
-    "scoreText": "1,8",
-    "totalRatings": 2497,
-    "totalReviews": 1271,
+    "score": 1.8991597,
+    "scoreText": "1,9",
+    "totalRatings": 2523,
+    "totalReviews": 1277,
     "histogram": {
-      "1": 1744,
-      "2": 207,
-      "3": 135,
-      "4": 114,
-      "5": 291
+      "1": 1695,
+      "2": 201,
+      "3": 148,
+      "4": 136,
+      "5": 338
     }
   },
   "reviews": [
+    {
+      "id": "afb77b83-7e53-4d38-8e95-db3320e97807",
+      "userName": "Zdeněk",
+      "date": "2026-02-14T01:08:29.746Z",
+      "score": 1,
+      "text": "Z nějakého důvodu se nelze přihlásit. Takže jako vždy když něco vylepšujete, tak je to vždy jen a jen horší. Hlavně že si každý druhý rok nezapomenete zvednout ceny. Čím déle jsme u vás tím víc platíme. Momentálně dokonce víc než novej zákazník. To máme asi za odměnu. V žádném případě nehodlám dávat nějaký souhlas ke sledování a dalším reklamám a už vůbec třetím stranám, si myslím že už vyděláváte dost i bez toho. Reinstalace opravdu nepomůže. až budete chtít peníze tak vám tak napíšu jeda.",
+      "text_normalized": "z nejakeho duvodu se nelze prihlasit. takze jako vzdy kdyz neco vylepsujete, tak je to vzdy jen a jen horsi. hlavne ze si kazdy druhy rok nezapomenete zvednout ceny. cim dele jsme u vas tim vic platime. momentalne dokonce vic nez novej zakaznik. to mame asi za odmenu. v zadnem pripade nehodlam davat nejaky souhlas ke sledovani a dalsim reklamam a uz vubec tretim stranam, si myslim ze uz vydelavate dost i bez toho. reinstalace opravdu nepomuze. az budete chtit penize tak vam tak napisu jeda.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-14T07:07:53.729Z",
+      "replyText": "Pěkný den, Zdeňku,\nje mi líto, že jste nespokojený 🙁 Rádi vám s aplikací, případně i úpravou tarifů pomůžeme, když nám napíšete přes zabezpečený formulář na https://tam.je/dotaz, kde to můžeme řešit konkrétněji. Lucie",
+      "version": "3.7.0"
+    },
+    {
+      "id": "01c38c3f-577a-4995-b288-0a022f6c858b",
+      "userName": "Kristyna Fauová",
+      "date": "2026-02-13T19:29:11.427Z",
+      "score": 1,
+      "text": "hrozny milionkrát se přihlašovat. víc kódu jak do banky. ještě se to ani nenacita. horší aplikaci jsem neviděla fakt",
+      "text_normalized": "hrozny milionkrat se prihlasovat. vic kodu jak do banky. jeste se to ani nenacita. horsi aplikaci jsem nevidela fakt",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-14T07:06:48.859Z",
+      "replyText": "Pěkný den, Kristýno,\nje mi líto, že se vám aplikace nelíbí 🙁 Pokud máte s načítáním aplikace potíže, rádi to prověříme konkrétněji, když nám napíšete podrobnosti přes zabezpečený formulář na https://tam.je/dotaz. Lucie\n",
+      "version": "3.7.0"
+    },
+    {
+      "id": "b3b82b2f-31c3-4392-9c50-8901ecfd210c",
+      "userName": "Jiři Kos",
+      "date": "2026-02-13T16:46:07.476Z",
+      "score": 1,
+      "text": "Aplikace pomalá pořád načítá,nejde se přihlásit prostě k ničemu. Raději se přihlašuji na webu. Začínám přemýšlet o jiném operátorovi.",
+      "text_normalized": "aplikace pomala porad nacita,nejde se prihlasit proste k nicemu. radeji se prihlasuji na webu. zacinam premyslet o jinem operatorovi.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-13T17:18:00.953Z",
+      "replyText": "Hezký den, Jiří, je mi líto, že máte potíže s aplikací 🙁 Zkuste ji prosím přeinstalovat, a pokud by to nepomohlo, napište nám prosím podrobnosti přes zabezpečený formulář https://tam.je/dotaz. Pomůžeme vám. Petra\n",
+      "version": "3.1.0"
+    },
+    {
+      "id": "9ea17248-c4ec-4e95-ba34-c76b49d166d9",
+      "userName": "Petr Krejčíř",
+      "date": "2026-02-13T15:31:50.998Z",
+      "score": 1,
+      "text": "nefunguje eshop a další prokliky na interní stránky",
+      "text_normalized": "nefunguje eshop a dalsi prokliky na interni stranky",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-13T15:49:09.992Z",
+      "replyText": "Hezký den, Petře, je mi líto, že máte potíže s aplikací 🙁 Napište nám prosím více podrobností přes zabezpečený formulář https://tam.je/dotaz. Prověříme to. Petra\n",
+      "version": "3.7.0"
+    },
+    {
+      "id": "5af39f4b-6c13-4eba-9597-5c2477823233",
+      "userName": "Bohumil Drazny",
+      "date": "2026-02-13T11:10:59.801Z",
+      "score": 5,
+      "text": "Skvělá aplikace 👍",
+      "text_normalized": "skvela aplikace 👍",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-13T11:41:27.970Z",
+      "replyText": "Hezký den, Bohumile, děkujeme za hodnocení 🙂 Těší mě, že vám aplikace líbí 🙂 Petra",
+      "version": "3.7.0"
+    },
+    {
+      "id": "6fa8b319-799e-4c7e-b8ac-1e868080a6dc",
+      "userName": "Ricardo Janczik",
+      "date": "2026-02-13T10:36:25.651Z",
+      "score": 2,
+      "text": "Mobilní aplikace Vodafone+ se neustále odhlašuje (minulá app. taky). Vždy se přihlásím asi tak 3x v pořádku a po 4. už mě neznaj. Já přes aplikaci platím vyúčtování a přes to musím znovu jak k.nda zadávat E Mail a heslo. Asi nechtějí peníze nebo co. Nechápu. Při tom služby jsou v rámci ceny za tarif velmi dobré. Jen aplikace na nic.",
+      "text_normalized": "mobilni aplikace vodafone+ se neustale odhlasuje (minula app. taky). vzdy se prihlasim asi tak 3x v poradku a po 4. uz me neznaj. ja pres aplikaci platim vyuctovani a pres to musim znovu jak k.nda zadavat e mail a heslo. asi nechteji penize nebo co. nechapu. pri tom sluzby jsou v ramci ceny za tarif velmi dobre. jen aplikace na nic.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-13T12:07:28.118Z",
+      "replyText": "Hezký den, Ricardo,\nv průběhu týdne jsme vydali novou aktualizaci, zkuste aplikaci ručně aktualizovat, anebo ji odinstalujte a znovu nainstalujte, přidali jsme i možnost platby přes QR kód. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "214004e3-eb55-4581-adbb-9a8915b358b3",
+      "userName": "maxicek777",
+      "date": "2026-02-13T09:20:19.226Z",
+      "score": 1,
+      "text": "nefungující, matoucí a prostě ošklivý",
+      "text_normalized": "nefungujici, matouci a proste osklivy",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-13T12:08:20.920Z",
+      "replyText": "Dobrý den,\nv průběhu týdne jsme vydali novou aktualizaci, zkuste aplikaci ručně aktualizovat, anebo ji odinstalujte a znovu nainstalujte. Přidali jsme i možnost platby přes QR kód. Veronika",
+      "version": "3.6.2"
+    },
+    {
+      "id": "758a7328-6f2d-4e82-b66d-cf009b1c0160",
+      "userName": "Štěpán ŠTEFL",
+      "date": "2026-02-13T09:02:50.174Z",
+      "score": 4,
+      "text": "Vodafone dobíjecí SIM karta vyžaduje dobíjení minimálně za 300 Kč a 1Mb dat na měsíc se účtuje 100 Kč, což se zdá výhodnější čerpat data od T-Mobile, který má na předplatné SIM kartě zase dražší volání, než například Oskarta za 2.50 Kč za minutu.",
+      "text_normalized": "vodafone dobijeci sim karta vyzaduje dobijeni minimalne za 300 kc a 1mb dat na mesic se uctuje 100 kc, coz se zda vyhodnejsi cerpat data od t-mobile, ktery ma na predplatne sim karte zase drazsi volani, nez napriklad oskarta za 2.50 kc za minutu.",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Cena"
+      ],
+      "replyDate": "2026-02-13T09:14:13.167Z",
+      "replyText": "Dobrý den, Štěpáne,\nděkujeme za zpětnou vazbu. Připojení na měsíc má 1 GB dat za 99 Kč. Doporučuji případně naše Balíčky ke kartě, které si můžete aktivovat ke standardní předplacení kartě: https://www.vodafone.cz/pece/tarify-sluzby/predplacene-karty/balicky-ke-karte/. Na výběr máte 10 balíčků 🙂 Viki",
+      "version": "3.7.0"
+    },
+    {
+      "id": "93bd44c2-5462-49c7-98fb-95fec17f6fb6",
+      "userName": "Vladimír Reiner",
+      "date": "2026-02-13T08:18:50.767Z",
+      "score": 1,
+      "text": "Nemá cenu psát nějakou recenzi. Je to stále na nic. Zlatá předchozí aplikace.",
+      "text_normalized": "nema cenu psat nejakou recenzi. je to stale na nic. zlata predchozi aplikace.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-13T08:59:11.610Z",
+      "replyText": "Hezký den, Vladimíre,\nje mi líto, že jste nespokojený 🙁 Na aplikaci stále pracujeme a vylepšujeme ji, věřím, že se vám do budoucna bude líbit více. Zuzana",
+      "version": "3.7.0"
+    },
     {
       "id": "6a7fbd90-4317-49b2-8e82-5e86931ce628",
       "userName": "Tom So_j",
@@ -26993,8 +27128,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1860,
-    "extractedAt": "2026-02-14T05:49:48.640Z",
+    "totalReviewsExtracted": 1869,
+    "extractedAt": "2026-02-15T05:59:00.273Z",
     "source": "google-play"
   }
 }
