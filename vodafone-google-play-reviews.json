@@ -1,18 +1,61 @@
 {
   "ratings": {
-    "score": 1.8991597,
+    "score": 1.9173913,
     "scoreText": "1,9",
-    "totalRatings": 2523,
-    "totalReviews": 1277,
+    "totalRatings": 2533,
+    "totalReviews": 1280,
     "histogram": {
-      "1": 1695,
-      "2": 201,
-      "3": 148,
-      "4": 136,
-      "5": 338
+      "1": 1706,
+      "2": 186,
+      "3": 142,
+      "4": 132,
+      "5": 362
     }
   },
   "reviews": [
+    {
+      "id": "598eed75-6582-490b-a8c9-26e8bfd6fcbf",
+      "userName": "Sekání zahrad Údržba pozemků",
+      "date": "2026-02-14T16:50:09.373Z",
+      "score": 1,
+      "text": "Trapna aplikace, nic to neumi. Vodafone je dalsi traparna. Pri preneseni soucasneho cisla na Oskartu chteji cislo obcanky, adresu, rodne cislo, jmeno a prijmeni a jeste me nuti tarif. Hnus velebnosti.",
+      "text_normalized": "trapna aplikace, nic to neumi. vodafone je dalsi traparna. pri preneseni soucasneho cisla na oskartu chteji cislo obcanky, adresu, rodne cislo, jmeno a prijmeni a jeste me nuti tarif. hnus velebnosti.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-15T07:18:55.345Z",
+      "replyText": "Pěkný den,\nje mi líto, pokud nejste spokojený 🙁 Abychom vám mohli SIM kartu doručit, je potřeba kontaktní údaje vyplnit. Lucie",
+      "version": null
+    },
+    {
+      "id": "b0a6802e-1333-4f6d-b47e-c15c45fc233c",
+      "userName": "Veronika Malá",
+      "date": "2026-02-14T09:13:34.285Z",
+      "score": 1,
+      "text": "bylo špatně, stalo ještě horší",
+      "text_normalized": "bylo spatne, stalo jeste horsi",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-14T09:14:53.459Z",
+      "replyText": "Pěkný den, Veroniko,\nje mi líto, pokud nejste spokojená 🙁 Pokud budete mít konkrétnější zpětnou vazbu ke zlepšení, budeme za ni rádi. Lucie.",
+      "version": "3.6.0"
+    },
+    {
+      "id": "0050c2ba-6d6c-4c29-874a-a707045d2602",
+      "userName": "Pavel Elicer",
+      "date": "2026-02-14T08:31:21.648Z",
+      "score": 1,
+      "text": "Nelze se přihlásit",
+      "text_normalized": "nelze se prihlasit",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-14T08:45:48.848Z",
+      "replyText": "Pěkný den, Pavle,\nje mi líto, pokud máte potíže s přihlášením 🙁 Zkuste prosím aplikaci přeinstalovat. Pokud budou potíže přetrvávat, napište nám prosím podrobnosti na e-mail aplikace@vodafone.cz, abychom se na to mohli podívat konkrétněji. Lucie\n",
+      "version": "3.7.0"
+    },
     {
       "id": "afb77b83-7e53-4d38-8e95-db3320e97807",
       "userName": "Zdeněk",
@@ -27128,8 +27171,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1869,
-    "extractedAt": "2026-02-15T05:59:00.273Z",
+    "totalReviewsExtracted": 1872,
+    "extractedAt": "2026-02-16T06:07:57.665Z",
     "source": "google-play"
   }
 }
