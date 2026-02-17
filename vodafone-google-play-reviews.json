@@ -1,18 +1,62 @@
 {
   "ratings": {
-    "score": 1.9173913,
-    "scoreText": "1,9",
-    "totalRatings": 2533,
-    "totalReviews": 1280,
+    "score": 2.054622,
+    "scoreText": "2,1",
+    "totalRatings": 2549,
+    "totalReviews": 1286,
     "histogram": {
-      "1": 1706,
-      "2": 186,
-      "3": 142,
-      "4": 132,
-      "5": 362
+      "1": 1627,
+      "2": 191,
+      "3": 138,
+      "4": 138,
+      "5": 449
     }
   },
   "reviews": [
+    {
+      "id": "f63ede3d-5cfa-4e1b-bafb-69583cabec7f",
+      "userName": "H D",
+      "date": "2026-02-16T05:56:29.559Z",
+      "score": 1,
+      "text": "aplikace je nefunkční",
+      "text_normalized": "aplikace je nefunkcni",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-16T06:22:36.407Z",
+      "replyText": "Dobrý den,\nzavolejte nám prosím na 800 77 00 77, rádi se s vámi podíváme na to, co konkrétně vám v aplikaci nefunguje. Martina",
+      "version": "3.7.0"
+    },
+    {
+      "id": "eeb479be-ad4a-4514-b34d-a4c458884882",
+      "userName": "Jan Crhán",
+      "date": "2026-02-15T08:29:00.160Z",
+      "score": 2,
+      "text": "V nové aplikaci nejsou widgety s čerpáním volných jednotek.",
+      "text_normalized": "v nove aplikaci nejsou widgety s cerpanim volnych jednotek.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-15T08:48:19.792Z",
+      "replyText": "Pěkný den, Jane,\nv nových verzích aplikace už widgety nepodporujeme. Většina našich zákazníků má dnes tarify s neomezenými službami, u nich widgety ztrácejí smysl. Mrzí nás, pokud vám budou widgety chybět, přehled o své útratě však nadále v aplikaci uvidíte, tak věříme, že pro vás i tak bude užitečná. Lucie",
+      "version": "3.7.0"
+    },
+    {
+      "id": "3a7397fd-814f-4988-bbf4-841a4b8827bc",
+      "userName": "Stanislav Brejak",
+      "date": "2026-02-15T08:07:09.272Z",
+      "score": 5,
+      "text": "Po posledních potížích s přihlášením již vše v pořádku opraveno. Do aplikace po posledním upgrade byla přidána možnost QR platby a taky různé další možnosti uživatelského rozhraní proto dávám 5☆.",
+      "text_normalized": "po poslednich potizich s prihlasenim jiz vse v poradku opraveno. do aplikace po poslednim upgrade byla pridana moznost qr platby a taky ruzne dalsi moznosti uzivatelskeho rozhrani proto davam 5☆.",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-15T08:18:13.820Z",
+      "replyText": "Pěkný den, Stanislave,\nděkujeme vám za hodnocení. Jsem ráda, že vás aktualizace aplikace potěšila 🙂 Lucie",
+      "version": "3.7.0"
+    },
     {
       "id": "598eed75-6582-490b-a8c9-26e8bfd6fcbf",
       "userName": "Sekání zahrad Údržba pozemků",
@@ -27171,8 +27215,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1872,
-    "extractedAt": "2026-02-16T06:07:57.665Z",
+    "totalReviewsExtracted": 1875,
+    "extractedAt": "2026-02-17T06:00:33.033Z",
     "source": "google-play"
   }
 }
