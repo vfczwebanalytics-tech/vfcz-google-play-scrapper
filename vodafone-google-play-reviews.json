@@ -1,18 +1,111 @@
 {
   "ratings": {
-    "score": 2.054622,
-    "scoreText": "2,1",
-    "totalRatings": 2549,
-    "totalReviews": 1286,
+    "score": 2.2008734,
+    "scoreText": "2,2",
+    "totalRatings": 2569,
+    "totalReviews": 1297,
     "histogram": {
-      "1": 1627,
-      "2": 191,
-      "3": 138,
-      "4": 138,
-      "5": 449
+      "1": 1581,
+      "2": 168,
+      "3": 111,
+      "4": 134,
+      "5": 571
     }
   },
   "reviews": [
+    {
+      "id": "8c5c77e8-5760-40f4-9ff3-3cb3c853f1b1",
+      "userName": "Helen Lama",
+      "date": "2026-02-16T17:54:33.213Z",
+      "score": 1,
+      "text": "Co kdyby konečně, jako ostatní operátoři, umožnili platit také přes gpay...? Appka k ničemu, pokaždé když se chci podívat, tak jsem odhlášena a můžu tisíckrát zadávat aby mě neodhlasovala a požadavek na biometriku. Fakt odpad!!! Vyvojáři by měli chodit kanalama a stydět se z takovou práci.",
+      "text_normalized": "co kdyby konecne, jako ostatni operatori, umoznili platit take pres gpay...? appka k nicemu, pokazde kdyz se chci podivat, tak jsem odhlasena a muzu tisickrat zadavat aby me neodhlasovala a pozadavek na biometriku. fakt odpad!!! vyvojari by meli chodit kanalama a stydet se z takovou praci.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-02-16T19:06:47.370Z",
+      "replyText": "Dobrý den, Helen,\nděkujeme vám za zpětnou vazbu. Pokud jde o Google pay, právě probíhá testování a pracujeme na tom, aby tato platební metoda byla v některé z dalších aktualizací aplikace dostupná. Pokud vám \"nedrží\" přihlášení biometrikou, prosím, napište nám na aplikace@vodafone.cz a my všechno zkontrolujeme. Katka",
+      "version": "3.7.0"
+    },
+    {
+      "id": "85ae3a8c-0021-44ab-8c4c-0be890703735",
+      "userName": "Ondřej Hladík",
+      "date": "2026-02-16T13:43:22.641Z",
+      "score": 1,
+      "text": "google pay stale neni.. tragedie",
+      "text_normalized": "google pay stale neni.. tragedie",
+      "segments": [
+        "Vykonnost",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-16T13:58:40.919Z",
+      "replyText": "Dobrý den, Ondřeji,\nděkuji vám za podnět. Pro využití této funkce nyní probíhá testování. Pracujeme na tom, aby tato platební metoda byla v některé z dalších aktualizací aplikace dostupná :-) O všem budeme zákazníky informovat, prosím vás o trpělivost. Katka\n",
+      "version": "3.7.1"
+    },
+    {
+      "id": "cf2ef5ec-84ea-498e-a182-eb0affdf247b",
+      "userName": "Dawid Jarolím",
+      "date": "2026-02-16T13:14:16.765Z",
+      "score": 1,
+      "text": "Asi jsou ucpané internetové kabely, marné snažení o přihlášení dne 16. 2. 2026 14:12 hod. Je to bída s nouzí, člověk platí a včas přitom jsou stále nějaké výpadky, proč nedají nějakou kompenzaci za nedostupnost?",
+      "text_normalized": "asi jsou ucpane internetove kabely, marne snazeni o prihlaseni dne 16. 2. 2026 14:12 hod. je to bida s nouzi, clovek plati a vcas pritom jsou stale nejake vypadky, proc nedaji nejakou kompenzaci za nedostupnost?",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-16T13:30:24.795Z",
+      "replyText": "Dobrý den, Dawide,\nje mi líto, že máte potíže s aplikaci 🙁 V tuto chvíli tady ale nemám hlášený žádný výpadek. Zkuste tedy prosím restartovat váš mobilní telefon, případně aplikaci odinstalovat a znovu stáhnout. Mohlo by to pomoci. Katka",
+      "version": "3.7.1"
+    },
+    {
+      "id": "7995dc5d-d543-429f-acdd-6703ab4b7743",
+      "userName": "Igor Bočkov",
+      "date": "2026-02-16T12:59:25.260Z",
+      "score": 1,
+      "text": "Za mě je to nepoužitelná aplikace. Vůbec nezobrazuje to, co potřebuji. Dřív jsem mohl vidět průběžnou útratu u každého telefonního čísla, teď to už nejde. Stejně tak aplikace ukazuje nesmyslné útraty za služby, kde vůbec nejsou započítané slevy. A nakonec mi ještě přijde faktura bez slev. Za mě jde kvalita služeb Vodafonu čím dál tím víc dolů.",
+      "text_normalized": "za me je to nepouzitelna aplikace. vubec nezobrazuje to, co potrebuji. driv jsem mohl videt prubeznou utratu u kazdeho telefonniho cisla, ted to uz nejde. stejne tak aplikace ukazuje nesmyslne utraty za sluzby, kde vubec nejsou zapocitane slevy. a nakonec mi jeste prijde faktura bez slev. za me jde kvalita sluzeb vodafonu cim dal tim vic dolu.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-16T13:36:12.909Z",
+      "replyText": "Hezký den, Igore,\nmrzí mě, že nejste s aplikací spokojený :( Víme, že se některé údaje nezobrazují správně a naši technici pracují na nápravě, protože chceme, aby naši zákazníci měli možnost si služby kontrolovat. Omlouvám se za potíže a prosím vás o trpělivost. Katka",
+      "version": "3.7.0"
+    },
+    {
+      "id": "7df52038-ea28-41fb-894c-733426e3d430",
+      "userName": "Ivana Lévaiová",
+      "date": "2026-02-16T09:59:06.542Z",
+      "score": 1,
+      "text": "Proč se mi neukazuje QR kód na zaplacení jako u staré aplikace?",
+      "text_normalized": "proc se mi neukazuje qr kod na zaplaceni jako u stare aplikace?",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-02-16T10:28:07.270Z",
+      "replyText": "Pěkný den, Ivano,\naplikaci prosím odinstalujte a znovu nainstalujte, abyste měla v telefonu aktuální verzi. Po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Pokud máte zúčtovací období k 16. dni v měsíci, tak je možné, že se teprve vaše Vyúčtování připravuje. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "28c1ccd8-a2bf-4f6d-862a-c8fe7bd4814e",
+      "userName": "Tom",
+      "date": "2026-02-16T06:40:27.371Z",
+      "score": 1,
+      "text": "klasicka bida od Vodafone... neustále automaticky ohlašuje, je zpomalená. Ale hlavně, ze se xkrat zeptá na sběr dat pro 3. strany..to funguje výborně. Mimochodem vidim, ze stále není možné ve vaší síti mit tel hovor a zároveň byt online na vašich datech...mam dost... Edit: bavim se o přihlašování mailem, heslem a SMS kódem..toto mi biometrika nezajist( ta prece jen \"zamyka aplikaci\"). Jak psal jeden člověk v recenzí. Je to stejne jako si dát zkratku webu na plochu",
+      "text_normalized": "klasicka bida od vodafone... neustale automaticky ohlasuje, je zpomalena. ale hlavne, ze se xkrat zepta na sber dat pro 3. strany..to funguje vyborne. mimochodem vidim, ze stale neni mozne ve vasi siti mit tel hovor a zaroven byt online na vasich datech...mam dost... edit: bavim se o prihlasovani mailem, heslem a sms kodem..toto mi biometrika nezajist( ta prece jen \"zamyka aplikaci\"). jak psal jeden clovek v recenzi. je to stejne jako si dat zkratku webu na plochu",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-16T06:06:39.308Z",
+      "replyText": "Pěkný den, Tome,\npravděpodobně jste řešil odhlašování, to je možné po aktualizaci, jinak si můžete nastavit biometriku, tak funguje v pořádku. Můžete si nastavit VolTE, případně Wi-Fi volání, vždy však záleží na tom, jakým způsobem hovor proběhne. Veronika",
+      "version": "3.7.0"
+    },
     {
       "id": "f63ede3d-5cfa-4e1b-bafb-69583cabec7f",
       "userName": "H D",
@@ -27215,8 +27308,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1875,
-    "extractedAt": "2026-02-17T06:00:33.033Z",
+    "totalReviewsExtracted": 1881,
+    "extractedAt": "2026-02-18T06:04:11.788Z",
     "source": "google-play"
   }
 }
