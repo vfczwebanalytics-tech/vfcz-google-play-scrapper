@@ -1,18 +1,189 @@
 {
   "ratings": {
-    "score": 2.2008734,
-    "scoreText": "2,2",
-    "totalRatings": 2569,
-    "totalReviews": 1297,
+    "score": 2.3476396,
+    "scoreText": "2,3",
+    "totalRatings": 2598,
+    "totalReviews": 1305,
     "histogram": {
-      "1": 1581,
-      "2": 168,
-      "3": 111,
-      "4": 134,
-      "5": 571
+      "1": 1526,
+      "2": 110,
+      "3": 133,
+      "4": 178,
+      "5": 646
     }
   },
   "reviews": [
+    {
+      "id": "e53a8f6a-530b-4a11-82f9-cb16da3a6906",
+      "userName": "Laurin Klement",
+      "date": "2026-02-18T02:19:34.104Z",
+      "score": 1,
+      "text": "nefunguje. kdyz se chci přihlásit. bílá obrazovka.",
+      "text_normalized": "nefunguje. kdyz se chci prihlasit. bila obrazovka.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-18T06:18:08.930Z",
+      "replyText": "Hezký den,\nmrzí mě, že jste zaznamenal takové potíže při přihlášení. Zkuste prosím přeinstalaci nebo stáhnout nejnovější aktualizaci, to by mělo pomoci. Viki",
+      "version": "3.7.1"
+    },
+    {
+      "id": "67cfaddc-f87f-4729-8acf-a45ca5da718b",
+      "userName": "Jindra Sedlák",
+      "date": "2026-02-18T02:05:05.535Z",
+      "score": 1,
+      "text": "odhlásili mě a nemůžu se přihlásit to je paráda 😂😂🤦",
+      "text_normalized": "odhlasili me a nemuzu se prihlasit to je parada 😂😂🤦",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-18T06:20:35.758Z",
+      "replyText": "Pěkný den, Jindro,\nmrzí mě tato situace. Přihlášení je stejné (e-mailem + alfanumerickým heslem + jednorázový kód z SMS). Zkuste případně aplikaci přeinstalovat a přihlásit se ještě jednou. V případě aktivní VPN je potřeba ji vypnout. Viki",
+      "version": "3.7.1"
+    },
+    {
+      "id": "bf6c9d17-e843-465b-a8fa-8c68d1c19b4f",
+      "userName": "Adam Bastyr",
+      "date": "2026-02-17T22:20:03.877Z",
+      "score": 1,
+      "text": "vůbec nefunguje a je to stejné jako se připojit na web. zcela zbytečná aplikace",
+      "text_normalized": "vubec nefunguje a je to stejne jako se pripojit na web. zcela zbytecna aplikace",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-18T06:16:35.986Z",
+      "replyText": "Dobrý den, Adame,\nmrzí mě, pokud máte s aplikací špatnou zkušenost. V případě potíží ji prosím zkuste přeinstalovat nebo stáhnout nejnovější verzi. Budeme ji i nadále vylepšovat a další funkce přidáme postupně v následujících aktualizacích. Viki",
+      "version": null
+    },
+    {
+      "id": "590addda-ea72-4d67-be04-eec906c68225",
+      "userName": "Alzbeta Zelo",
+      "date": "2026-02-17T19:54:43.490Z",
+      "score": 1,
+      "text": "Strašné!!!!!!!!! Jakmile spustím aplikaci, sekne se, sotva se načte!!! Absolutně k ničemu. Nefunkční!!!",
+      "text_normalized": "strasne!!!!!!!!! jakmile spustim aplikaci, sekne se, sotva se nacte!!! absolutne k nicemu. nefunkcni!!!",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-18T06:14:57.390Z",
+      "replyText": "Dobrý den, Alzbeto,\nje mi líto, že jste zaznamenala takové potíže s aplikací. Prosím zkuste ji odinstalovat a nainstalovat zpět, případně ověřte, že máte staženou nejnovější aktualizaci. Viki",
+      "version": "3.7.1"
+    },
+    {
+      "id": "aeb88a84-9bcf-4f91-b208-fd956a6a2c71",
+      "userName": "Pucmola",
+      "date": "2026-02-17T19:08:30.950Z",
+      "score": 1,
+      "text": "Tak platby se zvyšují,ale appka absolutni dno,extrémně pomaly,vše se za dlouho (v lepším případě)načte tak,ze i driv mi displey zhasne,jak v r. 2010,kdyz jste zaply net,Lol,ubohý,trapny,zaostaly, strašně super,jak jste museli najebat milion nabídek(abyste vice vydělávali vid..)díky cemuz z appky o to vic nepřehlednou jste udělali,to co tam třeba,tak není,jako napr. Zobrazení kolik % slevy dany zákazník má a nebudu se plést,ze vetsina se nevyzna ve vašich pojmech,a ten vas chatbot total k smichu",
+      "text_normalized": "tak platby se zvysuji,ale appka absolutni dno,extremne pomaly,vse se za dlouho (v lepsim pripade)nacte tak,ze i driv mi displey zhasne,jak v r. 2010,kdyz jste zaply net,lol,ubohy,trapny,zaostaly, strasne super,jak jste museli najebat milion nabidek(abyste vice vydelavali vid..)diky cemuz z appky o to vic neprehlednou jste udelali,to co tam treba,tak neni,jako napr. zobrazeni kolik % slevy dany zakaznik ma a nebudu se plest,ze vetsina se nevyzna ve vasich pojmech,a ten vas chatbot total k smichu",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-18T06:12:31.797Z",
+      "replyText": "Hezký den, Adriane,\nmrzí mě, že nejste s fungováním aplikace spokojený 🙁 Děkuji vám za zpětnou vazbu, protože je pro nás důležitá. Podněty od zákazníků sbíráme a budeme na vývoji a vylepšování aplikace dál pracovat. Katka",
+      "version": "3.7.1"
+    },
+    {
+      "id": "76498927-9ef7-40f7-8113-7d4661483957",
+      "userName": "Eda Procházka",
+      "date": "2026-02-17T18:29:14.585Z",
+      "score": 1,
+      "text": "Dobrý den, poslední dobou, mi nejde načíst aplikace. Je to od předchozí aktualizace a ani tato to nezlepšila. Dostanu se tam jen, když z restartuji telefon, pak se to chytne. Můžete to příště opravit. Děkuji, mám Samsung S24 plus",
+      "text_normalized": "dobry den, posledni dobou, mi nejde nacist aplikace. je to od predchozi aktualizace a ani tato to nezlepsila. dostanu se tam jen, kdyz z restartuji telefon, pak se to chytne. muzete to priste opravit. dekuji, mam samsung s24 plus",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-17T18:58:21.351Z",
+      "replyText": "Dobrý den, Edo,\ntakové potíže plošně neevidujeme, proto bychom to potřebovali prověřit na konkrétním příkladu. Prosím zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi se na to podíváme. Martina\n",
+      "version": "3.7.1"
+    },
+    {
+      "id": "c1f394cf-7f6c-48a6-825f-85a0da067b68",
+      "userName": "tři sítě",
+      "date": "2026-02-17T16:55:41.806Z",
+      "score": 3,
+      "text": "nepřehledné, nelze upravit dle mých preferencí, spotřeba dat je zbytečně zdvojené.",
+      "text_normalized": "neprehledne, nelze upravit dle mych preferenci, spotreba dat je zbytecne zdvojene.",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-17T17:01:25.367Z",
+      "replyText": "Dobrý den,\nděkujeme za vaše připomínky. Aplikaci nadále rozvíjíme a upravujeme, tak snad s ní budete časem spokojenější. Martina",
+      "version": "3.7.1"
+    },
+    {
+      "id": "7f51a910-01b5-4fd2-98d8-779644736473",
+      "userName": "Michaela Knoppová",
+      "date": "2026-02-17T14:08:18.301Z",
+      "score": 3,
+      "text": "Dlouho jsem se takhle u nové aplikace nevytočila. Když už zákazníky nutíte instalovat novou appku, tak se ujistěte, že všechno funguje. Nejde se přihlásit, po kliknutí na přihlášení se na pozadí akorát seká spinner a nic se neděje. edit: po restartu telefonu se konečně zadařilo.",
+      "text_normalized": "dlouho jsem se takhle u nove aplikace nevytocila. kdyz uz zakazniky nutite instalovat novou appku, tak se ujistete, ze vsechno funguje. nejde se prihlasit, po kliknuti na prihlaseni se na pozadi akorat seka spinner a nic se nedeje. edit: po restartu telefonu se konecne zadarilo.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-17T13:58:08.748Z",
+      "replyText": "Dobrý den, Michaelo,\nmrzí mě, že se vám nedaří přihlásit do aplikace. Prosím zkuste ji odinstalovat a znovu stáhnout, případně také přepnout mezi připojením přes Wi-Fi a přes mobilní data. Kdyby potíže přetrvávaly, zavolejte nám na 800 77 00 77, rádi to prověříme. Martina",
+      "version": "3.7.1"
+    },
+    {
+      "id": "8d10bb25-6170-4365-84e2-c30b2889968c",
+      "userName": "Luboš Kocman",
+      "date": "2026-02-17T10:56:39.371Z",
+      "score": 1,
+      "text": "Vynucená aktualizace z appky při dostupnosti nové verze a následné odhlášení a potom nutné ověření přes sms po každé aktualizaci je tragédie. Appku potřebuji přesně jednou měsíčně a pokaždé si musím projít zmíněným procesem.",
+      "text_normalized": "vynucena aktualizace z appky pri dostupnosti nove verze a nasledne odhlaseni a potom nutne overeni pres sms po kazde aktualizaci je tragedie. appku potrebuji presne jednou mesicne a pokazde si musim projit zminenym procesem.",
+      "segments": [
+        "Vykonnost",
+        "Prihlaseni",
+        "Cena"
+      ],
+      "replyDate": "2026-02-17T11:30:23.886Z",
+      "replyText": "Pěkný den, Luboši,\nděkujeme vám za zpětnou vazbu, i když pro nás není pozitivní. Budeme se snažit, abyste byl do budoucna spokojenější. Lucie",
+      "version": "3.7.1"
+    },
+    {
+      "id": "6b4ccd30-7f52-47e5-ab10-a24ee5d1b961",
+      "userName": "Jan Jankovič",
+      "date": "2026-02-17T10:19:45.879Z",
+      "score": 1,
+      "text": "To je amatérismus jak pjase stou aplikací",
+      "text_normalized": "to je amaterismus jak pjase stou aplikaci",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-17T10:26:24.950Z",
+      "replyText": "Pěkný den, Jane,\nje mi líto, pokud se vám aplikace nelíbí 🙁 Pokud budete mít konkrétní zpětnou vazbu ke zlepšení, budeme za ni rádi. Lucie",
+      "version": "3.7.1"
+    },
+    {
+      "id": "4c86c460-c178-4d5f-9958-1bb739ee191a",
+      "userName": "Vanda Vlcek",
+      "date": "2026-02-17T08:56:38.934Z",
+      "score": 4,
+      "text": "Jsem totální degeš, není normální, abych nebyla schopná zprovoznit telku do mobilu 🤨🥴🤔💩",
+      "text_normalized": "jsem totalni deges, neni normalni, abych nebyla schopna zprovoznit telku do mobilu 🤨🥴🤔💩",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-17T09:27:09.508Z",
+      "replyText": "Pěkný den, Vando,\npokud potřebujete pomoct, rádi se na to s vámi podíváme, když nám zavoláte na 800 77 00 77. Lucie",
+      "version": "3.7.1"
+    },
     {
       "id": "8c5c77e8-5760-40f4-9ff3-3cb3c853f1b1",
       "userName": "Helen Lama",
@@ -27308,8 +27479,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1881,
-    "extractedAt": "2026-02-18T06:04:11.788Z",
+    "totalReviewsExtracted": 1892,
+    "extractedAt": "2026-02-19T06:02:46.318Z",
     "source": "google-play"
   }
 }
