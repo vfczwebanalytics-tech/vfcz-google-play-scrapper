@@ -1,18 +1,118 @@
 {
   "ratings": {
-    "score": 2.3476396,
-    "scoreText": "2,3",
-    "totalRatings": 2598,
-    "totalReviews": 1305,
+    "score": 2.420635,
+    "scoreText": "2,4",
+    "totalRatings": 2616,
+    "totalReviews": 1310,
     "histogram": {
-      "1": 1526,
-      "2": 110,
-      "3": 133,
-      "4": 178,
-      "5": 646
+      "1": 1483,
+      "2": 124,
+      "3": 124,
+      "4": 186,
+      "5": 694
     }
   },
   "reviews": [
+    {
+      "id": "53f43bc9-1f7a-415e-b830-8a5b3fbc6f44",
+      "userName": "Jana Kopecká",
+      "date": "2026-02-19T00:33:01.130Z",
+      "score": 5,
+      "text": "s aplikací Můj Vodafone jsem moc spokojená",
+      "text_normalized": "s aplikaci muj vodafone jsem moc spokojena",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-19T06:08:40.641Z",
+      "replyText": "Pěkný den, Jano,\nto nás moc těší a děkujeme za hodnocení a zpětnou vazbu 🙂 Veronika",
+      "version": "3.7.1"
+    },
+    {
+      "id": "7c2ce7c4-314c-4139-aa69-23b4f3e30bd7",
+      "userName": "Kubajs Poseidon",
+      "date": "2026-02-18T22:26:03.282Z",
+      "score": 1,
+      "text": "pomalu načítá jak poslední umíráček, nelze tam ani najít vyzvednutí dat k balíčku takže mi 5gb každý měsíc asi propadne Některé odkazy pro rozkliknuti ani nespustí takže to bere data aniž by to vydalo službu Tohle je amatérismus a nepatří do roku 2026 Vývojáři k ničemu",
+      "text_normalized": "pomalu nacita jak posledni umiracek, nelze tam ani najit vyzvednuti dat k balicku takze mi 5gb kazdy mesic asi propadne nektere odkazy pro rozkliknuti ani nespusti takze to bere data aniz by to vydalo sluzbu tohle je amaterismus a nepatri do roku 2026 vyvojari k nicemu",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-19T06:08:11.888Z",
+      "replyText": "Pěkný den, Kubajsi,\nurčitě aplikaci odinstalujte, telefon vypněte a zapněte a znovu nainstalujte, pokud s tím budete mít nějaké potíže, pošlete nám prosím k tomu podrobnější informace, případně i screenshoty přes https://tam.je/dotaz. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "42a1bf2e-555e-460b-833d-5f55eb99ef52",
+      "userName": "Bozena Vlnata",
+      "date": "2026-02-18T17:17:52.162Z",
+      "score": 1,
+      "text": "APLIKACE NEFUNKČNÍ, ANI 1 HVĚZDIČKU ZA ME .",
+      "text_normalized": "aplikace nefunkcni, ani 1 hvezdicku za me .",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-18T17:32:23.453Z",
+      "replyText": "Hezký den, Boženo,\nje mi líto, pokud máte s aplikací nějaké potíže 🙁 Zkuste ji prosím přeinstalovat. Pokud to nepomůže, napište nám podrobnosti na e-mail aplikace@vodafone.cz, rádi to budeme řešit konkrétněji. Lucie",
+      "version": null
+    },
+    {
+      "id": "7a38db18-c367-4294-9c26-58da370aafc1",
+      "userName": "Evžen Hodúr",
+      "date": "2026-02-18T16:34:07.998Z",
+      "score": 1,
+      "text": "Absolutně nefunkční aplikace, ještě horší jako ta předchozí, nejde vůbec načíst, nic nezobrazuje.",
+      "text_normalized": "absolutne nefunkcni aplikace, jeste horsi jako ta predchozi, nejde vubec nacist, nic nezobrazuje.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-18T17:01:09.254Z",
+      "replyText": "Pěkný den, Evžene,\nje mi líto, pokud máte s aplikací takové potíže 🙁 Napište nám prosím podrobnosti přes zabezpečený formulář na https://tam.je/dotaz, abychom to mohli řešit konkrétně. Lucie",
+      "version": "3.7.1"
+    },
+    {
+      "id": "0e26139d-6cb2-401f-aebe-b24e49175793",
+      "userName": "Helena Dvořáková",
+      "date": "2026-02-18T15:36:58.839Z",
+      "score": 4,
+      "text": "vadi mi,ze stale zdrazujete,jinak dobry",
+      "text_normalized": "vadi mi,ze stale zdrazujete,jinak dobry",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-18T16:00:28.794Z",
+      "replyText": "Pěkný den, Heleno,\nděkujeme vám za zpětnou vazbu. Rádi se s vámi podíváme na změnu tarifu, když nám zavoláte na *77 🙂 Lucie",
+      "version": "3.6.2"
+    },
+    {
+      "id": "ec281a81-a646-4453-ae55-24bfd04c4ed8",
+      "userName": "Vitaliy Rabtsun",
+      "date": "2026-02-18T14:08:04.730Z",
+      "score": 5,
+      "text": "👍",
+      "text_normalized": "👍",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-18T14:30:49.929Z",
+      "replyText": "Pěkný den, Vitaliy,\nděkujeme za hodnocení 🙂 Lucie",
+      "version": "3.7.1"
+    },
+    {
+      "id": "efcd6650-1b31-4318-a373-920171da2018",
+      "userName": "Robert Kantor",
+      "date": "2026-02-18T09:31:56.555Z",
+      "score": 5,
+      "text": "spokojen",
+      "text_normalized": "spokojen",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-18T10:05:16.853Z",
+      "replyText": "Hezký den, Roberte,\nděkujeme za hodnocení a těší mě, že jste s naší aplikací spokojený 🙂 Katka",
+      "version": "3.7.0"
+    },
     {
       "id": "e53a8f6a-530b-4a11-82f9-cb16da3a6906",
       "userName": "Laurin Klement",
@@ -27479,8 +27579,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1892,
-    "extractedAt": "2026-02-19T06:02:46.318Z",
+    "totalReviewsExtracted": 1899,
+    "extractedAt": "2026-02-20T05:57:55.019Z",
     "source": "google-play"
   }
 }
