@@ -1,18 +1,89 @@
 {
   "ratings": {
-    "score": 2.420635,
-    "scoreText": "2,4",
-    "totalRatings": 2616,
-    "totalReviews": 1310,
+    "score": 2.4827585,
+    "scoreText": "2,5",
+    "totalRatings": 2620,
+    "totalReviews": 1316,
     "histogram": {
-      "1": 1483,
-      "2": 124,
-      "3": 124,
-      "4": 186,
-      "5": 694
+      "1": 1454,
+      "2": 109,
+      "3": 119,
+      "4": 200,
+      "5": 732
     }
   },
   "reviews": [
+    {
+      "id": "2b658a39-a849-49b9-94b3-ccf60669975f",
+      "userName": "Luděk Veselý",
+      "date": "2026-02-19T19:18:11.514Z",
+      "score": 5,
+      "text": "Jste o kus dál a velice se lepšíte jen tak dál. j",
+      "text_normalized": "jste o kus dal a velice se lepsite jen tak dal. j",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-20T06:27:05.266Z",
+      "replyText": "Dobrý den, Luďku,\nděkujeme vám za hodnocení a milou zpětnou vazbu 🙂 Na vylepšování aplikace stále postupně pracujeme. Viki",
+      "version": "3.7.1"
+    },
+    {
+      "id": "9b8ce725-7d86-4baf-ae2c-fe3d6cdf759c",
+      "userName": "Roman Ruta",
+      "date": "2026-02-19T17:02:19.629Z",
+      "score": 5,
+      "text": "1s hvězdičkou",
+      "text_normalized": "1s hvezdickou",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-19T17:05:37.147Z",
+      "replyText": "Hezký den, Romane, děkujeme za hodnocení 🙂 Jsem ráda, že jste s aplikací spokojený 🙂 Petra",
+      "version": "3.7.1"
+    },
+    {
+      "id": "8f7808a5-6b28-4367-9973-026f13c17e27",
+      "userName": "ALOIS MLČOCH",
+      "date": "2026-02-19T15:32:14.140Z",
+      "score": 5,
+      "text": "Jsem zatím spokojen",
+      "text_normalized": "jsem zatim spokojen",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-19T15:37:24.696Z",
+      "replyText": "Hezký den, Aloisi, děkujeme za hodnocení 🙂 Těší mě, že jste s aplikací spokojený 🙂 Petra",
+      "version": "3.7.1"
+    },
+    {
+      "id": "5db085ad-7d57-4e20-9bc7-c386ba013d85",
+      "userName": "Ladislav Louda",
+      "date": "2026-02-19T15:06:16.424Z",
+      "score": 5,
+      "text": "Neznám heslo. Budu muset zajet do Vodafonu.",
+      "text_normalized": "neznam heslo. budu muset zajet do vodafonu.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-19T15:41:43.166Z",
+      "replyText": "Hezký den, Ladislave, děkujeme za hodnocení 🙂 Heslo do samoobsluhy si můžete obnovit na vodafone.cz/muj/prihlaseni/ kliknutím na Zapomenuté heslo a číselné heslo pak najdete v Můj Vodafone v sekci Účet - Heslo pro komunikaci s operátory. Petra",
+      "version": "3.7.1"
+    },
+    {
+      "id": "b1945bb6-866b-46b0-bc98-eba239ebb727",
+      "userName": "Věra Kraitlová",
+      "date": "2026-02-19T09:44:53.608Z",
+      "score": 1,
+      "text": "Aplikace nefunguje, stale se nacita a nic",
+      "text_normalized": "aplikace nefunguje, stale se nacita a nic",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-19T10:04:55.817Z",
+      "replyText": "Dobrý den, Věro,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby vám ani poté aplikace nefungovala, zavolejte nám na 800 77 00 77, rádi to prověříme. Martina",
+      "version": "3.7.1"
+    },
     {
       "id": "53f43bc9-1f7a-415e-b830-8a5b3fbc6f44",
       "userName": "Jana Kopecká",
@@ -27579,8 +27650,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1899,
-    "extractedAt": "2026-02-20T05:57:55.019Z",
+    "totalReviewsExtracted": 1904,
+    "extractedAt": "2026-02-21T05:47:13.417Z",
     "source": "google-play"
   }
 }
