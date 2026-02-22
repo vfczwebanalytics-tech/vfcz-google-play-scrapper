@@ -1,18 +1,76 @@
 {
   "ratings": {
-    "score": 2.4827585,
-    "scoreText": "2,5",
-    "totalRatings": 2620,
-    "totalReviews": 1316,
+    "score": 2.57193,
+    "scoreText": "2,6",
+    "totalRatings": 2641,
+    "totalReviews": 1318,
     "histogram": {
-      "1": 1454,
-      "2": 109,
-      "3": 119,
-      "4": 200,
-      "5": 732
+      "1": 1417,
+      "2": 101,
+      "3": 101,
+      "4": 230,
+      "5": 786
     }
   },
   "reviews": [
+    {
+      "id": "5192b74c-2a2c-476c-86e2-c50c1c0d2ce2",
+      "userName": "michal petrasek",
+      "date": "2026-02-21T00:01:05.160Z",
+      "score": 5,
+      "text": "super není co dodat. povedlo se!",
+      "text_normalized": "super neni co dodat. povedlo se!",
+      "segments": [
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-21T07:20:44.986Z",
+      "replyText": "Hezký den, Michale,\ntěší mě, že jste s aplikací spokojený 🙂 Zuzana",
+      "version": "3.7.0"
+    },
+    {
+      "id": "712e694b-ff0a-41cb-9f90-00f13c8b5294",
+      "userName": "Alexandr Studecky",
+      "date": "2026-02-20T19:24:18.736Z",
+      "score": 1,
+      "text": "ta se vám povedla 😁 načítá, načítá, načítá až sem ji smazal.",
+      "text_normalized": "ta se vam povedla 😁 nacita, nacita, nacita az sem ji smazal.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-21T07:20:22.969Z",
+      "replyText": "Hezký den, Alexandře,\nje mi líto, že jste s aplikací nespokojený 🙁 Zkuste ověřit připojení k internetu a aplikaci stáhnout znovu. Pokud by potíže přetrvávaly, zavolejte nám na linku *77 a kolegové to s vámi prověří. Zuzana",
+      "version": "3.7.1"
+    },
+    {
+      "id": "0ce8dadb-7a37-41d3-b9f7-d7916d4cbe78",
+      "userName": "Jindřška Malá",
+      "date": "2026-02-20T10:10:15.402Z",
+      "score": 1,
+      "text": "To je hrozná aplikace věčně to nejde",
+      "text_normalized": "to je hrozna aplikace vecne to nejde",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-20T10:42:03.308Z",
+      "replyText": "Hezký den, Jindřiško,\nje mi líto, že nejste s aplikací spokojená 🙁 Stále na ni pracujeme a vylepšujeme ji, věřím, že se vám do budoucna bude líbit více. Zuzana",
+      "version": "3.7.1"
+    },
+    {
+      "id": "933a4416-d060-4b4c-8793-a059e01695b1",
+      "userName": "Milan Cermak",
+      "date": "2026-02-20T09:32:29.173Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-20T09:39:08.854Z",
+      "replyText": "Hezký den, Milane, děkujeme za hodnocení 🙂 Jsem ráda, že se vám aplikace líbí. Petra",
+      "version": null
+    },
     {
       "id": "2b658a39-a849-49b9-94b3-ccf60669975f",
       "userName": "Luděk Veselý",
@@ -27650,8 +27708,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1904,
-    "extractedAt": "2026-02-21T05:47:13.417Z",
+    "totalReviewsExtracted": 1908,
+    "extractedAt": "2026-02-22T05:55:24.741Z",
     "source": "google-play"
   }
 }
