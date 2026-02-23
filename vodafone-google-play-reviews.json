@@ -1,18 +1,47 @@
 {
   "ratings": {
-    "score": 2.57193,
+    "score": 2.6135592,
     "scoreText": "2,6",
-    "totalRatings": 2641,
-    "totalReviews": 1318,
+    "totalRatings": 2649,
+    "totalReviews": 1321,
     "histogram": {
-      "1": 1417,
-      "2": 101,
-      "3": 101,
-      "4": 230,
-      "5": 786
+      "1": 1382,
+      "2": 106,
+      "3": 115,
+      "4": 233,
+      "5": 807
     }
   },
   "reviews": [
+    {
+      "id": "a85b7a33-e130-4d51-b75d-e3c4d61eead0",
+      "userName": "Johny",
+      "date": "2026-02-21T17:19:13.136Z",
+      "score": 1,
+      "text": "Kde najdu \"přehled čerpání kreditu\"? Dostanu se tam jedině přes odkaz od TOBiho, ale sám to v app nemůžu najít. Mobilní data mi ukazují 0 MB z 1 GB, nemám aktivovaný (zaplacený) \"Připojení na měsíc\". Proč to ukazuje, jako bych si ho aktivoval? Zbytečně to mate (záměr?). Nikde nevidím datum aktivace karty, ne že by to u vás něco znamenalo (20+ let). Zdlouhavé načítání přetrvává, přitom je to takový holobyt oproti staré aplikaci. Hlavně, že je tam VF Happy, to jsou ty vaše priority.",
+      "text_normalized": "kde najdu \"prehled cerpani kreditu\"? dostanu se tam jedine pres odkaz od tobiho, ale sam to v app nemuzu najit. mobilni data mi ukazuji 0 mb z 1 gb, nemam aktivovany (zaplaceny) \"pripojeni na mesic\". proc to ukazuje, jako bych si ho aktivoval? zbytecne to mate (zamer?). nikde nevidim datum aktivace karty, ne ze by to u vas neco znamenalo (20+ let). zdlouhave nacitani pretrvava, pritom je to takovy holobyt oproti stare aplikaci. hlavne, ze je tam vf happy, to jsou ty vase priority.",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-22T07:19:54.446Z",
+      "replyText": "Hezký den, Johny,\nchápu vás 🙁 V aplikaci Můj Vodafone+ klikněte na Služby, vyberte své telefonní číslo a přejděte do části Čerpání. Více informací najdete na tomto odkazu https://www.vodafone.cz/pece/vyuctovani-platby-kredit/aktualni-utrata-cerpani/aktualni-prehled/?tc=gp. Zuzana",
+      "version": "3.7.1"
+    },
+    {
+      "id": "19d408d9-5fa1-4d30-abb0-f01b6a91e753",
+      "userName": "Zdeňka Tyszka",
+      "date": "2026-02-21T13:25:07.676Z",
+      "score": 5,
+      "text": "jé to super.",
+      "text_normalized": "je to super.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-21T13:49:36.808Z",
+      "replyText": "Hezký den, Zdeňku,\ntěší mě, že se vám aplikace líbí 🙂 Zuzana",
+      "version": "3.7.1"
+    },
     {
       "id": "5192b74c-2a2c-476c-86e2-c50c1c0d2ce2",
       "userName": "michal petrasek",
@@ -27708,8 +27737,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1908,
-    "extractedAt": "2026-02-22T05:55:24.741Z",
+    "totalReviewsExtracted": 1910,
+    "extractedAt": "2026-02-23T06:07:39.238Z",
     "source": "google-play"
   }
 }
