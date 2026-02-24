@@ -1,18 +1,63 @@
 {
   "ratings": {
-    "score": 2.6135592,
-    "scoreText": "2,6",
-    "totalRatings": 2649,
-    "totalReviews": 1321,
+    "score": 2.6634614,
+    "scoreText": "2,7",
+    "totalRatings": 2665,
+    "totalReviews": 1335,
     "histogram": {
-      "1": 1382,
-      "2": 106,
-      "3": 115,
-      "4": 233,
-      "5": 807
+      "1": 1357,
+      "2": 102,
+      "3": 127,
+      "4": 229,
+      "5": 845
     }
   },
   "reviews": [
+    {
+      "id": "ae6e5def-7639-4102-9554-e68c3cc9ed7c",
+      "userName": "Magdalena Nováková",
+      "date": "2026-02-22T16:44:19.964Z",
+      "score": 5,
+      "text": "Na novou aplikaci je mnohem jednodušší přístup a zadávání",
+      "text_normalized": "na novou aplikaci je mnohem jednodussi pristup a zadavani",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-23T06:16:11.834Z",
+      "replyText": "Hezký den, Magdaleno, děkujeme za hodnocení 🙂 Těší mě, že se vám aplikace líbí 🙂 Petra",
+      "version": "3.7.1"
+    },
+    {
+      "id": "2330104f-0eec-4eb1-bede-6a66de2b63c7",
+      "userName": "Monika Šindelářová",
+      "date": "2026-02-22T14:00:52.462Z",
+      "score": 1,
+      "text": "nejde se do aplikace přihlásit",
+      "text_normalized": "nejde se do aplikace prihlasit",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-22T14:27:37.751Z",
+      "replyText": "Hezký den, Moniko,\nje mi líto, že máte potíže s přihlášením do aplikace 🙁 Zkuste ji přeinstalovat na aktuální verzi, poté byste se měla v pořádku přihlásit. Pokud by potíže přetrvávaly, zavolejte nám na linku 800 77 00 77 a kolegové se na to s vámi podívají. Zuzana",
+      "version": null
+    },
+    {
+      "id": "8d3b2964-c025-4c37-871b-94bd9810d313",
+      "userName": "E. B.",
+      "date": "2026-02-22T07:38:10.112Z",
+      "score": 3,
+      "text": "aplikace je v pohodě ale když jsem se pokusil přejít na e sim hodilo to chybu a profil neaktivovaný e sim zmizel tak jsem to skusil znovu objednat zdarma přes možnost přejít na e sim ale to taky hodilo chybu a na stránkách to píše že to objednává e sim a nedovolí mi to znovu skusit objednat a je to zaseklé už 2 dny.",
+      "text_normalized": "aplikace je v pohode ale kdyz jsem se pokusil prejit na e sim hodilo to chybu a profil neaktivovany e sim zmizel tak jsem to skusil znovu objednat zdarma pres moznost prejit na e sim ale to taky hodilo chybu a na strankach to pise ze to objednava e sim a nedovoli mi to znovu skusit objednat a je to zasekle uz 2 dny.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-22T07:57:36.661Z",
+      "replyText": "Hezký den,\nje mi líto, že máte potíže s objednáním 🙁 Zavolejte nám na linku *77 a nebo nám napište přes zabezpečený formulář https://tam.je/dotaz a rádi se s vámi na objednávku podíváme. Zuzana",
+      "version": null
+    },
     {
       "id": "a85b7a33-e130-4d51-b75d-e3c4d61eead0",
       "userName": "Johny",
@@ -27737,8 +27782,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1910,
-    "extractedAt": "2026-02-23T06:07:39.238Z",
+    "totalReviewsExtracted": 1913,
+    "extractedAt": "2026-02-24T06:02:25.209Z",
     "source": "google-play"
   }
 }
