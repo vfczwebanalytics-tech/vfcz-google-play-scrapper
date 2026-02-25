@@ -1,18 +1,182 @@
 {
   "ratings": {
-    "score": 2.6634614,
-    "scoreText": "2,7",
-    "totalRatings": 2665,
-    "totalReviews": 1335,
+    "score": 3.2157676,
+    "scoreText": "3,2",
+    "totalRatings": 2693,
+    "totalReviews": 1340,
     "histogram": {
-      "1": 1357,
-      "2": 102,
-      "3": 127,
-      "4": 229,
-      "5": 845
+      "1": 983,
+      "2": 100,
+      "3": 133,
+      "4": 301,
+      "5": 1173
     }
   },
   "reviews": [
+    {
+      "id": "66aa604f-0857-4f49-a7c9-dfb085e06351",
+      "userName": "Libor Dražinovský",
+      "date": "2026-02-24T03:10:36.374Z",
+      "score": 3,
+      "text": "Značné problémy s přihlašováním.",
+      "text_normalized": "znacne problemy s prihlasovanim.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-24T06:07:48.413Z",
+      "replyText": "Hezký den, Libore,\nmrzí mě, že máte potíže s přihlášením 🙁 Zkuste aplikaci přeinstalovat a nainstalovat její aktuální verzi, věřím, že se vám přihlášení podaří v pořádku. Pokud by potížře přetrvávaly, zavolejte nám na linku *77 a kolegové to s vámi prověří. Zuzana",
+      "version": "3.7.1"
+    },
+    {
+      "id": "8dd16806-3d28-473c-ab32-7bda1d5ae782",
+      "userName": "Jan Procházka",
+      "date": "2026-02-23T21:01:41.723Z",
+      "score": 5,
+      "text": "Apka je lepší než ta stará je OK.",
+      "text_normalized": "apka je lepsi nez ta stara je ok.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-24T06:06:36.892Z",
+      "replyText": "Hezký den, Jane,\njsme rádi, že se vám aplikace líbí 🙂 Zuzana",
+      "version": "3.7.1"
+    },
+    {
+      "id": "a4562d5b-18c2-4677-b04d-8e0a2b667d8f",
+      "userName": "Vit Marsik",
+      "date": "2026-02-23T18:33:50.530Z",
+      "score": 1,
+      "text": "Takový nedodělaný bazmek umí vydat do produkce pouze Vodafone. Když konečně aspoň trochu po letech vyladili Můj VF, zruší ho a nahradí touhle nefunkční, zmatenou a neintuitivní parodií. Blikající dlaždice, web view, které se neumí načíst, a když už se zčásti načte, v půlce práce s ním to celé spadne. Bravo! Jak typické pro VF aplikace. V reklamách se dělat hezkými, v reálu jen samé potíže. Mimo hodnocení: o stále klesající úrovni jejich operátorů ani nemluvě.",
+      "text_normalized": "takovy nedodelany bazmek umi vydat do produkce pouze vodafone. kdyz konecne aspon trochu po letech vyladili muj vf, zrusi ho a nahradi touhle nefunkcni, zmatenou a neintuitivni parodii. blikajici dlazdice, web view, ktere se neumi nacist, a kdyz uz se zcasti nacte, v pulce prace s nim to cele spadne. bravo! jak typicke pro vf aplikace. v reklamach se delat hezkymi, v realu jen same potize. mimo hodnoceni: o stale klesajici urovni jejich operatoru ani nemluve.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-23T18:50:56.696Z",
+      "replyText": "Pěkný den,\nje mi líto, že se vám aplikace nelíbí 🙁 Postupně ji vylepšujeme a pevně věřím, že do budoucna se vám bude líbit více. Lucie",
+      "version": null
+    },
+    {
+      "id": "3f430df4-33d9-4e8d-85bd-aa9e21cde57d",
+      "userName": "Petr Wagner",
+      "date": "2026-02-23T18:07:27.190Z",
+      "score": 1,
+      "text": "Jsem u Vodafone potazmo u Oskara od uplneho zacatku. Jakakoliv aplikace je stale horsi a horsi. Zmizel widget na spotrebu dat, pry maji vetsinou neomezene, tedy na cca 42% klientu kaslete. Oslava 20 let jsem dostal darek v podobe zdrazeni tarifu, nabidka darku pro vsechny neplati pro detsky tarif, tv neustale vypadky a internet taktez. Tak nejak nevim, kde je to zlepseni a co vlastne chcete oslavovat",
+      "text_normalized": "jsem u vodafone potazmo u oskara od uplneho zacatku. jakakoliv aplikace je stale horsi a horsi. zmizel widget na spotrebu dat, pry maji vetsinou neomezene, tedy na cca 42% klientu kaslete. oslava 20 let jsem dostal darek v podobe zdrazeni tarifu, nabidka darku pro vsechny neplati pro detsky tarif, tv neustale vypadky a internet taktez. tak nejak nevim, kde je to zlepseni a co vlastne chcete oslavovat",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-23T18:21:37.476Z",
+      "replyText": "Pěkný den, Petře,\nje mi líto, že jste nespokojený 🙁 Rádi se s vámi podíváme na úpravu služeb tak, abyste byl spokojenější. Zavolejte nám prosím na 800 77 00 77, kde to můžeme řešit konkrétněji. Lucie",
+      "version": "3.7.1"
+    },
+    {
+      "id": "0c024a93-b1fa-4d24-b847-8752eb316528",
+      "userName": "Jan Tampir",
+      "date": "2026-02-23T17:42:26.930Z",
+      "score": 1,
+      "text": "Nevím jak si mám vybrat různé nabídky -dárky přes Vaší skvělou aplikaci která nepozná ani tel na který je nainstalovaná natož abych se vůbec dostal na svůj účet . APLIKACE ÚPLNĚ K NIČEMU proč nenechat něco co funguje když se to dá nahradit zmetkem a vytáčet lidi .",
+      "text_normalized": "nevim jak si mam vybrat ruzne nabidky -darky pres vasi skvelou aplikaci ktera nepozna ani tel na ktery je nainstalovana natoz abych se vubec dostal na svuj ucet . aplikace uplne k nicemu proc nenechat neco co funguje kdyz se to da nahradit zmetkem a vytacet lidi .",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-23T17:49:28.801Z",
+      "replyText": "Pěkný den, Jane,\nje mi líto, pokud máte s aplikací nějaké potíže 🙁 Rádi vám se vším poradíme a pomůžeme, když nám napíšete podrobnosti na e-mail aplikace@vodafone.cz. Lucie\n",
+      "version": "3.7.1"
+    },
+    {
+      "id": "57828e75-be99-4a51-98f0-4b5780120068",
+      "userName": "Libor Studeny",
+      "date": "2026-02-23T17:37:08.905Z",
+      "score": 4,
+      "text": "ok zatím funguje bez problémů",
+      "text_normalized": "ok zatim funguje bez problemu",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-23T17:49:56.147Z",
+      "replyText": "Pěkný den, Libore,\nděkujeme za hodnocení. Jsem ráda, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.7.1"
+    },
+    {
+      "id": "959b5928-11f1-4365-921d-07f9611ca686",
+      "userName": "Bc. Jan Grulich",
+      "date": "2026-02-23T16:47:06.580Z",
+      "score": 1,
+      "text": "To není aplikace, ale paskvil. Snažit se za aplikaci vydávat zrcadlení webových stránek a navíc s extrémními nároky na výkon a kapacitu paměti telefonu, to je naprostý nesmysl. Sežere to stovky mega dat z datového tarifu a výsledkem je šedá obrazovka s vlnícím se logem uprostřed. Nic víc. A to přihlášení s potvrzováním přes kód v SMS, to ho tam jako mám jak přepsat? Hlavně, že pořád zdražují, ale služby jsou naprosto neodpovídající. Konkurence je sice také tak drahá, ale alespoň to nějak funguje",
+      "text_normalized": "to neni aplikace, ale paskvil. snazit se za aplikaci vydavat zrcadleni webovych stranek a navic s extremnimi naroky na vykon a kapacitu pameti telefonu, to je naprosty nesmysl. sezere to stovky mega dat z datoveho tarifu a vysledkem je seda obrazovka s vlnicim se logem uprostred. nic vic. a to prihlaseni s potvrzovanim pres kod v sms, to ho tam jako mam jak prepsat? hlavne, ze porad zdrazuji, ale sluzby jsou naprosto neodpovidajici. konkurence je sice take tak draha, ale alespon to nejak funguje",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-23T16:49:42.124Z",
+      "replyText": "Pěkný den, Jane,\nje mi líto, že to takhle vnímáte 🙁 Aplikaci budeme dále rozvíjet a pevně věřím, že do budoucna budete spokojenější. Lucie",
+      "version": "3.7.1"
+    },
+    {
+      "id": "16fb1d04-640e-427f-b3d8-530119bc05c1",
+      "userName": "roberto oliva",
+      "date": "2026-02-23T15:12:39.543Z",
+      "score": 5,
+      "text": "parada app",
+      "text_normalized": "parada app",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-23T15:18:16.152Z",
+      "replyText": "Pěkný den, Roberto,\nděkujeme za hodnocení. Těší mě, jestli se vám aplikace líbí 🙂 Lucie",
+      "version": "3.7.1"
+    },
+    {
+      "id": "7d7dd24d-0180-4c45-992d-d91e3b3e8d4c",
+      "userName": "Jiří Vlček",
+      "date": "2026-02-23T08:44:29.235Z",
+      "score": 1,
+      "text": "strašný vůbec to nefunguje ,inovace úplně k ničemu hlavně že se pořád zdražuje!!",
+      "text_normalized": "strasny vubec to nefunguje ,inovace uplne k nicemu hlavne ze se porad zdrazuje!!",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-23T08:53:26.127Z",
+      "replyText": "Hezký den, Jiří, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Pokud máte s aplikací nějaké potíže, napište nám prosím podrobnosti přes zabezpečený formulář https://tam.je/dotaz. Vše prověříme. Petra\n",
+      "version": "3.7.1"
+    },
+    {
+      "id": "f604fe13-1f51-455f-b81a-00325e199af2",
+      "userName": "Jason B54",
+      "date": "2026-02-23T06:33:31.340Z",
+      "score": 1,
+      "text": "Strašně těžkopádná aplikace, která běží super pomalu i na novém telefonu 2025 s 8GB RAM a nejnovějším typem procesoru. Nedokáže ani načíst obrázky nebo data z vlastní sítě, ze které máte data. Naprostá šílenost...",
+      "text_normalized": "strasne tezkopadna aplikace, ktera bezi super pomalu i na novem telefonu 2025 s 8gb ram a nejnovejsim typem procesoru. nedokaze ani nacist obrazky nebo data z vlastni site, ze ktere mate data. naprosta silenost...",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-23T06:49:27.749Z",
+      "replyText": "Pěkný den, Jasone,\nděkujeme za zpětnou vazbu. Aplikaci prosím odinstalujte a znovu nainstalujte, pokud se budou projevovat nějaké potíže, pošlete nám prosím konkrétní screenshoty na e-mail aplikace@vodafone.cz spolu s podrobnějším popisem. Veronika",
+      "version": "3.7.1"
+    },
+    {
+      "id": "1224f0ed-5500-461b-a618-fb6e152cc06c",
+      "userName": "Rostislav Malchar",
+      "date": "2026-02-23T06:18:08.272Z",
+      "score": 3,
+      "text": "Měním hodnocení o hvězdu dolů, funguje to o trochu líp než předchozí appka, ale po delším používání jsem zjistil že je ještě co ladit.",
+      "text_normalized": "menim hodnoceni o hvezdu dolu, funguje to o trochu lip nez predchozi appka, ale po delsim pouzivani jsem zjistil ze je jeste co ladit.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-23T06:50:38.394Z",
+      "replyText": "Pěkný den, Rostislave,\nděkujeme za zpětnou vazbu. Aplikace již umí většinu funkcí té původní. O co se prosím jedná? Pošlete nám prosím podrobnější informace přes https://tam.je/dotaz. Veronika",
+      "version": "3.7.1"
+    },
     {
       "id": "ae6e5def-7639-4102-9554-e68c3cc9ed7c",
       "userName": "Magdalena Nováková",
@@ -27782,8 +27946,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1913,
-    "extractedAt": "2026-02-24T06:02:25.209Z",
+    "totalReviewsExtracted": 1924,
+    "extractedAt": "2026-02-25T06:04:36.252Z",
     "source": "google-play"
   }
 }
