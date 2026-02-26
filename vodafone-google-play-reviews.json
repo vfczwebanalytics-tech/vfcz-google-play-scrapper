@@ -1,18 +1,89 @@
 {
   "ratings": {
-    "score": 3.2157676,
-    "scoreText": "3,2",
-    "totalRatings": 2693,
-    "totalReviews": 1340,
+    "score": 3.278626,
+    "scoreText": "3,3",
+    "totalRatings": 2717,
+    "totalReviews": 1353,
     "histogram": {
-      "1": 983,
-      "2": 100,
-      "3": 133,
-      "4": 301,
-      "5": 1173
+      "1": 942,
+      "2": 103,
+      "3": 145,
+      "4": 300,
+      "5": 1222
     }
   },
   "reviews": [
+    {
+      "id": "e1c93d54-9838-4824-9419-4ed3335b0c08",
+      "userName": "Jakub Maštalíř",
+      "date": "2026-02-24T22:11:49.209Z",
+      "score": 1,
+      "text": "absolutně hrozná nedodělaná aplikace.",
+      "text_normalized": "absolutne hrozna nedodelana aplikace.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-25T06:09:43.918Z",
+      "replyText": "Dobrý den, Jakube,\nmrzí mě, že vám aplikace nevyhovuje 🙁 Pokud pro nás budete mít konkrétní zpětnou vazbu, budeme za ni rádi, aplikaci se snažíme stále rozvíjet a vylepšovat. Katka",
+      "version": "3.7.0"
+    },
+    {
+      "id": "ef8f009d-8e2b-4656-aa0d-0b3d12b88768",
+      "userName": "Joraenerys Targaryen",
+      "date": "2026-02-24T20:12:12.200Z",
+      "score": 2,
+      "text": "Může mi někdo vysvětlit k čemu je v sekci Ostatní jakýsi Volací limit? Když volání je v normální části pod označením Volání \"Neomezené volání\" Jak mi může někdo takto sdělovat že provolán třeba 800, když v rámci Vodafone mám mít neomezeně v souladu s balíčkem co jsem si na to zařídila. Rodina má jiného operátora tak budiž, no a přítel má stejného operátora Vodafone, tak by jsme to měli mít zdarma nebo ne? Víc píšu SMS než volám, tak co to je za nesmysl. Co tedy platím SMS,MMS nebo klasik volání",
+      "text_normalized": "muze mi nekdo vysvetlit k cemu je v sekci ostatni jakysi volaci limit? kdyz volani je v normalni casti pod oznacenim volani \"neomezene volani\" jak mi muze nekdo takto sdelovat ze provolan treba 800, kdyz v ramci vodafone mam mit neomezene v souladu s balickem co jsem si na to zaridila. rodina ma jineho operatora tak budiz, no a pritel ma stejneho operatora vodafone, tak by jsme to meli mit zdarma nebo ne? vic pisu sms nez volam, tak co to je za nesmysl. co tedy platim sms,mms nebo klasik volani",
+      "segments": [
+        "Prihlaseni",
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-02-25T06:17:40.473Z",
+      "replyText": "Dobrý den, Joraenerys Targaryen,\nVolací limit vám slouží pro kontrolu vašich výdajů za mobilní služby. Podrobné informace o tomto limitu najdete na https://www.vodafone.cz/pece/vyuctovani-platby-kredit/volaci-limit-jistina/volaci-limit/. Martina",
+      "version": "3.7.1"
+    },
+    {
+      "id": "0f5dcd07-9487-4835-b3d9-35a718cf35f8",
+      "userName": "Pavel Dolezal",
+      "date": "2026-02-24T17:25:02.268Z",
+      "score": 3,
+      "text": "Hodně mi vadí že aplikace na rozdíl od té staré neumožňuje seřadit si pořadí služeb podle vlastní potřeby. Navíc, při spuštění si načetla jako \"hlavní\" nikoliv číslo ze smlouvy/Master účtu ale první v pořadí. Fakt jsem se vyřádil než jsem zjistil v čem je problém.",
+      "text_normalized": "hodne mi vadi ze aplikace na rozdil od te stare neumoznuje seradit si poradi sluzeb podle vlastni potreby. navic, pri spusteni si nacetla jako \"hlavni\" nikoliv cislo ze smlouvy/master uctu ale prvni v poradi. fakt jsem se vyradil nez jsem zjistil v cem je problem.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-02-24T18:15:45.100Z",
+      "replyText": "Dobrý den, Pavle,\núpravu zobrazení výchozí služby plánujeme v některé z příštích aktualizací. Děkujeme za trpělivost. Martina",
+      "version": "3.7.1"
+    },
+    {
+      "id": "0dc32b70-aa0d-43fb-8294-f2622ef8b0eb",
+      "userName": "Pavel Velčovský",
+      "date": "2026-02-24T11:44:59.453Z",
+      "score": 5,
+      "text": "Už je funkční !",
+      "text_normalized": "uz je funkcni !",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-23T15:49:28.731Z",
+      "replyText": "Pěkný den, Pavle,\nje mi líto, že máte potíže 🙁 Rádi vám pomůžeme, když nám zavoláte na 800 77 00 77 nebo napíšete přes https://tam.je/dotaz, kde to můžeme řešit konkrétněji. Lucie\n",
+      "version": "3.7.1"
+    },
+    {
+      "id": "a3ddc961-b117-40b7-9fc0-771f8a039d15",
+      "userName": "Alena Krhutkova",
+      "date": "2026-02-24T11:07:06.361Z",
+      "score": 5,
+      "text": "spokojenost",
+      "text_normalized": "spokojenost",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-24T11:22:17.303Z",
+      "replyText": "Dobrý den, Aleno,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.7.1"
+    },
     {
       "id": "66aa604f-0857-4f49-a7c9-dfb085e06351",
       "userName": "Libor Dražinovský",
@@ -27946,8 +28017,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1924,
-    "extractedAt": "2026-02-25T06:04:36.252Z",
+    "totalReviewsExtracted": 1929,
+    "extractedAt": "2026-02-26T06:00:59.445Z",
     "source": "google-play"
   }
 }
