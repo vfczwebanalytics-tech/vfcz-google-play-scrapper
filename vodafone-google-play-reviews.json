@@ -1,18 +1,300 @@
 {
   "ratings": {
-    "score": 3.4157302,
-    "scoreText": "3,4",
-    "totalRatings": 2822,
-    "totalReviews": 1414,
+    "score": 3.6568265,
+    "scoreText": "3,7",
+    "totalRatings": 2889,
+    "totalReviews": 1440,
     "histogram": {
-      "1": 897,
-      "2": 62,
-      "3": 179,
-      "4": 327,
-      "5": 1352
+      "1": 745,
+      "2": 106,
+      "3": 148,
+      "4": 276,
+      "5": 1609
     }
   },
   "reviews": [
+    {
+      "id": "8e460ebf-1d1d-4c43-a9ee-840c62dca478",
+      "userName": "Radek Andrisek",
+      "date": "2026-03-01T05:52:47.870Z",
+      "score": 1,
+      "text": "Vodafone a jeho vedení je omyl na českém trhu, po té co zničil UPC odešeli jsme od tohoto krvavého operátora a to jsme měli u něj i telefoni čísla . komunikace s call centrem je jako s amatéry , když člověk po nich požadoval funkci Chromecast ve Vodafone tv nikdo nevěděl co po nich požadují , je to zaostali operátor který dělá ze svých zákazníků hlupáky nevěděli že přes android tv systém se dá provádět i video hovor pomocí trueconf jami dříve google meet prostě zaostali operátor.",
+      "text_normalized": "vodafone a jeho vedeni je omyl na ceskem trhu, po te co znicil upc odeseli jsme od tohoto krvaveho operatora a to jsme meli u nej i telefoni cisla . komunikace s call centrem je jako s amatery , kdyz clovek po nich pozadoval funkci chromecast ve vodafone tv nikdo nevedel co po nich pozaduji , je to zaostali operator ktery dela ze svych zakazniku hlupaky nevedeli ze pres android tv system se da provadet i video hovor pomoci trueconf jami drive google meet proste zaostali operator.",
+      "segments": [
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-03-01T08:01:20.110Z",
+      "replyText": "Hezký den, Radku,\nje mi líto, že máte takovou zkušenost, a děkujeme za hodnocení. Katka",
+      "version": null
+    },
+    {
+      "id": "75213b18-b167-4c15-85ab-63b6fb0a97e1",
+      "userName": "Jak Nes",
+      "date": "2026-03-01T05:44:16.570Z",
+      "score": 4,
+      "text": "Problemy s chatem a pripojenim. Slovy \"Jejda\" me akorat vytočíte",
+      "text_normalized": "problemy s chatem a pripojenim. slovy \"jejda\" me akorat vytocite",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-03-01T08:02:14.835Z",
+      "replyText": "Hezký den,\nto je mi líto 🙁 Napište nám prosím víc přes formulář na https://tam.je/google. Vaše potíže prověříme. Katka",
+      "version": "3.8.0"
+    },
+    {
+      "id": "39c97be2-d273-4b4d-b56f-e6777543caf8",
+      "userName": "Daniel Macháček",
+      "date": "2026-02-28T23:56:36.743Z",
+      "score": 5,
+      "text": "paráda 😃",
+      "text_normalized": "parada 😃",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-01T07:59:05.483Z",
+      "replyText": "Dobrý den, Danieli,\njsem ráda, že se vám aplikace líbí 🙂 Katka",
+      "version": "3.8.0"
+    },
+    {
+      "id": "ae377395-1a20-4a71-a857-f68e8c74add1",
+      "userName": "Daniel Polz",
+      "date": "2026-02-28T23:03:58.858Z",
+      "score": 5,
+      "text": "za 1",
+      "text_normalized": "za 1",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-01T07:58:42.311Z",
+      "replyText": "Hezký den, Danieli,\nděkuji vám za krásné hodnocení 🙂 Katka",
+      "version": "3.7.1"
+    },
+    {
+      "id": "d5c674b6-a0a1-4eb8-a09b-bf887e3f0320",
+      "userName": "Martina Kittnerová",
+      "date": "2026-02-28T21:02:43.969Z",
+      "score": 1,
+      "text": "Aplikace je pomalá a už se do ni nedá ani přihlásit. Naprostá ostuda pro Vodafone.",
+      "text_normalized": "aplikace je pomala a uz se do ni neda ani prihlasit. naprosta ostuda pro vodafone.",
+      "segments": [
+        "Vykonnost",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-03-01T07:55:47.842Z",
+      "replyText": "Dobrý den,\nv této situaci zkuste prosím aplikaci odinstalovat, a pak vypnout a zapnout telefon. Mělo by to pomoci 🙂 Katka",
+      "version": "3.8.0"
+    },
+    {
+      "id": "279b061a-82c7-46e2-8119-89312de29230",
+      "userName": "Rudi Bures",
+      "date": "2026-02-28T20:25:14.850Z",
+      "score": 2,
+      "text": "Pomalé a zbytečně překombinované.",
+      "text_normalized": "pomale a zbytecne prekombinovane.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-01T07:47:33.325Z",
+      "replyText": "Dobrý den, Rudi,\nje mi líto, že vám aplikace nevyhovuje 🙁 Za připomínky vám ale moc děkuji, protože na ni budeme určitě nadále pracovat. Katka",
+      "version": "3.8.0"
+    },
+    {
+      "id": "7c4f18c1-96ff-4bff-aa94-c0125debb4cd",
+      "userName": "Roman Pátík",
+      "date": "2026-02-28T18:49:40.945Z",
+      "score": 2,
+      "text": "strašně pomalá aplikace!!!!!",
+      "text_normalized": "strasne pomala aplikace!!!!!",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-03-01T07:46:52.899Z",
+      "replyText": "Dobrý den, Romane,\nto je mi líto 🙁 I tak vám děkuji za zpětnou vazbu, která nám umožní aplikaci dále rozvíjet. Katka",
+      "version": "3.8.0"
+    },
+    {
+      "id": "fe8bb89d-2e25-47b9-9809-8c102361d70d",
+      "userName": "Jiří Sarkany",
+      "date": "2026-02-28T18:27:32.466Z",
+      "score": 5,
+      "text": "dobrý zatím",
+      "text_normalized": "dobry zatim",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-01T07:42:52.783Z",
+      "replyText": "Dobrý den, Jiří,\nděkuji vám za hodnocení a jsem ráda, že vám aplikace vyhovuje 🙂 Katka",
+      "version": "3.6.3"
+    },
+    {
+      "id": "b70a108d-9494-43fe-a515-80bfa498340f",
+      "userName": "Jaroslav Neuman",
+      "date": "2026-02-28T18:14:44.955Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-01T07:43:30.271Z",
+      "replyText": "Hezký den, Jaroslave,\ntěší mě, že jste spokojený, a děkuji za hodnocení 🙂 Katka",
+      "version": "3.7.1"
+    },
+    {
+      "id": "088faf5e-5a3e-489d-bb30-88e4c8d70071",
+      "userName": "Ondřej Šelestak",
+      "date": "2026-02-28T15:35:32.653Z",
+      "score": 1,
+      "text": "Vodafone app pomala nereaguje a porad hlásí chybu, jestli shop nebo happy .",
+      "text_normalized": "vodafone app pomala nereaguje a porad hlasi chybu, jestli shop nebo happy .",
+      "segments": [
+        "Vykonnost",
+        "Stabilita"
+      ],
+      "replyDate": "2026-02-28T15:42:31.322Z",
+      "replyText": "Dobrý den, Ondřeji,\nmrzí mě, že jste zaznamenal takové potíže. Prosím zkuste aplikaci přeinstalovat nebo ověřte, že máte nejnovější aktualizaci. Pokud by problém přetrvával, napište nám prosím na https://tam.je/dotaz. Do přílohy prosím vložte screen chybové hlášky včetně času a taky uveďte typ telefonu. Viki",
+      "version": "3.8.0"
+    },
+    {
+      "id": "d51d190a-6059-43c2-b364-52a5c1452e4c",
+      "userName": "Zdenka Vrba",
+      "date": "2026-02-28T13:15:23.588Z",
+      "score": 5,
+      "text": "Spokojenost.",
+      "text_normalized": "spokojenost.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-28T13:39:00.913Z",
+      "replyText": "Dobrý den, Zdenko,\nděkujeme vám za hodnocení 🙂 Viki",
+      "version": "3.8.0"
+    },
+    {
+      "id": "02bf21a8-f499-427d-b40e-e00d0131584e",
+      "userName": "Petr Polách",
+      "date": "2026-02-28T13:13:51.715Z",
+      "score": 2,
+      "text": "Neuvěřitelně otravné nekonečně stále se opakující logo. Strašně pomalá aplikace. Odrazuje od používání. Možná je to účel.",
+      "text_normalized": "neuveritelne otravne nekonecne stale se opakujici logo. strasne pomala aplikace. odrazuje od pouzivani. mozna je to ucel.",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-02-28T13:41:01.432Z",
+      "replyText": "Dobrý den, Petře,\nděkujeme za zpětnou vazbu. Mrzí nás, že aplikace nefunguje podle vašich očekávání. Další zlepšení a funkcionality budou postupně zaváděny v rámci budoucích aktualizací. Viki",
+      "version": "3.8.0"
+    },
+    {
+      "id": "b3180885-60a8-4e31-830e-16bb8a46d5bc",
+      "userName": "Adys K45",
+      "date": "2026-02-28T12:16:39.210Z",
+      "score": 5,
+      "text": "spokojenost 🙂",
+      "text_normalized": "spokojenost 🙂",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-28T12:39:10.613Z",
+      "replyText": "Hezký den, Adys,\nděkujeme za hodnocení 🙂 Jsem ráda, že vám aplikace vyhovuje. Viki",
+      "version": "3.8.0"
+    },
+    {
+      "id": "7e80dbd1-5fbc-4c88-976f-9c4288813050",
+      "userName": "Petr Zavadil petrzavadilpetr@seznam.cz",
+      "date": "2026-02-28T09:48:35.385Z",
+      "score": 5,
+      "text": "Dobrá aplikace",
+      "text_normalized": "dobra aplikace",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-28T10:08:26.841Z",
+      "replyText": "Hezký den, Petře,\nděkujeme vám za pozitivní hodnocení 🙂 Jsem moc ráda, že vám aplikace sedla. Pravidelně ji vylepšujeme, takže věřím, že vás bude těšit i nadále. Viki",
+      "version": "3.8.0"
+    },
+    {
+      "id": "9508d6d6-b708-40d9-8b95-9ba26d543e72",
+      "userName": "Jirka Tykvart",
+      "date": "2026-02-28T08:47:06.340Z",
+      "score": 5,
+      "text": "vynikající",
+      "text_normalized": "vynikajici",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-28T09:07:29.540Z",
+      "replyText": "Hezký den, Jirko,\nděkujeme vám za pozitivní hodnocení 🙂 Jsem moc ráda, že vám aplikace vyhovuje. Průběžně ji rozvíjíme, takže věřím, že s ní budete spokojený i do budoucna. Viki",
+      "version": "3.7.1"
+    },
+    {
+      "id": "3654c1f8-af9a-40a4-a17d-48607d3c99a3",
+      "userName": "Petr Mňuk",
+      "date": "2026-02-28T07:46:32.181Z",
+      "score": 5,
+      "text": "Přehledné.",
+      "text_normalized": "prehledne.",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-02-28T08:08:25.177Z",
+      "replyText": "Dobrý den, Petře,\nděkujeme za vaše hodnocení 🙂 Jsem ráda, že vám aplikace vyhovuje. Neustále ji vylepšujeme, a věřím proto, že vám bude dobře sloužit i nadále. Viki",
+      "version": "3.8.0"
+    },
+    {
+      "id": "843cff29-4f6a-472d-b38b-9c67792d6274",
+      "userName": "Radek Novák",
+      "date": "2026-02-28T07:22:59.956Z",
+      "score": 5,
+      "text": "Super. Vše funguje.",
+      "text_normalized": "super. vse funguje.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-28T07:51:05.270Z",
+      "replyText": "Pěkný den, Radku,\nděkujeme za kladné hodnocení aplikace :) Těší nás, že vše funguje k vaší spokojenosti. Viki",
+      "version": "3.8.0"
+    },
+    {
+      "id": "7dfbe653-e044-404d-8799-d917570715fc",
+      "userName": "Jozef Meszaros",
+      "date": "2026-02-28T06:38:50.190Z",
+      "score": 5,
+      "text": "pecky bomby 👊",
+      "text_normalized": "pecky bomby 👊",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-28T07:50:00.134Z",
+      "replyText": "Pěkný den, Jozefe,\nděkujeme za vaše skvělé hodnocení 🙂 Těší nás, že se vám aplikace líbí. Viki",
+      "version": "3.6.3"
+    },
+    {
+      "id": "b56bfac7-d573-4e4b-b6e7-80048e897b09",
+      "userName": "Jakub Czina",
+      "date": "2026-02-28T06:08:35.365Z",
+      "score": 5,
+      "text": "skvělá aplikace",
+      "text_normalized": "skvela aplikace",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-28T07:46:57.190Z",
+      "replyText": "Hezký den, Jakube,\nděkujeme vám za kladné hodnocení aplikace 🙂 Jsem moc ráda, že vám vyhovuje. Viki",
+      "version": "3.8.0"
+    },
+    {
+      "id": "9a432426-769a-4354-a1de-e1c34d15a3a1",
+      "userName": "B B T",
+      "date": "2026-02-28T06:07:23.418Z",
+      "score": 3,
+      "text": "jsem tady poprvé uvidím jak se to vyvrbí",
+      "text_normalized": "jsem tady poprve uvidim jak se to vyvrbi",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-02-28T07:48:42.213Z",
+      "replyText": "Dobrý den,\nděkujeme za vaše hodnocení 🙂 Jsme rádi, že aplikaci zkoušíte, a věříme, že s ní budete spokojený. Viki",
+      "version": "3.8.0"
+    },
     {
       "id": "a24eb1f3-9afd-497d-b7f0-d0c8e6fe2376",
       "userName": "Filip Mihalovíč",
@@ -28856,8 +29138,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1986,
-    "extractedAt": "2026-03-01T05:55:01.938Z",
+    "totalReviewsExtracted": 2006,
+    "extractedAt": "2026-03-02T05:56:19.661Z",
     "source": "google-play"
   }
 }
