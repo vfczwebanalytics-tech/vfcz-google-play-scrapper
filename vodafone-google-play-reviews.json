@@ -1,18 +1,245 @@
 {
   "ratings": {
-    "score": 3.9061034,
-    "scoreText": "3,9",
-    "totalRatings": 4338,
-    "totalReviews": 1934,
+    "score": 3.9597585,
+    "scoreText": "4,0",
+    "totalRatings": 4411,
+    "totalReviews": 1959,
     "histogram": {
-      "1": 742,
-      "2": 284,
-      "3": 263,
-      "4": 386,
-      "5": 2657
+      "1": 691,
+      "2": 292,
+      "3": 274,
+      "4": 389,
+      "5": 2759
     }
   },
   "reviews": [
+    {
+      "id": "42d10c0a-c14b-406f-97c2-d8c25fb2597c",
+      "userName": "Ladislav Suchanek",
+      "date": "2026-03-17T04:59:40.423Z",
+      "score": 2,
+      "text": "Je to pomalé, je to pomalé a už bych se asi opakoval",
+      "text_normalized": "je to pomale, je to pomale a uz bych se asi opakoval",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-17T06:11:32.998Z",
+      "replyText": "Hezký den, Ladislave,\nmrzí mě, že jste nespokojený 🙁 Na aplikaci stále pracujeme a vylepšujeme ji, věřím, že do budoucna se vám bude líbit více. Zuzana",
+      "version": null
+    },
+    {
+      "id": "6bc8f030-a4c7-45b0-9037-e0d803956230",
+      "userName": "Marie Výskalová",
+      "date": "2026-03-16T22:09:35.912Z",
+      "score": 5,
+      "text": "S aplikací jsem spokojená",
+      "text_normalized": "s aplikaci jsem spokojena",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-17T06:08:19.644Z",
+      "replyText": "Hezké ráno, Marie,\ntěší mě, že vám aplikace vyhovuje 🙂 Zuzana",
+      "version": "3.9.0"
+    },
+    {
+      "id": "90e246fb-8979-4668-b849-5988e3172190",
+      "userName": "Stanislav Šidlovsky",
+      "date": "2026-03-16T20:39:36.900Z",
+      "score": 1,
+      "text": "posledný nákup dátového balíčku...po 24 hodinách reklamace obě mé karty po dva dny nebyl aktivován balíček, proč čekat 24 hodín, zákaznícka podpora bez pomoci",
+      "text_normalized": "posledny nakup datoveho balicku...po 24 hodinach reklamace obe me karty po dva dny nebyl aktivovan balicek, proc cekat 24 hodin, zakaznicka podpora bez pomoci",
+      "segments": [
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-03-17T06:12:46.527Z",
+      "replyText": "Dobrý den, Stanislave,\nje mi líto, pokud máte nějakou špatnou zkušenost 😕 Prosím případně nám napište podrobnosti přes tento formulář https://tam.je/dotaz, rádi to prověříme. Viki",
+      "version": null
+    },
+    {
+      "id": "bebd660b-0f7d-482b-8d22-3d4b0d03f4ae",
+      "userName": "Kristian",
+      "date": "2026-03-16T19:06:28.890Z",
+      "score": 1,
+      "text": "Pomalé, věčně nefunkční, padá...",
+      "text_normalized": "pomale, vecne nefunkcni, pada...",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-17T06:10:06.772Z",
+      "replyText": "Dobrý den, Kristiane,\nděkujeme za zpětnou vazbu, i když není pozitivní. Vývoj aplikace pokračuje a funkcionalitu budeme dále rozšiřovat v nadcházejících aktualizacích. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "123a2749-cce5-4487-8a00-4de8b0368590",
+      "userName": "Hugo Medvídek",
+      "date": "2026-03-16T19:00:09.858Z",
+      "score": 1,
+      "text": "Horší aplikaci jsem ještě neměl. Například vypnu v neděli a v pondělí zázrak, je tam nedělní program. Nezbývá než odinstalovat a nainstalovat znovu. Je to každou chvíli, skutečně apka na dvě věci.",
+      "text_normalized": "horsi aplikaci jsem jeste nemel. napriklad vypnu v nedeli a v pondeli zazrak, je tam nedelni program. nezbyva nez odinstalovat a nainstalovat znovu. je to kazdou chvili, skutecne apka na dve veci.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-17T06:11:25.811Z",
+      "replyText": "Dobrý den, Hugo,\nje mi líto, že aplikace nesplnila vaše očekávání. Další zlepšení a funkcionality budou postupně zaváděny v rámci budoucích aktualizací. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "49112ac9-7c9f-49f3-9e9a-0a2161c836c1",
+      "userName": "Jindřich Vodák",
+      "date": "2026-03-16T18:34:43.799Z",
+      "score": 2,
+      "text": "vcera jsem mel dostal jako dárek 3 mesice na prima+premium přišla SMS ze gratuluji a ať si vyzvednu odměnu v aplikaci ale tam nic. děkuji",
+      "text_normalized": "vcera jsem mel dostal jako darek 3 mesice na prima+premium prisla sms ze gratuluji a at si vyzvednu odmenu v aplikaci ale tam nic. dekuji",
+      "segments": [
+        "UI",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-03-16T18:43:10.748Z",
+      "replyText": "Dobrý den, Jindřichu,\nrádi se na to s vámi podíváme. Prosím napište nám přes kontaktní formulář na https://tam.je/dotaz, odpovíme vám pak e-mailem. Martina",
+      "version": null
+    },
+    {
+      "id": "75d30fcd-4304-4b16-a276-477468194758",
+      "userName": "Jan Burkoň",
+      "date": "2026-03-16T18:30:16.154Z",
+      "score": 5,
+      "text": "super apka",
+      "text_normalized": "super apka",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-16T18:43:26.340Z",
+      "replyText": "Dobrý den, Jane,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "e7d2fd72-db9f-45b8-b7e0-02be32cb9cbb",
+      "userName": "Pavel Novák",
+      "date": "2026-03-16T16:20:38.966Z",
+      "score": 5,
+      "text": "ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-16T16:46:43.867Z",
+      "replyText": "Hezký den, Pavle,\nděkujeme vám za hodnocení 🙂 Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "1c023e34-9816-42ef-a9f3-1331e4b80aba",
+      "userName": "Miroslav Janyška",
+      "date": "2026-03-16T15:59:26.185Z",
+      "score": 1,
+      "text": "Neskutečně pomalá aplikace. Pořád načítá všechno ji trvá. Otravný Tobi nikdy nic nevyřeší. Nevím kde si můžu vyzvednout odměny z Vodafonu Happy. Spoustu reklam a balastu místo jednoduchého přehledu.",
+      "text_normalized": "neskutecne pomala aplikace. porad nacita vsechno ji trva. otravny tobi nikdy nic nevyresi. nevim kde si muzu vyzvednout odmeny z vodafonu happy. spoustu reklam a balastu misto jednoducheho prehledu.",
+      "segments": [
+        "Vykonnost",
+        "UI"
+      ],
+      "replyDate": "2026-03-16T16:22:09.668Z",
+      "replyText": "Dobrý den, Miroslave,\nje mi líto, že vám aplikace nevyhovuje 🙁 Pokud jste v Happy získal kupon na prima+, můžete si ho vyzvednout podle návodu, který najdete na https://www.vodafone.cz/pece/televize/tv-doplnkove-sluzby/vodafone-tv-primaplus/. Jestli se jedná o jinou výhru, napište nám přes https://tam.je/dotaz, prověříme to. M.\n",
+      "version": "3.9.0"
+    },
+    {
+      "id": "fa40a660-7b52-4f7f-92dd-22bea5d44b34",
+      "userName": "Roman Mitrík",
+      "date": "2026-03-16T12:57:21.790Z",
+      "score": 2,
+      "text": "Slibujete dárky ke 20 letům, které pak nedodáte. Jeden měsíc to byla sleva 1000 kč na koupi nového telefonu a teď tři měsíce program Prima+ zdarma. Bohužel aplikace hlásí že nenašla žádné dárky, a že výhru jsem si už vybral. Prostě úžasná aplikace.",
+      "text_normalized": "slibujete darky ke 20 letum, ktere pak nedodate. jeden mesic to byla sleva 1000 kc na koupi noveho telefonu a ted tri mesice program prima+ zdarma. bohuzel aplikace hlasi ze nenasla zadne darky, a ze vyhru jsem si uz vybral. proste uzasna aplikace.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-16T13:12:29.111Z",
+      "replyText": "Dobrý den, Romane, mrzí mě vaše nespokojenost. Slevu na zařízení jsme vám měli poslat SMSkou po setření losu. Voucher pro prima+ je v sekci Služby - vyberte číslo/internet - Více na záložce Přehled - na další stránce sjeďte dolů do Aplikace třetích stran. Případně nám prosím napište přes https://tam.je/dotaz. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "f5207b15-ae65-49f3-84ca-f3afbd7ba337",
+      "userName": "Zuzana Brunová",
+      "date": "2026-03-16T12:34:26.670Z",
+      "score": 5,
+      "text": "skvělá aplikace",
+      "text_normalized": "skvela aplikace",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-16T12:41:19.523Z",
+      "replyText": "Dobrý den, Zuzano,\nděkujeme vám za hezké hodnocení 🙂 Moc mě těší, že vám aplikace vyhovuje. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "51a0ae17-7be2-4dde-9de4-933af491c059",
+      "userName": "Ludvík Opletal",
+      "date": "2026-03-16T12:20:46.880Z",
+      "score": 5,
+      "text": "Již mnoho let plná spokojenost!!!",
+      "text_normalized": "jiz mnoho let plna spokojenost!!!",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-16T12:42:58.521Z",
+      "replyText": "Dobrý den, Ludvíku,\nděkuji vám za velmi milé hodnocení 🙂 Těší mě, že jste s našimi službami spokojený. Budeme se i nadále snažit, aby tomu tak bylo. Viki",
+      "version": "3.8.0"
+    },
+    {
+      "id": "2de3905f-1e14-4a3c-9414-6c70ea554700",
+      "userName": "Petr Ostruzina",
+      "date": "2026-03-16T11:09:51.242Z",
+      "score": 5,
+      "text": "Ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-16T11:39:24.548Z",
+      "replyText": "Dobrý den, Petře,\nděkujeme za hodnocení 🙂 Jsem ráda, že vám aplikace Můj Vodafone+ vyhovuje. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "530a8a46-61f8-4d7a-bd74-f3c9c78402b4",
+      "userName": "Janice",
+      "date": "2026-03-16T10:29:38.251Z",
+      "score": 1,
+      "text": "poslali e-mail ať si vyzvednu dárek,vylosuji, gratulují k výhře a pak píší že pro můj účet dárek nenalezen,tak tomu vážně nerozumím,znovu mě odkazi na losování darku a scénář se opakuje...fakt prima 🤔akce jak hrom...asi dárek který svět neviděl",
+      "text_normalized": "poslali e-mail at si vyzvednu darek,vylosuji, gratuluji k vyhre a pak pisi ze pro muj ucet darek nenalezen,tak tomu vazne nerozumim,znovu me odkazi na losovani darku a scenar se opakuje...fakt prima 🤔akce jak hrom...asi darek ktery svet nevidel",
+      "segments": [
+        "Cena"
+      ],
+      "replyDate": "2026-03-16T10:40:25.140Z",
+      "replyText": "Dobrý den, Janice,\nmrzí mě, že máte takovou zkušenost 🙁 Prosím napište nám přes tento formulář https://tam.je/dotaz a do přílohy prosím vložte screen této chyby + jaký typ telefonu používáte. Podíváme se na to. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "ab4b3855-fb9d-4b6b-81ca-ea3241c77e5a",
+      "userName": "Ladislav Pražák",
+      "date": "2026-03-16T09:26:20.544Z",
+      "score": 3,
+      "text": "Aplikace relativně už v některých momentech opravena, ale VF slávy narozeniny a stále při otevření setření losu vyskočí chyba a takhle stale a stale dokola....Takže nic z toho",
+      "text_normalized": "aplikace relativne uz v nekterych momentech opravena, ale vf slavy narozeniny a stale pri otevreni setreni losu vyskoci chyba a takhle stale a stale dokola....takze nic z toho",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-03-16T09:41:27.845Z",
+      "replyText": "Dobrý den, Ladislave,\nje mi líto, pokud jste zaznamenal potíže při setření losu. Prosím napište nám podrobnosti na https://tam.je/dotaz, rádi vám pomůžeme. Jen doplním, že pokud jde o kupon pro prima+, aktivujete ho v jiné sekci, než kde stíráte los. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "2f0f27c9-bb90-4414-8f78-9cb68400af67",
+      "userName": "jura volvo",
+      "date": "2026-03-16T07:35:53.543Z",
+      "score": 4,
+      "text": "celkem v pohodě",
+      "text_normalized": "celkem v pohode",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-16T07:39:50.546Z",
+      "replyText": "Dobrý den, Juro,\nděkujeme vám za hodnocení 🙂 Jsem ráda, že se vám aplikace líbí. Viki",
+      "version": "3.9.0"
+    },
     {
       "id": "c93925cf-6f5a-44c1-b119-2cbee3c12112",
       "userName": "Filip H.",
@@ -36270,8 +36497,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2506,
-    "extractedAt": "2026-03-17T06:02:45.106Z",
+    "totalReviewsExtracted": 2522,
+    "extractedAt": "2026-03-18T06:05:09.279Z",
     "source": "google-play"
   }
 }
