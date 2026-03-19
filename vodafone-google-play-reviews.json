@@ -1,18 +1,364 @@
 {
   "ratings": {
-    "score": 3.9597585,
-    "scoreText": "4,0",
-    "totalRatings": 4411,
-    "totalReviews": 1959,
+    "score": 3.913349,
+    "scoreText": "3,9",
+    "totalRatings": 4467,
+    "totalReviews": 1982,
     "histogram": {
-      "1": 691,
-      "2": 292,
-      "3": 274,
-      "4": 389,
-      "5": 2759
+      "1": 763,
+      "2": 302,
+      "3": 250,
+      "4": 386,
+      "5": 2760
     }
   },
   "reviews": [
+    {
+      "id": "be58a442-c943-42e0-a48e-6fa0e7525cf9",
+      "userName": "Ikarus",
+      "date": "2026-03-18T04:12:11.174Z",
+      "score": 1,
+      "text": "nepřehledná a pomalá, a vás platební terminál věčně nefunguje... katastrofální jednání na tak velikou společnost... jde vidět, že malý zákazník pro vás není důležitý, ale jen nutný odpad dle vašeho chování jak na pobočkách tak v aplikaci",
+      "text_normalized": "neprehledna a pomala, a vas platebni terminal vecne nefunguje... katastrofalni jednani na tak velikou spolecnost... jde videt, ze maly zakaznik pro vas neni dulezity, ale jen nutny odpad dle vaseho chovani jak na pobockach tak v aplikaci",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-18T06:18:19.860Z",
+      "replyText": "Dobrý den, Ikare,\nplošné potíže s platbou v aplikaci neevidujeme. Jestli se vám nedaří platbu provést, zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, abychom to mohli prověřit na konkrétním příkladu. Martina\n",
+      "version": null
+    },
+    {
+      "id": "f5305d63-d2a5-417c-b28d-91fa073159f4",
+      "userName": "A. K.",
+      "date": "2026-03-18T00:44:25.770Z",
+      "score": 5,
+      "text": "Perfektní služby ! I love Vodafone !!!",
+      "text_normalized": "perfektni sluzby ! i love vodafone !!!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-18T06:17:24.400Z",
+      "replyText": "Hezký den,\nděkujeme za vaši podporu 🙂 Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "0ac8753a-4ada-4820-885c-09e84920527c",
+      "userName": "Michaela Koprivova",
+      "date": "2026-03-18T00:18:06.708Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-18T06:16:38.413Z",
+      "replyText": "Hezký den, Michaelo, děkujeme za hodnocení 🙂 Velmi mě těší, že jste s aplikací spokojená 🙂 Petra",
+      "version": "3.6.3"
+    },
+    {
+      "id": "9ff3bba9-d02e-48ec-949a-2e56f064debd",
+      "userName": "Michal Zboril st.",
+      "date": "2026-03-17T22:21:10.871Z",
+      "score": 4,
+      "text": "Komplikované přihlašování.",
+      "text_normalized": "komplikovane prihlasovani.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-03-18T06:15:19.639Z",
+      "replyText": "Hezký den, Michale, děkujeme za hodnocení. Pro jednodušší přihlášení vám doporučím, nastavit si biometrické přihlášení 🙂 Petra",
+      "version": "3.9.0"
+    },
+    {
+      "id": "111cec99-a242-497a-b8b3-1b3b0bdbc96d",
+      "userName": "Angelina „Natik“ Kosmos",
+      "date": "2026-03-17T21:27:04.577Z",
+      "score": 5,
+      "text": "Apka je přehledná, pěkná, funguje jak má.",
+      "text_normalized": "apka je prehledna, pekna, funguje jak ma.",
+      "segments": [
+        "UI",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-18T06:13:13.995Z",
+      "replyText": "Hezký den, Angelino, děkujeme za hodnocení 🙂 Vaše spokojenost je pro nás důležitá 🙂 Petra",
+      "version": "3.6.3"
+    },
+    {
+      "id": "d8c18597-fc0e-4547-a359-762c10e90b4e",
+      "userName": "zdenka Škrabalova",
+      "date": "2026-03-17T19:48:29.495Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-18T06:11:50.200Z",
+      "replyText": "Hezké ráno, Zdeňko. děkujeme za hodnocení 🙂 Těší mě, že se vám aplikace líbí 🙂 Petra",
+      "version": "3.9.0"
+    },
+    {
+      "id": "4a644275-3e11-445e-a786-82f0a9b975cc",
+      "userName": "Beneš Jiří",
+      "date": "2026-03-17T19:48:02.807Z",
+      "score": 5,
+      "text": "ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-18T06:12:30.200Z",
+      "replyText": "Pěkný den, Jiří, děkujeme za vaši recenzi. Jsem ráda, že se vám aplikace líbí 🙂 Petra",
+      "version": "3.9.0"
+    },
+    {
+      "id": "e92208df-a13c-424a-8518-116b9a9b3023",
+      "userName": "Jan Čadek",
+      "date": "2026-03-17T18:51:49.920Z",
+      "score": 2,
+      "text": "Nabízejí odměny k výročí a po setření losu nikde odměnu nevidím. Jen hláška, že jsem si odměnu vyzvedl a přitom ji nikde v Mujvodafone+ nevidím. A přitom přišla SMS, že je odměna k vyzvednutí v aplikaci, ale nikde ji tu nemůžu najít. A Tobi je úplně k Ho...",
+      "text_normalized": "nabizeji odmeny k vyroci a po setreni losu nikde odmenu nevidim. jen hlaska, ze jsem si odmenu vyzvedl a pritom ji nikde v mujvodafone+ nevidim. a pritom prisla sms, ze je odmena k vyzvednuti v aplikaci, ale nikde ji tu nemuzu najit. a tobi je uplne k ho...",
+      "segments": [
+        "UI",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-18T06:11:04.714Z",
+      "replyText": "Dobrý den, Jane,\nje mi líto, že se vám výhru nedaří najít 🙁 Napište nám prosím přes https://tam.je/dotaz, rádi se na to s vámi podíváme. Martina\n",
+      "version": "3.9.0"
+    },
+    {
+      "id": "f5aa3a56-9757-4ef1-9a60-51d0f49689c7",
+      "userName": "Roman Bergmann",
+      "date": "2026-03-17T18:13:27.622Z",
+      "score": 1,
+      "text": "ani neotevře",
+      "text_normalized": "ani neotevre",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-17T18:49:26.429Z",
+      "replyText": "Pěkný den, Romane,\naplikaci odinstalujte a po restartovaném telefonu ji nainstalujte znovu, tím budete mít jistotu, že máte v telefonu její poslední verzi. Pokud i přesto budete mít s aplikací potíže, pošlete nám prosím screenshoty na aplikace@vodafone.cz s dalšími podrobnostmi. Veronika",
+      "version": "3.9.0"
+    },
+    {
+      "id": "6e3ac696-0fd1-4bc8-a9b6-5a8352cd44bd",
+      "userName": "Jaroslav Gabor",
+      "date": "2026-03-17T17:14:43.280Z",
+      "score": 5,
+      "text": "sem spkojen",
+      "text_normalized": "sem spkojen",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-17T17:46:13.340Z",
+      "replyText": "Pěkný den, Jaroslave,\nděkujeme za hodnocení 🙂 Veronika",
+      "version": "3.8.0"
+    },
+    {
+      "id": "226ac04c-4028-4f10-8bc1-5fbc93943036",
+      "userName": "Michal Marek",
+      "date": "2026-03-17T16:44:30.142Z",
+      "score": 5,
+      "text": "Ok, je tam skoro vše, zbytek je na webu.",
+      "text_normalized": "ok, je tam skoro vse, zbytek je na webu.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-17T17:15:59.723Z",
+      "replyText": "Pěkný den, Michale,\nděkujeme za hodnocení 🙂 Veronika",
+      "version": "3.9.0"
+    },
+    {
+      "id": "f4fb53d7-a48a-4582-b675-1bc12efe66d6",
+      "userName": "Pavel Dvorak",
+      "date": "2026-03-17T16:30:12.739Z",
+      "score": 5,
+      "text": "spokojenost",
+      "text_normalized": "spokojenost",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-17T16:44:16.574Z",
+      "replyText": "Pěkný den, Pavle,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.9.0"
+    },
+    {
+      "id": "510dbf13-67cc-426e-a9b8-fa21e0e38162",
+      "userName": "Jakub Hajek",
+      "date": "2026-03-17T15:22:33.224Z",
+      "score": 1,
+      "text": "Údajně vyhráváte, ale výhra nikde 🤦 Vodafone aplikace opět nezklamala.",
+      "text_normalized": "udajne vyhravate, ale vyhra nikde 🤦 vodafone aplikace opet nezklamala.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-17T15:44:20.874Z",
+      "replyText": "Pěkný den, Jakube,\nv aplikaci vyberte nabídku Služby - vyberte telefonní číslo - klikněte na Více na záložce Přehled - na následující stránce sjeďte dolů do části Aplikace třetích stran. Pokud jste los setřel k pevnému internetu, je potřeba se přihlásit do webové samoobsluhy. Veronika",
+      "version": "3.9.0"
+    },
+    {
+      "id": "b4acaef6-eab9-4d99-ba03-202f939cb178",
+      "userName": "Pavel Čermák",
+      "date": "2026-03-17T14:03:16.160Z",
+      "score": 5,
+      "text": "O moc lepší než předchozí verze.",
+      "text_normalized": "o moc lepsi nez predchozi verze.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-17T14:15:55.968Z",
+      "replyText": "Pěkný den, Pavle,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.9.0"
+    },
+    {
+      "id": "5db7f613-3b69-457b-a73f-44f310033dfa",
+      "userName": "Matej Bulir",
+      "date": "2026-03-17T13:30:39.420Z",
+      "score": 4,
+      "text": "Reinstalace aplikace pomuze s nedrzici biometrikou, nicmene kazda aktualizace uplne rozhodi prihlaseni, takze cele prihlaseni a biometriku musite nastavovat znovu.",
+      "text_normalized": "reinstalace aplikace pomuze s nedrzici biometrikou, nicmene kazda aktualizace uplne rozhodi prihlaseni, takze cele prihlaseni a biometriku musite nastavovat znovu.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-03-17T13:19:04.151Z",
+      "replyText": "Dobrý den, Matěji,\nmrzí mě vaše nespokojenost. Máte možnost si nastavit biometriku. Pokud vám biometrika \"nedrží\", zkuste prosím reinstalaci aplikace a pak ji nastavit znovu. Případně nám prosím napište podrobnosti na https://tam.je/dotaz. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "b67c3fae-0a55-4d50-999d-e6ec0df885e1",
+      "userName": "Jiří Slezák",
+      "date": "2026-03-17T13:07:39.902Z",
+      "score": 5,
+      "text": "Skvělá aplikace.♥️♥️♥️",
+      "text_normalized": "skvela aplikace.♥️♥️♥️",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-17T13:17:18.700Z",
+      "replyText": "Dobrý den, Jiří,\nděkujeme vám za milé hodnocení aplikace. Jsme rádi, že jste spokojený 🙂 Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "f0bc94e1-9d51-4f6f-b0fd-5206f9416b43",
+      "userName": "Vladimir Fuchs",
+      "date": "2026-03-17T11:20:30.516Z",
+      "score": 5,
+      "text": "Užitečná aplikace",
+      "text_normalized": "uzitecna aplikace",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-17T11:49:18.974Z",
+      "replyText": "Hezký den, Vladimíre,\nděkujeme vám za milé hodnocení. Moc nás těší, že jste s aplikací spokojený 🙂 Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "f56c633d-832d-4ace-a5d9-22a40f33f168",
+      "userName": "Tomáš Dvořák",
+      "date": "2026-03-17T11:10:49.466Z",
+      "score": 5,
+      "text": "MOC DĚKUJI ZA VSTŘÍCNÉ VYŘEŠENÍ MÉHO PROBLÉMU S NEOMEZENÝMI DATY NYNÍ JSEM VELMI SPOKOJEN VYVOJÁŘI A TECHNIKŮM MOC DĚKUJI.👏👍",
+      "text_normalized": "moc dekuji za vstricne vyreseni meho problemu s neomezenymi daty nyni jsem velmi spokojen vyvojari a technikum moc dekuji.👏👍",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-17T11:13:13.637Z",
+      "replyText": "Dobrý den, Tomáši,\nděkujeme vám za hodnocení a zpětnou vazbu 🙂 Jsem moc ráda, že se podařilo potíže dořešit a vše je nyní v pořádku. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "d1906caa-1a80-46cb-8d7c-de26cb828672",
+      "userName": "Karel",
+      "date": "2026-03-17T09:21:35.548Z",
+      "score": 1,
+      "text": "celkem velká diskriminace ostatních krajů,všechny akce jen Praha ,ale ,Brno ,Opava ,Ostrava ,vůbec nic ..",
+      "text_normalized": "celkem velka diskriminace ostatnich kraju,vsechny akce jen praha ,ale ,brno ,opava ,ostrava ,vubec nic ..",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-17T09:43:47.383Z",
+      "replyText": "Dobrý den, Karle,\nje mi líto, že aplikace a Vodafone Happy nesplnili vaše očekávání. Věřím, že do budoucna budete spokojený víc, aplikaci a nabídky se snažíme stále vylepšovat. Viki",
+      "version": "3.8.0"
+    },
+    {
+      "id": "18757f2e-4c2b-4c7c-833e-f5990d190d96",
+      "userName": "Alena „Rapanka“ Rapanová",
+      "date": "2026-03-17T09:14:43.640Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-17T09:44:42.955Z",
+      "replyText": "Hezký den, Aleno,\nděkujeme za hodnocení aplikace 🙂 Jsem moc ráda, že vám nová verze vyhovuje. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "e571a0aa-de63-4ef9-92ca-c11a08a63281",
+      "userName": "Lukáš Lauer",
+      "date": "2026-03-17T07:50:14.697Z",
+      "score": 1,
+      "text": "Naprostá katastrofa, jako předchozí aplikace - na co vlastně bylo třeba vymýšlet novou, když je stejná jak ta předchozí? - Těžkopádná, dlouho se načítá, při každém spuštění si to nepamatuje přihlašovací údaje, biometrie k tomu nefunguje.... Navíc furt otravuje, ať zanechám zpětnou vazbu...",
+      "text_normalized": "naprosta katastrofa, jako predchozi aplikace - na co vlastne bylo treba vymyslet novou, kdyz je stejna jak ta predchozi? - tezkopadna, dlouho se nacita, pri kazdem spusteni si to nepamatuje prihlasovaci udaje, biometrie k tomu nefunguje.... navic furt otravuje, at zanecham zpetnou vazbu...",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-17T08:14:23.207Z",
+      "replyText": "Dobrý den, Lukáši,\nděkujeme za hodnocení, i když není pozitivní. Mrzí mě, že aplikace nefunguje podle očekávání. Na zlepšeních výkonu i přihlašování průběžně pracujeme. Abychom mohli potíže s biometrikou prověřit konkrétně u vás, budeme rádi za detail přes formulář: https://tam.je/dotaz. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "72b32dd0-8e21-455f-ac91-a9892df04669",
+      "userName": "Václav Švadlena",
+      "date": "2026-03-17T07:39:21.815Z",
+      "score": 5,
+      "text": "spokojenost",
+      "text_normalized": "spokojenost",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-17T07:44:25.659Z",
+      "replyText": "Dobrý den, Václave,\nděkujeme za hodnocení 🙂 Jsem moc ráda, že vám aplikace Můj Vodafone+ vyhovuje. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "c8dd58f8-02da-442c-a494-aed17664fb7b",
+      "userName": "Michal Gregus",
+      "date": "2026-03-17T07:07:49.648Z",
+      "score": 5,
+      "text": "Jsou stále lepší. 🤗",
+      "text_normalized": "jsou stale lepsi. 🤗",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-17T07:14:12.533Z",
+      "replyText": "Dobrý den, Michale,\nděkujeme vám za milé hodnocení 🙂 Jsem ráda, že jste s aplikací spokojený. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "283dc485-9372-4f8d-838c-72e951502c80",
+      "userName": "Evik",
+      "date": "2026-03-17T06:55:00.439Z",
+      "score": 5,
+      "text": "Vše šlape jak má..",
+      "text_normalized": "vse slape jak ma..",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-17T07:15:19.139Z",
+      "replyText": "Hezký den, Eviku,\nděkujeme za pozitivní hodnocení 🙂 Jsem ráda, že vám nová verze aplikace vyhovuje a funguje bez potíží. Viki",
+      "version": "3.9.0"
+    },
     {
       "id": "42d10c0a-c14b-406f-97c2-d8c25fb2597c",
       "userName": "Ladislav Suchanek",
@@ -36497,8 +36843,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2522,
-    "extractedAt": "2026-03-18T06:05:09.279Z",
+    "totalReviewsExtracted": 2546,
+    "extractedAt": "2026-03-19T06:01:08.288Z",
     "source": "google-play"
   }
 }
