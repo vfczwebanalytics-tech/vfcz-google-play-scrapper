@@ -1,18 +1,329 @@
 {
   "ratings": {
-    "score": 3.913349,
+    "score": 3.9192545,
     "scoreText": "3,9",
-    "totalRatings": 4467,
-    "totalReviews": 1982,
+    "totalRatings": 4519,
+    "totalReviews": 1995,
     "histogram": {
-      "1": 763,
-      "2": 302,
-      "3": 250,
-      "4": 386,
-      "5": 2760
+      "1": 766,
+      "2": 280,
+      "3": 280,
+      "4": 411,
+      "5": 2778
     }
   },
   "reviews": [
+    {
+      "id": "682cc00a-80ea-4bb5-b4cf-b0b2b4a380f6",
+      "userName": "marek minneral248",
+      "date": "2026-03-19T04:13:53.409Z",
+      "score": 1,
+      "text": "otrasna appka..tu jednu hviezdu tam mate len vdaka tomu, ze bez toho nejde hodnotenie odoslat (vyvojar myslel na vsetko) aby som si na 4 krat dobijal kredit, vsetko trva dlho a vobec to nieje prehladne, v nicom lepsie, ako ta stara appka..Dakujeme! ale tymto sa aj tak nebude nikto zaoberat",
+      "text_normalized": "otrasna appka..tu jednu hviezdu tam mate len vdaka tomu, ze bez toho nejde hodnotenie odoslat (vyvojar myslel na vsetko) aby som si na 4 krat dobijal kredit, vsetko trva dlho a vobec to nieje prehladne, v nicom lepsie, ako ta stara appka..dakujeme! ale tymto sa aj tak nebude nikto zaoberat",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-19T06:10:20.742Z",
+      "replyText": "Pěkný den, Marku,\nz vaší zprávy skutečně není jasné, co se stalo. Napište nám prosím k tomu konkrétní situace přes https://tam.je/dotaz a rádi se na vše podíváme. Veronika",
+      "version": "3.9.0"
+    },
+    {
+      "id": "922afe3c-1f6f-4259-a988-f6f1c87743bc",
+      "userName": "Florencie Natalii",
+      "date": "2026-03-18T20:27:31.746Z",
+      "score": 1,
+      "text": "nefunkční",
+      "text_normalized": "nefunkcni",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-19T06:09:03.547Z",
+      "replyText": "Dobrý den, Natalii,\nmrzí mě, pokud jste se setkala s nějakými potížemi 😕 Doporučuji vám aplikaci přeinstalovat. Případně nám prosím napište podrobnosti na https://tam.je/dotaz. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "99732848-9ee8-47e6-a569-9a170c9def46",
+      "userName": "Milan VL",
+      "date": "2026-03-18T20:25:59.357Z",
+      "score": 3,
+      "text": "nic moc a nepřehledná",
+      "text_normalized": "nic moc a neprehledna",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-03-19T06:10:53.125Z",
+      "replyText": "Dobrý den, Milane,\nmrzí mě, že aplikace nesplnila vaše očekávání. Aktivně ji rozvíjíme a nové možnosti budeme přidávat v dalších aktualizacích. Budeme rádi, když dáte Můj Vodafone+ ještě šanci. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "25811aed-74c1-412a-b4fe-35a0ae0f54ce",
+      "userName": "Ivan Kucin",
+      "date": "2026-03-18T17:46:34.370Z",
+      "score": 5,
+      "text": "dobrý",
+      "text_normalized": "dobry",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-18T18:17:59.915Z",
+      "replyText": "Hezký den, Ivane,\nděkujeme vám za hodnocení. Těší mě, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "0de16f19-6602-4ed2-a184-ee814c053352",
+      "userName": "Karel Novotný (Edin)",
+      "date": "2026-03-18T16:26:49.883Z",
+      "score": 5,
+      "text": "Vymazleně interaktivní appka Vodafonu v CZ",
+      "text_normalized": "vymazlene interaktivni appka vodafonu v cz",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-18T16:47:17.174Z",
+      "replyText": "Hezký den, Karle,\nděkujeme vám za hodnocení. Jsem ráda, pokud se vám aplikace líbí 🙂 Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "fabceadf-ef9b-463f-878e-de6e8cbfee56",
+      "userName": "Ruda Páleníček",
+      "date": "2026-03-18T15:57:35.793Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-18T16:17:27.300Z",
+      "replyText": "Pěkný den, Rudo,\nděkujeme vám za hodnocení. Těší mě, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "0274a2c0-dfa6-4a7a-8be5-63ad1a585f49",
+      "userName": "Míša pepa Madrovi",
+      "date": "2026-03-18T15:52:20.100Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-18T16:17:52.715Z",
+      "replyText": "Hezký den, Míšo,\nděkujeme za hodnocení. Jsem ráda, že jste s aplikací spokojená 🙂 Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "aad18573-04dd-49cc-9b7b-7f5ed728756f",
+      "userName": "Ihar S",
+      "date": "2026-03-18T14:42:42.699Z",
+      "score": 1,
+      "text": "Není možné se přihlásit.",
+      "text_normalized": "neni mozne se prihlasit.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-18T14:46:58.224Z",
+      "replyText": "Pěkný den,\nje mi líto, že máte potíže s přihlášením 🙁 Zkuste prosím aplikaci přeinstalovat. V případě, že by potíže přetrvávaly, napište nám podrobnosti na e-mail aplikace@vodafone.cz, rádi vám pomůžeme. Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "cce6b916-2bb5-4705-aa4d-0f44ad405ac9",
+      "userName": "Martina Havlickova",
+      "date": "2026-03-18T14:11:30.310Z",
+      "score": 1,
+      "text": "Da se vubec tahle aplikace otevrit? Uz 20 minut mi tu roluje logo na bile strance a nic jineho se nestane.",
+      "text_normalized": "da se vubec tahle aplikace otevrit? uz 20 minut mi tu roluje logo na bile strance a nic jineho se nestane.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-18T14:17:05.913Z",
+      "replyText": "Pěkný den, Martino,\nje mi líto, pokud máte s aplikací potíže 🙁 Zkuste ji prosím přeinstalovat. V případě, že by to nepomohlo, napište nám prosím na e-mail aplikace@vodafone.cz, abychom se na to mohli podívat konkrétněji. Lucie\n",
+      "version": "3.9.0"
+    },
+    {
+      "id": "545baca6-4803-46a8-b37c-1acf85c56276",
+      "userName": "Ota Rada",
+      "date": "2026-03-18T14:07:58.209Z",
+      "score": 2,
+      "text": "vyzvednout dárek, vše marné, pořád hlásí chybu, takže rozd áváte dárky, které nerozdáváte, aplikace k ničemu!!!",
+      "text_normalized": "vyzvednout darek, vse marne, porad hlasi chybu, takze rozd avate darky, ktere nerozdavate, aplikace k nicemu!!!",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-03-18T14:17:47.180Z",
+      "replyText": "Pěkný den, Oto,\nje mi líto, že máte potíže 🙁 V případě, že nemáte kupon k dispozici, napište nám prosím přes https://tam.je/dotaz, abychom to mohli řešit konkrétněji. Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "abb10d05-382d-4568-8f6f-7d3815f75175",
+      "userName": "Radek Štilárek",
+      "date": "2026-03-18T14:03:11.109Z",
+      "score": 5,
+      "text": "Naprostá spokojenost 👍",
+      "text_normalized": "naprosta spokojenost 👍",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-18T14:18:14.685Z",
+      "replyText": "Hezký den, Radku,\nděkujeme vám za hodnocení. Těší mě, že jste s aplikací spokojený 🙂 Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "50a02877-743b-4f40-ba72-e7181fcf7606",
+      "userName": "Jana Kamenická",
+      "date": "2026-03-18T13:57:41.567Z",
+      "score": 5,
+      "text": "Spokojenost",
+      "text_normalized": "spokojenost",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-18T14:18:39.424Z",
+      "replyText": "Pěkný den, Jano,\nděkujeme vám za hodnocení. Jsem ráda, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "9f93fb59-2a41-447e-a772-71fba7ec571f",
+      "userName": "Petr Samec",
+      "date": "2026-03-18T13:43:00.859Z",
+      "score": 1,
+      "text": "Aplikace mi neustále nabízí dárek 20 výročí, ale daný dárek nemůžu vyzvednout, stránky se točí stále dokola. Nevidím moc velký rozdíl oproti předchozí.",
+      "text_normalized": "aplikace mi neustale nabizi darek 20 vyroci, ale dany darek nemuzu vyzvednout, stranky se toci stale dokola. nevidim moc velky rozdil oproti predchozi.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-18T13:46:51.900Z",
+      "replyText": "Pěkný den, Petře,\nrádi se na to podíváme konkrétněji, když nám napíšete podrobnosti přes zabezpečený formulář na https://tam.je/dotaz. Lucie\n",
+      "version": "3.9.0"
+    },
+    {
+      "id": "8411065e-83fb-46b3-bc36-bf7bf9fd4edd",
+      "userName": "ANDREI KHAVANSKI",
+      "date": "2026-03-18T13:29:32.693Z",
+      "score": 1,
+      "text": "million mačkání informační zátěž a reklama.. vodafone",
+      "text_normalized": "million mackani informacni zatez a reklama.. vodafone",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-18T13:47:45.394Z",
+      "replyText": "Pěkný den,\nje mi líto, pokud se vám aplikace nelíbí 🙁 Budeme se snažit, aby se vám do budoucna líbila více. Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "27d39a9d-dc86-4ab7-b923-f2eeff635986",
+      "userName": "V K",
+      "date": "2026-03-18T13:07:17.584Z",
+      "score": 5,
+      "text": "Super apka",
+      "text_normalized": "super apka",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-18T13:17:18.320Z",
+      "replyText": "Pěkný den,\nděkujeme vám za hodnocení. Jsem ráda, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "81f26bc2-32b1-4323-9cba-2d4b7c12e83a",
+      "userName": "Josef Šembera",
+      "date": "2026-03-18T12:45:13.683Z",
+      "score": 5,
+      "text": "Vše je OK.",
+      "text_normalized": "vse je ok.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-18T13:17:44.565Z",
+      "replyText": "Pěkný den, Josefe,\nděkujeme vám za hodnocení. Těší mě, že se vám aplikace líbí 🙂 Lucie",
+      "version": null
+    },
+    {
+      "id": "267c3db0-d3ea-4e17-bf01-278268f916a0",
+      "userName": "manja manja (manja)",
+      "date": "2026-03-18T12:06:17.822Z",
+      "score": 5,
+      "text": "Super appka 👌🏼",
+      "text_normalized": "super appka 👌🏼",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-18T12:15:44.672Z",
+      "replyText": "Hezký den,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "bb3a6652-e202-4d39-a41c-877b431fdd4f",
+      "userName": "Martin Vobornik",
+      "date": "2026-03-18T11:33:24.262Z",
+      "score": 3,
+      "text": "Aplikace pouze narvaná reklama.Reklamy akorát zahnojí celý svět!",
+      "text_normalized": "aplikace pouze narvana reklama.reklamy akorat zahnoji cely svet!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-18T11:46:24.507Z",
+      "replyText": "Dobrý den, Martine,\nje mi líto, že jste s aplikací nespokojený, ale děkujeme za vaši zpětnou vazbu. Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "95fb6597-7626-4be5-aa09-50a3ce4f8ea3",
+      "userName": "Lumír Mališ",
+      "date": "2026-03-18T10:23:20.770Z",
+      "score": 5,
+      "text": "jednoduší , a dobře uděláno",
+      "text_normalized": "jednodusi , a dobre udelano",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-18T10:46:13.370Z",
+      "replyText": "Hezký den, Lumíre,\nděkujeme vám za hodnocení 🙂 Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "01a29582-c632-482c-a0de-0de2f8fc174f",
+      "userName": "Petr Navrátil",
+      "date": "2026-03-18T08:43:13.681Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-18T08:50:09.297Z",
+      "replyText": "Hezký den, Petře,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "f130f98f-686a-4c43-b380-792a0e89e40c",
+      "userName": "Bohunka77",
+      "date": "2026-03-18T07:35:53.780Z",
+      "score": 4,
+      "text": "🤗",
+      "text_normalized": "🤗",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-18T07:45:19.124Z",
+      "replyText": "Hezký den,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "6eaaaddc-bb18-44ac-8bef-281b33e4395f",
+      "userName": "Veronika M",
+      "date": "2026-03-18T07:13:00.216Z",
+      "score": 3,
+      "text": "Ne, že by předtím byla aplikace bez chyb. Ale nový Vodafone+ je více pro zlost. Věčně něco nefunguje a nedostanu se tam, kam potřebuju.",
+      "text_normalized": "ne, ze by predtim byla aplikace bez chyb. ale novy vodafone+ je vice pro zlost. vecne neco nefunguje a nedostanu se tam, kam potrebuju.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-18T07:17:18.807Z",
+      "replyText": "Dobrý den, Veroniko,\nje mi líto, že vám aplikace nevyhovuje 🙁 Prosím napište nám přes https://tam.je/dotaz, co konkrétně vám v aplikaci nefunguje nebo k jakým informacím se nemůžete dostat. Rádi se na to s vámi podíváme. Martina\n",
+      "version": "3.9.0"
+    },
     {
       "id": "be58a442-c943-42e0-a48e-6fa0e7525cf9",
       "userName": "Ikarus",
@@ -36843,8 +37154,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2546,
-    "extractedAt": "2026-03-19T06:01:08.288Z",
+    "totalReviewsExtracted": 2568,
+    "extractedAt": "2026-03-20T05:56:26.609Z",
     "source": "google-play"
   }
 }
