@@ -1,18 +1,205 @@
 {
   "ratings": {
-    "score": 3.9192545,
+    "score": 3.9078014,
     "scoreText": "3,9",
-    "totalRatings": 4519,
-    "totalReviews": 1995,
+    "totalRatings": 4561,
+    "totalReviews": 2005,
     "histogram": {
-      "1": 766,
-      "2": 280,
-      "3": 280,
-      "4": 411,
-      "5": 2778
+      "1": 765,
+      "2": 290,
+      "3": 322,
+      "4": 398,
+      "5": 2781
     }
   },
   "reviews": [
+    {
+      "id": "6c098144-3bbc-4c97-8f5f-60faa3551706",
+      "userName": "Lucie Hlávková",
+      "date": "2026-03-20T03:30:22.680Z",
+      "score": 1,
+      "text": "nelíbí vůbec",
+      "text_normalized": "nelibi vubec",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-20T06:06:02.691Z",
+      "replyText": "Hezký den, Lucie,\nmrzí mě, že s aplikací nejste spokojená 🙁 Stále na ni pracujeme a vylepšujeme ji, věřím, že do budoucna se vám bude líbit více. Zuzana",
+      "version": "3.9.0"
+    },
+    {
+      "id": "9600f657-62ef-4b0c-975e-c424574f359c",
+      "userName": "Daisy",
+      "date": "2026-03-19T23:04:07.255Z",
+      "score": 1,
+      "text": "Už 2 dny se nemohu přihlásit , zalozila jsem asi 6 nových účtu,ale přesto, že jsem zadala odemknutí aplikace na otisk, chce to po mě hesla a těch mám 6 a to mě fakt nebaví navíc i když prijde kód SMS i ty jsou špatný !!prý neplatný, jakou bezpečnost to tu předvádíte, když do banky mi stačí otisk. proč??! proč to je vše tak překombinovaný!!! vždyť takový zabezpečení není ani nutný, jedno heslo potvrdit z mailu dalsi heslo 5x z kódu SMS je pokaždý jiný, neplati,odcházím, vše po více ež 20 letech.",
+      "text_normalized": "uz 2 dny se nemohu prihlasit , zalozila jsem asi 6 novych uctu,ale presto, ze jsem zadala odemknuti aplikace na otisk, chce to po me hesla a tech mam 6 a to me fakt nebavi navic i kdyz prijde kod sms i ty jsou spatny !!pry neplatny, jakou bezpecnost to tu predvadite, kdyz do banky mi staci otisk. proc??! proc to je vse tak prekombinovany!!! vzdyt takovy zabezpeceni neni ani nutny, jedno heslo potvrdit z mailu dalsi heslo 5x z kodu sms je pokazdy jiny, neplati,odchazim, vse po vice ez 20 letech.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-20T06:08:24.440Z",
+      "replyText": "Hezký den, Daisy,\nmrzí mě, že máte potíže s přihlášením do aplikace 🙁 Otisk prstu nebo Face ID by měly v aplikaci v pořádku fungovat a aplikace by již heslo neměla vyžadovat. Pokud máte potíže, zavolejte nám na linku *77 a rádi s vámi celou situaci prověříme. Zuzana",
+      "version": "3.9.0"
+    },
+    {
+      "id": "492fd971-2964-4e85-b92c-61b8b7aa1ca8",
+      "userName": "Jaroslav Pihýk",
+      "date": "2026-03-19T20:20:13.510Z",
+      "score": 5,
+      "text": "přehlednost,rychlost, logika",
+      "text_normalized": "prehlednost,rychlost, logika",
+      "segments": [
+        "Vykonnost",
+        "UI"
+      ],
+      "replyDate": "2026-03-20T06:05:31.739Z",
+      "replyText": "Hezký den, Jaroslave,\nděkujeme za kladné hodnocení a jsme rádi, že vám aplikace vyhovuje 🙂 Zuzana",
+      "version": "3.9.0"
+    },
+    {
+      "id": "001c3e9f-f5de-4536-866c-02116d94896d",
+      "userName": "Lenka Havlíčková",
+      "date": "2026-03-19T19:21:54.446Z",
+      "score": 1,
+      "text": "Aplikace je snad ještě horší než ta předchozí...mizerná optimalizace, než se něco načte, trvá to i desítky vteřin...ve správě přístupů se stále zobrazuje původní nastavení, aktualizaci údajů aplikace neuloží, ačkoliv to potvrdí...nejdou odebrat nepoužívaná čísla starých datových karet z administrátorského účtu...před vystavením vyúčtování nejde zjistit podrobnosti o útratě nad rámec tarifu...nejde stáhnout přehled aktivit souvisejících se správou účtu, akce končí chybovou hláškou...atd.atd.",
+      "text_normalized": "aplikace je snad jeste horsi nez ta predchozi...mizerna optimalizace, nez se neco nacte, trva to i desitky vterin...ve sprave pristupu se stale zobrazuje puvodni nastaveni, aktualizaci udaju aplikace neulozi, ackoliv to potvrdi...nejdou odebrat nepouzivana cisla starych datovych karet z administratorskeho uctu...pred vystavenim vyuctovani nejde zjistit podrobnosti o utrate nad ramec tarifu...nejde stahnout prehled aktivit souvisejicich se spravou uctu, akce konci chybovou hlaskou...atd.atd.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-20T06:05:56.473Z",
+      "replyText": "Pěkný den, Lenko,\naplikaci odinstalujte a znovu nainstalujte, tím budete mít jistotu, že máte v telefonu její poslední verzi. Aplikace je svižnější, pokud se vyskytují tyto potíže, vypněte a zapněte telefon. Veronika",
+      "version": "3.9.0"
+    },
+    {
+      "id": "939356b4-952d-43fe-b5b9-b6677607c540",
+      "userName": "Milan Řezníček",
+      "date": "2026-03-19T15:44:48.737Z",
+      "score": 5,
+      "text": "OK!",
+      "text_normalized": "ok!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-19T15:59:16.604Z",
+      "replyText": "Hezký den, Milane,\nděkujeme vám za hodnocení 🙂 Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "200b824b-0612-4822-9327-62a998134ae8",
+      "userName": "Petr Dyl",
+      "date": "2026-03-19T14:35:37.815Z",
+      "score": 1,
+      "text": "Aplikace mě neustále odhlašuje a ruší můj účet! Jo,tak v telefonu to není!To už jsem udělal.",
+      "text_normalized": "aplikace me neustale odhlasuje a rusi muj ucet! jo,tak v telefonu to neni!to uz jsem udelal.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-19T14:21:11.977Z",
+      "replyText": "Dobrý den, Petře,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby to nepomohlo, zavolejte nám na 800 77 00 77, rádi to prověříme na základě konkrétního příkladu. Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "a61d8d88-803f-4ed4-8785-3a295f8af18c",
+      "userName": "Petr Ondracek",
+      "date": "2026-03-19T12:52:36.463Z",
+      "score": 5,
+      "text": "ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-19T13:20:40.896Z",
+      "replyText": "Pěkný den, Petře,\nděkujeme za hodnocení 🙂 Veronika",
+      "version": "3.9.0"
+    },
+    {
+      "id": "f0c07f8b-d92e-4c32-90c4-92e508a6c71b",
+      "userName": "Ladislav Mika",
+      "date": "2026-03-19T11:54:30.630Z",
+      "score": 3,
+      "text": "často se nelze přihlásit a odměny nelze vyzvednout. Nejdříve se vyzvedávání sekne a po refresh napíše, že výhra byla vyzvednuta.",
+      "text_normalized": "casto se nelze prihlasit a odmeny nelze vyzvednout. nejdrive se vyzvedavani sekne a po refresh napise, ze vyhra byla vyzvednuta.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-19T12:33:28.817Z",
+      "replyText": "Pěkný den, Ladislave,\nohledně výhry zákazníkům posíláme SMSku, pokud jste ji dostal a svou výhru se vám nepodařilo najít či aktivovat, napište nám přes https://tam.je/dotaz. Veronika",
+      "version": "3.9.0"
+    },
+    {
+      "id": "1317c97f-430c-47a3-ab91-a24972f5485e",
+      "userName": "Karel Mikšovský",
+      "date": "2026-03-19T11:33:09.398Z",
+      "score": 1,
+      "text": "Nepřehledná, stále něco hledám. Tobi odpovídá nesmysly a nikam se nedá dovolat.",
+      "text_normalized": "neprehledna, stale neco hledam. tobi odpovida nesmysly a nikam se neda dovolat.",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-03-19T12:32:01.781Z",
+      "replyText": "Pěkný den, Karle,\nchápu, že je aplikace rozdílná oproti té původní. Každopádně díky za zpětnou vazbu. Ohledně volání, z aplikace jsme nikdy možnost volání neměli. Veronika",
+      "version": "3.9.0"
+    },
+    {
+      "id": "c7aa296b-eacf-4014-b434-520ff27b3550",
+      "userName": "Ivan Kocek",
+      "date": "2026-03-19T10:52:03.756Z",
+      "score": 5,
+      "text": "Super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-19T11:20:43.189Z",
+      "replyText": "Dobrý den, Ivane,\nděkujeme za hodnocení a jsem moc ráda, že se vám aplikace líbí 🙂 Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "20ed47e4-e27a-4aea-b3a4-1803d269677f",
+      "userName": "Michal",
+      "date": "2026-03-19T10:18:16.174Z",
+      "score": 1,
+      "text": "Nic moc. Přihlásím a jsem za anonym? Chci jen zůstatek kredit a hlídat data. Nikam se nedostanu.",
+      "text_normalized": "nic moc. prihlasim a jsem za anonym? chci jen zustatek kredit a hlidat data. nikam se nedostanu.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-03-19T10:28:53.198Z",
+      "replyText": "Dobrý den, Michale,\npokud využíváte anonymní předplacenou kartu, tak se vám bude tento údaj standardně zobrazovat. Můžete být přihlášení jako administrátor, plátce nebo uživatel. Případně nám prosím napište podrobnosti přes https://tam.je/dotaz, rádi se na to s vámi podíváme. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "b0422472-3fb7-411f-9159-4f1398019a9e",
+      "userName": "Stanis Hornik",
+      "date": "2026-03-19T07:43:52.492Z",
+      "score": 4,
+      "text": "Aplikace chodí dobře :-)",
+      "text_normalized": "aplikace chodi dobre :-)",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-19T07:50:24.415Z",
+      "replyText": "Hezký den, Stanisi,\njsem moc ráda, že jste s aplikací spokojený a děkujeme vám za hodnocení 🙂 Viki\n",
+      "version": "3.9.0"
+    },
+    {
+      "id": "76a52a9e-faf5-45bf-b521-0e420b307813",
+      "userName": "Martas Bláha",
+      "date": "2026-03-19T07:16:12.120Z",
+      "score": 5,
+      "text": "👍",
+      "text_normalized": "👍",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-19T07:20:24.987Z",
+      "replyText": "Dobrý den, Martasi,\nděkujeme vám za hodnocení aplikace 🙂 Jsem ráda, že vám vyhovuje. Viki",
+      "version": "3.9.0"
+    },
     {
       "id": "682cc00a-80ea-4bb5-b4cf-b0b2b4a380f6",
       "userName": "marek minneral248",
@@ -37154,8 +37341,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2568,
-    "extractedAt": "2026-03-20T05:56:26.609Z",
+    "totalReviewsExtracted": 2581,
+    "extractedAt": "2026-03-21T05:45:57.973Z",
     "source": "google-play"
   }
 }
