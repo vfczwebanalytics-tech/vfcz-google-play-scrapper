@@ -1,18 +1,204 @@
 {
   "ratings": {
-    "score": 3.9638827,
+    "score": 3.9541667,
     "scoreText": "4,0",
-    "totalRatings": 4652,
-    "totalReviews": 2033,
+    "totalRatings": 4685,
+    "totalReviews": 2046,
     "histogram": {
-      "1": 755,
-      "2": 241,
-      "3": 304,
-      "4": 461,
-      "5": 2887
+      "1": 761,
+      "2": 253,
+      "3": 301,
+      "4": 487,
+      "5": 2878
     }
   },
   "reviews": [
+    {
+      "id": "1b7d826d-031f-4c73-a94d-85ff6aea8b20",
+      "userName": "Robert Gič (Pepin)",
+      "date": "2026-03-22T22:09:04.220Z",
+      "score": 4,
+      "text": "👍👍👍",
+      "text_normalized": "👍👍👍",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-23T06:38:38.232Z",
+      "replyText": "Hezký den, Roberte,\nděkujeme vám za hodnocení 🙂 Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "62da790d-bedc-4a9c-b5d3-698537ba3374",
+      "userName": "Jiří Skramušský",
+      "date": "2026-03-22T19:00:06.124Z",
+      "score": 1,
+      "text": "Hrůza. Pro ty, kteří spravují více čísel absolutně nepřehledné. Dříve mi aplikace nabídla hned přehledně kdo kolik z mé rodiny vyčerpal dat a mohl jsem nastavit datastrop,tak dnes se musím složitě prohrabávat ,abych se k teto funkci dostal. Taktéž nemohu najít navýšení rychlosti u neomezených tarifů. Tato nová verze aplikace,mi vlastně řekne kolik mám zaplatit a kdy je splatnost. Mimochodem jsem ty funkce hledal v aplikaci i s operátorem a bez výsledku. Velký špatný",
+      "text_normalized": "hruza. pro ty, kteri spravuji vice cisel absolutne neprehledne. drive mi aplikace nabidla hned prehledne kdo kolik z me rodiny vycerpal dat a mohl jsem nastavit datastrop,tak dnes se musim slozite prohrabavat ,abych se k teto funkci dostal. taktez nemohu najit navyseni rychlosti u neomezenych tarifu. tato nova verze aplikace,mi vlastne rekne kolik mam zaplatit a kdy je splatnost. mimochodem jsem ty funkce hledal v aplikaci i s operatorem a bez vysledku. velky spatny",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-03-23T06:36:51.591Z",
+      "replyText": "Pěkný den, Jiří,\nděkujeme vám za zpětnou vazbu, i když pro nás není pozitivní. Budeme se snažit, aby se vám aplikace do budoucna líbila více. Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "b8c4cff9-cb55-4628-aa6d-4e149da01c57",
+      "userName": "Rostislav Bernard",
+      "date": "2026-03-22T18:28:38.890Z",
+      "score": 5,
+      "text": "vše jednoduché",
+      "text_normalized": "vse jednoduche",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-23T06:34:13.146Z",
+      "replyText": "Hezký den, Rostislave,\nděkujeme vám za hodnocení. Jsem ráda, že jste s aplikací spokojený 🙂 Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "d562224b-8a20-4b84-ac78-cbddddc2d66a",
+      "userName": "Monika Zvercová",
+      "date": "2026-03-22T17:23:42.267Z",
+      "score": 5,
+      "text": "naprostá spokojenost prosím můžete mi napsat kolík let jsem vašim zákazníkem a zda se mohu dovolat na zákaznický servis jako před lety",
+      "text_normalized": "naprosta spokojenost prosim muzete mi napsat kolik let jsem vasim zakaznikem a zda se mohu dovolat na zakaznicky servis jako pred lety",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-23T06:32:03.930Z",
+      "replyText": "Pěkný den, Moniko,\nděkujeme vám za hodnocení. Těší mě, že jste spokojená 🙂 Dovoláte se nám na 800 77 00 77, kde vám rádi řekneme další podrobnosti nebo nám můžete se svým dotazem napsat také přes https://tam.je/dotaz, rádi se vám budeme věnovat. Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "f5fc19d4-bf49-4e5d-9c7e-f6400c425d3c",
+      "userName": "Josef Pivovar",
+      "date": "2026-03-22T13:53:31.440Z",
+      "score": 5,
+      "text": "Super apka.😊😊😊",
+      "text_normalized": "super apka.😊😊😊",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-22T14:02:08.329Z",
+      "replyText": "Dobrý den, Josefe,\nděkujeme vám za milé hodnocení 🙂 Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "202f5bc2-6312-4b32-aa53-59bd1653a245",
+      "userName": "Roman Dolejší",
+      "date": "2026-03-22T13:43:53.947Z",
+      "score": 5,
+      "text": "ok.",
+      "text_normalized": "ok.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-22T14:02:43.546Z",
+      "replyText": "Hezký den, Romane,\njsem ráda, že vám aplikace vyhovuje 🙂 Děkujeme za pozitivní hodnocení. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "08d0fb9d-8c85-4118-86b8-01dd0d02cd06",
+      "userName": "Petra Janska",
+      "date": "2026-03-22T13:42:32.119Z",
+      "score": 3,
+      "text": "tato aplikace je v pohodě, ale jejich los jako dárek je na prd. už po druhé jsem setřela los, dala vyzvednout výhru a tam se mi jen ukázalo, že výhra byla vyzvednuta a více o ní najdu v aplikaci. tak samozřejmě nikde nic není a žádná změna ani upozornění se nekoná",
+      "text_normalized": "tato aplikace je v pohode, ale jejich los jako darek je na prd. uz po druhe jsem setrela los, dala vyzvednout vyhru a tam se mi jen ukazalo, ze vyhra byla vyzvednuta a vice o ni najdu v aplikaci. tak samozrejme nikde nic neni a zadna zmena ani upozorneni se nekona",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-22T14:03:51.152Z",
+      "replyText": "Dobrý den, Petro,\nnapište nám prosím podrobnosti přes tento formulář https://tam.je/dotaz. Rádi se na to podíváme. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "4d529125-45a9-463c-91c1-f9bd3c3e6931",
+      "userName": "Jana Juraskova",
+      "date": "2026-03-22T13:40:23.480Z",
+      "score": 5,
+      "text": "moc dobré velmi jsem spokojená",
+      "text_normalized": "moc dobre velmi jsem spokojena",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-22T14:04:52.908Z",
+      "replyText": "Dobrý den, Jano,\nděkujeme vám za hezké hodnocení 🙂 Moc mě těší, že vám aplikace vyhovuje. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "4e16464b-eb33-4992-b1cc-692c2a9dc8b9",
+      "userName": "Jiří Máj",
+      "date": "2026-03-22T13:24:59.411Z",
+      "score": 2,
+      "text": "nepřehledná, padá, naprd",
+      "text_normalized": "neprehledna, pada, naprd",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ],
+      "replyDate": "2026-03-22T13:34:15.195Z",
+      "replyText": "Dobrý den, Jiří,\nmrzí mě, že máte s aplikací špatnou zkušenost. Vývoj pokračuje a funkcionalitu budeme dále rozšiřovat v nadcházejících aktualizacích. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "c34f898d-5011-425a-9b74-abad6854f542",
+      "userName": "adam Zemel",
+      "date": "2026-03-22T12:04:24.300Z",
+      "score": 5,
+      "text": "nice",
+      "text_normalized": "nice",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-22T12:34:04.770Z",
+      "replyText": "Hello Adam,\nthank you for your feedback. I’m pleased to hear you’re satisfied with the app. Viki\n",
+      "version": "3.9.0"
+    },
+    {
+      "id": "6a8006c8-7905-4e52-a84e-c3044b8652a4",
+      "userName": "Jiří Pracuch",
+      "date": "2026-03-22T11:48:39.436Z",
+      "score": 1,
+      "text": "nejhorší apka",
+      "text_normalized": "nejhorsi apka",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-22T12:02:01.118Z",
+      "replyText": "Dobrý den, Jiří,\nmrzí mě vaše nespokojenost. Pokud byste pro nás měl konkrétní zpětnou vazbu, budeme za ni rádi. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "a29a4d68-2eab-485d-9928-e946ad78c620",
+      "userName": "Václav Michálek",
+      "date": "2026-03-22T08:37:45.510Z",
+      "score": 4,
+      "text": "Očekávám další vylepšení, zatím dobrý.",
+      "text_normalized": "ocekavam dalsi vylepseni, zatim dobry.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-22T09:05:27.934Z",
+      "replyText": "Dobrý den, Václave,\nděkujeme za hodnocení 🙂 Na vývoji aplikace stále pracujeme a další funkce budou dostupné v nadcházejících verzích. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "c06816b1-1c02-4aea-a435-007e7f38d42d",
+      "userName": "Tereza Rzacze Alesová",
+      "date": "2026-03-22T06:51:24.569Z",
+      "score": 1,
+      "text": "Mno, aplikace je poměrně stejna jako ta předchozí a Vodafone happy znamená že musíte potvrdit souhlas se všemi cookies a povolit upozornění. ..a to jen pro to aby mu první dárek byl \"NULL\" a smyčka v níž se aplikace restartuje.",
+      "text_normalized": "mno, aplikace je pomerne stejna jako ta predchozi a vodafone happy znamena ze musite potvrdit souhlas se vsemi cookies a povolit upozorneni. ..a to jen pro to aby mu prvni darek byl \"null\" a smycka v niz se aplikace restartuje.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-22T07:55:41.615Z",
+      "replyText": "Dobrý den, Terezo, pokud jste si los setřela a jde o prima+, voucher si neaktivujete v Happy sekci - ale v sekci Služby. Podrobnosti najdete tady: https://www.vodafone.cz/pece/televize/tv-doplnkove-sluzby/vodafone-tv-primaplus/. Případně nám prosím napište přes https://tam.je/dotaz. Viki",
+      "version": "3.9.0"
+    },
     {
       "id": "107bce4f-23af-4049-bb1b-3814239846ea",
       "userName": "Lukáš Žižka",
@@ -37687,8 +37873,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2605,
-    "extractedAt": "2026-03-23T06:12:21.062Z",
+    "totalReviewsExtracted": 2618,
+    "extractedAt": "2026-03-24T06:02:54.464Z",
     "source": "google-play"
   }
 }
