@@ -1,18 +1,220 @@
 {
   "ratings": {
-    "score": 3.9541667,
+    "score": 3.97065,
     "scoreText": "4,0",
-    "totalRatings": 4685,
-    "totalReviews": 2046,
+    "totalRatings": 4728,
+    "totalReviews": 2071,
     "histogram": {
-      "1": 761,
-      "2": 253,
-      "3": 301,
-      "4": 487,
-      "5": 2878
+      "1": 733,
+      "2": 276,
+      "3": 297,
+      "4": 504,
+      "5": 2913
     }
   },
   "reviews": [
+    {
+      "id": "1e22aa85-7772-4b47-bf81-92ea0696415e",
+      "userName": "Zdenek Gremlica",
+      "date": "2026-03-24T05:39:57.436Z",
+      "score": 3,
+      "text": "hrozně složité. všechny dosavadní aplikace od Vodafonu nepoužívám kvůli nezdaru při snaze o dosažení cíle, proč jsem chtěl aplikaci použít. Vodafone jinak používám již od začátku a považuji jej za nejlepšího operátora minimálně v CZ.",
+      "text_normalized": "hrozne slozite. vsechny dosavadni aplikace od vodafonu nepouzivam kvuli nezdaru pri snaze o dosazeni cile, proc jsem chtel aplikaci pouzit. vodafone jinak pouzivam jiz od zacatku a povazuji jej za nejlepsiho operatora minimalne v cz.",
+      "segments": [
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-03-24T06:10:56.519Z",
+      "replyText": "Dobrý den, Zdenku,\nděkujeme za vaši zpětnou vazbu. Napište nám prosím přes https://tam.je/dotaz, co konkrétně se vám v aplikaci nepodařilo vyřešit, rádi se na to s vámi podíváme podrobněji. Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "8e84e9cd-b8e4-4131-942e-90c01ada907f",
+      "userName": "Vojtěch Habich",
+      "date": "2026-03-23T22:09:07.781Z",
+      "score": 1,
+      "text": "Aplikace průměrná. Vodafone Happy sekce vás stojí zbytečný čas s vidinou \"super\" odměn, které vám zabugovaná aplikace nakonec ani nezobrazí.",
+      "text_normalized": "aplikace prumerna. vodafone happy sekce vas stoji zbytecny cas s vidinou \"super\" odmen, ktere vam zabugovana aplikace nakonec ani nezobrazi.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-24T06:09:51.370Z",
+      "replyText": "Dobrý den, Vojtěchu,\nje mi líto, že jste nespokojený 🙁 Jestli se vám výhra nezobrazila, napište nám prosím přes https://tam.je/dotaz, rádi to prověříme. Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "30bc3be0-b005-4ca6-831a-9717296e64ce",
+      "userName": "Kveta29 Bartipanova",
+      "date": "2026-03-23T20:57:04.491Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-24T06:09:17.424Z",
+      "replyText": "Hezký den, Květo,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "694f02cf-d11e-4b9f-a18c-c24ed0e81d26",
+      "userName": "Da Da",
+      "date": "2026-03-23T18:47:17.000Z",
+      "score": 1,
+      "text": "Nejhorší aplikace, opakované výpadky, neintuitivní ovládání pokud náhodou funguje. Nikdy více Vodafone.",
+      "text_normalized": "nejhorsi aplikace, opakovane vypadky, neintuitivni ovladani pokud nahodou funguje. nikdy vice vodafone.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-24T06:10:06.911Z",
+      "replyText": "Pěkný den,\nje mi líto, že jste s aplikací nespokojený a nefunguje správně 🙁 Rádi se na to podíváme konkrétněji, když nám napíšete podrobnosti přes zabezpečený formulář na https://tam.je/dotaz. Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "577de935-09fd-4b40-b0bf-db88cf841889",
+      "userName": "Jan Fojtík",
+      "date": "2026-03-23T18:46:15.391Z",
+      "score": 1,
+      "text": "vyhrál jsem dárek, který ale nejde vyzvednout.",
+      "text_normalized": "vyhral jsem darek, ktery ale nejde vyzvednout.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-24T06:08:58.720Z",
+      "replyText": "Dobrý den, Jane,\nnapište nám prosím bližší informace přes https://tam.je/dotaz, rádi se na to s vámi podíváme. Martina\n",
+      "version": "3.9.0"
+    },
+    {
+      "id": "cc9f2e72-5bac-4869-aa50-295536c2dd3c",
+      "userName": "René Hartman",
+      "date": "2026-03-23T18:16:17.611Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-23T18:39:21.865Z",
+      "replyText": "Dobrý den, René,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "2cdaa10a-f79b-4820-bbc6-647171add75f",
+      "userName": "Sona Dosedelova",
+      "date": "2026-03-23T13:49:57.590Z",
+      "score": 5,
+      "text": "aplikace Vodafone je až moc bezpečná, což se hodnotí, ale zabere čas.",
+      "text_normalized": "aplikace vodafone je az moc bezpecna, coz se hodnoti, ale zabere cas.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-23T14:06:54.430Z",
+      "replyText": "Dobrý den, Soňo,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "5b6f8938-5dee-4740-90ca-73cf9679541f",
+      "userName": "Petra",
+      "date": "2026-03-23T13:38:53.680Z",
+      "score": 1,
+      "text": "strašná aplikace",
+      "text_normalized": "strasna aplikace",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-23T14:08:31.536Z",
+      "replyText": "Dobrý den, Petro,\nje mi líto, že vám aplikace nevyhovuje 🙁 Prosím napište nám přes https://tam.je/dotaz, co konkrétně byste si přála změnit nebo upravit, rádi se podíváme, co by se s tím dalo udělat. Martina",
+      "version": "3.9.0"
+    },
+    {
+      "id": "041dcab3-a12c-4477-8bdf-214cf4bf9a6a",
+      "userName": "Stanislav Akcirij",
+      "date": "2026-03-23T11:01:09.249Z",
+      "score": 4,
+      "text": "dobrý",
+      "text_normalized": "dobry",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-23T11:20:52.286Z",
+      "replyText": "Hezký den, Stanislave, děkujeme za hodnocení 🙂 Jsem ráda, že se vám aplikace líbí 🙂 Petra",
+      "version": "3.9.0"
+    },
+    {
+      "id": "2dd45605-e4b9-4114-aa37-f178e8cfb378",
+      "userName": "Pavel Kubanyi",
+      "date": "2026-03-23T10:04:50.300Z",
+      "score": 2,
+      "text": "Porad hází chybu a je to pomale",
+      "text_normalized": "porad hazi chybu a je to pomale",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-03-23T11:07:39.422Z",
+      "replyText": "Hezký den, Pavle, je mi líto, že máte potíže 🙁 Zkuste aplikaci prosím přeinstalovat, a pokud by to nepomohlo, napište nám prosím podrobnosti na aplikace@vodafone.cz. Prověříme to. Petra",
+      "version": "3.9.0"
+    },
+    {
+      "id": "3ba367a0-815e-4367-a32f-bdffe3873617",
+      "userName": "Jíťa Daňková",
+      "date": "2026-03-23T09:51:45.152Z",
+      "score": 4,
+      "text": "nabízejí zajímavé slevy a akce",
+      "text_normalized": "nabizeji zajimave slevy a akce",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-23T10:17:20.183Z",
+      "replyText": "Hezký den, Jíťo, děkujeme za hodnocení 🙂 Těší mě, že jste s aplikací spokojená 🙂Petra",
+      "version": "3.9.0"
+    },
+    {
+      "id": "1ed54d44-7413-4cf4-bdb2-7a7b8b5f36ac",
+      "userName": "MUDr.Eva Benešová",
+      "date": "2026-03-23T09:12:52.700Z",
+      "score": 1,
+      "text": "Nejodpornější aplikace,není naprosto k ničemu.Nepřišel mi ověřovací kód SMS,pořád mi to hlásí nesmysly.Kdo to zase \"vylepšil\"?????????????????????👎👎👎👎👎👎👎👎👎👎👎👎👎👎 Mnohokrát jsem volala na Vodafone,ale nejde jim to.",
+      "text_normalized": "nejodpornejsi aplikace,neni naprosto k nicemu.neprisel mi overovaci kod sms,porad mi to hlasi nesmysly.kdo to zase \"vylepsil\"?????????????????????👎👎👎👎👎👎👎👎👎👎👎👎👎👎 mnohokrat jsem volala na vodafone,ale nejde jim to.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-23T09:45:00.713Z",
+      "replyText": "Hezký den, Evo, je mi líto, že máte potíže s přihlášením do aplikace 🙁 Napište nám prosím e-mail na aplikace@vodafone.cz. Pomůžeme vám. Petra\n",
+      "version": "3.9.0"
+    },
+    {
+      "id": "5c4335fb-5a0e-4f86-9d66-4f3fb0b2e5f2",
+      "userName": "Elia Brokešová",
+      "date": "2026-03-23T09:05:50.190Z",
+      "score": 2,
+      "text": "Aplikace je víceméně stejná jako předtím. Má šílené performance issues, všechno je hrozně pomalé. Vodafone happy je jen směšná konkurence magenta moments, dostanete jen pofiderni na oko slevy od partnerů, spíš je to produkt placement. Když jsem dostala kupon na prima+, ještě hodinu jsem hledala, kam se uložil, protože už nebyl v vodafone happy, ale úplně jinde.",
+      "text_normalized": "aplikace je vicemene stejna jako predtim. ma silene performance issues, vsechno je hrozne pomale. vodafone happy je jen smesna konkurence magenta moments, dostanete jen pofiderni na oko slevy od partneru, spis je to produkt placement. kdyz jsem dostala kupon na prima+, jeste hodinu jsem hledala, kam se ulozil, protoze uz nebyl v vodafone happy, ale uplne jinde.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-03-23T09:49:56.765Z",
+      "replyText": "Hezký den, Elio, je mi líto, že se vám aplikace nelíbí 🙁 Na jejím vylepšení stále pracujeme, tak pevně věřím, že s ní budete do budoucna spokojenější. Petra",
+      "version": "3.9.0"
+    },
+    {
+      "id": "2575913b-5a30-4ce2-9d36-d9f57c9f696e",
+      "userName": "Tomáš Lukeš",
+      "date": "2026-03-23T07:39:34.666Z",
+      "score": 5,
+      "text": "Fajn kampaň co se týče kola štěstí",
+      "text_normalized": "fajn kampan co se tyce kola stesti",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-23T08:05:22.498Z",
+      "replyText": "Hezký den, Tomáši, děkujeme za hodnocení 🙂 Těší mě, že jste spokojený 🙂 Petra",
+      "version": "3.9.0"
+    },
     {
       "id": "1b7d826d-031f-4c73-a94d-85ff6aea8b20",
       "userName": "Robert Gič (Pepin)",
@@ -37873,8 +38075,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2618,
-    "extractedAt": "2026-03-24T06:02:54.464Z",
+    "totalReviewsExtracted": 2632,
+    "extractedAt": "2026-03-25T06:03:53.522Z",
     "source": "google-play"
   }
 }
