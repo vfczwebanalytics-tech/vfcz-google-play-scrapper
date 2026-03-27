@@ -1,18 +1,173 @@
 {
   "ratings": {
-    "score": 4.0824947,
+    "score": 4.100858,
     "scoreText": "4,1",
-    "totalRatings": 4806,
-    "totalReviews": 2083,
+    "totalRatings": 4847,
+    "totalReviews": 2086,
     "histogram": {
-      "1": 666,
-      "2": 240,
-      "3": 250,
-      "4": 511,
-      "5": 3132
+      "1": 696,
+      "2": 207,
+      "3": 217,
+      "4": 509,
+      "5": 3212
     }
   },
   "reviews": [
+    {
+      "id": "1027637d-5e9a-4f66-a4f9-6a4813cbc306",
+      "userName": "Jiří Pěkný",
+      "date": "2026-03-25T22:43:30.673Z",
+      "score": 5,
+      "text": "super app",
+      "text_normalized": "super app",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-26T06:18:45.629Z",
+      "replyText": "Pěkný den, Jiří,\nděkujeme za hodnocení 🙂 Veronika",
+      "version": "3.9.0"
+    },
+    {
+      "id": "f5e38e12-b591-480a-9afe-8bba8fcfabf1",
+      "userName": "Tomáš Vaněk",
+      "date": "2026-03-25T19:47:32.488Z",
+      "score": 4,
+      "text": "Čím dál dražší neomezený tarif!!!",
+      "text_normalized": "cim dal drazsi neomezeny tarif!!!",
+      "segments": [
+        "Cena"
+      ],
+      "replyDate": "2026-03-26T06:18:25.956Z",
+      "replyText": "Pěkný den, Tomáši,\nděkujeme za hodnocení aplikace. Pokud vám stávající nastavení služeb nevyhovuje, spojte se prosím se zákaznickou linkou na čísle 800 77 00 77. Veronika",
+      "version": "3.9.0"
+    },
+    {
+      "id": "9743697f-2560-4e31-b538-2935219829b7",
+      "userName": "Luboš Drážďanský",
+      "date": "2026-03-25T19:24:18.520Z",
+      "score": 5,
+      "text": "super 😁",
+      "text_normalized": "super 😁",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-26T06:17:30.308Z",
+      "replyText": "Pěkný den, Luboši,\ndekujeme za hodnocení 🙂 Veronika",
+      "version": "3.9.0"
+    },
+    {
+      "id": "1c347ad5-7710-49f6-bccf-98bf98cde801",
+      "userName": "Kubik Dee",
+      "date": "2026-03-25T19:07:44.499Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-26T06:17:44.300Z",
+      "replyText": "Hezký den, Kubiku,\nděkujeme za kladné hodnocení aplikace, těší nás, že jste spokojený 🙂 Zuzana",
+      "version": "3.9.0"
+    },
+    {
+      "id": "d038eb1a-442e-4f39-b4d7-0d70ef096ba7",
+      "userName": "Wiwien Walde",
+      "date": "2026-03-25T17:45:41.391Z",
+      "score": 5,
+      "text": "Vše plně funkční a přehledné",
+      "text_normalized": "vse plne funkcni a prehledne",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-03-25T18:15:26.651Z",
+      "replyText": "Hezký den, Wiwien,\nděkujeme vám za hodnocení. Jsem ráda, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "10232ad1-191c-477e-b6f9-3df9a40f1f1b",
+      "userName": "Vladimir Jelinek",
+      "date": "2026-03-25T17:29:30.531Z",
+      "score": 5,
+      "text": "👍",
+      "text_normalized": "👍",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-25T17:44:12.860Z",
+      "replyText": "Pěkný den, Vladimíre,\nděkujeme vám za hodnocení 🙂 Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "95bc81e6-091f-46cb-9217-f1e3a0484d73",
+      "userName": "Marie Novakova",
+      "date": "2026-03-25T12:44:22.873Z",
+      "score": 5,
+      "text": "spokojenost",
+      "text_normalized": "spokojenost",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-25T13:17:03.503Z",
+      "replyText": "Hezký den, Marie,\njsme rádi, že jste spokojená 🙂 Zuzana",
+      "version": "3.9.0"
+    },
+    {
+      "id": "ab46facc-5c3b-4998-bcc5-6898d108b9aa",
+      "userName": "zlatuše Rozkošná",
+      "date": "2026-03-25T12:39:47.437Z",
+      "score": 5,
+      "text": "dost dobrý",
+      "text_normalized": "dost dobry",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-25T13:16:34.410Z",
+      "replyText": "Hezký den, Zlatuše,\nděkujeme vám za hodnocení. Těší mě, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.8.0"
+    },
+    {
+      "id": "60f6c5be-594a-4015-b9ad-f36762762340",
+      "userName": "Tomas",
+      "date": "2026-03-25T10:46:30.777Z",
+      "score": 5,
+      "text": "výborná aplikace 👌",
+      "text_normalized": "vyborna aplikace 👌",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-25T11:12:29.410Z",
+      "replyText": "Pěkný den, Tomasi,\nděkujeme za hodnocení. Jsem ráda, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "125c2425-fb31-4632-849d-8b28225fa3ca",
+      "userName": "Lenka Hrbová",
+      "date": "2026-03-25T08:32:41.427Z",
+      "score": 1,
+      "text": "Seká se a padá, na odměny vás naláká, ale když si ji chcete vyzvednout, tak vám napíše, že už jste si ji vyzvedli a kde nic, tu nic. Zatím dost nevychytané...",
+      "text_normalized": "seka se a pada, na odmeny vas nalaka, ale kdyz si ji chcete vyzvednout, tak vam napise, ze uz jste si ji vyzvedli a kde nic, tu nic. zatim dost nevychytane...",
+      "segments": [
+        "Vykonnost",
+        "Stabilita"
+      ],
+      "replyDate": "2026-03-25T08:44:36.589Z",
+      "replyText": "Dobrý den, Lenko,\nnapište nám prosím přes https://tam.je/dotaz, rádi se s vámi na tuto situaci podíváme a pomůžeme vám výhru vyzvednout. Martina\n",
+      "version": "3.9.0"
+    },
+    {
+      "id": "22359d08-2121-47a1-b3e2-50d57c09809f",
+      "userName": "Svitlana Haluskova",
+      "date": "2026-03-25T08:28:25.431Z",
+      "score": 5,
+      "text": "spokojenost",
+      "text_normalized": "spokojenost",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-25T08:44:58.739Z",
+      "replyText": "Hezký den, Svitlano,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.9.0"
+    },
     {
       "id": "207c134f-d6cc-458e-a7d9-68afbc6b12dd",
       "userName": "Martin Kováč",
@@ -38418,8 +38573,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2656,
-    "extractedAt": "2026-03-26T06:14:00.443Z",
+    "totalReviewsExtracted": 2667,
+    "extractedAt": "2026-03-27T06:14:17.808Z",
     "source": "google-play"
   }
 }
