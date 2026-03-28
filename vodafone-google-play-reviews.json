@@ -1,18 +1,75 @@
 {
   "ratings": {
-    "score": 4.100858,
+    "score": 4.1010528,
     "scoreText": "4,1",
-    "totalRatings": 4847,
-    "totalReviews": 2086,
+    "totalRatings": 4856,
+    "totalReviews": 2088,
     "histogram": {
-      "1": 696,
-      "2": 207,
-      "3": 217,
-      "4": 509,
-      "5": 3212
+      "1": 705,
+      "2": 203,
+      "3": 214,
+      "4": 500,
+      "5": 3229
     }
   },
   "reviews": [
+    {
+      "id": "496d3c22-dc1a-4d62-84bf-114d98921a55",
+      "userName": "Jiří Vališ",
+      "date": "2026-03-26T21:36:03.732Z",
+      "score": 5,
+      "text": "přehledná, intuitivní, lepší jak předchozí, občas pomalejší přihlášení.",
+      "text_normalized": "prehledna, intuitivni, lepsi jak predchozi, obcas pomalejsi prihlaseni.",
+      "segments": [
+        "UI",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-03-27T06:11:30.854Z",
+      "replyText": "Hezký den, Jiří,\nděkujeme vám za hodnocení a zpětnou vazbu 🙂 Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "20518dcd-2d09-45f8-8bea-e34adc280e85",
+      "userName": "Daniela Stöckbauerová",
+      "date": "2026-03-26T21:06:11.270Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-27T06:11:05.834Z",
+      "replyText": "Pěkný den, Danielo,\nděkujeme za hodnocení. Jsem ráda, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.10.0"
+    },
+    {
+      "id": "7f01e487-df37-49d7-82db-4a64b78f84d7",
+      "userName": "Jiří Nimrichter",
+      "date": "2026-03-26T20:41:43.569Z",
+      "score": 1,
+      "text": "nejhorší app na tv co existuje",
+      "text_normalized": "nejhorsi app na tv co existuje",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-27T06:10:14.767Z",
+      "replyText": "Pěkný den, Jiří,\nje mi líto, pokud s aplikací Vodafone TV nejste spokojený 🙁 V případě, že byste měl zpětnou vazbu k aplikaci Můj Vodafone+, budeme za ni rádi. Lucie",
+      "version": null
+    },
+    {
+      "id": "9809ff44-52cb-491f-847b-e771fcb03089",
+      "userName": "Jaroslav Nauč",
+      "date": "2026-03-26T20:27:14.453Z",
+      "score": 5,
+      "text": "spokojený",
+      "text_normalized": "spokojeny",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-27T06:10:42.341Z",
+      "replyText": "Hezký den, Jaroslave,\nděkujeme za hodnocení. Těší mě, že jste s aplikací spokojený 🙂 Lucie",
+      "version": "3.10.0"
+    },
     {
       "id": "1027637d-5e9a-4f66-a4f9-6a4813cbc306",
       "userName": "Jiří Pěkný",
@@ -38573,8 +38630,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2667,
-    "extractedAt": "2026-03-27T06:14:17.808Z",
+    "totalReviewsExtracted": 2671,
+    "extractedAt": "2026-03-28T06:00:27.067Z",
     "source": "google-play"
   }
 }
