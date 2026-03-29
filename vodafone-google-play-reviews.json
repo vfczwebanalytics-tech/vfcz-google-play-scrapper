@@ -1,18 +1,47 @@
 {
   "ratings": {
-    "score": 4.1010528,
+    "score": 4.106029,
     "scoreText": "4,1",
-    "totalRatings": 4856,
-    "totalReviews": 2088,
+    "totalRatings": 4860,
+    "totalReviews": 2091,
     "histogram": {
-      "1": 705,
-      "2": 203,
-      "3": 214,
-      "4": 500,
-      "5": 3229
+      "1": 696,
+      "2": 201,
+      "3": 222,
+      "4": 504,
+      "5": 3232
     }
   },
   "reviews": [
+    {
+      "id": "43e4fd2d-12e6-488e-a0cf-3c28949dee81",
+      "userName": "Milan Lederer",
+      "date": "2026-03-27T21:30:38.690Z",
+      "score": 1,
+      "text": "pomale neprehledne",
+      "text_normalized": "pomale neprehledne",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-03-28T07:19:19.651Z",
+      "replyText": "Hezký den, Milane,\nje mi líto, že se vám aplikace nelíbí 🙁 Pokud budete mít konkrétní zpětnou vazbu ke zlepšení, budeme za ni rádi. Lucie",
+      "version": "3.10.0"
+    },
+    {
+      "id": "a62c5c66-a4f8-46c8-87b1-66d2a87d009a",
+      "userName": "Moni 163",
+      "date": "2026-03-27T20:55:53.188Z",
+      "score": 3,
+      "text": "Vtipne jsou ty vase vyhry.. Dostala jsem k tarifu neomezene predplatne na prima+ a pak kdyz si jdu setrit vyhru, tak vyhraju na 90 dni prima+ zdarma.. Opravdu vtipna vyhra, kdyz tuto sluzbu jiz vyuzivam.. Takze uplne k nicemu.. 🙄 Navic aplikace je pomala, dlouho se nacita.. Nejsem s ni spokojena. Vyvojare a reseni/vzhled aplikace bych vymenila.",
+      "text_normalized": "vtipne jsou ty vase vyhry.. dostala jsem k tarifu neomezene predplatne na prima+ a pak kdyz si jdu setrit vyhru, tak vyhraju na 90 dni prima+ zdarma.. opravdu vtipna vyhra, kdyz tuto sluzbu jiz vyuzivam.. takze uplne k nicemu.. 🙄 navic aplikace je pomala, dlouho se nacita.. nejsem s ni spokojena. vyvojare a reseni/vzhled aplikace bych vymenila.",
+      "segments": [
+        "Vykonnost",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-28T07:18:43.870Z",
+      "replyText": "Pěkný den,\nmrzí nás, že pro vás výhra nebyla užitečná 🙁 Výhra je jednotná pro všechny a ne vždy se podaří trefit do vkusu každého. Zároveň nás mrzí i vaše zkušenost s aplikací. Neustále na ní pracujeme a budeme se snažit, aby byla rychlejší a spolehlivější. Děkujeme za zpětnou vazbu. Lucie",
+      "version": "3.10.0"
+    },
     {
       "id": "496d3c22-dc1a-4d62-84bf-114d98921a55",
       "userName": "Jiří Vališ",
@@ -38630,8 +38659,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2671,
-    "extractedAt": "2026-03-28T06:00:27.067Z",
+    "totalReviewsExtracted": 2673,
+    "extractedAt": "2026-03-29T06:12:51.816Z",
     "source": "google-play"
   }
 }
