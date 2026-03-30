@@ -1,18 +1,105 @@
 {
   "ratings": {
-    "score": 4.106029,
+    "score": 4.1289062,
     "scoreText": "4,1",
-    "totalRatings": 4860,
-    "totalReviews": 2091,
+    "totalRatings": 4888,
+    "totalReviews": 2101,
     "histogram": {
-      "1": 696,
-      "2": 201,
-      "3": 222,
-      "4": 504,
-      "5": 3232
+      "1": 677,
+      "2": 199,
+      "3": 228,
+      "4": 486,
+      "5": 3293
     }
   },
   "reviews": [
+    {
+      "id": "a76b5e74-0689-4de7-ae01-0e1e06eafbb9",
+      "userName": "Miroslav Šedivý",
+      "date": "2026-03-29T06:52:34.396Z",
+      "score": 5,
+      "text": "od včera mě nejde esim karta v tel a nemám ani signál abych to vyřešil",
+      "text_normalized": "od vcera me nejde esim karta v tel a nemam ani signal abych to vyresil",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-29T07:00:11.872Z",
+      "replyText": "Hezký den, Miroslave,\nje mi líto, že máte potíže 🙁 Napište nám prosím podrobnosti na e-mail aplikace@vodafone.cz, rádi vám pomůžeme. Lucie",
+      "version": "3.10.0"
+    },
+    {
+      "id": "2f5da826-a86c-4863-96d5-8fa21d179b50",
+      "userName": "David Kupeček",
+      "date": "2026-03-28T20:30:29.670Z",
+      "score": 5,
+      "text": "👍🏼",
+      "text_normalized": "👍🏼",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-29T06:16:09.302Z",
+      "replyText": "Pěkný den, Davide,\nděkujeme vám za hodnocení 🙂 Lucie",
+      "version": "3.10.0"
+    },
+    {
+      "id": "0920e1d4-e5ff-4de6-949b-3029065a2313",
+      "userName": "Jiri Pecháček",
+      "date": "2026-03-28T15:02:55.931Z",
+      "score": 1,
+      "text": "Hrůza.provedeno 42-pokusu přihlášení.vysledek 0.0,0,0",
+      "text_normalized": "hruza.provedeno 42-pokusu prihlaseni.vysledek 0.0,0,0",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-03-28T15:25:02.848Z",
+      "replyText": "Pěkný den, Jiří,\nje mi líto, že máte potíže s přihlášením, to by se dít nemělo 🙁 Rádi se na to podíváme konkrétněji, když nám napíšete podrobnosti na e-mail aplikace@vodafone.cz nebo zavoláte na 800 77 00 77. Lucie",
+      "version": null
+    },
+    {
+      "id": "a912e4ea-76b4-4c0d-86f5-ba5f2212957c",
+      "userName": "milos solim",
+      "date": "2026-03-28T14:31:59.430Z",
+      "score": 3,
+      "text": "Proč nepoužívat prefix „Moje“ v názvu aplikací: Abecední chaos: Vše se hromadí pod písmenem M. Hledání podle skutečné značky je pak utrpení. Ořezaný brand: Na ploše je málo místa. „Moje“ často vytlačí název firmy (např. „Moje Velmi…“). Nulová hodnota: Je to uživatelův mobil, ví, že je to jeho aplikace. Je to jen textový šum. Špatné hledání: Lidé hledají Vodafone pod V, ne pod M. Přežitek: Působí to jako trend z roku 2010. Čistý název je profi.",
+      "text_normalized": "proc nepouzivat prefix „moje“ v nazvu aplikaci: abecedni chaos: vse se hromadi pod pismenem m. hledani podle skutecne znacky je pak utrpeni. orezany brand: na plose je malo mista. „moje“ casto vytlaci nazev firmy (napr. „moje velmi…“). nulova hodnota: je to uzivateluv mobil, vi, ze je to jeho aplikace. je to jen textovy sum. spatne hledani: lide hledaji vodafone pod v, ne pod m. prezitek: pusobi to jako trend z roku 2010. cisty nazev je profi.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-28T14:55:15.635Z",
+      "replyText": "Hezký den, Miloši,\nděkujeme vám za zpětnou vazbu, i když pro nás není pozitivní. Aplikaci budeme dále rozvíjet a pevně věřím, že s ní budete do budoucna spokojenější. Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "adb4a043-18b2-43a9-8383-1580b0711a78",
+      "userName": "Ivan Kucin",
+      "date": "2026-03-28T08:42:46.869Z",
+      "score": 5,
+      "text": "OK",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-28T08:53:43.509Z",
+      "replyText": "Hezký den, Ivane,\nděkujeme vám za hodnocení 🙂 Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "55309889-055b-4b33-a584-e77473b79183",
+      "userName": "Václav Mrkvička",
+      "date": "2026-03-28T07:03:41.642Z",
+      "score": 1,
+      "text": "pravidelně nefunguje zrychlení 5g, fakt otravné když to potřebujete",
+      "text_normalized": "pravidelne nefunguje zrychleni 5g, fakt otravne kdyz to potrebujete",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-28T07:23:55.842Z",
+      "replyText": "Pěkný den, Václave,\nje mi líto, že máte potíže 🙁 Rádi se na to podíváme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie\n",
+      "version": "3.10.0"
+    },
     {
       "id": "43e4fd2d-12e6-488e-a0cf-3c28949dee81",
       "userName": "Milan Lederer",
@@ -38659,8 +38746,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2673,
-    "extractedAt": "2026-03-29T06:12:51.816Z",
+    "totalReviewsExtracted": 2679,
+    "extractedAt": "2026-03-30T06:54:37.373Z",
     "source": "google-play"
   }
 }
