@@ -1,18 +1,117 @@
 {
   "ratings": {
-    "score": 4.1289062,
+    "score": 4.1069183,
     "scoreText": "4,1",
-    "totalRatings": 4888,
-    "totalReviews": 2101,
+    "totalRatings": 4914,
+    "totalReviews": 2103,
     "histogram": {
-      "1": 677,
-      "2": 199,
-      "3": 228,
-      "4": 486,
-      "5": 3293
+      "1": 689,
+      "2": 205,
+      "3": 246,
+      "4": 514,
+      "5": 3255
     }
   },
   "reviews": [
+    {
+      "id": "b4d9f3e2-cd2e-402f-b587-663b3990d08c",
+      "userName": "Jan Novak",
+      "date": "2026-03-29T21:09:22.232Z",
+      "score": 1,
+      "text": "Nikdy více.",
+      "text_normalized": "nikdy vice.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-30T05:39:26.897Z",
+      "replyText": "Dobrý den, Jane,\nje mi líto, že jste nespokojený. Jestli potřebujete pomoc s vyřešením nějaké konkrétní záležitosti, zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz. Martina",
+      "version": "3.10.0"
+    },
+    {
+      "id": "aa49433d-66ce-4b15-b4f5-718861f6963a",
+      "userName": "Radka Hýbnerová",
+      "date": "2026-03-29T20:32:00.709Z",
+      "score": 1,
+      "text": "Absolutně katastrofa, ještě horší než původní aplikace.. jen spousta ztraceného času a to co člověk potřebuje to nezařídí... nepřehledné... a nejsem sama... mé okolí je taky zklamané.",
+      "text_normalized": "absolutne katastrofa, jeste horsi nez puvodni aplikace.. jen spousta ztraceneho casu a to co clovek potrebuje to nezaridi... neprehledne... a nejsem sama... me okoli je taky zklamane.",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-03-30T05:37:48.137Z",
+      "replyText": "Dobrý den, Radko,\nje mi líto, že jste s aplikací nespokojená 🙁 Průběžně ji upravujeme a zlepšujeme, takže doufám, že s ní časem budete spokojenější. Martina",
+      "version": "3.10.0"
+    },
+    {
+      "id": "1f434156-e297-45d1-a092-260947285249",
+      "userName": "Miroslav Šilha",
+      "date": "2026-03-29T20:05:58.477Z",
+      "score": 5,
+      "text": "supr",
+      "text_normalized": "supr",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-30T05:35:30.819Z",
+      "replyText": "Dobrý den, Miroslave,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.10.0"
+    },
+    {
+      "id": "662bcd6a-4c45-4617-a1e2-5514ea16faa6",
+      "userName": "David Zdráhal",
+      "date": "2026-03-29T19:17:49.740Z",
+      "score": 1,
+      "text": "Nepřehledná, nekomfortní.",
+      "text_normalized": "neprehledna, nekomfortni.",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-03-30T05:35:14.837Z",
+      "replyText": "Dobrý den, Davide,\nmrzí mě, že se vám aplikace zdá nepřehledná. Na jejích úpravách pracujeme a věřím, že se časem zlepší i pro vás.\nMartina",
+      "version": "3.10.0"
+    },
+    {
+      "id": "1f524dd6-e4f2-4f39-95b5-28985fc76df6",
+      "userName": "david aschiz",
+      "date": "2026-03-29T14:50:23.713Z",
+      "score": 5,
+      "text": "ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-29T14:58:33.224Z",
+      "replyText": "Hezký den, Davide,\nděkujeme vám za hodnocení 🙂 Lucie",
+      "version": "3.10.0"
+    },
+    {
+      "id": "dcf214f0-6e24-4f8f-b304-32f40e52b4d7",
+      "userName": "Kamil Čermák",
+      "date": "2026-03-29T13:09:29.965Z",
+      "score": 5,
+      "text": "Aplikace jak má být",
+      "text_normalized": "aplikace jak ma byt",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-29T13:28:42.389Z",
+      "replyText": "Hezký den, Kamile,\nděkujeme za hodnocení. Těší mě, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.10.0"
+    },
+    {
+      "id": "caefbda4-3bfe-4b65-96db-6066bdd81056",
+      "userName": "ondra tomáš",
+      "date": "2026-03-29T12:48:09.936Z",
+      "score": 1,
+      "text": "nefunguje",
+      "text_normalized": "nefunguje",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-29T13:00:23.574Z",
+      "replyText": "Pěkný den, Ondro,\nje mi líto, že máte potíže 🙁 Rádi se na to podíváme konkrétněji, když nám napíšete detaily přes https://tam.je/dotaz. Lucie",
+      "version": null
+    },
     {
       "id": "a76b5e74-0689-4de7-ae01-0e1e06eafbb9",
       "userName": "Miroslav Šedivý",
@@ -38746,8 +38845,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2679,
-    "extractedAt": "2026-03-30T06:54:37.373Z",
+    "totalReviewsExtracted": 2686,
+    "extractedAt": "2026-03-31T06:17:47.976Z",
     "source": "google-play"
   }
 }
