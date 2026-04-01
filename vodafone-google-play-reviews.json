@@ -1,18 +1,46 @@
 {
   "ratings": {
-    "score": 4.1069183,
+    "score": 4.096907,
     "scoreText": "4,1",
-    "totalRatings": 4914,
-    "totalReviews": 2103,
+    "totalRatings": 4921,
+    "totalReviews": 2108,
     "histogram": {
-      "1": 689,
-      "2": 205,
-      "3": 246,
-      "4": 514,
-      "5": 3255
+      "1": 699,
+      "2": 202,
+      "3": 242,
+      "4": 547,
+      "5": 3226
     }
   },
   "reviews": [
+    {
+      "id": "a238ae68-dd5f-4dc6-95d7-41a3fcf82542",
+      "userName": "krysodlak",
+      "date": "2026-03-30T18:04:15.734Z",
+      "score": 1,
+      "text": "nelze zobrazit udaje o firemním tarifu",
+      "text_normalized": "nelze zobrazit udaje o firemnim tarifu",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-31T05:08:29.349Z",
+      "replyText": "Dobrý den,\njestli máte potíže se získáním informací prostřednictvím aplikace, dejte nám prosím vědět přes https://tam.je/dotaz, o co konkrétně se jedná. Rádi se na to s vámi podíváme. Martina",
+      "version": null
+    },
+    {
+      "id": "1a46d425-42a4-4d84-9bff-4df43bccf159",
+      "userName": "Jana Rosendorfová",
+      "date": "2026-03-30T09:51:53.421Z",
+      "score": 5,
+      "text": "Děkuji vám za vaši podporu a pomoc při hledání na mém novém telefonu kterému vůbec! nerozumím.",
+      "text_normalized": "dekuji vam za vasi podporu a pomoc pri hledani na mem novem telefonu kteremu vubec! nerozumim.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-30T10:10:15.125Z",
+      "replyText": "Hezký den, Jano, děkujeme za hodnocení 🙂 Vaše spokojenost je pro nás důležitá. Petra",
+      "version": "3.4.1"
+    },
     {
       "id": "b4d9f3e2-cd2e-402f-b587-663b3990d08c",
       "userName": "Jan Novak",
@@ -38845,8 +38873,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2686,
-    "extractedAt": "2026-03-31T06:17:47.976Z",
+    "totalReviewsExtracted": 2688,
+    "extractedAt": "2026-04-01T06:27:19.199Z",
     "source": "google-play"
   }
 }
