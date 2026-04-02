@@ -1,18 +1,76 @@
 {
   "ratings": {
-    "score": 4.096907,
+    "score": 4.074297,
     "scoreText": "4,1",
-    "totalRatings": 4921,
+    "totalRatings": 4933,
     "totalReviews": 2108,
     "histogram": {
-      "1": 699,
-      "2": 202,
-      "3": 242,
-      "4": 547,
-      "5": 3226
+      "1": 722,
+      "2": 208,
+      "3": 246,
+      "4": 553,
+      "5": 3198
     }
   },
   "reviews": [
+    {
+      "id": "a7cffdfd-f9cd-4d07-857c-80a3c9df134a",
+      "userName": "Jakub Ryška",
+      "date": "2026-03-31T17:30:24.941Z",
+      "score": 1,
+      "text": "nefunguje zrychlovani internetu",
+      "text_normalized": "nefunguje zrychlovani internetu",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-31T17:38:56.172Z",
+      "replyText": "Hezký den, Jakube, je mi líto, že máte potíže s aktivací zrychlení 🙁 Podrobné informace uvádíme na https://www.vodafone.cz/pece/tarify-sluzby/red-tarify/zrychleni-na-maximum/. Pokud by potíže přetrvávaly, napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Pomůžeme vám. Petra\n",
+      "version": "3.10.0"
+    },
+    {
+      "id": "97184a37-c9d2-44aa-b91b-712df7815cfe",
+      "userName": "Petra Havlenová",
+      "date": "2026-03-31T14:58:16.645Z",
+      "score": 1,
+      "text": "Nefunkční, je úplně k ničemu.",
+      "text_normalized": "nefunkcni, je uplne k nicemu.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-31T15:20:29.880Z",
+      "replyText": "Hezký den, Petro, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Pokud máte s aplikací potíže, napište nám prosím zpětnou vazbu na aplikace@vodafone.cz. Na vše se s vámi podíváme konkrétněji. Petra\n",
+      "version": "3.7.0"
+    },
+    {
+      "id": "ec6868f6-c05d-49a0-b916-19a02c1d4c31",
+      "userName": "Libuše Petrakova",
+      "date": "2026-03-31T10:28:38.280Z",
+      "score": 1,
+      "text": "proč to nefunguje? Soutěže Velikonoce?? To si děláte srandu?.",
+      "text_normalized": "proc to nefunguje? souteze velikonoce?? to si delate srandu?.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-31T10:37:32.444Z",
+      "replyText": "Pěkný den, Libuše,\nje mi líto, že došlo k nějaké nepříjemnosti. Z vaší zprávy však není patrné, co se stalo. Napište nám prosím k tomu podrobnosti přes https://tam.je/dotaz a nezapomeňte přiložit i screenshoty. Veronika",
+      "version": "3.10.0"
+    },
+    {
+      "id": "34d9dd1d-ee38-4b67-97aa-de2952b894fc",
+      "userName": "Mirda SLAVIA",
+      "date": "2026-03-31T08:53:10.745Z",
+      "score": 5,
+      "text": "naprostá spokojenost 🔴⚪.",
+      "text_normalized": "naprosta spokojenost 🔴⚪.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-31T09:05:57.610Z",
+      "replyText": "Pěkný den, Mirdo,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.10.0"
+    },
     {
       "id": "a238ae68-dd5f-4dc6-95d7-41a3fcf82542",
       "userName": "krysodlak",
@@ -38873,8 +38931,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2688,
-    "extractedAt": "2026-04-01T06:27:19.199Z",
+    "totalReviewsExtracted": 2692,
+    "extractedAt": "2026-04-02T06:13:54.529Z",
     "source": "google-play"
   }
 }
