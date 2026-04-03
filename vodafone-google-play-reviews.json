@@ -1,18 +1,33 @@
 {
   "ratings": {
-    "score": 4.074297,
+    "score": 4.071429,
     "scoreText": "4,1",
-    "totalRatings": 4933,
-    "totalReviews": 2108,
+    "totalRatings": 4938,
+    "totalReviews": 2111,
     "histogram": {
-      "1": 722,
-      "2": 208,
-      "3": 246,
-      "4": 553,
-      "5": 3198
+      "1": 724,
+      "2": 204,
+      "3": 254,
+      "4": 558,
+      "5": 3193
     }
   },
   "reviews": [
+    {
+      "id": "9b2df331-746b-40f5-84b9-b9a467a9236b",
+      "userName": "Josef K",
+      "date": "2026-04-01T14:57:20.357Z",
+      "score": 1,
+      "text": "Není aktivace plné rychlosti dat už několik aktualizací, jde jen přes web. Celá aplikace pomalá a k ničemu.",
+      "text_normalized": "neni aktivace plne rychlosti dat uz nekolik aktualizaci, jde jen pres web. cela aplikace pomala a k nicemu.",
+      "segments": [
+        "Vykonnost",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-04-01T15:15:48.911Z",
+      "replyText": "Hezký den, Josefe,\nje mi líto, že jste nespokojený 🙁 Zrychlení na maximum v pořádku aktivujete přes aplikaci Můj Vodafone na úvodní stránce, stačí vybrat službu pro kterou chcete zrychlení aktivovat. Pokud máte potíže napište nám přes zabezpečený formulář https://tam.je/dotaz a situaci prověříme. Zuzana",
+      "version": "3.10.1"
+    },
     {
       "id": "a7cffdfd-f9cd-4d07-857c-80a3c9df134a",
       "userName": "Jakub Ryška",
@@ -38931,8 +38946,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2692,
-    "extractedAt": "2026-04-02T06:13:54.529Z",
+    "totalReviewsExtracted": 2693,
+    "extractedAt": "2026-04-03T06:13:25.850Z",
     "source": "google-play"
   }
 }
