@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 4.051724,
-    "scoreText": "4,1",
-    "totalRatings": 4960,
+    "score": 4.0405116,
+    "scoreText": "4,0",
+    "totalRatings": 4965,
     "totalReviews": 2114,
     "histogram": {
-      "1": 737,
-      "2": 224,
-      "3": 234,
-      "4": 608,
-      "5": 3152
+      "1": 740,
+      "2": 232,
+      "3": 242,
+      "4": 613,
+      "5": 3132
     }
   },
   "reviews": [
+    {
+      "id": "dacbe295-91bb-4b72-9c1f-6e9e4e2b3514",
+      "userName": "Vladimír Čech",
+      "date": "2026-04-05T22:35:55.933Z",
+      "score": 1,
+      "text": "Jestli bych měl jmenovat hlavní důvod, proč chystám po mnoha letech odchod od Vodafonu, tak jsou to jeho mobilní aplikace. Už toho testování, co uživatel vydrží, mám dost.",
+      "text_normalized": "jestli bych mel jmenovat hlavni duvod, proc chystam po mnoha letech odchod od vodafonu, tak jsou to jeho mobilni aplikace. uz toho testovani, co uzivatel vydrzi, mam dost.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-04-06T05:58:48.569Z",
+      "replyText": "Hezký den, Vladimíre,\nmrzí mě, že jste s aplikací nespokojený, a že je to hlavní důvod přechodu jinam 🙁 Zavolejte nám na linku *77 a nebo nám napište přes zabezpečený formulář https://tam.je/dotaz a rádi se s vámi na situaci podíváme. Zuzana",
+      "version": null
+    },
     {
       "id": "74bf7d47-cf76-4fbf-b946-bfc2ed8441ee",
       "userName": "Standa Bednář",
@@ -38990,8 +39004,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2696,
-    "extractedAt": "2026-04-06T06:56:13.569Z",
+    "totalReviewsExtracted": 2697,
+    "extractedAt": "2026-04-07T06:20:30.056Z",
     "source": "google-play"
   }
 }
