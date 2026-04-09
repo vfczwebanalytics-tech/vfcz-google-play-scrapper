@@ -1,18 +1,34 @@
 {
   "ratings": {
-    "score": 4.048626,
-    "scoreText": "4,0",
-    "totalRatings": 4969,
-    "totalReviews": 2114,
+    "score": 4.0514402,
+    "scoreText": "4,1",
+    "totalRatings": 4981,
+    "totalReviews": 2116,
     "histogram": {
-      "1": 724,
-      "2": 241,
-      "3": 241,
-      "4": 619,
-      "5": 3140
+      "1": 727,
+      "2": 234,
+      "3": 245,
+      "4": 614,
+      "5": 3156
     }
   },
   "reviews": [
+    {
+      "id": "ca264f39-0529-46ca-93d4-218f2247f2e7",
+      "userName": "Mozart",
+      "date": "2026-04-08T05:39:05.193Z",
+      "score": 1,
+      "text": "Dobrý den, minulá apk byla super přehledná. Proč vymyšlite novou, když to není dotažené pořádně do konce .Hrůza 👎👎👎👎👎👎😠😠😠😠😠😠🫣🫣🫣",
+      "text_normalized": "dobry den, minula apk byla super prehledna. proc vymyslite novou, kdyz to neni dotazene poradne do konce .hruza 👎👎👎👎👎👎😠😠😠😠😠😠🫣🫣🫣",
+      "segments": [
+        "UI",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-08T06:08:12.687Z",
+      "replyText": "Dobrý den, Mozarte,\nje mi líto, že se vám nová aplikace zdá nepřehledná 🙁 Aplikaci budeme dál rozvíjet, tak třeba vám bude čase vyhovovat více. Martina",
+      "version": "3.10.1"
+    },
     {
       "id": "b76d8164-4636-4103-aafd-68bfb9df379e",
       "userName": "Eliška Kánová",
@@ -39018,8 +39034,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2698,
-    "extractedAt": "2026-04-08T06:22:26.196Z",
+    "totalReviewsExtracted": 2699,
+    "extractedAt": "2026-04-09T06:22:50.518Z",
     "source": "google-play"
   }
 }
