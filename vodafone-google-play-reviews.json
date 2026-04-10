@@ -1,18 +1,63 @@
 {
   "ratings": {
-    "score": 4.0514402,
-    "scoreText": "4,1",
-    "totalRatings": 4981,
-    "totalReviews": 2116,
+    "score": 4.0402412,
+    "scoreText": "4,0",
+    "totalRatings": 4992,
+    "totalReviews": 2117,
     "histogram": {
-      "1": 727,
-      "2": 234,
-      "3": 245,
-      "4": 614,
-      "5": 3156
+      "1": 732,
+      "2": 240,
+      "3": 251,
+      "4": 632,
+      "5": 3133
     }
   },
   "reviews": [
+    {
+      "id": "28504916-5c02-4715-a6f2-630629d4596b",
+      "userName": "Igor Igy Šmelko",
+      "date": "2026-04-08T16:39:06.821Z",
+      "score": 1,
+      "text": "aplikace a přihlášení vůbec nefunguje.",
+      "text_normalized": "aplikace a prihlaseni vubec nefunguje.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-08T17:08:43.200Z",
+      "replyText": "Pěkný den, Igore,\nplošné potíže s přihlášením do aplikace nemáme. Přihlašujete se e-mailovou adresou a vlastním heslem. Budu ráda, když nám k tomu napíšete více podrobností na e-mailovou adresu aplikace@vodafone.cz a přiložíte i screenshoty. Veronika",
+      "version": null
+    },
+    {
+      "id": "9a38405a-128b-498b-8479-282f4f3a001f",
+      "userName": "Volodymyr Holubka",
+      "date": "2026-04-08T08:21:00.350Z",
+      "score": 1,
+      "text": "je to odměna za věrnost nebo \"nabídka třetích stran \"",
+      "text_normalized": "je to odmena za vernost nebo \"nabidka tretich stran \"",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-04-08T08:39:16.905Z",
+      "replyText": "Dobrý den, Volodymyre,\nnejsem si jistá, čeho se vaše hodnocení týká. Prosím zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi se na to s vámi podíváme konkrétně. Martina\n",
+      "version": "3.10.1"
+    },
+    {
+      "id": "16fdfe78-e340-48e3-a7dc-2ca0f6008ebe",
+      "userName": "Martin Koci",
+      "date": "2026-04-08T06:50:00.900Z",
+      "score": 1,
+      "text": "Aplikace nefunguje, při otevření aplikace se stále jen točí logo Vodafonu. Přeinstalování aplikace nepomohlo. Google Pixel 10.",
+      "text_normalized": "aplikace nefunguje, pri otevreni aplikace se stale jen toci logo vodafonu. preinstalovani aplikace nepomohlo. google pixel 10.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-08T07:16:38.356Z",
+      "replyText": "Dobrý den, Martine,\nje dobře, že jste zkusil aplikaci přeinstalovat. Ještě prosím vyzkoušejte přepnutí mezi připojením přes Wi-Fi a přes mobilní data. Kdyby to nepomohlo, napište nám přes https://tam.je/dotaz, rádi to prověříme na konkrétním příkladu. Martina\n",
+      "version": "3.10.1"
+    },
     {
       "id": "ca264f39-0529-46ca-93d4-218f2247f2e7",
       "userName": "Mozart",
@@ -39034,8 +39079,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2699,
-    "extractedAt": "2026-04-09T06:22:50.518Z",
+    "totalReviewsExtracted": 2702,
+    "extractedAt": "2026-04-10T06:54:42.221Z",
     "source": "google-play"
   }
 }
