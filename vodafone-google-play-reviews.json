@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 4.0402412,
-    "scoreText": "4,0",
-    "totalRatings": 4992,
-    "totalReviews": 2117,
+    "score": 4.055437,
+    "scoreText": "4,1",
+    "totalRatings": 5004,
+    "totalReviews": 2120,
     "histogram": {
-      "1": 732,
-      "2": 240,
-      "3": 251,
-      "4": 632,
-      "5": 3133
+      "1": 713,
+      "2": 244,
+      "3": 244,
+      "4": 639,
+      "5": 3157
     }
   },
   "reviews": [
+    {
+      "id": "5aa13084-033d-4e3e-b94f-849b110f76b9",
+      "userName": "Ondřej Dufek",
+      "date": "2026-04-10T05:06:09.576Z",
+      "score": 1,
+      "text": "z předchozí aplikace mi tekla voda ze zubů, a tohle tomu vážně moc nepomáhá, neustále mě to odhlašuje všude stačí jen otisk tady musím neustále generovat hesla atd atd .......... (17 let s Vodafone ale posledních pár let to stojí zato)",
+      "text_normalized": "z predchozi aplikace mi tekla voda ze zubu, a tohle tomu vazne moc nepomaha, neustale me to odhlasuje vsude staci jen otisk tady musim neustale generovat hesla atd atd .......... (17 let s vodafone ale poslednich par let to stoji zato)",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-04-10T05:14:25.480Z",
+      "replyText": "Hezký den, Ondřeji,\ntakové potíže mě mrzí, to by se dít nemělo 🙁 Rádi se na to s vámi podíváme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie\n",
+      "version": "3.10.1"
+    },
     {
       "id": "28504916-5c02-4715-a6f2-630629d4596b",
       "userName": "Igor Igy Šmelko",
@@ -39079,8 +39093,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2702,
-    "extractedAt": "2026-04-10T06:54:42.221Z",
+    "totalReviewsExtracted": 2703,
+    "extractedAt": "2026-04-11T06:03:16.472Z",
     "source": "google-play"
   }
 }
