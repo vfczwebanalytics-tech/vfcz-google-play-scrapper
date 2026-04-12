@@ -1,18 +1,61 @@
 {
   "ratings": {
-    "score": 4.055437,
+    "score": 4.0556703,
     "scoreText": "4,1",
-    "totalRatings": 5004,
-    "totalReviews": 2120,
+    "totalRatings": 5021,
+    "totalReviews": 2125,
     "histogram": {
-      "1": 713,
-      "2": 244,
-      "3": 244,
-      "4": 639,
-      "5": 3157
+      "1": 723,
+      "2": 237,
+      "3": 237,
+      "4": 651,
+      "5": 3166
     }
   },
   "reviews": [
+    {
+      "id": "48e992ad-c920-4a0e-9734-54df0c6e2ece",
+      "userName": "Pošlete mi to sem",
+      "date": "2026-04-11T05:12:30.759Z",
+      "score": 1,
+      "text": "Cokoli sem psát nemá žádný účinek. Nevede to ke zlepšení, ani k pozitivní uživatelské zkušenosti. Aplikaci si zřejmě vývojáři udělali sami pro sebe, aby se měli v čem hrabat, aby měli zaměstnání. Když vás vyzvou abyste popsali problém, a poslali jim to mailem, nemá to žádný další efekt. Jsou to pořád dokola omílané odpovědi. Nejlepší řešení je aplikaci se úplně vyhnout.",
+      "text_normalized": "cokoli sem psat nema zadny ucinek. nevede to ke zlepseni, ani k pozitivni uzivatelske zkusenosti. aplikaci si zrejme vyvojari udelali sami pro sebe, aby se meli v cem hrabat, aby meli zamestnani. kdyz vas vyzvou abyste popsali problem, a poslali jim to mailem, nema to zadny dalsi efekt. jsou to porad dokola omilane odpovedi. nejlepsi reseni je aplikaci se uplne vyhnout.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-04-11T12:00:13.454Z",
+      "replyText": "Hezký den, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.11.0"
+    },
+    {
+      "id": "46d8a13f-a244-4f15-992c-5739c5bd142f",
+      "userName": "Ladislav Jaroš",
+      "date": "2026-04-10T20:29:22.851Z",
+      "score": 4,
+      "text": "Aplikace už je teď mnohem lepší z funkčního hlediska, byť zůstává trochu težkopádná a pomalejší. Nechápu že třeba u bankovní aplikace to funguje vše řádově rychleji (v řádech maximálně sekund a ne desítek sekund jako tady) a to jde o prachy a ne o služby.",
+      "text_normalized": "aplikace uz je ted mnohem lepsi z funkcniho hlediska, byt zustava trochu tezkopadna a pomalejsi. nechapu ze treba u bankovni aplikace to funguje vse radove rychleji (v radech maximalne sekund a ne desitek sekund jako tady) a to jde o prachy a ne o sluzby.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-11T11:58:33.701Z",
+      "replyText": "Hezký den, Ladislave, děkujeme za hodnocení 🙂 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že vám do budoucna bude vyhovovat více 🙂 Petra",
+      "version": "3.10.1"
+    },
+    {
+      "id": "5f1e8ae3-5ae2-40a4-a041-805642365f3b",
+      "userName": "Zdeněk Starý",
+      "date": "2026-04-10T16:51:09.912Z",
+      "score": 1,
+      "text": "pomale, neustale se nacita, dvoufazove overovani na stejnem zarizeni (nesnysl), chaoticke.",
+      "text_normalized": "pomale, neustale se nacita, dvoufazove overovani na stejnem zarizeni (nesnysl), chaoticke.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-04-10T17:17:00.278Z",
+      "replyText": "Dobrý den, Zdeňku,\nje mi líto, že vám aplikace nevyhovuje. Budeme ji dál postupně vylepšovat a nové funkce přidáme v dalších aktualizacích. Dvoufázové přihlašování zůstává, to neměníme, případně si můžete aktivovat biometriku. Viki",
+      "version": "3.10.1"
+    },
     {
       "id": "5aa13084-033d-4e3e-b94f-849b110f76b9",
       "userName": "Ondřej Dufek",
@@ -39093,8 +39136,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2703,
-    "extractedAt": "2026-04-11T06:03:16.472Z",
+    "totalReviewsExtracted": 2706,
+    "extractedAt": "2026-04-12T06:24:16.511Z",
     "source": "google-play"
   }
 }
