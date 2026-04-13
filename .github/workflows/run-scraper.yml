@@ -30,4 +30,5 @@ jobs:
           git config user.email "actions@github.com"
           git add vodafone-google-play-reviews.json
           git commit -m "Auto update reviews" || echo "No changes"
-          git push
+          git pull
+          git push origin main
