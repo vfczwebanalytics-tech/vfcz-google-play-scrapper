@@ -1,18 +1,107 @@
 {
   "ratings": {
-    "score": 4.0556703,
-    "scoreText": "4,1",
-    "totalRatings": 5021,
-    "totalReviews": 2125,
+    "score": 4.0241446,
+    "scoreText": "4,0",
+    "totalRatings": 5032,
+    "totalReviews": 2129,
     "histogram": {
-      "1": 723,
-      "2": 237,
-      "3": 237,
-      "4": 651,
-      "5": 3166
+      "1": 759,
+      "2": 231,
+      "3": 263,
+      "4": 647,
+      "5": 3127
     }
   },
   "reviews": [
+    {
+      "id": "58a1456a-ff1a-4338-b71f-d7b8f2e4b751",
+      "userName": "Petr Pařízek",
+      "date": "2026-04-11T18:53:46.530Z",
+      "score": 1,
+      "text": "jedno přihlášení, navýšení jiného než zadaného čísla, a už se nejde přihlásit. Teď jsem odříznutý od internetu. Well, když někdo umí, tak umí.",
+      "text_normalized": "jedno prihlaseni, navyseni jineho nez zadaneho cisla, a uz se nejde prihlasit. ted jsem odriznuty od internetu. well, kdyz nekdo umi, tak umi.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-04-12T06:52:15.493Z",
+      "replyText": "Hezký den, Petře, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Pokud bysta potřeboval s čímkoliv pomoci, napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Rádi se vám budeme věnovat. Petra\n",
+      "version": "3.11.0"
+    },
+    {
+      "id": "9f951264-8693-4f32-8a2c-5a3356cf332e",
+      "userName": "Jan Balzak",
+      "date": "2026-04-11T16:21:41.686Z",
+      "score": 3,
+      "text": "Aplikace běží líp a svižněji než předchozí verze, ale co chybí je: na hlavní straně když mám předplacenou kartu a obnovující se balíček, chybí údaj kolik dní zbývá do konce předplaceného balíčku na staré aplikaci toto bylo. Pozor neplést si z údajem konec platnosti karty.☝️",
+      "text_normalized": "aplikace bezi lip a svizneji nez predchozi verze, ale co chybi je: na hlavni strane kdyz mam predplacenou kartu a obnovujici se balicek, chybi udaj kolik dni zbyva do konce predplaceneho balicku na stare aplikaci toto bylo. pozor neplest si z udajem konec platnosti karty.☝️",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-04-12T06:50:24.150Z",
+      "replyText": "Hezký den, Jane, děkujeme za hodnocení. Váš podnět pro přidání platnosti balíčku kolegům, kteří mají vývoj aplikace na starosti, předám. Petra",
+      "version": "3.11.0"
+    },
+    {
+      "id": "34ee941e-5498-4e40-8039-4ed5b3e584e0",
+      "userName": "Robert Štefek",
+      "date": "2026-04-11T15:58:36.498Z",
+      "score": 1,
+      "text": "Jak pitomci mi neustále vypinate přihlášení otiskem,a pak mě posíláte dokola kódy na mail,sms a to třikrát týdně. S každou Vaší aktualizací se přihlašuji jako poprvé. Za mě s Vodafone nespokojenost.",
+      "text_normalized": "jak pitomci mi neustale vypinate prihlaseni otiskem,a pak me posilate dokola kody na mail,sms a to trikrat tydne. s kazdou vasi aktualizaci se prihlasuji jako poprve. za me s vodafone nespokojenost.",
+      "segments": [
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-12T06:58:19.647Z",
+      "replyText": "Hezký den, Roberte, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Platnost biometrického přihlášení je 30 dnů a je potřeba se znovu přihlásit, pokud se z aplikace manuálně odhlásíte. Petra",
+      "version": "3.11.0"
+    },
+    {
+      "id": "1dcd95c9-5837-4444-8a02-a7f05bc4e961",
+      "userName": "Martin Skoda",
+      "date": "2026-04-11T14:59:46.267Z",
+      "score": 1,
+      "text": "aplikace pouze tlačí nákupy balíčků a dalších služeb. ale například historii volání nelze dohledat. jejich chatbot taky neporadí, dodá odkaz, který nikam nevede",
+      "text_normalized": "aplikace pouze tlaci nakupy balicku a dalsich sluzeb. ale napriklad historii volani nelze dohledat. jejich chatbot taky neporadi, doda odkaz, ktery nikam nevede",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-04-12T06:44:48.843Z",
+      "replyText": "Hezký den, Martine, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.11.0"
+    },
+    {
+      "id": "02477b6a-e51a-4ac1-aa91-1418ec28eb8d",
+      "userName": "RnK",
+      "date": "2026-04-11T14:55:02.761Z",
+      "score": 3,
+      "text": "aplikace už aspoň trochu funguje narozdíl od předchůdce ale stále je tu jeden problém který mi vadí když chci dobít kredit a to je absence Google pay proto jenom tři hvězdy",
+      "text_normalized": "aplikace uz aspon trochu funguje narozdil od predchudce ale stale je tu jeden problem ktery mi vadi kdyz chci dobit kredit a to je absence google pay proto jenom tri hvezdy",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-12T06:46:52.207Z",
+      "replyText": "Hezký den, děkujeme za hodnocení. Pro platbu přes Google Pay hledáme technické řešení. Nemohu vám ale přidání této platební metody potvrdit. Petra",
+      "version": "3.11.0"
+    },
+    {
+      "id": "6e4a9f52-70d2-4ea6-a6b9-935783efed8e",
+      "userName": "Roman Karasz",
+      "date": "2026-04-11T07:45:27.762Z",
+      "score": 3,
+      "text": "Zatím nemám důvod dát více hvězd.",
+      "text_normalized": "zatim nemam duvod dat vice hvezd.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-04-11T12:08:21.441Z",
+      "replyText": "Hezký den, Romane, děkujeme za hodnocení. Na vylepšení aplikace stále pracujeme. Věřím, že do budoucna se vám aplikace bude líbit více 🙂 Petra",
+      "version": "3.11.0"
+    },
     {
       "id": "48e992ad-c920-4a0e-9734-54df0c6e2ece",
       "userName": "Pošlete mi to sem",
@@ -39136,8 +39225,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2706,
-    "extractedAt": "2026-04-12T06:24:16.511Z",
+    "totalReviewsExtracted": 2712,
+    "extractedAt": "2026-04-13T07:16:26.285Z",
     "source": "google-play"
   }
 }
