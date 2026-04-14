@@ -1,18 +1,77 @@
 {
   "ratings": {
-    "score": 4.0241446,
+    "score": 4.0058594,
     "scoreText": "4,0",
-    "totalRatings": 5032,
-    "totalReviews": 2129,
+    "totalRatings": 5047,
+    "totalReviews": 2134,
     "histogram": {
-      "1": 759,
-      "2": 231,
-      "3": 263,
-      "4": 647,
-      "5": 3127
+      "1": 778,
+      "2": 236,
+      "3": 255,
+      "4": 679,
+      "5": 3094
     }
   },
   "reviews": [
+    {
+      "id": "0f1a6ecf-c6dd-4fce-b3ca-3f4793e140bf",
+      "userName": "Petr Skrlant",
+      "date": "2026-04-13T06:51:59.722Z",
+      "score": 1,
+      "text": "dlouho se čeká než se tam dostanu a nepřehledné",
+      "text_normalized": "dlouho se ceka nez se tam dostanu a neprehledne",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-04-13T07:01:38.325Z",
+      "replyText": "Dobrý den, Petře,\nje mi líto, že aplikace nesplnila vaše očekávání 🙁 Na vývoji stále pracujeme a další zlepšení a funkce budou dostupné v nadcházejících verzích. Viki",
+      "version": "3.11.0"
+    },
+    {
+      "id": "b6dc17af-443f-45da-aada-fa10ff779040",
+      "userName": "Lukáš Moudrý",
+      "date": "2026-04-13T05:38:12.801Z",
+      "score": 1,
+      "text": "Bylo rychlejší se přihlásit do webu a zaplatit tam. Aplikace nebyla schopná mi ukázat vyúčtování.",
+      "text_normalized": "bylo rychlejsi se prihlasit do webu a zaplatit tam. aplikace nebyla schopna mi ukazat vyuctovani.",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-04-13T05:56:35.541Z",
+      "replyText": "Dobrý den, Lukáši,\nomlouvám se za potíže 🙁 Zkuste prosím aplikaci odinstalovat, restartovat telefon a pak ji nainstalovat zpět. Kdyby to nepomohlo, napište nám prosím podrobnosti přes https://tam.je/dotaz a připojte screen chyby do přílohy + jaký typ telefonu používáte. Viki",
+      "version": null
+    },
+    {
+      "id": "dddbdeee-190a-40e2-884c-641d3615a623",
+      "userName": "Jaromír Vaněk",
+      "date": "2026-04-12T11:16:21.277Z",
+      "score": 2,
+      "text": "Dřívější aplikace byla přehledná, nyní nevidím kolik mám dnů do konce obnovy balíčku, kredit nenabijím každý týden, tak abych měl dost času si ho nabít. TOBi je pak absolutně k ničemu, neví co po něm žádám a stále odkazuje na nesmyslné a nefungující odkazy. Měl by mít možnost poskytnout zákazníkovi informace přesné, včetně možností sdělení kódů do SMS pro různé balíčky. Za mě byla předešlá app lepší a přehledná, nyní se musím prokopávat doslova různými odkazy které mě zavedou jinam než je třeba",
+      "text_normalized": "drivejsi aplikace byla prehledna, nyni nevidim kolik mam dnu do konce obnovy balicku, kredit nenabijim kazdy tyden, tak abych mel dost casu si ho nabit. tobi je pak absolutne k nicemu, nevi co po nem zadam a stale odkazuje na nesmyslne a nefungujici odkazy. mel by mit moznost poskytnout zakaznikovi informace presne, vcetne moznosti sdeleni kodu do sms pro ruzne balicky. za me byla predesla app lepsi a prehledna, nyni se musim prokopavat doslova ruznymi odkazy ktere me zavedou jinam nez je treba",
+      "segments": [
+        "UI",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-04-12T11:22:01.551Z",
+      "replyText": "Hezký den, Jaromíre, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.11.0"
+    },
+    {
+      "id": "7360ca3c-77bc-4540-8bae-5ef425bba35a",
+      "userName": "Jiři Kašpar",
+      "date": "2026-04-12T09:54:47.899Z",
+      "score": 4,
+      "text": "naprostá spokojenost",
+      "text_normalized": "naprosta spokojenost",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-12T10:59:20.214Z",
+      "replyText": "Hezký den, Jiří, děkujeme za hodnocení 🙂 Vaše spokojenost je pro nás důležitá. Petra",
+      "version": "3.9.0"
+    },
     {
       "id": "58a1456a-ff1a-4338-b71f-d7b8f2e4b751",
       "userName": "Petr Pařízek",
@@ -39225,8 +39284,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2712,
-    "extractedAt": "2026-04-13T07:16:26.285Z",
+    "totalReviewsExtracted": 2716,
+    "extractedAt": "2026-04-14T06:54:05.127Z",
     "source": "google-play"
   }
 }
