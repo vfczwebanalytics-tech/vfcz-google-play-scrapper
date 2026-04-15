@@ -1,18 +1,77 @@
 {
   "ratings": {
-    "score": 4.0058594,
+    "score": 4.0063157,
     "scoreText": "4,0",
-    "totalRatings": 5047,
-    "totalReviews": 2134,
+    "totalRatings": 5058,
+    "totalReviews": 2135,
     "histogram": {
-      "1": 778,
-      "2": 236,
-      "3": 255,
-      "4": 679,
-      "5": 3094
+      "1": 797,
+      "2": 223,
+      "3": 244,
+      "4": 670,
+      "5": 3119
     }
   },
   "reviews": [
+    {
+      "id": "0db0d5d6-bb9c-428c-8108-2fbc178d3eb1",
+      "userName": "Stepan Prudil",
+      "date": "2026-04-13T18:47:26.796Z",
+      "score": 1,
+      "text": "Stále se přihlašovat? Proč. Vždy nové heslo, každý měsíc s novým vyúčtováním. Peklo 🤷‍♂️🤦‍♂️",
+      "text_normalized": "stale se prihlasovat? proc. vzdy nove heslo, kazdy mesic s novym vyuctovanim. peklo 🤷‍♂️🤦‍♂️",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-04-14T05:11:42.652Z",
+      "replyText": "Pěkný den, pane Stepane,\ndo aplikace se přihlašujete e-mailovou adresou a vlastním heslem, máte také možnost nastavit si biometriku. Není tedy důvod zadávat opakovaně nové heslo. Napište nám prosím k tomu podrobnosti přes https://tam.je/dotaz a rádi se na vše podíváme. Veronika",
+      "version": "3.11.0"
+    },
+    {
+      "id": "f52bda97-54bb-4864-9c67-02055ee333ed",
+      "userName": "Adam Vybíral (Zolomon)",
+      "date": "2026-04-13T12:45:17.890Z",
+      "score": 1,
+      "text": "aplikace mě pořád odhlašuje z účtu, někdy nejde načíst, je pomalá. katastrofa...",
+      "text_normalized": "aplikace me porad odhlasuje z uctu, nekdy nejde nacist, je pomala. katastrofa...",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-04-13T13:01:54.670Z",
+      "replyText": "Hezký den, Adame, Platnost biometrického přihlášení vyprší, pokud aplikaci přeinstalujete., pokud aplikaci nepoužijete více jak 30 dnů nebo se ručně odhlásíte. V případě, že se aplikace nenačítá nebo je pomalá, zkuste ji prosím přeinstalovat. Petra",
+      "version": "3.11.0"
+    },
+    {
+      "id": "b7fa308f-8193-4178-9061-8958ae22fd45",
+      "userName": "Pá",
+      "date": "2026-04-13T10:35:13.653Z",
+      "score": 4,
+      "text": "v aplikaci neni datum kdy končí internetový balíček",
+      "text_normalized": "v aplikaci neni datum kdy konci internetovy balicek",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-04-13T10:58:56.562Z",
+      "replyText": "Hezký den, Pá,\nděkujeme vám za zpětnou vazbu a hodnocení aplikace. Tuto funkci - zobrazení platnosti u nových balíčků pro předplacené karty připravujeme a vyjde v jedné z následujících aktualizací. Viki",
+      "version": "3.10.1"
+    },
+    {
+      "id": "ca3c4a1c-2c15-440b-89cf-be964cb1d538",
+      "userName": "Lubomir Kuban",
+      "date": "2026-04-13T08:51:51.450Z",
+      "score": 1,
+      "text": "Přes četné aktualizace funguje otřesně. To je v dnešní době problém udělat funkční aplikaci. Aplikací mám v mobilu dost a ostatní fungují . Asi toho nefunguje více, protože aktivace datového balíčku trvala 7 hodin.",
+      "text_normalized": "pres cetne aktualizace funguje otresne. to je v dnesni dobe problem udelat funkcni aplikaci. aplikaci mam v mobilu dost a ostatni funguji . asi toho nefunguje vice, protoze aktivace datoveho balicku trvala 7 hodin.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-13T09:00:18.859Z",
+      "replyText": "Dobrý den, Lubomíre,\nmrzí mě, že aplikace u vás nefungovala podle očekávání. Některé změny nebo aktivace služeb se mohou projevit až do 24 hodin, takže je mi líto, pokud se úprava neprojevila hned. Na zlepšování aplikace průběžně pracujeme a věřím, že do budoucna s ní budete spokojenější. Viki",
+      "version": "3.11.0"
+    },
     {
       "id": "0f1a6ecf-c6dd-4fce-b3ca-3f4793e140bf",
       "userName": "Petr Skrlant",
@@ -39284,8 +39343,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2716,
-    "extractedAt": "2026-04-14T06:54:05.127Z",
+    "totalReviewsExtracted": 2720,
+    "extractedAt": "2026-04-15T06:56:07.508Z",
     "source": "google-play"
   }
 }
