@@ -1,18 +1,33 @@
 {
   "ratings": {
-    "score": 4.0063157,
+    "score": 4.0102882,
     "scoreText": "4,0",
-    "totalRatings": 5058,
-    "totalReviews": 2135,
+    "totalRatings": 5068,
+    "totalReviews": 2141,
     "histogram": {
-      "1": 797,
-      "2": 223,
-      "3": 244,
-      "4": 670,
-      "5": 3119
+      "1": 802,
+      "2": 218,
+      "3": 239,
+      "4": 667,
+      "5": 3138
     }
   },
   "reviews": [
+    {
+      "id": "0483d3cc-24f3-4609-bd8e-58ed2b1e170b",
+      "userName": "Olča Nyjherová",
+      "date": "2026-04-14T08:22:22.844Z",
+      "score": 1,
+      "text": "POKAŽDÉ když otevřu aplikaci, tak po mě chtějí nějakou aktualizaci, chtějí mi dát dárek typu tAdY mÁtE tELleViZi za 1kč PoKUd nÁm uPíšete seBe a cELoU sVoji rOdiNu do oTroCtvÍ a BuDeTe nÁm za tO pLatiT. A když už se konečně dostanu do aplikace přes všechny vyskakovací okna tak zjistím že mi zase přičetli k vyúčtování 10-30kc za mimořádné výdaje o kterých se nikde nemůžu dočíst co jsou a nikdo mi to není schopen říct když volám!!!!!",
+      "text_normalized": "pokazde kdyz otevru aplikaci, tak po me chteji nejakou aktualizaci, chteji mi dat darek typu tady mate tellevizi za 1kc pokud nam upisete sebe a celou svoji rodinu do otroctvi a budete nam za to platit. a kdyz uz se konecne dostanu do aplikace pres vsechny vyskakovaci okna tak zjistim ze mi zase pricetli k vyuctovani 10-30kc za mimoradne vydaje o kterych se nikde nemuzu docist co jsou a nikdo mi to neni schopen rict kdyz volam!!!!!",
+      "segments": [
+        "Obmezene_funkce",
+        "Cena"
+      ],
+      "replyDate": "2026-04-14T08:33:25.854Z",
+      "replyText": "Pěkný den, Olčo,\naplikaci aktualizujeme častěji záměrně – kvůli bezpečnosti, opravám chyb a postupnému zlepšování funkcí, aby vše fungovalo co nejplynuleji. Rádi vše s vámi konkrétně prověříme.\nProsím, napište nám přes https://tam.je/dotaz, ať můžeme situaci detailně dořešit. Veronika",
+      "version": "3.11.0"
+    },
     {
       "id": "0db0d5d6-bb9c-428c-8108-2fbc178d3eb1",
       "userName": "Stepan Prudil",
@@ -39343,8 +39358,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2720,
-    "extractedAt": "2026-04-15T06:56:07.508Z",
+    "totalReviewsExtracted": 2721,
+    "extractedAt": "2026-04-16T06:57:53.025Z",
     "source": "google-play"
   }
 }
