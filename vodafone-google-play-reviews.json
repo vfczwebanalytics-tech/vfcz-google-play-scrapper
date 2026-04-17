@@ -1,18 +1,92 @@
 {
   "ratings": {
-    "score": 4.0102882,
+    "score": 3.9919517,
     "scoreText": "4,0",
-    "totalRatings": 5068,
-    "totalReviews": 2141,
+    "totalRatings": 5078,
+    "totalReviews": 2145,
     "histogram": {
-      "1": 802,
-      "2": 218,
-      "3": 239,
-      "4": 667,
-      "5": 3138
+      "1": 837,
+      "2": 214,
+      "3": 234,
+      "4": 653,
+      "5": 3136
     }
   },
   "reviews": [
+    {
+      "id": "7af01229-6687-453c-800a-0507afcd7be3",
+      "userName": "Martin",
+      "date": "2026-04-15T22:20:33.895Z",
+      "score": 1,
+      "text": "Aplikace je vhodná tak na kontrolu a dobíjení kreditu. Balíčky v ní nevidím, takže je nemůžu ani používat.",
+      "text_normalized": "aplikace je vhodna tak na kontrolu a dobijeni kreditu. balicky v ni nevidim, takze je nemuzu ani pouzivat.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-04-16T07:59:13.100Z",
+      "replyText": "Dobrý den, Martine,\nděkujeme za připomínku. Doplnění balíčků připravujeme v některé z nejbližších aktualizací aplikace, proto vás prosím o trpělivost, brzy už budete moct balíčky spravovat v aplikaci. Martina",
+      "version": "3.11.0"
+    },
+    {
+      "id": "f9436558-be84-4d75-ab99-a30f02388a13",
+      "userName": "Svatopluk Machát",
+      "date": "2026-04-15T19:48:41.687Z",
+      "score": 5,
+      "text": "ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-04-16T05:09:12.610Z",
+      "replyText": "Dobrý den, Svatopluku,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.4.1"
+    },
+    {
+      "id": "ffd2c668-f253-4931-909b-823e3b557478",
+      "userName": "Prisma 17#",
+      "date": "2026-04-15T17:52:09.454Z",
+      "score": 1,
+      "text": "Už nefunguje skoro nic.",
+      "text_normalized": "uz nefunguje skoro nic.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-16T05:08:53.157Z",
+      "replyText": "Dobrý den,\nzavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, co konkrétně vám v aplikaci nefunguje. Rádi to prověříme. Martina",
+      "version": "3.11.0"
+    },
+    {
+      "id": "d376c4da-5799-4fd4-ba7b-0674aa0f5504",
+      "userName": "Mathias Matzner",
+      "date": "2026-04-15T17:22:59.900Z",
+      "score": 1,
+      "text": "!!NESTAHUJE APLIKACI NEVYPLATÍ SE TO!! aplikace úplně na h*v*o, nic tam nefunguje chci si upravit služby: nejde rozkliknout jediné co mi funguje je že si můžu vybrat jestli chci světlý nebo tmavý motiv, nechápu tu aplikaci a ani vývojáře aplikace má tolik chyb ze kdybych je měl vypsat tak oslavím 2× Vánoce 🤣 radši si zavolám na operátora.",
+      "text_normalized": "!!nestahuje aplikaci nevyplati se to!! aplikace uplne na h*v*o, nic tam nefunguje chci si upravit sluzby: nejde rozkliknout jedine co mi funguje je ze si muzu vybrat jestli chci svetly nebo tmavy motiv, nechapu tu aplikaci a ani vyvojare aplikace ma tolik chyb ze kdybych je mel vypsat tak oslavim 2× vanoce 🤣 radsi si zavolam na operatora.",
+      "segments": [
+        "Stabilita",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-15T17:36:41.162Z",
+      "replyText": "Pěkný den, Mathiasi,\nnová aplikace umí již všechny možnosti té původní, nicméně ji stále vyvíjíme a pravidelně častěji aktualizujeme. Záleží však na tom, jaké úpravy nastavení služeb se pokoušíte provést. Pošlete nám k tomu konkrétní informace přes https://tam.je/dotaz. Veronika",
+      "version": "3.11.0"
+    },
+    {
+      "id": "e25da8bc-dc36-430e-a124-680cf3b8f1d1",
+      "userName": "Standa Muenster",
+      "date": "2026-04-15T14:04:08.199Z",
+      "score": 1,
+      "text": "hruza, nelze ani aktualizovat...asi se jim rozbil slavny, xl let stale nefungujici, Tobi",
+      "text_normalized": "hruza, nelze ani aktualizovat...asi se jim rozbil slavny, xl let stale nefungujici, tobi",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-04-15T14:37:23.635Z",
+      "replyText": "Pěkný den, Stando,\nje to zvláštní, naopak nyní probíhají aktualizace častěji. Pokud vám to nastavení vašeho telefonu neumožňuje, tak aplikaci odinstalujte, telefon vypněte a zapněte a poté aplikaci znovu nainstalujte. Veronika",
+      "version": "3.10.1"
+    },
     {
       "id": "0483d3cc-24f3-4609-bd8e-58ed2b1e170b",
       "userName": "Olča Nyjherová",
@@ -39358,8 +39432,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2721,
-    "extractedAt": "2026-04-16T06:57:53.025Z",
+    "totalReviewsExtracted": 2726,
+    "extractedAt": "2026-04-17T06:58:43.138Z",
     "source": "google-play"
   }
 }
