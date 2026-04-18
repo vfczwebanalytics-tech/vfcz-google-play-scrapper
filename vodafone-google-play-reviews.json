@@ -1,18 +1,48 @@
 {
   "ratings": {
-    "score": 3.9919517,
+    "score": 3.9801588,
     "scoreText": "4,0",
-    "totalRatings": 5078,
-    "totalReviews": 2145,
+    "totalRatings": 5085,
+    "totalReviews": 2147,
     "histogram": {
-      "1": 837,
-      "2": 214,
-      "3": 234,
-      "4": 653,
-      "5": 3136
+      "1": 847,
+      "2": 220,
+      "3": 241,
+      "4": 645,
+      "5": 3126
     }
   },
   "reviews": [
+    {
+      "id": "104b8727-82ea-47d6-b0c7-fb6b1c58ae5d",
+      "userName": "Milan Follauf",
+      "date": "2026-04-16T20:26:23.621Z",
+      "score": 1,
+      "text": "K čemu tahle aplikace vlastně je? Už dva měsíce nelze přes aplikaci zaplatit vyúčtování i když mám aplikaci aktuální. Zadám platební údaje, dám potvrdit a aplikace spadne. Mezi tím mi přijde kód z banky, který nemám kam zadat. Změna osobních údajů nejde. Kontakt přes aplikaci nejde. Tobi k ničemu. Takže aplikaci mažu a hold zaplatím jednou za měsíc přes stránky Vodafonu. Stejně všechno musím dělat tam.",
+      "text_normalized": "k cemu tahle aplikace vlastne je? uz dva mesice nelze pres aplikaci zaplatit vyuctovani i kdyz mam aplikaci aktualni. zadam platebni udaje, dam potvrdit a aplikace spadne. mezi tim mi prijde kod z banky, ktery nemam kam zadat. zmena osobnich udaju nejde. kontakt pres aplikaci nejde. tobi k nicemu. takze aplikaci mazu a hold zaplatim jednou za mesic pres stranky vodafonu. stejne vsechno musim delat tam.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-04-17T05:10:41.673Z",
+      "replyText": "Dobrý den, Milane,\npopsané potíže s platbou aktuálně neevidujeme. Přesto nás mrzí, že aplikace nefungovala podle očekávání. Prosím zkuste ji ještě přeinstalovat a kdyby to nepomohlo, napište nám podrobnosti přes https://tam.je/dotaz (přidejte prosím screen chyby a taky typ telefonu). Viki",
+      "version": null
+    },
+    {
+      "id": "4f505766-e01e-4cec-a82e-13689f766497",
+      "userName": "Petr Kwaki",
+      "date": "2026-04-16T07:18:00.683Z",
+      "score": 3,
+      "text": "Tv občas vypadává",
+      "text_normalized": "tv obcas vypadava",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-04-16T07:38:48.890Z",
+      "replyText": "Hezký den, Petře,\nděkujeme za hodnocení aplikace, a mrzí mě, že máte občasné potíže 🙁 Doporučuji aplikaci přeinstalovat na aktuální verzi, věřím, že to bude v pořádku. Pokud by potíže trvaly, zavolejte nám na linku *77 a kolegové se na to s vámi podívají. Zuzana",
+      "version": "3.7.0"
+    },
     {
       "id": "7af01229-6687-453c-800a-0507afcd7be3",
       "userName": "Martin",
@@ -39432,8 +39462,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2726,
-    "extractedAt": "2026-04-17T06:58:43.138Z",
+    "totalReviewsExtracted": 2728,
+    "extractedAt": "2026-04-18T06:14:30.156Z",
     "source": "google-play"
   }
 }
