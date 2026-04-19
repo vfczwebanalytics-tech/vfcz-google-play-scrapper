@@ -1,18 +1,63 @@
 {
   "ratings": {
-    "score": 3.9801588,
+    "score": 3.9683545,
     "scoreText": "4,0",
-    "totalRatings": 5085,
-    "totalReviews": 2147,
+    "totalRatings": 5094,
+    "totalReviews": 2148,
     "histogram": {
-      "1": 847,
-      "2": 220,
-      "3": 241,
-      "4": 645,
-      "5": 3126
+      "1": 869,
+      "2": 225,
+      "3": 225,
+      "4": 644,
+      "5": 3127
     }
   },
   "reviews": [
+    {
+      "id": "c5feb048-0966-403a-9e2d-411ab7df5e1b",
+      "userName": "Darek Rusnák",
+      "date": "2026-04-18T05:16:23.978Z",
+      "score": 1,
+      "text": "Jako sorry, ale úplně k ničemu. Inovace=0. Je lepší jít rovnou přes web ! Tam jsou alespoň správné údaje. Dát tam email adresu kterou již asi 12 let nepoužívám, ale na webu je správná ověřená... Za co tam víc jak 21 let platím IT oddělení nechápu.",
+      "text_normalized": "jako sorry, ale uplne k nicemu. inovace=0. je lepsi jit rovnou pres web ! tam jsou alespon spravne udaje. dat tam email adresu kterou jiz asi 12 let nepouzivam, ale na webu je spravna overena... za co tam vic jak 21 let platim it oddeleni nechapu.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-04-18T06:17:53.236Z",
+      "replyText": "Hezký den, Darku,\nje mi líto, že nejste spokojený s aplikací 🙁 Zároveň mě ale teší, že vám vyhovuje alespoň webová samoobsluha Můj Vodafone. Zuzana",
+      "version": "3.11.0"
+    },
+    {
+      "id": "1e6f7595-962e-4f5b-b004-df956b290bbd",
+      "userName": "Dušan Šťastný",
+      "date": "2026-04-17T19:35:36.873Z",
+      "score": 1,
+      "text": "Nefunkční app. Je zvláštní že nikomu z Vodafonu nevadí, že už několikátý měsíc nejde zaplatit kartou, že je apka zpomalená, že nezobrazí zvolený účet na domovské stránce atd. Čím větší firma, tím horší aplikace. viz např Voyo.",
+      "text_normalized": "nefunkcni app. je zvlastni ze nikomu z vodafonu nevadi, ze uz nekolikaty mesic nejde zaplatit kartou, ze je apka zpomalena, ze nezobrazi zvoleny ucet na domovske strance atd. cim vetsi firma, tim horsi aplikace. viz napr voyo.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-04-18T06:16:33.522Z",
+      "replyText": "Hezký den, Dušane,\nje mi líto, že jste s aplikací nespokojený 🙁 Doporučuji aplikaci přeinstalovat, poté by vám měly funkce v pořádku fungovat. Pokud by potíže trvaly, zavolejte nám na linku *77 nebo nám napište přes zabezpečený formulář https://tam.je/dotaz, kolegové to s vámi prověří. Zuzana",
+      "version": "3.11.0"
+    },
+    {
+      "id": "98d80710-ab87-4219-811c-190b5fb695d3",
+      "userName": "Petr Kypta",
+      "date": "2026-04-17T09:26:03.821Z",
+      "score": 4,
+      "text": "v Chromu se přihlasím ale v aplikaci ne píše ajaja. Po vaší radě už apka funguje zatím spokojenost",
+      "text_normalized": "v chromu se prihlasim ale v aplikaci ne pise ajaja. po vasi rade uz apka funguje zatim spokojenost",
+      "segments": [
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-16T14:12:43.651Z",
+      "replyText": "Dobrý den, Petře,\nje mi líto, že máte potíže s přihlášením 😕 Pokud se v prohlížeči přihlásíte, ale v aplikaci se zobrazuje chyba, doporučujeme aktualizaci, případně ji přeinstalovat a zkusit přihlášení přes mobilní data. Pokud používáte VPN, prosím zkuste ji vypnout. Viki",
+      "version": "3.11.0"
+    },
     {
       "id": "104b8727-82ea-47d6-b0c7-fb6b1c58ae5d",
       "userName": "Milan Follauf",
@@ -39462,8 +39507,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2728,
-    "extractedAt": "2026-04-18T06:14:30.156Z",
+    "totalReviewsExtracted": 2731,
+    "extractedAt": "2026-04-19T06:48:18.831Z",
     "source": "google-play"
   }
 }
