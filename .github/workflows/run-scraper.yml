@@ -6,6 +6,9 @@ on:
 jobs:
   run:
     runs-on: ubuntu-latest
+    concurrency:
+      group: scraper
+      cancel-in-progress: false
     steps:
       - name: Checkout repo
         uses: actions/checkout@v5
@@ -25,8 +28,11 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git config pull.rebase true
-          git pull origin main
           git add vodafone-google-play-reviews.json
-          git commit -m "Auto update reviews" || echo "No changes"
-          git push origin main
+          git diff --cached --quiet && echo "No changes, skipping" && exit 0
+          git commit -m "Auto update reviews"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin main && break
+            echo "Retry $i failed, waiting..."
+            sleep 5
+          done
