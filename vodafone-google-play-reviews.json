@@ -1,18 +1,34 @@
 {
   "ratings": {
-    "score": 3.9755602,
+    "score": 3.971774,
     "scoreText": "4,0",
-    "totalRatings": 5112,
-    "totalReviews": 2151,
+    "totalRatings": 5117,
+    "totalReviews": 2152,
     "histogram": {
-      "1": 874,
-      "2": 217,
-      "3": 217,
-      "4": 644,
-      "5": 3154
+      "1": 876,
+      "2": 226,
+      "3": 215,
+      "4": 639,
+      "5": 3156
     }
   },
   "reviews": [
+    {
+      "id": "3613401d-0e1a-4c25-886c-fb9d1a7be0b4",
+      "userName": "Tomáš",
+      "date": "2026-04-20T12:00:53.573Z",
+      "score": 2,
+      "text": "teď už nejak apka funguje. spousta věcí ale lze jwn přes web a ne přes apku. zároveň v kontaknich údajích vytáhla apka starý mail z dob, kdy jsem si účet zakládal. od té doby již měněno a maily chodily správně. a změnit to nejde.",
+      "text_normalized": "ted uz nejak apka funguje. spousta veci ale lze jwn pres web a ne pres apku. zaroven v kontaknich udajich vytahla apka stary mail z dob, kdy jsem si ucet zakladal. od te doby jiz meneno a maily chodily spravne. a zmenit to nejde.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-20T12:27:27.460Z",
+      "replyText": "Dobrý den, Tomáši,\nděkujeme za zpětnou vazbu. Prosím napište nám přes https://tam.je/dotaz, rádi kontaktní údaje zkontrolujeme a pomůžeme vám se změnou. Viki",
+      "version": "3.11.0"
+    },
     {
       "id": "cc34e8c6-9eb3-439b-b564-c0996815b566",
       "userName": "Vit Rusar",
@@ -87,6 +103,20 @@
       "replyDate": "2026-04-17T05:10:41.673Z",
       "replyText": "Dobrý den, Milane,\npopsané potíže s platbou aktuálně neevidujeme. Přesto nás mrzí, že aplikace nefungovala podle očekávání. Prosím zkuste ji ještě přeinstalovat a kdyby to nepomohlo, napište nám podrobnosti přes https://tam.je/dotaz (přidejte prosím screen chyby a taky typ telefonu). Viki",
       "version": null
+    },
+    {
+      "id": "48e992ad-c920-4a0e-9734-54df0c6e2ece",
+      "userName": "Pošlete mi to sem",
+      "date": "2026-04-16T11:03:18.218Z",
+      "score": 1,
+      "text": "Cokoli sem psát nemá žádný účinek. Nevede to ke zlepšení, ani k pozitivní uživatelské zkušenosti. Aplikaci si zřejmě vývojáři udělali sami pro sebe, aby se měli v čem hrabat, aby měli zaměstnání. Když vás vyzvou abyste popsali problém, a poslali jim to mailem, nemá to žádný další efekt. Jsou to pořád dokola omílané odpovědi. Nejlepší řešení je aplikaci se úplně vyhnout. Čtyři hvězdičky hodnocení? Při tolika negativních reakcích to je jistě díky falešným pozitivním recenzím.",
+      "text_normalized": "cokoli sem psat nema zadny ucinek. nevede to ke zlepseni, ani k pozitivni uzivatelske zkusenosti. aplikaci si zrejme vyvojari udelali sami pro sebe, aby se meli v cem hrabat, aby meli zamestnani. kdyz vas vyzvou abyste popsali problem, a poslali jim to mailem, nema to zadny dalsi efekt. jsou to porad dokola omilane odpovedi. nejlepsi reseni je aplikaci se uplne vyhnout. ctyri hvezdicky hodnoceni? pri tolika negativnich reakcich to je jiste diky falesnym pozitivnim recenzim.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-04-11T12:00:13.454Z",
+      "replyText": "Hezký den, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.11.0"
     },
     {
       "id": "4f505766-e01e-4cec-a82e-13689f766497",
@@ -175,6 +205,21 @@
       "replyDate": "2026-04-15T14:37:23.635Z",
       "replyText": "Pěkný den, Stando,\nje to zvláštní, naopak nyní probíhají aktualizace častěji. Pokud vám to nastavení vašeho telefonu neumožňuje, tak aplikaci odinstalujte, telefon vypněte a zapněte a poté aplikaci znovu nainstalujte. Veronika",
       "version": "3.10.1"
+    },
+    {
+      "id": "4c353af4-86d9-4b91-a369-62a3f11d6aa7",
+      "userName": "Max Zorin",
+      "date": "2026-04-15T06:21:01.743Z",
+      "score": 1,
+      "text": "Tak dlouho, jsem Vám psal, že je apk pomalá, signál v Ostravě žalostný, až jsem přešel k T-Mobile. Cena (retenční) ta samá a signál 100% všude. I tam, kde VDF hlásil off-line!",
+      "text_normalized": "tak dlouho, jsem vam psal, ze je apk pomala, signal v ostrave zalostny, az jsem presel k t-mobile. cena (retencni) ta sama a signal 100% vsude. i tam, kde vdf hlasil off-line!",
+      "segments": [
+        "Vykonnost",
+        "Cena"
+      ],
+      "replyDate": "2026-03-02T06:23:19.560Z",
+      "replyText": "Hezký den, Maxi,\nje mi líto, že se vám aplikace nelíbí 🙁 Aplikaci nadále vyvíjíme a pevně věřím, že do budoucna se vám bude líbit více. Lucie",
+      "version": null
     },
     {
       "id": "0483d3cc-24f3-4609-bd8e-58ed2b1e170b",
@@ -355,6 +400,23 @@
       "version": "3.11.0"
     },
     {
+      "id": "cb00edc9-98ea-4877-bb93-a010b08e7e83",
+      "userName": "Linda Lysakova",
+      "date": "2026-04-11T15:45:24.197Z",
+      "score": 1,
+      "text": "Úplně debilní aplikace. Nastavím biometrické přihlašování, chvíli to jede bez problému, pak to opět chce pro přihlášení email a heslo... To by nebyl problém, kdyby mi pokaždé, ale POKAŽDÉ nehlásilo, že je jeden z údajů nesprávný. Takže již po několikáté opět nové heslo, opět několikafázové ověření , abych vůbec mohla zaplatit paušál. Udělejte s tím něco. AKTUALIZACE: Další měsíc a další nervy, opět nutnost přihlášení (NIKDY NEODHLAŠUJI) a opět heslo nefunguje!! Ruším 2*,dávám 1* a odinstalace.",
+      "text_normalized": "uplne debilni aplikace. nastavim biometricke prihlasovani, chvili to jede bez problemu, pak to opet chce pro prihlaseni email a heslo... to by nebyl problem, kdyby mi pokazde, ale pokazde nehlasilo, ze je jeden z udaju nespravny. takze jiz po nekolikate opet nove heslo, opet nekolikafazove overeni , abych vubec mohla zaplatit pausal. udelejte s tim neco. aktualizace: dalsi mesic a dalsi nervy, opet nutnost prihlaseni (nikdy neodhlasuji) a opet heslo nefunguje!! rusim 2*,davam 1* a odinstalace.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-12T06:53:35.423Z",
+      "replyText": "Hezký den, Lindo, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Aplikace Můj Vodafone vás odhlásí v případě aktualizace nebo manuálního odhlášení. Platnost biometrického přihlášení je také 30 dnů. Petra",
+      "version": "3.11.0"
+    },
+    {
       "id": "1dcd95c9-5837-4444-8a02-a7f05bc4e961",
       "userName": "Martin Skoda",
       "date": "2026-04-11T14:59:46.267Z",
@@ -396,20 +458,6 @@
       ],
       "replyDate": "2026-04-11T12:08:21.441Z",
       "replyText": "Hezký den, Romane, děkujeme za hodnocení. Na vylepšení aplikace stále pracujeme. Věřím, že do budoucna se vám aplikace bude líbit více 🙂 Petra",
-      "version": "3.11.0"
-    },
-    {
-      "id": "48e992ad-c920-4a0e-9734-54df0c6e2ece",
-      "userName": "Pošlete mi to sem",
-      "date": "2026-04-11T05:12:30.759Z",
-      "score": 1,
-      "text": "Cokoli sem psát nemá žádný účinek. Nevede to ke zlepšení, ani k pozitivní uživatelské zkušenosti. Aplikaci si zřejmě vývojáři udělali sami pro sebe, aby se měli v čem hrabat, aby měli zaměstnání. Když vás vyzvou abyste popsali problém, a poslali jim to mailem, nemá to žádný další efekt. Jsou to pořád dokola omílané odpovědi. Nejlepší řešení je aplikaci se úplně vyhnout.",
-      "text_normalized": "cokoli sem psat nema zadny ucinek. nevede to ke zlepseni, ani k pozitivni uzivatelske zkusenosti. aplikaci si zrejme vyvojari udelali sami pro sebe, aby se meli v cem hrabat, aby meli zamestnani. kdyz vas vyzvou abyste popsali problem, a poslali jim to mailem, nema to zadny dalsi efekt. jsou to porad dokola omilane odpovedi. nejlepsi reseni je aplikaci se uplne vyhnout.",
-      "segments": [
-        "Stabilita"
-      ],
-      "replyDate": "2026-04-11T12:00:13.454Z",
-      "replyText": "Hezký den, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
       "version": "3.11.0"
     },
     {
@@ -589,6 +637,20 @@
       "version": "3.10.1"
     },
     {
+      "id": "a22812ec-411a-44ae-a4c0-d0ba492d0ee2",
+      "userName": "Neznámá Osoba",
+      "date": "2026-04-02T02:33:22.367Z",
+      "score": 4,
+      "text": "Už sem se přihlásil . Aktualizace aplikace Ok proto 4*",
+      "text_normalized": "uz sem se prihlasil . aktualizace aplikace ok proto 4*",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-04-02T05:19:42.511Z",
+      "replyText": "Hezký den,\nděkujeme vám za zpětnou vazbu a hodnocení 🙂 Viki",
+      "version": "3.10.1"
+    },
+    {
       "id": "9b2df331-746b-40f5-84b9-b9a467a9236b",
       "userName": "Josef K",
       "date": "2026-04-01T14:57:20.357Z",
@@ -602,21 +664,6 @@
       "replyDate": "2026-04-01T15:15:48.911Z",
       "replyText": "Hezký den, Josefe,\nje mi líto, že jste nespokojený 🙁 Zrychlení na maximum v pořádku aktivujete přes aplikaci Můj Vodafone na úvodní stránce, stačí vybrat službu pro kterou chcete zrychlení aktivovat. Pokud máte potíže napište nám přes zabezpečený formulář https://tam.je/dotaz a situaci prověříme. Zuzana",
       "version": "3.10.1"
-    },
-    {
-      "id": "a7cffdfd-f9cd-4d07-857c-80a3c9df134a",
-      "userName": "Jakub Ryška",
-      "date": "2026-03-31T17:30:24.941Z",
-      "score": 1,
-      "text": "nefunguje zrychlovani internetu",
-      "text_normalized": "nefunguje zrychlovani internetu",
-      "segments": [
-        "Stabilita",
-        "Spokojenost"
-      ],
-      "replyDate": "2026-03-31T17:38:56.172Z",
-      "replyText": "Hezký den, Jakube, je mi líto, že máte potíže s aktivací zrychlení 🙁 Podrobné informace uvádíme na https://www.vodafone.cz/pece/tarify-sluzby/red-tarify/zrychleni-na-maximum/. Pokud by potíže přetrvávaly, napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Pomůžeme vám. Petra\n",
-      "version": "3.10.0"
     },
     {
       "id": "97184a37-c9d2-44aa-b91b-712df7815cfe",
@@ -787,6 +834,21 @@
       "replyDate": "2026-03-29T13:00:23.574Z",
       "replyText": "Pěkný den, Ondro,\nje mi líto, že máte potíže 🙁 Rádi se na to podíváme konkrétněji, když nám napíšete detaily přes https://tam.je/dotaz. Lucie",
       "version": null
+    },
+    {
+      "id": "ec7eb89e-bbda-40fa-b5ca-2739bd299dc2",
+      "userName": "Roman",
+      "date": "2026-03-29T10:39:52.687Z",
+      "score": 3,
+      "text": "Neustále nelze otevřít, nebere heslo, mizí možnost otevřít otiskem. Aktualizace i odinstalace nepomáhá. Žádost o nové heslo - chce kód z emailu , ale při přechodu do emailu a návratu na stránky, možnost zadání kódu zmizí. Napraveno. Díky.",
+      "text_normalized": "neustale nelze otevrit, nebere heslo, mizi moznost otevrit otiskem. aktualizace i odinstalace nepomaha. zadost o nove heslo - chce kod z emailu , ale pri prechodu do emailu a navratu na stranky, moznost zadani kodu zmizi. napraveno. diky.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-29T10:58:48.122Z",
+      "replyText": "Hezký den, Romane,\nděkujeme za hodnocení 🙂 Jsem ráda, že je to nyní v pořádku. Lucie",
+      "version": "3.9.0"
     },
     {
       "id": "a76b5e74-0689-4de7-ae01-0e1e06eafbb9",
@@ -1085,6 +1147,23 @@
       ],
       "replyDate": "2026-03-25T11:12:29.410Z",
       "replyText": "Pěkný den, Tomasi,\nděkujeme za hodnocení. Jsem ráda, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.9.0"
+    },
+    {
+      "id": "e0658d15-eaea-471e-8a58-5125b6d206a2",
+      "userName": "Honza J",
+      "date": "2026-03-25T09:20:19.241Z",
+      "score": 1,
+      "text": "Uz asi 10x jsem nastavoval hlavni číslo k zobrazení (z mych dvou) a pořád se na první dobrou zobrazí to špatne. Nabídka na odměnu na oslavu 20 let se zobrazovala pořád, tak jsem proklikal, aby mi napsali, ze pro mě cislo nabídka není. ale druhý den uz tam byla, Data bez limitu na týden-kdyby na konci toho týdne přišla SMS nebo notifikace,ze odměna skončila. Bylo by to zákazník friedly. ale to bych chtel po proficich asi moc. Jo a o rychlosti načítání služeb radši nic.Diky za nefunkční link Lucie",
+      "text_normalized": "uz asi 10x jsem nastavoval hlavni cislo k zobrazeni (z mych dvou) a porad se na prvni dobrou zobrazi to spatne. nabidka na odmenu na oslavu 20 let se zobrazovala porad, tak jsem proklikal, aby mi napsali, ze pro me cislo nabidka neni. ale druhy den uz tam byla, data bez limitu na tyden-kdyby na konci toho tydne prisla sms nebo notifikace,ze odmena skoncila. bylo by to zakaznik friedly. ale to bych chtel po proficich asi moc. jo a o rychlosti nacitani sluzeb radsi nic.diky za nefunkcni link lucie",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-25T10:06:19.947Z",
+      "replyText": "Hezký den, Honzo,\nje mi líto, že jste nespokojený 🙁 Bohužel nastavení výchozí služby v tuto chvíli nefunguje, opravu plánujeme s další aktualizací. Rádi se s vámi na prověření dalších potíží podíváme, zavolejte nám na linku *77 nebo nám napište přes formulář https://tam.je/dotaz. Zuzana",
       "version": "3.9.0"
     },
     {
@@ -1519,21 +1598,6 @@
       "version": "3.9.0"
     },
     {
-      "id": "577de935-09fd-4b40-b0bf-db88cf841889",
-      "userName": "Jan Fojtík",
-      "date": "2026-03-23T18:46:15.391Z",
-      "score": 1,
-      "text": "vyhrál jsem dárek, který ale nejde vyzvednout.",
-      "text_normalized": "vyhral jsem darek, ktery ale nejde vyzvednout.",
-      "segments": [
-        "Stabilita",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-03-24T06:08:58.720Z",
-      "replyText": "Dobrý den, Jane,\nnapište nám prosím bližší informace přes https://tam.je/dotaz, rádi se na to s vámi podíváme. Martina\n",
-      "version": "3.9.0"
-    },
-    {
       "id": "cc9f2e72-5bac-4869-aa50-295536c2dd3c",
       "userName": "René Hartman",
       "date": "2026-03-23T18:16:17.611Z",
@@ -1549,7 +1613,7 @@
     },
     {
       "id": "2cdaa10a-f79b-4820-bbc6-647171add75f",
-      "userName": "Sona Dosedelova",
+      "userName": "Soňa Dosedělová",
       "date": "2026-03-23T13:49:57.590Z",
       "score": 5,
       "text": "aplikace Vodafone je až moc bezpečná, což se hodnotí, ale zabere čas.",
@@ -1820,6 +1884,20 @@
       "version": "3.9.0"
     },
     {
+      "id": "726bd37a-bb40-4114-9e2f-9b5433cf73ef",
+      "userName": "Daniel Rojek",
+      "date": "2026-03-22T10:27:11.840Z",
+      "score": 2,
+      "text": "Nefunkční aplikace. Dárek ke 20. výročí je jen ztráta času, výhru nelze vyzvednout (po třech pokusech stírání losu se vždy ve výhře zobrazí \"null\". Edit po reakci: Děkuji za návod, přidávám jednu hvězdu navíc. Co se týče losu, ten jsem setřel v části Vodafone Happy, nikoli pod konkrétní službou. Odměna by měla být dostupná na stejném místě (nebo tam má být aspoň informace, kde ji najdu), ne schovaná úplně jinde.",
+      "text_normalized": "nefunkcni aplikace. darek ke 20. vyroci je jen ztrata casu, vyhru nelze vyzvednout (po trech pokusech stirani losu se vzdy ve vyhre zobrazi \"null\". edit po reakci: dekuji za navod, pridavam jednu hvezdu navic. co se tyce losu, ten jsem setrel v casti vodafone happy, nikoli pod konkretni sluzbou. odmena by mela byt dostupna na stejnem miste (nebo tam ma byt aspon informace, kde ji najdu), ne schovana uplne jinde.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-15T07:33:19.762Z",
+      "replyText": "Pěkný den, Danieli,\nkupón je u té služby, u které jste los setřel. V aplikaci vyberte nabídku Služby - vyberte telefonní číslo (nebo internet) - klikněte na Více na záložce Přehled - na následující stránce sjeďte dolů do části Aplikace třetích stran. Veronika",
+      "version": "3.9.0"
+    },
+    {
       "id": "a29a4d68-2eab-485d-9928-e946ad78c620",
       "userName": "Václav Michálek",
       "date": "2026-03-22T08:37:45.510Z",
@@ -1950,20 +2028,6 @@
       "version": "3.9.0"
     },
     {
-      "id": "72a9ba36-1a8e-43af-9aa4-b0ae78a8acc0",
-      "userName": "Kamil Trebula",
-      "date": "2026-03-21T19:06:44.263Z",
-      "score": 1,
-      "text": "bez komentáře.",
-      "text_normalized": "bez komentare.",
-      "segments": [
-        "Ine"
-      ],
-      "replyDate": "2026-03-22T07:41:13.911Z",
-      "replyText": "Dobrý den, Kamile,\nje mi líto, že aplikace nesplnila vaše očekávání. Aktivně ji rozvíjíme a nové možnosti budeme přidávat v dalších aktualizacích. Viki",
-      "version": "3.9.0"
-    },
-    {
       "id": "fbbff0e8-c508-46b6-8eb4-e62e730d11ba",
       "userName": "Tom On",
       "date": "2026-03-21T17:42:22.894Z",
@@ -1989,6 +2053,24 @@
       ],
       "replyDate": "2026-03-21T15:58:40.278Z",
       "replyText": "Dobrý den, Milane,\nděkujeme vám za hodnocení a jsem ráda, že jste s aplikací spokojený 🙂 Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "b89ff8dc-f779-4c8c-b902-d14e843ffc17",
+      "userName": "Emil Galert",
+      "date": "2026-03-21T15:11:09.784Z",
+      "score": 1,
+      "text": "každý měsíc platím po termínu protože nejde se mi přihlásit katastrofa po každé volám na operatora, strašný a už mě mám na toe nervy po každé to chce nějakou změnu hesla už je nestarčim vymyslet ne mám na to síly Nejsem jistý jestliže vůbec víte co ste mi odpověděli",
+      "text_normalized": "kazdy mesic platim po terminu protoze nejde se mi prihlasit katastrofa po kazde volam na operatora, strasny a uz me mam na toe nervy po kazde to chce nejakou zmenu hesla uz je nestarcim vymyslet ne mam na to sily nejsem jisty jestlize vubec vite co ste mi odpovedeli",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-21T10:06:15.387Z",
+      "replyText": "Dobrý den, Emile,\npro přihlášení stačí zadat e‑mailovou adresu, alfanumerické heslo, které jste si vytvořil, a ověřovací kód zaslaný SMSkou. Pokud se chcete vyhnout ručnímu hlídání plateb, můžete si zřídit inkaso. Informace najdete na stránce: https://www.vodafone.cz/pece/vyuctovani-platby-kredit/inkaso/inkaso. Viki",
       "version": "3.9.0"
     },
     {
@@ -2105,6 +2187,20 @@
       ],
       "replyDate": "2026-03-20T15:27:50.752Z",
       "replyText": "Hezký den, Heleno, je mi líto, že s aplikací potíže 🙁 Zkuste ji prosím přeinstalovat, a pokud by to nepomohlo, napište nám prosím přes zabezpečený formulář více podrobností. Pomůžeme vám. Petra",
+      "version": "3.9.0"
+    },
+    {
+      "id": "6b0a4eab-f132-445e-a0c8-b285e85a7ddd",
+      "userName": "marek Bulat",
+      "date": "2026-03-20T12:45:09.747Z",
+      "score": 5,
+      "text": "Super 👍👍👍👍👍",
+      "text_normalized": "super 👍👍👍👍👍",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-20T13:05:09.634Z",
+      "replyText": "Hezký den, Marku,\ntěší mě, že vám naše aplikace vyhovuje 🙂 Děkujeme za kladné hodnocení. Zuzana",
       "version": "3.9.0"
     },
     {
@@ -2353,6 +2449,23 @@
       "version": "3.9.0"
     },
     {
+      "id": "bd74d4d2-bb65-459b-8074-390b2bc66e5d",
+      "userName": "marek kovar",
+      "date": "2026-03-19T09:19:47.689Z",
+      "score": 1,
+      "text": "2025-03-19 a opět nové oprávnění (Mikrofon) a opět ticho po pěšině. -- Vodafone nám přebarvil aplikaci, ale střeva zůstala stejná - tedy u platby stále nečekejte podporu Google Pay. Funkci Data strop nejde nastavit vůbec a zda jsou zobrazována mobilní data ta vyčerpaná nebo zbývající si musí člověk pohlídat svým měřením. Jedná hvězda za fungující přihlášení otiskem. Čekal jsem víc, ale co by zákazníci chtěli...",
+      "text_normalized": "2025-03-19 a opet nove opravneni (mikrofon) a opet ticho po pesine. -- vodafone nam prebarvil aplikaci, ale streva zustala stejna - tedy u platby stale necekejte podporu google pay. funkci data strop nejde nastavit vubec a zda jsou zobrazovana mobilni data ta vycerpana nebo zbyvajici si musi clovek pohlidat svym merenim. jedna hvezda za fungujici prihlaseni otiskem. cekal jsem vic, ale co by zakaznici chteli...",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": null,
+      "replyText": null,
+      "version": null
+    },
+    {
       "id": "b0422472-3fb7-411f-9159-4f1398019a9e",
       "userName": "Stanis Hornik",
       "date": "2026-03-19T07:43:52.492Z",
@@ -2378,6 +2491,20 @@
       ],
       "replyDate": "2026-03-19T07:20:24.987Z",
       "replyText": "Dobrý den, Martasi,\nděkujeme vám za hodnocení aplikace 🙂 Jsem ráda, že vám vyhovuje. Viki",
+      "version": "3.9.0"
+    },
+    {
+      "id": "d6ffb132-506a-474e-a509-3391dce2f262",
+      "userName": "Antonin Palka",
+      "date": "2026-03-19T06:56:34.966Z",
+      "score": 4,
+      "text": "Ano, již mi přišla odpověď na voucher, stejně ho nepoužiji, takže dárek nedárek 😀",
+      "text_normalized": "ano, jiz mi prisla odpoved na voucher, stejne ho nepouziji, takze darek nedarek 😀",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-19T06:09:25.464Z",
+      "replyText": "Pěkný den, Antoníne,\nmohu potvrdit, že reagujeme na všechny zprávy přijaté z webové samoobsluhy, a to obvykle do třech pracovních dnů. Veronika",
       "version": "3.9.0"
     },
     {
@@ -2467,7 +2594,7 @@
     },
     {
       "id": "0274a2c0-dfa6-4a7a-8be5-63ad1a585f49",
-      "userName": "Míša pepa Madrovi",
+      "userName": "M .P Mádrovi",
       "date": "2026-03-18T15:52:20.100Z",
       "score": 5,
       "text": "super",
@@ -2825,6 +2952,23 @@
       "version": "3.9.0"
     },
     {
+      "id": "1824f8c9-f69a-40ae-9887-ca2f2834f275",
+      "userName": "Dalibor Novák",
+      "date": "2026-03-17T17:54:24.748Z",
+      "score": 1,
+      "text": "Nelíbí se mi že je po mne vyžadován souhlas s nabídkami třetích stran jen abych si mohl vybrat nasmlouvanou odměnu. Toto jsme si nedomluvili. Pokud by šlo jen o reklamy uvnitř aplikace ještě bych to zakousnul ale to mi nikde garantováno není, klidně by mi tak mohli volat nejrůznější firmy. Děkuji za odkaz no v tom případě mi je aplikace na nic když se musím přihlašovat přes web. Aktualizace : moje nasmlouvaná odměna z aplikace zmizela!",
+      "text_normalized": "nelibi se mi ze je po mne vyzadovan souhlas s nabidkami tretich stran jen abych si mohl vybrat nasmlouvanou odmenu. toto jsme si nedomluvili. pokud by slo jen o reklamy uvnitr aplikace jeste bych to zakousnul ale to mi nikde garantovano neni, klidne by mi tak mohli volat nejruznejsi firmy. dekuji za odkaz no v tom pripade mi je aplikace na nic kdyz se musim prihlasovat pres web. aktualizace : moje nasmlouvana odmena z aplikace zmizela!",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-17T18:15:14.819Z",
+      "replyText": "Pěkný den, Dalibore,\nděkujeme za zpětnou vazbu. Souhlas s nabídkami třetích stran samozřejmě potvrzovat nemusíte. Pokud aktuálně řešíte nějaké potíže v aplikaci, pošlete nám prosím podrobnosti přes https://tam.je/dotaz. Veronika",
+      "version": "3.9.0"
+    },
+    {
       "id": "6e3ac696-0fd1-4bc8-a9b6-5a8352cd44bd",
       "userName": "Jaroslav Gabor",
       "date": "2026-03-17T17:14:43.280Z",
@@ -2950,20 +3094,6 @@
       "replyDate": "2026-03-17T11:13:13.637Z",
       "replyText": "Dobrý den, Tomáši,\nděkujeme vám za hodnocení a zpětnou vazbu 🙂 Jsem moc ráda, že se podařilo potíže dořešit a vše je nyní v pořádku. Viki",
       "version": "3.9.0"
-    },
-    {
-      "id": "d1906caa-1a80-46cb-8d7c-de26cb828672",
-      "userName": "Karel",
-      "date": "2026-03-17T09:21:35.548Z",
-      "score": 1,
-      "text": "celkem velká diskriminace ostatních krajů,všechny akce jen Praha ,ale ,Brno ,Opava ,Ostrava ,vůbec nic ..",
-      "text_normalized": "celkem velka diskriminace ostatnich kraju,vsechny akce jen praha ,ale ,brno ,opava ,ostrava ,vubec nic ..",
-      "segments": [
-        "Ine"
-      ],
-      "replyDate": "2026-03-17T09:43:47.383Z",
-      "replyText": "Dobrý den, Karle,\nje mi líto, že aplikace a Vodafone Happy nesplnili vaše očekávání. Věřím, že do budoucna budete spokojený víc, aplikaci a nabídky se snažíme stále vylepšovat. Viki",
-      "version": "3.8.0"
     },
     {
       "id": "18757f2e-4c2b-4c7c-833e-f5990d190d96",
@@ -3451,6 +3581,22 @@
       "version": "3.9.0"
     },
     {
+      "id": "2061b8ac-5810-444c-a54f-ed0635051c00",
+      "userName": "Ladislav Polický",
+      "date": "2026-03-15T17:31:36.961Z",
+      "score": 1,
+      "text": "opakovaně chodí sms notifikace, že si mám vyzvednout v aplikaci odměnu, ale když ji otevřu, dozvím se že nic nemám. Dal bych horší hodnocení kdyby to šlo, ale bohužel tahle inkluzivní doba mě nutí i naprostému odpadu dát jednu hvězdičku.",
+      "text_normalized": "opakovane chodi sms notifikace, ze si mam vyzvednout v aplikaci odmenu, ale kdyz ji otevru, dozvim se ze nic nemam. dal bych horsi hodnoceni kdyby to slo, ale bohuzel tahle inkluzivni doba me nuti i naprostemu odpadu dat jednu hvezdicku.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-03-16T06:39:37.343Z",
+      "replyText": "Hezký den,\nv rámci 20 let Vodafonu můžete v únoru a březnu získat každý měsíc dárek v aplikaci. Stačí se přihlásit, otevřít Vodafone Happy, setřít los a dárek aktivovat. Je potřeba mít u nás aktivní službu a přihlášení administrátorským nebo uživatelským přístupem. Viki",
+      "version": "3.9.0"
+    },
+    {
       "id": "85d1490d-5a3b-4cac-9135-29b1a58cbe26",
       "userName": "Radek Davidek",
       "date": "2026-03-15T16:54:46.422Z",
@@ -3610,6 +3756,51 @@
       "version": "3.9.0"
     },
     {
+      "id": "4ebf3b30-6a14-48bc-89b9-49b8474593e8",
+      "userName": "Robi Kobi",
+      "date": "2026-03-15T04:57:49.254Z",
+      "score": 1,
+      "text": "zdá se mi složitější než stará aplikace nevím nemohu si na ni nějak zvyknout ve stáre aplikaci v sekci vyuctovani bylo všechno rychlejší při platbách se hned částky aktualizovaly a měnily a byla rychleji přehlednější tady je člověk zmaten 🤷🏼‍♂️🤦🏼‍♂️🙋🏼‍♂️PS: a získané odměny za 20let Vodafone happy k nenalezeni ??? říkám apka na houby katastrofální 🤬",
+      "text_normalized": "zda se mi slozitejsi nez stara aplikace nevim nemohu si na ni nejak zvyknout ve stare aplikaci v sekci vyuctovani bylo vsechno rychlejsi pri platbach se hned castky aktualizovaly a menily a byla rychleji prehlednejsi tady je clovek zmaten 🤷🏼‍♂️🤦🏼‍♂️🙋🏼‍♂️ps: a ziskane odmeny za 20let vodafone happy k nenalezeni ??? rikam apka na houby katastrofalni 🤬",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-03-09T06:18:11.935Z",
+      "replyText": "Pěkný den, Robi,\nděkujeme vám za zpětnou vazbu. Mrzí mě, že se vám nová aplikace nelíbí 🙁 Aplikaci budeme dál rozvíjet a pevně věřím, že do budoucna budete spokojenější. Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "c13ed3ef-8f5d-4df5-8098-acabeab5402d",
+      "userName": "tatka smoula",
+      "date": "2026-03-15T04:20:03.662Z",
+      "score": 1,
+      "text": "aplikace plná zbytečností, tak 20% z ní je k něčemu. Aplikaci nerozvíjejte, naopak. Udělejte základní jednoduché menu k ovládání účtů, nechejte zákazníka označit, který účet je hlavní. Vše na jedné stránce, bez nutnosti scrollovani, jak když kočka točí toaletním papírem. Ostatní věci většinu lidí nezajímají. Chcete strkat lidem pod nos věci, aby si jich všimli? Výsledkem je akorát naštvaný zákazník. Nechejte zákazníka udělat co chce a při potvrzení jeho kroku zobrazte tu reklamu na zbytečnosti.",
+      "text_normalized": "aplikace plna zbytecnosti, tak 20% z ni je k necemu. aplikaci nerozvijejte, naopak. udelejte zakladni jednoduche menu k ovladani uctu, nechejte zakaznika oznacit, ktery ucet je hlavni. vse na jedne strance, bez nutnosti scrollovani, jak kdyz kocka toci toaletnim papirem. ostatni veci vetsinu lidi nezajimaji. chcete strkat lidem pod nos veci, aby si jich vsimli? vysledkem je akorat nastvany zakaznik. nechejte zakaznika udelat co chce a pri potvrzeni jeho kroku zobrazte tu reklamu na zbytecnosti.",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-03-15T07:45:11.560Z",
+      "replyText": "Pěkný den, Tatko Smoulo,\nděkujeme za zpětnou vazbu, vážíme si toho. Veronika",
+      "version": "3.9.0"
+    },
+    {
+      "id": "7c2ce7c4-314c-4139-aa69-23b4f3e30bd7",
+      "userName": "Kubajs Poseidon",
+      "date": "2026-03-15T03:35:34.871Z",
+      "score": 1,
+      "text": "pomalu načítá jak poslední umíráček, nelze tam ani najít vyzvednutí dat k balíčku takže mi 5gb každý měsíc asi propadne Některé odkazy pro rozkliknuti ani nespustí takže to bere data aniž by to vydalo službu Tohle je amatérismus a nepatří do roku 2026 Vývojáři k ničemu nepomáhá ani přeinstalovani app pořád přetrvává",
+      "text_normalized": "pomalu nacita jak posledni umiracek, nelze tam ani najit vyzvednuti dat k balicku takze mi 5gb kazdy mesic asi propadne nektere odkazy pro rozkliknuti ani nespusti takze to bere data aniz by to vydalo sluzbu tohle je amaterismus a nepatri do roku 2026 vyvojari k nicemu nepomaha ani preinstalovani app porad pretrvava",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-15T07:41:28.317Z",
+      "replyText": "Pěkný den, Kubajsi,\nbudu ráda, když nám k tomu napíšete podrobnosti přes https://tam.je/dotaz. Veronika",
+      "version": "3.8.0"
+    },
+    {
       "id": "29325fad-c132-4c6b-aea3-68880753c229",
       "userName": "Michael Unhappy",
       "date": "2026-03-15T01:37:36.840Z",
@@ -3635,20 +3826,6 @@
       ],
       "replyDate": "2026-03-15T07:40:24.991Z",
       "replyText": "Pěkný den, Roberte,\nděkujeme za vaše hodnocení 🙂 Veronika",
-      "version": "3.9.0"
-    },
-    {
-      "id": "726bd37a-bb40-4114-9e2f-9b5433cf73ef",
-      "userName": "Daniel Rojek",
-      "date": "2026-03-14T22:00:50.727Z",
-      "score": 1,
-      "text": "Nefunkční aplikace. Dárek ke 20. výročí je jen ztráta času, výhru nelze vyzvednout (po třech pokusech stírání losu se vždy ve výhře zobrazí \"null\". Nejspíš jde o záminku, jak si vynutit souhlas s předáváním údajů třetí straně.",
-      "text_normalized": "nefunkcni aplikace. darek ke 20. vyroci je jen ztrata casu, vyhru nelze vyzvednout (po trech pokusech stirani losu se vzdy ve vyhre zobrazi \"null\". nejspis jde o zaminku, jak si vynutit souhlas s predavanim udaju treti strane.",
-      "segments": [
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-03-15T07:33:19.762Z",
-      "replyText": "Pěkný den, Danieli,\nkupón je u té služby, u které jste los setřel. V aplikaci vyberte nabídku Služby - vyberte telefonní číslo (nebo internet) - klikněte na Více na záložce Přehled - na následující stránce sjeďte dolů do části Aplikace třetích stran. Veronika",
       "version": "3.9.0"
     },
     {
@@ -3755,6 +3932,37 @@
       "replyDate": "2026-03-14T14:02:53.961Z",
       "replyText": "Pěkný den, Mirku,\nděkujeme za hodnocení 🙂 Veronika",
       "version": "3.8.0"
+    },
+    {
+      "id": "8c5c77e8-5760-40f4-9ff3-3cb3c853f1b1",
+      "userName": "Helen Lama",
+      "date": "2026-03-14T11:58:37.642Z",
+      "score": 1,
+      "text": "Nevyresili jste vůbec nic za rok a půl co si na to stěžuju. Ale zkusila jsem znovu napsat, nemyslím si však, že vase schopnosti jsou tak dobre, abyste to vyřešíte. Recenze trvá. Aplikace je odpad 👎🏻 Co kdyby konečně, jako ostatní operátoři, umožnili platit také přes gpay...? Appka k ničemu, pokaždé když se chci podívat, tak jsem odhlášena a můžu tisíckrát zadávat aby mě neodhlasovala a požadavek na biometriku. Fakt odpad!!! Vyvojáři by měli chodit kanalama a stydět se z takovou práci.",
+      "text_normalized": "nevyresili jste vubec nic za rok a pul co si na to stezuju. ale zkusila jsem znovu napsat, nemyslim si vsak, ze vase schopnosti jsou tak dobre, abyste to vyresite. recenze trva. aplikace je odpad 👎🏻 co kdyby konecne, jako ostatni operatori, umoznili platit take pres gpay...? appka k nicemu, pokazde kdyz se chci podivat, tak jsem odhlasena a muzu tisickrat zadavat aby me neodhlasovala a pozadavek na biometriku. fakt odpad!!! vyvojari by meli chodit kanalama a stydet se z takovou praci.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-02-16T19:06:47.370Z",
+      "replyText": "Dobrý den, Helen,\nděkujeme vám za zpětnou vazbu. Pokud jde o Google pay, právě probíhá testování a pracujeme na tom, aby tato platební metoda byla v některé z dalších aktualizací aplikace dostupná. Pokud vám \"nedrží\" přihlášení biometrikou, prosím, napište nám na aplikace@vodafone.cz a my všechno zkontrolujeme. Katka",
+      "version": "3.7.0"
+    },
+    {
+      "id": "01109197-8454-48ea-9230-8f9ddec43f32",
+      "userName": "Milan",
+      "date": "2026-03-14T11:55:35.686Z",
+      "score": 2,
+      "text": "Do plné funkčnosti to má daleko. Neustále to má problémy s přihlášením a načítáním.",
+      "text_normalized": "do plne funkcnosti to ma daleko. neustale to ma problemy s prihlasenim a nacitanim.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-03-14T12:09:09.169Z",
+      "replyText": "Pěkný den,\npokud dochází k těmto potížím, telefon vypněte a zapněte, případně vynuťte ukončení. Doporučím vám aplikaci odinstalovat a znovu nainstalovat, tím budete mít jistotu, že máte v telefonu aktuální verzi. Případně nám pošlete podrobnosti k tomu přes https://tam.je/dotaz. Veronika",
+      "version": "3.9.0"
     },
     {
       "id": "a4cf01b5-8542-4959-9b7e-30d88198da9e",
@@ -3989,20 +4197,6 @@
       ],
       "replyDate": "2026-03-14T07:16:09.869Z",
       "replyText": "Pěkný den, Kachno,\nkupón pro prima+ PREMIUM je třeba vyzvednout v aplikaci Můj Vodafone+, anebo ve webové samoobsluze. V aplikaci vyberte nabídku Služby - vyberte telefonní číslo nebo internet) - klikněte na Více na záložce Přehled - na následující stránce sjeďte dolů do části Aplikace třetích stran. Veronika",
-      "version": "3.9.0"
-    },
-    {
-      "id": "8c6349f0-b397-43b0-b469-fc591201d7b6",
-      "userName": "Patrik Gas",
-      "date": "2026-03-13T18:08:36.410Z",
-      "score": 2,
-      "text": "televize je pici proč mám koukat15min před koncem...já .$ tá televize...tá te",
-      "text_normalized": "televize je pici proc mam koukat15min pred koncem...ja .$ ta televize...ta te",
-      "segments": [
-        "Ine"
-      ],
-      "replyDate": "2026-03-13T18:41:40.516Z",
-      "replyText": "Hezký den, Patriku,\nomlouvám se, ale vašemu dotazu nerozumím. Zavolejte nám na linku *77, případně nám napište přes formulář https://tam.je/dotaz, rádi vám vše vysvětlíme. Zuzana",
       "version": "3.9.0"
     },
     {
@@ -4731,6 +4925,23 @@
       "version": "3.8.0"
     },
     {
+      "id": "508b7a58-0c85-41fd-ae96-37d234535a8f",
+      "userName": "Lukáš Holub",
+      "date": "2026-03-12T06:13:58.957Z",
+      "score": 4,
+      "text": "Kde je QR platba? Edit: Odebírám druhou hvězdu PDF faktura nejde stáhnout. Edit 2. Nevím, jestli chápete psaný text. Ale faktura stáhnout NEJDE. Kam Vám můžu poslat screenshot chyby? Jdou stáhnout faktury pouze za minulé měsíce",
+      "text_normalized": "kde je qr platba? edit: odebiram druhou hvezdu pdf faktura nejde stahnout. edit 2. nevim, jestli chapete psany text. ale faktura stahnout nejde. kam vam muzu poslat screenshot chyby? jdou stahnout faktury pouze za minule mesice",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-12T06:11:48.753Z",
+      "replyText": "Hezký den, Lukáši,\nmrzí mě, že jste nespokojený 🙁 QR kód najdete v menu Vyúčtování - Zaplatit QR kódem. Vyúčtování byste měl v pořádku ve formátu PDF stáhnout, pokud máte potíže, napište nám přes zabezpečený formulář https://tam.je/dotaz a rádi se na to s vámi podíváme. Zuzana",
+      "version": "3.8.0"
+    },
+    {
       "id": "2946b762-90de-40c0-96d2-0ec585accba7",
       "userName": "Tomas Skoupil",
       "date": "2026-03-11T20:44:03.774Z",
@@ -4786,20 +4997,6 @@
       ],
       "replyDate": "2026-03-12T06:06:04.139Z",
       "replyText": "Hezký den, Františku,\ntěší mě, že jste s aplikací spokojený 🙂 Zuzana",
-      "version": "3.8.0"
-    },
-    {
-      "id": "c704169e-7b24-4d73-93ac-b54fae1e91e6",
-      "userName": "Zdena Převrátilová",
-      "date": "2026-03-11T18:44:44.385Z",
-      "score": 5,
-      "text": "jste 1",
-      "text_normalized": "jste 1",
-      "segments": [
-        "Ine"
-      ],
-      "replyDate": "2026-03-11T18:51:55.367Z",
-      "replyText": "Hezký den, Zdeno,\nděkujeme za vaše hodnocení, udělala jste nám radost 🙂 Martina",
       "version": "3.8.0"
     },
     {
@@ -4861,20 +5058,6 @@
       ],
       "replyDate": "2026-03-11T17:51:37.121Z",
       "replyText": "Dobrý den, Jardo,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby se vám ani poté nepodařilo výhru vyzvednout, napište nám přes https://tam.je/dotaz, rádi to prověříme na základě konkrétního příkladu. Martina",
-      "version": "3.8.0"
-    },
-    {
-      "id": "d489c977-4d5a-4c7b-8f39-7b4fcbe65a42",
-      "userName": "Petr Zeman",
-      "date": "2026-03-11T17:31:20.202Z",
-      "score": 1,
-      "text": "Tobi na nic?! napiš mu \"live agent\"",
-      "text_normalized": "tobi na nic?! napis mu \"live agent\"",
-      "segments": [
-        "Ine"
-      ],
-      "replyDate": "2026-03-11T17:53:35.779Z",
-      "replyText": "Dobrý večer, Petře,\njestli potřebujete pomoc s vyřešením nějaké konkrétní záležitosti, ke které jste nenašel informace v aplikaci, napište nám prosím přes https://tam.je/dotaz. Rádi vám pak odpovíme e-mailem nebo zavoláme. Martina",
       "version": "3.8.0"
     },
     {
@@ -5134,7 +5317,7 @@
     },
     {
       "id": "78b09f5f-c233-47bd-88b0-a61f7e6855c2",
-      "userName": "Josef Svoboda",
+      "userName": "Josef Svoboda II",
       "date": "2026-03-11T11:42:15.836Z",
       "score": 5,
       "text": "jen spokojenost 👍🤞🍀",
@@ -5402,20 +5585,6 @@
       ],
       "replyDate": "2026-03-11T06:26:35.121Z",
       "replyText": "Hezké ráno, Ma Be, děkujeme za vaše hodnocení 🙂 Jsem ráda, že se vám aplikace líbí 🙂 Petra",
-      "version": "3.8.0"
-    },
-    {
-      "id": "1527b800-cd56-449e-a1fe-ed65a63ee824",
-      "userName": "Jirka Sellner",
-      "date": "2026-03-10T20:12:07.886Z",
-      "score": 1,
-      "text": "Strašlivá věc!!!!! To někdo vymýšlel dlouho v noci a usnul a jen entroval čelem na klávesnici. Vymýšlel ale né svou hlavou ale hlavou že slámy😀😂😂 jinak to není možný tohle vyplodit.,.....",
-      "text_normalized": "strasliva vec!!!!! to nekdo vymyslel dlouho v noci a usnul a jen entroval celem na klavesnici. vymyslel ale ne svou hlavou ale hlavou ze slamy😀😂😂 jinak to neni mozny tohle vyplodit.,.....",
-      "segments": [
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-03-11T06:28:14.556Z",
-      "replyText": "Dobrý den, Jirko,\nje mi líto, že vám aplikace nevyhovuje 🙁 Na vývoji stále pracujeme a další funkce budou dostupné v nadcházejících verzích. Viki",
       "version": "3.8.0"
     },
     {
@@ -5763,21 +5932,6 @@
       "version": "3.8.0"
     },
     {
-      "id": "cafb9c65-b811-4cff-ad4d-fe292f6ca510",
-      "userName": "Bedřich",
-      "date": "2026-03-09T23:10:44.715Z",
-      "score": 2,
-      "text": "stará aplikace byla daleko lepší tato za mě nepřehledná seká se až jak kdyby vůbec nejede kolikrát a proto jen tyto **",
-      "text_normalized": "stara aplikace byla daleko lepsi tato za me neprehledna seka se az jak kdyby vubec nejede kolikrat a proto jen tyto **",
-      "segments": [
-        "Vykonnost",
-        "UI"
-      ],
-      "replyDate": "2026-03-10T06:14:59.393Z",
-      "replyText": "Pěkný den, Bedřichu,\nchápu, že je jin, než jste byl zvyklý. Pokud se aplikace seká, telefon prosím vypněte a zapněte, případně aplikaci odinstalujte a nainstalujte znovu, tím budeme mít jistotu, že máte v telefonu aktuální verzi. Veronika",
-      "version": "3.8.0"
-    },
-    {
       "id": "29c9833c-47aa-4d30-a2e9-5d52e6c08503",
       "userName": "Dominik Milbauer",
       "date": "2026-03-09T22:36:14.741Z",
@@ -5930,22 +6084,6 @@
       ],
       "replyDate": "2026-03-09T16:25:48.872Z",
       "replyText": "Hezký den, Jane, děkujeme za hodnocení 🙂 Jsem ráda, že jste s aplikací spokojený. Petra",
-      "version": "3.8.0"
-    },
-    {
-      "id": "cb00edc9-98ea-4877-bb93-a010b08e7e83",
-      "userName": "Linda Lysakova",
-      "date": "2026-03-09T15:27:39.881Z",
-      "score": 2,
-      "text": "Úplně debilní aplikace. Nastavím biometrické přihlašování, chvíli to jede bez problému, pak to opět chce pro přihlášení email a heslo... To by nebyl problém, kdyby mi pokaždé, ale POKAŽDÉ nehlásilo, že je jeden z údajů nesprávný. Takže již po několikáté opět nové heslo, opět několikafázové ověření , abych vůbec mohla zaplatit paušál. Udělejte s tím něco.",
-      "text_normalized": "uplne debilni aplikace. nastavim biometricke prihlasovani, chvili to jede bez problemu, pak to opet chce pro prihlaseni email a heslo... to by nebyl problem, kdyby mi pokazde, ale pokazde nehlasilo, ze je jeden z udaju nespravny. takze jiz po nekolikate opet nove heslo, opet nekolikafazove overeni , abych vubec mohla zaplatit pausal. udelejte s tim neco.",
-      "segments": [
-        "Stabilita",
-        "Prihlaseni",
-        "Platba_a_vyuctovani"
-      ],
-      "replyDate": "2026-03-09T15:48:07.181Z",
-      "replyText": "Hezký den, Lindo, nové je přihlášení do aplikace je potřeba pokud se manuálně odhlásíte nebo proběhne aktualizace. Napište nám prosím podrobnosti na aplikace@vodafone.cz. S potížemi vám pomůžeme. Petra\n",
       "version": "3.8.0"
     },
     {
@@ -6231,22 +6369,6 @@
       "version": "3.8.0"
     },
     {
-      "id": "4ebf3b30-6a14-48bc-89b9-49b8474593e8",
-      "userName": "Robi Kobi",
-      "date": "2026-03-09T05:47:41.184Z",
-      "score": 1,
-      "text": "zdá se mi složitější než stará aplikace nevím nemohu si na ni nějak zvyknout ve stáre aplikaci v sekci vyuctovani bylo všechno rychlejší při platbách se hned částky aktualizovaly a měnily a byla rychleji přehlednější tady je člověk zmaten 🤷🏼‍♂️🤦🏼‍♂️🙋🏼‍♂️",
-      "text_normalized": "zda se mi slozitejsi nez stara aplikace nevim nemohu si na ni nejak zvyknout ve stare aplikaci v sekci vyuctovani bylo vsechno rychlejsi pri platbach se hned castky aktualizovaly a menily a byla rychleji prehlednejsi tady je clovek zmaten 🤷🏼‍♂️🤦🏼‍♂️🙋🏼‍♂️",
-      "segments": [
-        "Vykonnost",
-        "UI",
-        "Platba_a_vyuctovani"
-      ],
-      "replyDate": "2026-03-09T06:18:11.935Z",
-      "replyText": "Pěkný den, Robi,\nděkujeme vám za zpětnou vazbu. Mrzí mě, že se vám nová aplikace nelíbí 🙁 Aplikaci budeme dál rozvíjet a pevně věřím, že do budoucna budete spokojenější. Lucie",
-      "version": "3.6.3"
-    },
-    {
       "id": "e84312c5-1fb9-48df-94d9-ff84ce7e061e",
       "userName": "Robert",
       "date": "2026-03-09T00:30:21.617Z",
@@ -6316,6 +6438,21 @@
       ],
       "replyDate": "2026-03-08T14:23:43.611Z",
       "replyText": "Hezký den, Pozi, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, se vám do budoucna bude líbit více. Petra",
+      "version": "3.8.0"
+    },
+    {
+      "id": "b70a108d-9494-43fe-a515-80bfa498340f",
+      "userName": "Jaroslav Neuman",
+      "date": "2026-03-08T13:18:57.112Z",
+      "score": 2,
+      "text": "musím přehodnotit ,ze začátku fungovala skvěle nyní se z hlavní strany nedá nikam dostat.bud ukazuje kód chyby nebo bad 404 nespokojenost",
+      "text_normalized": "musim prehodnotit ,ze zacatku fungovala skvele nyni se z hlavni strany neda nikam dostat.bud ukazuje kod chyby nebo bad 404 nespokojenost",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-03-08T14:01:53.535Z",
+      "replyText": "Hezký den, Jaroslave, je mi líto, že máte s aplikací potíže 🙁 Zkuste ji prosím přeinstalovat, a pokud by to nepomohlo, napište nám prosím ověřenou zprávu https://tam.je/dotaz. Pomůžeme vám. Petra\n",
       "version": "3.8.0"
     },
     {
@@ -6503,6 +6640,20 @@
       ],
       "replyDate": "2026-03-08T09:43:17.854Z",
       "replyText": "Hezký den, Miroslave, děkujeme za hodnocení 🙂 Těší mě, že vám aplikace vyhovuje 🙂 Petra",
+      "version": "3.8.0"
+    },
+    {
+      "id": "ae6bd8a9-80e8-4fd4-bd2b-845b7ab7e118",
+      "userName": "Karel Stolař",
+      "date": "2026-03-07T21:09:34.646Z",
+      "score": 1,
+      "text": "taková zmatená, dostal jsem 3 měsíce zdarma prima+ na Vodafone happy, a nevím kde si to vyzvednout, nikde to není vidět.",
+      "text_normalized": "takova zmatena, dostal jsem 3 mesice zdarma prima+ na vodafone happy, a nevim kde si to vyzvednout, nikde to neni videt.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-03-05T17:57:07.259Z",
+      "replyText": "Pěkný den, Karle,\nchápu, že je odlišná od té původní. Informace o této aplikaci najdete zde: https://www.vodafone.cz/pece/muj-vodafone/aplikace-muj-vodafone/aplikace-muj-vodafone-plus/. Veronika",
       "version": "3.8.0"
     },
     {
@@ -6798,20 +6949,6 @@
       ],
       "replyDate": "2026-03-07T07:37:15.237Z",
       "replyText": "Hezký den, Tome, moc děkujeme za pozitivní recenzi 🙂 Vaše spokojenost je pro nás důležitá. Petra",
-      "version": "3.8.0"
-    },
-    {
-      "id": "962cb3c7-bdbd-4e30-bed7-07939eab5d28",
-      "userName": "Roman Ubl",
-      "date": "2026-03-07T06:59:16.114Z",
-      "score": 5,
-      "text": "Přehledná, svěží aplikace. Najdu v ní bez zabloudění to co potřebuji. Okamžitý přehled o službách a jejich aktuálním stavu 👍.",
-      "text_normalized": "prehledna, svezi aplikace. najdu v ni bez zabloudeni to co potrebuji. okamzity prehled o sluzbach a jejich aktualnim stavu 👍.",
-      "segments": [
-        "UI"
-      ],
-      "replyDate": "2026-03-07T07:34:32.664Z",
-      "replyText": "Hezký den, Romane, děkujeme za skvělé hodnocení 🙂 Jsme rádi, že vám aplikace Můj Vodafone+ dobře slouží. 😊 Petra\n",
       "version": "3.8.0"
     },
     {
@@ -7254,20 +7391,6 @@
       "version": "3.8.0"
     },
     {
-      "id": "ae6bd8a9-80e8-4fd4-bd2b-845b7ab7e118",
-      "userName": "Karel Stolař",
-      "date": "2026-03-05T17:36:20.533Z",
-      "score": 1,
-      "text": "taková zmatená",
-      "text_normalized": "takova zmatena",
-      "segments": [
-        "Ine"
-      ],
-      "replyDate": "2026-03-05T17:57:07.259Z",
-      "replyText": "Pěkný den, Karle,\nchápu, že je odlišná od té původní. Informace o této aplikaci najdete zde: https://www.vodafone.cz/pece/muj-vodafone/aplikace-muj-vodafone/aplikace-muj-vodafone-plus/. Veronika",
-      "version": "3.8.0"
-    },
-    {
       "id": "99787574-f1ed-4ff0-b036-f263b625cdf7",
       "userName": "Martin Velicka",
       "date": "2026-03-05T17:08:47.626Z",
@@ -7491,20 +7614,6 @@
       ],
       "replyDate": "2026-03-05T11:55:57.845Z",
       "replyText": "Pěkný den, Antonine,\nděkujeme za vaše hodnocení 🙂 Veronika",
-      "version": "3.8.0"
-    },
-    {
-      "id": "a9c63e3a-8fe0-41cf-9b34-1caa567a10ec",
-      "userName": "Miroslaw Debiec (Mirafiori)",
-      "date": "2026-03-05T11:50:59.199Z",
-      "score": 3,
-      "text": "pomala aplikace",
-      "text_normalized": "pomala aplikace",
-      "segments": [
-        "Vykonnost"
-      ],
-      "replyDate": "2026-03-05T11:58:13.313Z",
-      "replyText": "Pěkný den, Miroslawe,\npokud je aplikace pomalá, bude třeba telefon restartovat. Doporučím vám také aplikaci odinstalovat a znovu nainstalovat, tím budeme mít jistotu, že máte v telefonu její aktuální verzi. Veronika",
       "version": "3.8.0"
     },
     {
@@ -7776,7 +7885,7 @@
     },
     {
       "id": "e61c793e-b16f-4a3f-9a0b-cba1e15d2147",
-      "userName": "Honza Zelený (Green)",
+      "userName": "Jan Zelený (Green)",
       "date": "2026-03-04T23:42:22.670Z",
       "score": 4,
       "text": "Mám víc čísel a je vopruz přepínání mezi nimi (login/logout). Co je ale úplně nahovno je VoLTE, v samoobsluze \"jakože\" aktivní, ve skutečnosti leda prd. VoWIFI jede, ale VoLTE, i kdyz telefon v nastavení hlásí IMS ve stavu \"zaregistrováno\",při telefonním hovoru se přeruší internet na datech. :( ...A tak je dost možný, že nejdou vlastně ani hovory v tý HD kvalitě.",
@@ -7977,21 +8086,6 @@
       "version": "3.8.0"
     },
     {
-      "id": "2061b8ac-5810-444c-a54f-ed0635051c00",
-      "userName": "Ladislav Polický",
-      "date": "2026-03-04T18:14:39.477Z",
-      "score": 1,
-      "text": "Nejhorší aplikace, kterou bohužel musím mít v mobilu. chyby, se kterými si neví rady ani telefonická podpora, chybějící funkce, amatérismus na druhou.",
-      "text_normalized": "nejhorsi aplikace, kterou bohuzel musim mit v mobilu. chyby, se kterymi si nevi rady ani telefonicka podpora, chybejici funkce, amaterismus na druhou.",
-      "segments": [
-        "Stabilita",
-        "Zakaznicka_podpora"
-      ],
-      "replyDate": "2026-03-04T18:27:27.793Z",
-      "replyText": "Dobrý den, Ladislave,\nje mi líto, pokud jste narazil na nějaké potíže. Pokud pro nás budete mít konkrétní zpětnou vazbu, budeme za ni rádi. Viki",
-      "version": "3.8.0"
-    },
-    {
       "id": "528266a1-1745-41b2-af07-5fd8e854a530",
       "userName": "Martin Dostál",
       "date": "2026-03-04T18:10:07.812Z",
@@ -8136,7 +8230,7 @@
     },
     {
       "id": "c02cdb69-6605-4559-9cc3-fe58ee9ce537",
-      "userName": "Tomáš Uhrík",
+      "userName": "Tomáš Josef Uhrík",
       "date": "2026-03-04T16:14:22.997Z",
       "score": 5,
       "text": "výborná aplikace, velmi přehledně uspořádané menu",
@@ -8357,20 +8451,6 @@
       ],
       "replyDate": "2026-03-04T16:03:17.629Z",
       "replyText": "Dobrý den, Aleno,\nděkujeme za hodnocení. V případě, že vám nevyhovuje aktuální nastavení služeb, prosím zavolejte nám na 800 77 00 77 nebo nám napište přes https://tam.je/dotaz 🙂 Viki",
-      "version": "3.8.0"
-    },
-    {
-      "id": "c13ed3ef-8f5d-4df5-8098-acabeab5402d",
-      "userName": "tatka smoula",
-      "date": "2026-03-04T15:23:50.172Z",
-      "score": 1,
-      "text": "aplikace plná zbytečností, tak 20% z ní je k něčemu.",
-      "text_normalized": "aplikace plna zbytecnosti, tak 20% z ni je k necemu.",
-      "segments": [
-        "Ine"
-      ],
-      "replyDate": "2026-03-04T16:04:37.567Z",
-      "replyText": "Hezký den,\nděkujeme za zpětnou vazbu. Je mi líto, že vám aplikace nevyhovuje. Rozvíjíme ji a nové funkce budou implementovány v dalších verzích. Věřím tak, že do budoucna vám bude vyhovovat víc. Viki",
       "version": "3.8.0"
     },
     {
@@ -8939,20 +9019,6 @@
       "version": "3.8.0"
     },
     {
-      "id": "6b0a4eab-f132-445e-a0c8-b285e85a7ddd",
-      "userName": "marek Bulat",
-      "date": "2026-03-04T11:41:35.132Z",
-      "score": 5,
-      "text": "Super 👍👍👍",
-      "text_normalized": "super 👍👍👍",
-      "segments": [
-        "Spokojenost"
-      ],
-      "replyDate": "2026-03-04T11:59:23.857Z",
-      "replyText": "Hezký den, Marku,\ntěší mě, že jste spokojený 🙂 Zuzana",
-      "version": "3.8.0"
-    },
-    {
       "id": "3af399a6-3c88-436e-8397-c3bf2b081a03",
       "userName": "Jiří Hervert",
       "date": "2026-03-04T11:35:20.613Z",
@@ -9194,7 +9260,7 @@
     },
     {
       "id": "aeb73155-286e-42ec-b2d6-55f12974fb1c",
-      "userName": "Petr",
+      "userName": "Jarin",
       "date": "2026-03-03T20:03:52.686Z",
       "score": 2,
       "text": "do Vodafone se nelze 🚫 přihlásit, mám v televizi p redplaceno 150 kanálu,dostanu se ke 30, dále už si zaplať, nejspíš vodafone má málo peněz, vrátíte mi peníze?měsíc měsíc kanály co sleduji jsou zdarma, nelpší a nejlevnější služby má vodafone to jsou vaše stránky, prostě samé nej, namísto toho neustálé ověřování, samozřejmě vše špatně,, ,zkuste znovu, takhle to nejde, nemohu trávit drahocenný čas přihlašováním, když jsem přihlášen a platím všechny služby podle smlouvy, již jsem psal asi dvakrát",
@@ -9367,6 +9433,20 @@
       "version": "3.8.0"
     },
     {
+      "id": "2e20fb03-1b0a-4b77-9832-23a2c93e4335",
+      "userName": "Martin Drozen",
+      "date": "2026-03-03T16:30:09.622Z",
+      "score": 2,
+      "text": "Asi zahodím telefon.",
+      "text_normalized": "asi zahodim telefon.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-03-03T16:51:15.800Z",
+      "replyText": "Hezký den, Martine, pokud máte s aplikací potíže, napište nám prosím přes zabezpečený formulář https://tam.je/dotaz více informací. Na vše se s vámi podíváme konkrétněji. Petra\n",
+      "version": "3.8.0"
+    },
+    {
       "id": "0a1075e0-149e-45dd-9703-8bead8879b8f",
       "userName": "Jana Motlová",
       "date": "2026-03-03T16:12:43.920Z",
@@ -9407,6 +9487,20 @@
       ],
       "replyDate": "2026-03-03T15:50:46.346Z",
       "replyText": "Hezký den, Tomáši, děkujeme za hodnocení 🙂 Těší mě, že se vám aplikace líbí 🙂 Petra",
+      "version": "3.8.0"
+    },
+    {
+      "id": "68024138-dcae-4bb7-9437-921e4defdc47",
+      "userName": "Jaroslav Lavička",
+      "date": "2026-03-03T15:33:50.190Z",
+      "score": 4,
+      "text": "Vidím slušné zlepšení. Dávám 3 hvězdičky z jedné původní. Na Tobim by se mělo ještě sakra zapracovat. Vzhledem k tomu, jak rychle reagujete, přidávám další hvězdičku na 4 a děkuji. Teď uvidíme, jak dopadne nabídka služeb, ale ta s hodnocením aplikace nemá nic moc společného.",
+      "text_normalized": "vidim slusne zlepseni. davam 3 hvezdicky z jedne puvodni. na tobim by se melo jeste sakra zapracovat. vzhledem k tomu, jak rychle reagujete, pridavam dalsi hvezdicku na 4 a dekuji. ted uvidime, jak dopadne nabidka sluzeb, ale ta s hodnocenim aplikace nema nic moc spolecneho.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-03-03T15:23:08.373Z",
+      "replyText": "Hezký den, Jaroslave, děkujeme za hodnocení. Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Pokud potřebujete upravit tarif, napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Pomůžeme vám. Petra\n",
       "version": "3.8.0"
     },
     {
@@ -9584,20 +9678,6 @@
       "version": null
     },
     {
-      "id": "542f1c46-fe8a-4331-9311-2460d2053402",
-      "userName": "Lada Lada",
-      "date": "2026-03-03T10:15:27.797Z",
-      "score": 5,
-      "text": "aaasaaY",
-      "text_normalized": "aaasaay",
-      "segments": [
-        "Ine"
-      ],
-      "replyDate": "2026-03-03T10:24:35.215Z",
-      "replyText": "Dobrý den, Lado,\nděkuji vám za zpětnou vazbu 🙂 Katka",
-      "version": "3.8.0"
-    },
-    {
       "id": "ad5e6378-2fee-4d0d-b359-309edc8f1e07",
       "userName": "karolina salakova",
       "date": "2026-03-03T09:39:32.130Z",
@@ -9711,20 +9791,6 @@
       ],
       "replyDate": "2026-03-03T06:08:02.387Z",
       "replyText": "Dobrý den, Ivano,\nděkuji vám za krásné hodnocení a těší mě, že jste spokojená 🙂 Katka",
-      "version": "3.8.0"
-    },
-    {
-      "id": "e8c18482-1376-4807-a435-3ac2605aedf6",
-      "userName": "Tomáš Dvořák",
-      "date": "2026-03-03T03:35:27.590Z",
-      "score": 3,
-      "text": "SETŘEL JSEM STÍRACÍ LOS V MĚSÍCI BŘEZEN DNES POPRVÉ PŘIŠLA MI ODEZVA ŽE UŽ SEM SI VÝHRU VYBRAL TAK ŽE NEMÁM NIC NA CO TO JE!!! NEJSEM VŮBEC SPOKOJEN!!!",
-      "text_normalized": "setrel jsem stiraci los v mesici brezen dnes poprve prisla mi odezva ze uz sem si vyhru vybral tak ze nemam nic na co to je!!! nejsem vubec spokojen!!!",
-      "segments": [
-        "Spokojenost"
-      ],
-      "replyDate": "2026-03-03T06:07:24.696Z",
-      "replyText": "Hezký den, Tomáši,\nto mě mrzí a jedná se o chybu 🙁 Napište nám prosím na aplikace@vodafone.cz a my se na celou situaci podíváme. Katka",
       "version": "3.8.0"
     },
     {
@@ -9854,21 +9920,6 @@
       "version": null
     },
     {
-      "id": "ec7eb89e-bbda-40fa-b5ca-2739bd299dc2",
-      "userName": "Roman",
-      "date": "2026-03-02T13:25:45.572Z",
-      "score": 1,
-      "text": "Neustále nelze otevřít, nebere heslo, mizí možnost otevřít otiskem. Aktualizace i odinstalace nepomáhá. Žádost o nové heslo - chce kód z emailu , ale při přechodu do emailu a návratu na stránky, možnost zadání kódu zmizí.",
-      "text_normalized": "neustale nelze otevrit, nebere heslo, mizi moznost otevrit otiskem. aktualizace i odinstalace nepomaha. zadost o nove heslo - chce kod z emailu , ale pri prechodu do emailu a navratu na stranky, moznost zadani kodu zmizi.",
-      "segments": [
-        "Prihlaseni",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-03-02T13:56:20.632Z",
-      "replyText": "Hezký den, Romane,\nto mě mrzí 🙁 Podle toho, co píšete, jste zkusil vše, co jste sám mohl. Napište nám prosím na aplikace@vodafone.cz a my se na to podíváme. Věřím, že to vyřešíme 🙂 Katka",
-      "version": "3.8.0"
-    },
-    {
       "id": "d561c977-b99f-4672-8ecc-ce6e79c10a42",
       "userName": "VLK VLK",
       "date": "2026-03-02T12:17:20.289Z",
@@ -9909,52 +9960,6 @@
       ],
       "replyDate": "2026-03-02T11:14:25.225Z",
       "replyText": "Pěkný den, Milane,\nděkujeme vám za hodnocení. Těší mě, že se vám aplikace líbí 🙂 Lucie",
-      "version": "3.8.0"
-    },
-    {
-      "id": "e0658d15-eaea-471e-8a58-5125b6d206a2",
-      "userName": "Honza J",
-      "date": "2026-03-02T10:56:21.403Z",
-      "score": 1,
-      "text": "Uz asi 10x jsem nastavoval hlavni číslo k zobrazení (z mych dvou) a pořád se na první dobrou zobrazí to špatne. Nabídka na odměnu na oslavu 20 let se zobrazovala pořád, tak jsem proklikal, aby mi napsali, ze pro mě cislo nabídka není. ale druhý den uz tam byla, Data bez limitu na týden - ocenil bych, kdyby na konci toho týdne přišla SMS nebo push notifikace,ze odměna skončila. Bylo by to zákazník friedly. ale to bych chtel po proficich asi moc. Jo a o rychlosti načítání služeb radši nic.",
-      "text_normalized": "uz asi 10x jsem nastavoval hlavni cislo k zobrazeni (z mych dvou) a porad se na prvni dobrou zobrazi to spatne. nabidka na odmenu na oslavu 20 let se zobrazovala porad, tak jsem proklikal, aby mi napsali, ze pro me cislo nabidka neni. ale druhy den uz tam byla, data bez limitu na tyden - ocenil bych, kdyby na konci toho tydne prisla sms nebo push notifikace,ze odmena skoncila. bylo by to zakaznik friedly. ale to bych chtel po proficich asi moc. jo a o rychlosti nacitani sluzeb radsi nic.",
-      "segments": [
-        "Vykonnost",
-        "UI",
-        "Prihlaseni",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-03-02T11:15:19.450Z",
-      "replyText": "Pěkný den, Honzo,\nje mi líto, že sledujete tyto potíže 🙁 Rádi vám pomůžeme, když nám napíšete podrobnosti přes zabezpečený formulář na https://tam.je/dotaz, kde to můžeme řešit konkrétněji. Lucie",
-      "version": "3.8.0"
-    },
-    {
-      "id": "5b586faa-11ed-451c-a81f-a04ab9e33976",
-      "userName": "Pošlete mi to sem",
-      "date": "2026-03-02T10:40:56.200Z",
-      "score": 1,
-      "text": "Asi nikdo se nechce po každé aktualizaci aplikace přihlašovat pomocí vyplňování jména a hesla, když to má nastavené na otisk prstu. Jednou se ze všech těch hesel a zabezpečení lidstvo úplně zblázní. Neumíte to udělat uživatelsky přívětivé?",
-      "text_normalized": "asi nikdo se nechce po kazde aktualizaci aplikace prihlasovat pomoci vyplnovani jmena a hesla, kdyz to ma nastavene na otisk prstu. jednou se ze vsech tech hesel a zabezpeceni lidstvo uplne zblazni. neumite to udelat uzivatelsky privetive?",
-      "segments": [
-        "Prihlaseni",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-03-02T11:17:22.554Z",
-      "replyText": "Pěkný den,\nomlouvám se vám za nepříjemnosti 🙁 Rádi to budeme řešit konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie",
-      "version": "3.8.0"
-    },
-    {
-      "id": "d6ffb132-506a-474e-a509-3391dce2f262",
-      "userName": "Antonin Palka",
-      "date": "2026-03-02T10:18:18.352Z",
-      "score": 2,
-      "text": "aplikace zamrzá, u odměn jen bílá obrazovka, nepomohla ani přeinstalace",
-      "text_normalized": "aplikace zamrza, u odmen jen bila obrazovka, nepomohla ani preinstalace",
-      "segments": [
-        "Ine"
-      ],
-      "replyDate": "2026-03-02T10:48:18.665Z",
-      "replyText": "Dobrý den, Antoníne,\nmrzí mě, že máte takové potíže. Prosím napište nám přes https://tam.je/dotaz, rádi to prověříme na základě konkrétního příkladu. Martina\n",
       "version": "3.8.0"
     },
     {
@@ -10056,21 +10061,6 @@
       "version": "3.8.0"
     },
     {
-      "id": "4c353af4-86d9-4b91-a369-62a3f11d6aa7",
-      "userName": "Max Zorin",
-      "date": "2026-03-01T21:23:53.880Z",
-      "score": 1,
-      "text": "nepřehledná, pomalá tragedie",
-      "text_normalized": "neprehledna, pomala tragedie",
-      "segments": [
-        "Vykonnost",
-        "UI"
-      ],
-      "replyDate": "2026-03-02T06:23:19.560Z",
-      "replyText": "Hezký den, Maxi,\nje mi líto, že se vám aplikace nelíbí 🙁 Aplikaci nadále vyvíjíme a pevně věřím, že do budoucna se vám bude líbit více. Lucie",
-      "version": null
-    },
-    {
       "id": "e62b665c-2dba-43aa-85e3-806f4ac39a45",
       "userName": "Martin Hajny",
       "date": "2026-03-01T21:22:44.479Z",
@@ -10085,19 +10075,18 @@
       "version": "3.8.0"
     },
     {
-      "id": "a22812ec-411a-44ae-a4c0-d0ba492d0ee2",
-      "userName": "Neznámá Osoba",
-      "date": "2026-03-01T20:20:00.713Z",
-      "score": 5,
-      "text": "Aplikace je přehlednější než ta původní . akorát je trochu méně optimalizovaná. načítá dlouho . jinak funkční. Přihlášení přes otisk je OK občas mě to odhlásí ale pak už je to v pořádku .. ale mohla by být možnost přihlášení obličejem.",
-      "text_normalized": "aplikace je prehlednejsi nez ta puvodni . akorat je trochu mene optimalizovana. nacita dlouho . jinak funkcni. prihlaseni pres otisk je ok obcas me to odhlasi ale pak uz je to v poradku .. ale mohla by byt moznost prihlaseni oblicejem.",
+      "id": "30b45c99-f03e-4dd6-86be-b15c31b58c18",
+      "userName": "Leoš Jan Borský",
+      "date": "2026-03-01T20:56:40.931Z",
+      "score": 2,
+      "text": "SMS 20.let Vodafone : Krasny den, gratulujeme! Voucher pro ziskani videoteky prima+ PREMIUM je pripraven v Muj Vodafone+. Tak uzivejte! Vas Vodafone. Díky žádný voucher v aplikaci není ...",
+      "text_normalized": "sms 20.let vodafone : krasny den, gratulujeme! voucher pro ziskani videoteky prima+ premium je pripraven v muj vodafone+. tak uzivejte! vas vodafone. diky zadny voucher v aplikaci neni ...",
       "segments": [
-        "UI",
         "Prihlaseni",
         "Obmezene_funkce"
       ],
-      "replyDate": "2026-03-02T06:22:17.676Z",
-      "replyText": "Dobrý den,\ntěší nás, že jste spokojený, a děkujeme za vaši zpětnou vazbu. Martina",
+      "replyDate": "2026-03-02T06:26:45.329Z",
+      "replyText": "Dobrý den, Leoši,\nkupon pro prima+ zkuste prosím vyzvednout podle návodu, který najdete na https://www.vodafone.cz/pece/televize/tv-doplnkove-sluzby/vodafone-tv-primaplus/. Kdyby se vám to nepodařilo, zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz, prověříme to. Martina",
       "version": "3.8.0"
     },
     {
@@ -10227,20 +10216,6 @@
       "version": "3.8.0"
     },
     {
-      "id": "01109197-8454-48ea-9230-8f9ddec43f32",
-      "userName": "Milan",
-      "date": "2026-03-01T16:31:44.330Z",
-      "score": 2,
-      "text": "Do plné funkčnosti to má daleko.",
-      "text_normalized": "do plne funkcnosti to ma daleko.",
-      "segments": [
-        "Ine"
-      ],
-      "replyDate": "2026-03-02T06:14:26.471Z",
-      "replyText": "Pěkný den, Milane,\npostupně aplikaci rozvíjíme a další funkce přidáváme. Pevně věřím, že do budoucna budete s aplikací spokojenější. Lucie",
-      "version": "3.8.0"
-    },
-    {
       "id": "0fca3b1b-5fdc-4764-a6b7-e0399903fcd7",
       "userName": "Petr Fanderlik",
       "date": "2026-03-01T16:19:38.565Z",
@@ -10308,20 +10283,6 @@
       ],
       "replyDate": "2026-03-01T11:44:31.779Z",
       "replyText": "Dobrý den, Petře,\nmrzí mě, že nejste spokojený 🙁 Napište nám prosím konkrétní zpětnou vazbu na https://tam.je/google a my se vám budeme věnovat. Katka",
-      "version": "3.8.0"
-    },
-    {
-      "id": "ed9ce908-1b59-487d-82e7-3cdf45902d4d",
-      "userName": "Jarka Smetanova",
-      "date": "2026-03-01T11:25:21.288Z",
-      "score": 5,
-      "text": "👍👍👍👍👍👍👍👍👍👍",
-      "text_normalized": "👍👍👍👍👍👍👍👍👍👍",
-      "segments": [
-        "Ine"
-      ],
-      "replyDate": "2026-03-01T11:44:56.670Z",
-      "replyText": "Dobrý den, Jarko,\nděkujeme za krásné hodnocení 🙂 Katka",
       "version": "3.8.0"
     },
     {
@@ -10508,20 +10469,6 @@
       "replyDate": "2026-03-01T07:42:52.783Z",
       "replyText": "Dobrý den, Jiří,\nděkuji vám za hodnocení a jsem ráda, že vám aplikace vyhovuje 🙂 Katka",
       "version": "3.6.3"
-    },
-    {
-      "id": "b70a108d-9494-43fe-a515-80bfa498340f",
-      "userName": "Jaroslav Neuman",
-      "date": "2026-02-28T18:14:44.955Z",
-      "score": 5,
-      "text": "super",
-      "text_normalized": "super",
-      "segments": [
-        "Spokojenost"
-      ],
-      "replyDate": "2026-03-01T07:43:30.271Z",
-      "replyText": "Hezký den, Jaroslave,\ntěší mě, že jste spokojený, a děkuji za hodnocení 🙂 Katka",
-      "version": "3.7.1"
     },
     {
       "id": "088faf5e-5a3e-489d-bb30-88e4c8d70071",
@@ -11118,20 +11065,6 @@
       "version": "3.8.0"
     },
     {
-      "id": "004bee01-5ab6-4a93-bdec-b57449f77cd1",
-      "userName": "Roman Butchyk",
-      "date": "2026-02-26T17:27:45.345Z",
-      "score": 1,
-      "text": "Hrůza fuj naj hoši operátor fuj ostuda",
-      "text_normalized": "hruza fuj naj hosi operator fuj ostuda",
-      "segments": [
-        "Zakaznicka_podpora"
-      ],
-      "replyDate": "2026-02-26T17:35:19.239Z",
-      "replyText": "Pěkný den, Romane,\nco se prosím stalo? V týdnu jsme vydali novou aktualizaci, tak si prosím aplikaci aktualizuje, anebo odinstalujte a znovu instalujte. Budu ráda, když nám k tomu napíšete více přes https://tam.je/dotaz. Veronika",
-      "version": "3.7.1"
-    },
-    {
       "id": "7c618159-df34-4d6e-8119-8ff78b8cf272",
       "userName": "Jiří Staněk",
       "date": "2026-02-26T17:21:11.940Z",
@@ -11331,6 +11264,21 @@
       ],
       "replyDate": "2026-02-26T08:04:27.142Z",
       "replyText": "Hezký den, Romane,\nděkujeme za zpětnou vazbu. Pro přehled aktivních služeb můžete využít sekci Služby v dolním menu, kde po kliknutí na Více podrobností u vybrané služby uvidíte její detail. Mrzí nás vaše zkušenost s chatbotem — průběžně ho vylepšujeme. Viki",
+      "version": "3.8.0"
+    },
+    {
+      "id": "d91c6f8f-60fe-4ecd-b98b-337d3323a159",
+      "userName": "T. Tom",
+      "date": "2026-02-26T06:55:24.181Z",
+      "score": 1,
+      "text": "Aplikace nejde vůbec spustit. Ihned naskočí stránka \"Něco se nepovedlo\" Update: tak aplikace se už otevře ale občas bílá stránka a The requested URL was rejected.",
+      "text_normalized": "aplikace nejde vubec spustit. ihned naskoci stranka \"neco se nepovedlo\" update: tak aplikace se uz otevre ale obcas bila stranka a the requested url was rejected.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-26T07:02:18.540Z",
+      "replyText": "Hezký den, Tome,\nděkujeme vám za zpětnou vazbu. Pokud by problém přetrvával, prosím napište nám přes https://tam.je/dotaz. Budeme potřebovat typ telefonu a screen do přílohy této chyby. Viki",
       "version": "3.8.0"
     },
     {
@@ -11575,6 +11523,20 @@
       "version": "3.7.1"
     },
     {
+      "id": "712e694b-ff0a-41cb-9f90-00f13c8b5294",
+      "userName": "Alexandr Studecky",
+      "date": "2026-02-24T11:37:40.589Z",
+      "score": 3,
+      "text": "tak vypadá že s tím někdo něco udělal,tak snad vše bude ok.diky.",
+      "text_normalized": "tak vypada ze s tim nekdo neco udelal,tak snad vse bude ok.diky.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-02-21T07:20:22.969Z",
+      "replyText": "Hezký den, Alexandře,\nje mi líto, že jste s aplikací nespokojený 🙁 Zkuste ověřit připojení k internetu a aplikaci stáhnout znovu. Pokud by potíže přetrvávaly, zavolejte nám na linku *77 a kolegové to s vámi prověří. Zuzana",
+      "version": "3.7.1"
+    },
+    {
       "id": "a3ddc961-b117-40b7-9fc0-771f8a039d15",
       "userName": "Alena Krhutkova",
       "date": "2026-02-24T11:07:06.361Z",
@@ -11586,6 +11548,21 @@
       ],
       "replyDate": "2026-02-24T11:22:17.303Z",
       "replyText": "Dobrý den, Aleno,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.7.1"
+    },
+    {
+      "id": "b2b1177a-0770-4369-915a-96db6eaf1cae",
+      "userName": "Mirda Elektro",
+      "date": "2026-02-24T06:35:03.668Z",
+      "score": 5,
+      "text": "Nejspíš po opravě chyby nebo aktualizaci aplikace funguje jak má.",
+      "text_normalized": "nejspis po oprave chyby nebo aktualizaci aplikace funguje jak ma.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-24T06:52:31.561Z",
+      "replyText": "Pěkný den, Mirdo,\nděkujeme vám za hodnocení. Jsem ráda, že je nyní vše v pořádku 🙂 Lucie",
       "version": "3.7.1"
     },
     {
@@ -11709,6 +11686,20 @@
       "version": "3.7.1"
     },
     {
+      "id": "248c9b25-737e-405e-88d1-9a986f62c724",
+      "userName": "Kuba Borkovec",
+      "date": "2026-02-23T09:47:59.925Z",
+      "score": 4,
+      "text": "Aplikace dostala aktualizaci a nyní je QR kód pro placení dostupný ihned. 👍",
+      "text_normalized": "aplikace dostala aktualizaci a nyni je qr kod pro placeni dostupny ihned. 👍",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-02-23T10:19:02.342Z",
+      "replyText": "Hezký den, Kubo, děkujeme za hodnocení 🙂 Těší mě, že jste s aplikací spokojený 🙂 Petra",
+      "version": "3.7.1"
+    },
+    {
       "id": "7d7dd24d-0180-4c45-992d-d91e3b3e8d4c",
       "userName": "Jiří Vlček",
       "date": "2026-02-23T08:44:29.235Z",
@@ -11783,6 +11774,37 @@
       "version": null
     },
     {
+      "id": "c6ebfd51-3a84-4c3c-8d51-379a0ea3490c",
+      "userName": "Romisek Romiskovej",
+      "date": "2026-02-22T11:17:19.750Z",
+      "score": 1,
+      "text": "K čemu je taková aplikace, když přes ni nejde zaplatit vyúčtování? Platit přes bankomat nebo převodem mi přijde trochu krok zpátky",
+      "text_normalized": "k cemu je takova aplikace, kdyz pres ni nejde zaplatit vyuctovani? platit pres bankomat nebo prevodem mi prijde trochu krok zpatky",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-22T12:30:00.907Z",
+      "replyText": "Hezký den, Romisku,\nje mi líto, že to tak vnímáte. V poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte 🙂 Zuzana",
+      "version": "3.7.1"
+    },
+    {
+      "id": "33d94405-6f6d-431b-9bfc-ac68d6174c57",
+      "userName": "Jiřì Zlatohlàvek",
+      "date": "2026-02-22T10:27:31.200Z",
+      "score": 1,
+      "text": "Za Vodafone Happy ty Vaše slevy to je ostuda.Koukně te na T mobile.Neustále dárky,Do kina vstupenka 1+1 ,atd tady......Trochu Vám ten Váš Happy nefunguje.Neustále se to vrací načítá atd no hrůzaaaaa!!!",
+      "text_normalized": "za vodafone happy ty vase slevy to je ostuda.koukne te na t mobile.neustale darky,do kina vstupenka 1+1 ,atd tady......trochu vam ten vas happy nefunguje.neustale se to vraci nacita atd no hruzaaaaa!!!",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-22T10:56:04.953Z",
+      "replyText": "Hezký den, Jiří,\nchápu vás a mrzí mě, že nejste s nabídkami spokojen 🙁 V tuto chvíli můžete ve VF Happy zaznamenávat potíže s vyzvednutím výhry, zkuste výhru vyzvednout druhý den a pokud by potíže přetrvávaly, zavolejte nám na linku *77 a kolegové to s vámi prověří. Zuzana",
+      "version": "3.7.1"
+    },
+    {
       "id": "8d3b2964-c025-4c37-871b-94bd9810d313",
       "userName": "E. B.",
       "date": "2026-02-22T07:38:10.112Z",
@@ -11796,6 +11818,24 @@
       "replyDate": "2026-02-22T07:57:36.661Z",
       "replyText": "Hezký den,\nje mi líto, že máte potíže s objednáním 🙁 Zavolejte nám na linku *77 a nebo nám napište přes zabezpečený formulář https://tam.je/dotaz a rádi se s vámi na objednávku podíváme. Zuzana",
       "version": null
+    },
+    {
+      "id": "7401fcba-552d-4ec1-b0a9-e8a5a9762345",
+      "userName": "Jan Doutnáč",
+      "date": "2026-02-21T23:22:35.900Z",
+      "score": 3,
+      "text": "Opět katastrofální aplikace. Pomalá, nejde se opakovaně přihlásit... Pixel 9 Pro xl Edit: přihlášení již funguje. Vtipné jsou losy s odměnou, kdy ohlásí aplikace výhru, aby vzápětí napsala, že výhra nebyla nalezena. Edit2: po další aktualizaci smazání přihlašovacích údajů včetně biometriky.",
+      "text_normalized": "opet katastrofalni aplikace. pomala, nejde se opakovane prihlasit... pixel 9 pro xl edit: prihlaseni jiz funguje. vtipne jsou losy s odmenou, kdy ohlasi aplikace vyhru, aby vzapeti napsala, ze vyhra nebyla nalezena. edit2: po dalsi aktualizaci smazani prihlasovacich udaju vcetne biometriky.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-22T07:23:31.448Z",
+      "replyText": "Hezký den, Jane,\nje mi líto, že nejste spokojený 🙁 Zkuste aplikaci přeinstalovat, poté by mělo být přihlášení v pořádku, pokud by potíže trvaly, zavolejte nám na linku *77 a kolegové s vámi situaci i ohledně VF Happy prověří. Zuzana",
+      "version": "3.7.1"
     },
     {
       "id": "a85b7a33-e130-4d51-b75d-e3c4d61eead0",
@@ -11842,17 +11882,17 @@
       "version": "3.7.0"
     },
     {
-      "id": "712e694b-ff0a-41cb-9f90-00f13c8b5294",
-      "userName": "Alexandr Studecky",
-      "date": "2026-02-20T19:24:18.736Z",
-      "score": 1,
-      "text": "ta se vám povedla 😁 načítá, načítá, načítá až sem ji smazal.",
-      "text_normalized": "ta se vam povedla 😁 nacita, nacita, nacita az sem ji smazal.",
+      "id": "88e71546-8b2b-4899-8ddb-9e9c19f9a352",
+      "userName": "Boris Biely",
+      "date": "2026-02-20T14:56:37.980Z",
+      "score": 4,
+      "text": "vypadá to, ze aplikace je nyní stabilní, díky",
+      "text_normalized": "vypada to, ze aplikace je nyni stabilni, diky",
       "segments": [
-        "Ine"
+        "Stabilita"
       ],
-      "replyDate": "2026-02-21T07:20:22.969Z",
-      "replyText": "Hezký den, Alexandře,\nje mi líto, že jste s aplikací nespokojený 🙁 Zkuste ověřit připojení k internetu a aplikaci stáhnout znovu. Pokud by potíže přetrvávaly, zavolejte nám na linku *77 a kolegové to s vámi prověří. Zuzana",
+      "replyDate": "2026-02-20T15:13:33.663Z",
+      "replyText": "Hezký den, Borisi,\nděkujeme za kladné hodnocení 🙂 Zuzana",
       "version": "3.7.1"
     },
     {
@@ -11970,21 +12010,6 @@
       "version": "3.7.1"
     },
     {
-      "id": "7c2ce7c4-314c-4139-aa69-23b4f3e30bd7",
-      "userName": "Kubajs Poseidon",
-      "date": "2026-02-18T22:26:03.282Z",
-      "score": 1,
-      "text": "pomalu načítá jak poslední umíráček, nelze tam ani najít vyzvednutí dat k balíčku takže mi 5gb každý měsíc asi propadne Některé odkazy pro rozkliknuti ani nespustí takže to bere data aniž by to vydalo službu Tohle je amatérismus a nepatří do roku 2026 Vývojáři k ničemu",
-      "text_normalized": "pomalu nacita jak posledni umiracek, nelze tam ani najit vyzvednuti dat k balicku takze mi 5gb kazdy mesic asi propadne nektere odkazy pro rozkliknuti ani nespusti takze to bere data aniz by to vydalo sluzbu tohle je amaterismus a nepatri do roku 2026 vyvojari k nicemu",
-      "segments": [
-        "Stabilita",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-02-19T06:08:11.888Z",
-      "replyText": "Pěkný den, Kubajsi,\nurčitě aplikaci odinstalujte, telefon vypněte a zapněte a znovu nainstalujte, pokud s tím budete mít nějaké potíže, pošlete nám prosím k tomu podrobnější informace, případně i screenshoty přes https://tam.je/dotaz. Veronika",
-      "version": "3.6.3"
-    },
-    {
       "id": "42a1bf2e-555e-460b-833d-5f55eb99ef52",
       "userName": "Bozena Vlnata",
       "date": "2026-02-18T17:17:52.162Z",
@@ -12054,6 +12079,21 @@
       "replyDate": "2026-02-18T10:05:16.853Z",
       "replyText": "Hezký den, Roberte,\nděkujeme za hodnocení a těší mě, že jste s naší aplikací spokojený 🙂 Katka",
       "version": "3.7.0"
+    },
+    {
+      "id": "eeb479be-ad4a-4514-b34d-a4c458884882",
+      "userName": "Jan Crhán",
+      "date": "2026-02-18T08:25:52.950Z",
+      "score": 1,
+      "text": "V nové aplikaci nejsou widgety s čerpáním volných jednotek. Vodafone potvrdil, že to je úmyslná změna , aby zákazníci přecházeli na mnohonásobně dražší neomezené tarify.",
+      "text_normalized": "v nove aplikaci nejsou widgety s cerpanim volnych jednotek. vodafone potvrdil, ze to je umyslna zmena , aby zakaznici prechazeli na mnohonasobne drazsi neomezene tarify.",
+      "segments": [
+        "Obmezene_funkce",
+        "Cena"
+      ],
+      "replyDate": "2026-02-18T08:32:42.913Z",
+      "replyText": "Hezký den, Jane, v aktuálních verzích aplikace už widgety opravdu nenabízíme. Většina zákazníků má dnes neomezené tarify, a widgety tak postupně ztratily smysl. Mrzí mě, pokud vám budou chybět — přehled o útratě však v aplikaci stále snadno najdete a věřím, že pro vás zůstane užitečná. Viki",
+      "version": "3.7.1"
     },
     {
       "id": "e53a8f6a-530b-4a11-82f9-cb16da3a6906",
@@ -12213,6 +12253,22 @@
       "version": "3.7.1"
     },
     {
+      "id": "60c04819-5154-4937-8dc3-61fbf0d85fb7",
+      "userName": "Otto Novotny",
+      "date": "2026-02-17T09:23:31.380Z",
+      "score": 1,
+      "text": "vůbec se s tou aplikací nedá pracovat. Vůbec nerezpekspektuje platby, když se prihlasím na web tak tam je vše v pořádku. Píšete něco o Qver kódu, ale ten tam není. je jen na webu. Nehledě na to že ta aplikace stále ukazuje nesmyslné částky. Tak že i když zaplatím, aplikace stále ukazuje nesmyslné částky. A to ji propagujete jako nejlepší. Zlatá stará aplikace.",
+      "text_normalized": "vubec se s tou aplikaci neda pracovat. vubec nerezpekspektuje platby, kdyz se prihlasim na web tak tam je vse v poradku. pisete neco o qver kodu, ale ten tam neni. je jen na webu. nehlede na to ze ta aplikace stale ukazuje nesmyslne castky. tak ze i kdyz zaplatim, aplikace stale ukazuje nesmyslne castky. a to ji propagujete jako nejlepsi. zlata stara aplikace.",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-17T09:26:30.997Z",
+      "replyText": "Pěkný den, Otto,\nje mi líto, pokud sledujete potíže s aplikací 🙁 Zkuste ji prosím přeinstalovat. Pokud to nepomůže, napište nám podrobnosti přes https://tam.je/dotaz, abychom to mohli řešit konkrétněji. Lucie",
+      "version": "3.7.1"
+    },
+    {
       "id": "4c86c460-c178-4d5f-9958-1bb739ee191a",
       "userName": "Vanda Vlcek",
       "date": "2026-02-17T08:56:38.934Z",
@@ -12225,22 +12281,6 @@
       "replyDate": "2026-02-17T09:27:09.508Z",
       "replyText": "Pěkný den, Vando,\npokud potřebujete pomoct, rádi se na to s vámi podíváme, když nám zavoláte na 800 77 00 77. Lucie",
       "version": "3.7.1"
-    },
-    {
-      "id": "8c5c77e8-5760-40f4-9ff3-3cb3c853f1b1",
-      "userName": "Helen Lama",
-      "date": "2026-02-16T17:54:33.213Z",
-      "score": 1,
-      "text": "Co kdyby konečně, jako ostatní operátoři, umožnili platit také přes gpay...? Appka k ničemu, pokaždé když se chci podívat, tak jsem odhlášena a můžu tisíckrát zadávat aby mě neodhlasovala a požadavek na biometriku. Fakt odpad!!! Vyvojáři by měli chodit kanalama a stydět se z takovou práci.",
-      "text_normalized": "co kdyby konecne, jako ostatni operatori, umoznili platit take pres gpay...? appka k nicemu, pokazde kdyz se chci podivat, tak jsem odhlasena a muzu tisickrat zadavat aby me neodhlasovala a pozadavek na biometriku. fakt odpad!!! vyvojari by meli chodit kanalama a stydet se z takovou praci.",
-      "segments": [
-        "Stabilita",
-        "Platba_a_vyuctovani",
-        "Zakaznicka_podpora"
-      ],
-      "replyDate": "2026-02-16T19:06:47.370Z",
-      "replyText": "Dobrý den, Helen,\nděkujeme vám za zpětnou vazbu. Pokud jde o Google pay, právě probíhá testování a pracujeme na tom, aby tato platební metoda byla v některé z dalších aktualizací aplikace dostupná. Pokud vám \"nedrží\" přihlášení biometrikou, prosím, napište nám na aplikace@vodafone.cz a my všechno zkontrolujeme. Katka",
-      "version": "3.7.0"
     },
     {
       "id": "85ae3a8c-0021-44ab-8c4c-0be890703735",
@@ -12334,36 +12374,6 @@
       "version": "3.7.0"
     },
     {
-      "id": "eeb479be-ad4a-4514-b34d-a4c458884882",
-      "userName": "Jan Crhán",
-      "date": "2026-02-15T08:29:00.160Z",
-      "score": 2,
-      "text": "V nové aplikaci nejsou widgety s čerpáním volných jednotek.",
-      "text_normalized": "v nove aplikaci nejsou widgety s cerpanim volnych jednotek.",
-      "segments": [
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-02-15T08:48:19.792Z",
-      "replyText": "Pěkný den, Jane,\nv nových verzích aplikace už widgety nepodporujeme. Většina našich zákazníků má dnes tarify s neomezenými službami, u nich widgety ztrácejí smysl. Mrzí nás, pokud vám budou widgety chybět, přehled o své útratě však nadále v aplikaci uvidíte, tak věříme, že pro vás i tak bude užitečná. Lucie",
-      "version": "3.7.0"
-    },
-    {
-      "id": "3a7397fd-814f-4988-bbf4-841a4b8827bc",
-      "userName": "Stanislav Brejak",
-      "date": "2026-02-15T08:07:09.272Z",
-      "score": 5,
-      "text": "Po posledních potížích s přihlášením již vše v pořádku opraveno. Do aplikace po posledním upgrade byla přidána možnost QR platby a taky různé další možnosti uživatelského rozhraní proto dávám 5☆.",
-      "text_normalized": "po poslednich potizich s prihlasenim jiz vse v poradku opraveno. do aplikace po poslednim upgrade byla pridana moznost qr platby a taky ruzne dalsi moznosti uzivatelskeho rozhrani proto davam 5☆.",
-      "segments": [
-        "Prihlaseni",
-        "Platba_a_vyuctovani",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-02-15T08:18:13.820Z",
-      "replyText": "Pěkný den, Stanislave,\nděkujeme vám za hodnocení. Jsem ráda, že vás aktualizace aplikace potěšila 🙂 Lucie",
-      "version": "3.7.0"
-    },
-    {
       "id": "598eed75-6582-490b-a8c9-26e8bfd6fcbf",
       "userName": "Sekání zahrad Údržba pozemků",
       "date": "2026-02-14T16:50:09.373Z",
@@ -12404,6 +12414,24 @@
       ],
       "replyDate": "2026-02-14T08:45:48.848Z",
       "replyText": "Pěkný den, Pavle,\nje mi líto, pokud máte potíže s přihlášením 🙁 Zkuste prosím aplikaci přeinstalovat. Pokud budou potíže přetrvávat, napište nám prosím podrobnosti na e-mail aplikace@vodafone.cz, abychom se na to mohli podívat konkrétněji. Lucie\n",
+      "version": "3.7.0"
+    },
+    {
+      "id": "1fdd6535-232e-4303-8e58-b70b77fe8f81",
+      "userName": "Hana Stepnikova",
+      "date": "2026-02-14T08:20:41.979Z",
+      "score": 1,
+      "text": "UPDATE: JEJDA NĚCO SE PO**ALO! Ani nová appka nevyřešila zásadní problém té staré: nelze platit kartou přes aplikace Google Pay. Tuto možnost při platbě aplikace nenabídne,ale při přihlášení přes web samoobsluha to funguje správně.",
+      "text_normalized": "update: jejda neco se po**alo! ani nova appka nevyresila zasadni problem te stare: nelze platit kartou pres aplikace google pay. tuto moznost pri platbe aplikace nenabidne,ale pri prihlaseni pres web samoobsluha to funguje spravne.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-14T08:46:51.542Z",
+      "replyText": "Pěkný den, Hano,\nje mi líto, pokud máte s aplikací potíže 🙁 Zkuste ji prosím přeinstalovat. Pokud to nepomůže, napište nám prosím detaily na e-mail aplikace@vodafone.cz, rádi se na to podíváme konkrétněji. Lucie",
       "version": "3.7.0"
     },
     {
@@ -12468,6 +12496,24 @@
       ],
       "replyDate": "2026-02-13T15:49:09.992Z",
       "replyText": "Hezký den, Petře, je mi líto, že máte potíže s aplikací 🙁 Napište nám prosím více podrobností přes zabezpečený formulář https://tam.je/dotaz. Prověříme to. Petra\n",
+      "version": "3.7.0"
+    },
+    {
+      "id": "2213f29a-96c1-49b1-910a-c1c5fcf4bdb5",
+      "userName": "Michal Moric",
+      "date": "2026-02-13T13:01:09.645Z",
+      "score": 4,
+      "text": "V aplikaci se nedá přihlásit k uživatelskému účtu, což je zásadní problém. Stará aplikace fungovala, nyní bohužel zatím nefunkční. Edit: Po opravě chyby v aplikaci se lze přihlásit. Zatím nejde stáhnout faktura vyúčtování v PDF. Prozatím zvedám na tři hvězdy a při příštím vyúčtování zjistím, jestli funguje platba atd. Edit2: faktura již jde stáhnout. Až ověřím při vyúčtování funkčnost platby přes aplikaci, bude za 5*, díky",
+      "text_normalized": "v aplikaci se neda prihlasit k uzivatelskemu uctu, coz je zasadni problem. stara aplikace fungovala, nyni bohuzel zatim nefunkcni. edit: po oprave chyby v aplikaci se lze prihlasit. zatim nejde stahnout faktura vyuctovani v pdf. prozatim zvedam na tri hvezdy a pri pristim vyuctovani zjistim, jestli funguje platba atd. edit2: faktura jiz jde stahnout. az overim pri vyuctovani funkcnost platby pres aplikaci, bude za 5*, diky",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-02-13T13:21:03.891Z",
+      "replyText": "Hezký den, Michale,\nděkujeme za hodnocení, věřím, že jakmile otestujete platbu přes QR kód, budete spokojený 🙂 Zuzana",
       "version": "3.7.0"
     },
     {
@@ -12617,6 +12663,22 @@
       "version": "3.7.0"
     },
     {
+      "id": "73c76b6d-c789-41aa-800c-4a2234f04f69",
+      "userName": "Milan Kubišta",
+      "date": "2026-02-12T15:00:39.751Z",
+      "score": 1,
+      "text": "složité, plné reklam a nepřehledné. Odměny na ne/slevy. Bohužel nic moc tedy.... No a teď je to ještě povýšené 😂🤣 Oslavujete 20 let a jako dárek dostanu.... nic 😂🤣 Nefunkční, error a pak žádný dárek 😁 Tak děkuji za nic 😂🤣 Víc takových oslav 👏🏻👏🏻",
+      "text_normalized": "slozite, plne reklam a neprehledne. odmeny na ne/slevy. bohuzel nic moc tedy.... no a ted je to jeste povysene 😂🤣 oslavujete 20 let a jako darek dostanu.... nic 😂🤣 nefunkcni, error a pak zadny darek 😁 tak dekuji za nic 😂🤣 vic takovych oslav 👏🏻👏🏻",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-13T12:16:00.263Z",
+      "replyText": "Dobrý den, Milane,\ntyto potíže jsme už odstranili, zkuste to prosím znovu. Veronika",
+      "version": "3.7.0"
+    },
+    {
       "id": "98dd0ffc-2403-4a09-af46-efc4cf016922",
       "userName": "Olca Kolecko",
       "date": "2026-02-12T14:35:42.151Z",
@@ -12631,20 +12693,6 @@
       ],
       "replyDate": "2026-02-12T14:41:35.480Z",
       "replyText": "Hezký den, Olčo,\nmrzí mě, že máte takové potíže. Zkuste prosím aplikaci odinstalovat a nainstalovat zpět, případně ověřte, že máte nejnovější aktualizaci. Viki",
-      "version": "3.7.0"
-    },
-    {
-      "id": "88e71546-8b2b-4899-8ddb-9e9c19f9a352",
-      "userName": "Boris Biely",
-      "date": "2026-02-12T14:17:30.990Z",
-      "score": 2,
-      "text": "poslední dobou aplikace hodně pada se slovy \"jejda neco se pokazilo\". tak asi tak jejda",
-      "text_normalized": "posledni dobou aplikace hodne pada se slovy \"jejda neco se pokazilo\". tak asi tak jejda",
-      "segments": [
-        "Stabilita"
-      ],
-      "replyDate": "2026-02-12T14:43:23.350Z",
-      "replyText": "Hezký den, Borisi,\nděkujeme vám za zpětnou vazbu. Je mi líto, že jste zaznamenal takové potíže 🙁 Aplikaci budeme i nadále vylepšovat v dalších aktualizacích. Případně se s námi prosím spojte na 800 77 00 77, kdyby problém přetrvával dál. Viki",
       "version": "3.7.0"
     },
     {
@@ -12837,22 +12885,6 @@
       "version": "3.7.0"
     },
     {
-      "id": "60c04819-5154-4937-8dc3-61fbf0d85fb7",
-      "userName": "Otto Novotny",
-      "date": "2026-02-12T06:21:03.846Z",
-      "score": 2,
-      "text": "vůbec se s tou aplikací nedá pracovat. Vůbec nerezpekspektuje platby, když se prihlasím na web tak tam je vše v pořádku. Na webu to souhlasí i podle faktůry.Na to že jí propagujete od loňska, tak opravdu nefunkční. Nedá se přes ni platit, neb to nesouhlasí s realitou.",
-      "text_normalized": "vubec se s tou aplikaci neda pracovat. vubec nerezpekspektuje platby, kdyz se prihlasim na web tak tam je vse v poradku. na webu to souhlasi i podle faktury.na to ze ji propagujete od lonska, tak opravdu nefunkcni. neda se pres ni platit, neb to nesouhlasi s realitou.",
-      "segments": [
-        "Prihlaseni",
-        "Platba_a_vyuctovani",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-02-12T06:44:08.573Z",
-      "replyText": "Dobrý den, Otto,\nrádi to prověříme na základě konkrétního příkladu. Prosím zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz (v příloze můžete poslat i screenshoty toho, jak v aplikaci postupujete a kde vidíte chybu). Martina",
-      "version": "3.6.3"
-    },
-    {
       "id": "bee35788-e728-46f0-b0d0-d10d5e9d244d",
       "userName": "Lukáš Smolík",
       "date": "2026-02-12T03:45:14.802Z",
@@ -12879,6 +12911,20 @@
       ],
       "replyDate": "2026-02-11T08:41:13.260Z",
       "replyText": "Pěkný den, Štěpáne,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "9e57c0af-2ec3-495d-a474-86848992d786",
+      "userName": "Oleh Dovhanjuk",
+      "date": "2026-02-11T15:42:16.611Z",
+      "score": 1,
+      "text": "Proč mají zadávat ověření e-mailem když mám nastaveno ověření biometrické? Co považuji za víc bezpečně. Za necelý týden dnes po druhé aplikace ne pustí ani na hlavní stránku.Mobil Motorola edge 60 pro, android 16. Aplikace vyvinutá speciálně naštvat zákazníky.",
+      "text_normalized": "proc maji zadavat overeni e-mailem kdyz mam nastaveno overeni biometricke? co povazuji za vic bezpecne. za necely tyden dnes po druhe aplikace ne pusti ani na hlavni stranku.mobil motorola edge 60 pro, android 16. aplikace vyvinuta specialne nastvat zakazniky.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-02-10T06:14:26.584Z",
+      "replyText": "Dobrý den, Olehu,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby se vám ani poté nepodařilo přihlásit s vaším e-mailem, heslem a kódem z SMSky, zavolejte nám na 800 77 00 77, abychom to mohli prověřit přímo na vašem zákaznickém účtu. Martina",
       "version": "3.6.3"
     },
     {
@@ -12955,42 +13001,6 @@
       "version": "3.6.3"
     },
     {
-      "id": "2213f29a-96c1-49b1-910a-c1c5fcf4bdb5",
-      "userName": "Michal Moric",
-      "date": "2026-02-11T12:15:50.411Z",
-      "score": 3,
-      "text": "V aplikaci se nedá přihlásit k uživatelskému účtu, což je zásadní problém. Stará aplikace fungovala, nyní bohužel zatím nefunkční. Edit: Po opravě chyby v aplikaci se lze přihlásit. Zatím nejde stáhnout faktura vyúčtování v PDF. Prozatím zvedám na tři hvězdy a při příštím vyúčtování zjistím, jestli funguje platba atd.",
-      "text_normalized": "v aplikaci se neda prihlasit k uzivatelskemu uctu, coz je zasadni problem. stara aplikace fungovala, nyni bohuzel zatim nefunkcni. edit: po oprave chyby v aplikaci se lze prihlasit. zatim nejde stahnout faktura vyuctovani v pdf. prozatim zvedam na tri hvezdy a pri pristim vyuctovani zjistim, jestli funguje platba atd.",
-      "segments": [
-        "Stabilita",
-        "Prihlaseni",
-        "Platba_a_vyuctovani",
-        "Obmezene_funkce",
-        "Spokojenost"
-      ],
-      "replyDate": "2026-02-11T11:42:20.441Z",
-      "replyText": "Pěkný den, Michale,\nomlouvám se vám za potíže, potýkali jsme se s výpadkem aplikace 🙁 Nyní už by to mělo být v pořádku a budeme rádi, když aplikaci otestujete a ohodnotíte 🙂 Lucie",
-      "version": "3.6.3"
-    },
-    {
-      "id": "7401fcba-552d-4ec1-b0a9-e8a5a9762345",
-      "userName": "Jan Doutnáč",
-      "date": "2026-02-11T12:11:10.197Z",
-      "score": 3,
-      "text": "Opět katastrofální aplikace. Pomalá, nejde se opakovaně přihlásit... Pixel 9 Pro xl Edit: přihlášení již funguje. Vtipné jsou losy s odměnou, kdy ohlásí aplikace výhru, aby vzápětí napsala, že výhra nebyla nalezena.",
-      "text_normalized": "opet katastrofalni aplikace. pomala, nejde se opakovane prihlasit... pixel 9 pro xl edit: prihlaseni jiz funguje. vtipne jsou losy s odmenou, kdy ohlasi aplikace vyhru, aby vzapeti napsala, ze vyhra nebyla nalezena.",
-      "segments": [
-        "Vykonnost",
-        "Stabilita",
-        "Prihlaseni",
-        "Obmezene_funkce",
-        "Spokojenost"
-      ],
-      "replyDate": "2026-02-11T11:50:51.817Z",
-      "replyText": "Pěkný den, Jane,\nje mi líto, že to tak vnímáte 🙁 Omlouvám se vám za komplikace, potýkali jsme se s výpadkem aplikace, nyní by mělo být vše v pořádku. Zkuste se znovu přihlásit, radost nám uděláte také tím, pokud apllikaci znovu ohodnotíte. Zuzana",
-      "version": "3.6.3"
-    },
-    {
       "id": "b214df26-8f65-4e4e-8dda-9e4b948cb3d6",
       "userName": "Tereza Schaumannova",
       "date": "2026-02-11T11:52:01.984Z",
@@ -13030,8 +13040,8 @@
         "Platba_a_vyuctovani",
         "Obmezene_funkce"
       ],
-      "replyDate": "2026-02-10T13:06:11.459Z",
-      "replyText": "Hezký den, Jaroslave,\nchápu vás. S další aktualizací plánujeme QR kód do aplikace přidat, nyní ho najdete na první straně vašeho Vyúčtování, které můžete stáhnout v PDF formátu. Zuzana",
+      "replyDate": "2026-02-13T12:00:03.690Z",
+      "replyText": "Hezký den, Jaroslave,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.",
       "version": "3.6.3"
     },
     {
@@ -13046,22 +13056,6 @@
       ],
       "replyDate": "2026-02-11T09:36:30.953Z",
       "replyText": "Pěkný den, Vojtěchu,\nje mi líto, že se vám aplikace nelíbí 🙁 Přidání Google Pay bychom do budoucna rádi přidali, zatím k tomu ale nemáme žádné podrobnosti 😕 Lucie",
-      "version": "3.6.3"
-    },
-    {
-      "id": "b43fc5f4-f0cd-45f5-8697-037b1b565894",
-      "userName": "Mar Mat",
-      "date": "2026-02-11T09:04:17.230Z",
-      "score": 1,
-      "text": "když se přihlásit,tak se tam furt točí Vodafon ,že se načítá. Měla jsem to puštěné 10 min a stále se načítá. aplikace nefunguje",
-      "text_normalized": "kdyz se prihlasit,tak se tam furt toci vodafon ,ze se nacita. mela jsem to pustene 10 min a stale se nacita. aplikace nefunguje",
-      "segments": [
-        "Stabilita",
-        "Prihlaseni",
-        "Spokojenost"
-      ],
-      "replyDate": "2026-02-11T11:15:42.908Z",
-      "replyText": "Hezký den, Mar,\nje mi líto, že jste měl potíže 🙁 Omlouvám se za komplikace, potýkali jsme se s výpadkem a nyní by mělo být vše v pořádku. Budeme rádi, když naši appku vyzkoušíte a ohodnotíte znovu. Zuzana",
       "version": "3.6.3"
     },
     {
@@ -13250,20 +13244,18 @@
       "version": "3.6.3"
     },
     {
-      "id": "a90c49e6-8b4c-4e1c-97ea-b08b1954518d",
-      "userName": "Stanislav Brejak",
-      "date": "2026-02-11T08:31:04.931Z",
-      "score": 2,
-      "text": "Dnes 11.2. nejde aplikace vůbec spustit ani přihlásit. Dotazem u operátora údajně vše funkční což není pravda, neboť apka hlásí taky chybu. Takže Vodafone + v obvyklých kolejích jednou jde a chvílemi nejde.",
-      "text_normalized": "dnes 11.2. nejde aplikace vubec spustit ani prihlasit. dotazem u operatora udajne vse funkcni coz neni pravda, nebot apka hlasi taky chybu. takze vodafone + v obvyklych kolejich jednou jde a chvilemi nejde.",
+      "id": "115ed836-b97a-4135-b417-65469973764f",
+      "userName": "Jirka Polda",
+      "date": "2026-02-11T08:31:36.188Z",
+      "score": 1,
+      "text": "Samá chyba, navíc to působí jako reklamní portál, než aplikace na správu účtu. Teď ještě chodí testování apky, aniž bych byl v beta programu. Horší a horší... Na odpověď, že řešíte potíže s přihlašováním uvádím, že je to jasné, appka je nedodělaná a od začátku šmejd, ale proč mám dělat alfa testera jako platící zákazník netuším. Chci službu užívat, nikoli testovat.",
+      "text_normalized": "sama chyba, navic to pusobi jako reklamni portal, nez aplikace na spravu uctu. ted jeste chodi testovani apky, aniz bych byl v beta programu. horsi a horsi... na odpoved, ze resite potize s prihlasovanim uvadim, ze je to jasne, appka je nedodelana a od zacatku smejd, ale proc mam delat alfa testera jako platici zakaznik netusim. chci sluzbu uzivat, nikoli testovat.",
       "segments": [
         "Stabilita",
-        "Prihlaseni",
-        "Zakaznicka_podpora",
-        "Obmezene_funkce"
+        "Prihlaseni"
       ],
-      "replyDate": "2026-02-11T08:36:26.864Z",
-      "replyText": "Pěkný den, Stanislave,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám 🙁 Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít webové samoobsluhy. Veronika",
+      "replyDate": "2026-02-11T08:27:47.795Z",
+      "replyText": "Pěkný den, Jirko,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace. Za komplikace s tím spojené se vám velmi omlouvám. Pokud potřebujete řešit nějakou urgentní situaci, máte možnost využít internetové samoobsluhy. Veronika",
       "version": "3.6.3"
     },
     {
@@ -13486,7 +13478,7 @@
     },
     {
       "id": "58bdb90e-8e18-438f-9f49-da8fa684a273",
-      "userName": "Met Metushe",
+      "userName": "Adelajda",
       "date": "2026-02-11T08:13:29.563Z",
       "score": 1,
       "text": "Po nove aktualizaci nefunguje nic. Kdyz otevřu aplikaci tak zůstane stránka v menším okénku a nefunguje. Ale pokud se rozjede nejde se přihlásit a vyhazuje mě to z aplikace. zkusila jsem už odinstalovat a zpatky nainstalovat. pořád stejný problém.",
@@ -13580,20 +13572,6 @@
       "version": "3.6.3"
     },
     {
-      "id": "b2b1177a-0770-4369-915a-96db6eaf1cae",
-      "userName": "Mirda Elektro",
-      "date": "2026-02-11T08:02:33.332Z",
-      "score": 1,
-      "text": "Totální propadák. Zlatá stará funkční verze.",
-      "text_normalized": "totalni propadak. zlata stara funkcni verze.",
-      "segments": [
-        "Stabilita"
-      ],
-      "replyDate": "2026-02-11T09:30:28.670Z",
-      "replyText": "Pěkný den, Mirdo,\nje mi líto, že vám nová aplikace nevyhovuje 🙁Pokud budete mít konkrétní zpětnou vazbu ke zlepšení, budeme za ni rádi. Lucie",
-      "version": null
-    },
-    {
       "id": "92ae6558-7c56-4d1c-9abf-7a5216451aea",
       "userName": "Jan Voldřich",
       "date": "2026-02-11T08:02:28.802Z",
@@ -13605,8 +13583,8 @@
         "Platba_a_vyuctovani",
         "Obmezene_funkce"
       ],
-      "replyDate": "2026-02-11T08:07:09.560Z",
-      "replyText": "Pěkný den, Jane,\nomlouvám se vám za komplikace 🙁 Momentálně evidujeme výpadek aplikace a už pracujeme na tom, abychom vše co nejdříve opravili. Lucie",
+      "replyDate": "2026-02-13T11:59:17.711Z",
+      "replyText": "Pěkný den, Jane,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.",
       "version": "3.6.3"
     },
     {
@@ -13813,38 +13791,6 @@
       "version": "3.6.3"
     },
     {
-      "id": "2e20fb03-1b0a-4b77-9832-23a2c93e4335",
-      "userName": "Martin Drozen",
-      "date": "2026-02-11T07:49:46.338Z",
-      "score": 1,
-      "text": "Další tragédie která nefunguje.Půl hodiny koukám na animaci kapky.Nic.Je čas změnit operátora.",
-      "text_normalized": "dalsi tragedie ktera nefunguje.pul hodiny koukam na animaci kapky.nic.je cas zmenit operatora.",
-      "segments": [
-        "Vykonnost",
-        "Stabilita",
-        "Zakaznicka_podpora",
-        "Spokojenost"
-      ],
-      "replyDate": "2026-02-11T08:18:32.990Z",
-      "replyText": "Pěkný den, Martine,\nomlouvám se vám za nepříjemnosti 🙁 Momentálně se potýkáme s výpadkem aplikace a usilovně pracujeme na jeho opravě. Prosím vás o strpení. Lucie",
-      "version": "3.6.3"
-    },
-    {
-      "id": "3613401d-0e1a-4c25-886c-fb9d1a7be0b4",
-      "userName": "Tomáš",
-      "date": "2026-02-11T07:49:32.348Z",
-      "score": 1,
-      "text": "přišlo mi oznámení test1-testing pn. Díky za připomenutí, že si mám vypnout upozornění. dále se mi aplikace jen načítá, ale nenačte se. tudíž apka na 2 věci. původní apka alespoň fungovala.",
-      "text_normalized": "prislo mi oznameni test1-testing pn. diky za pripomenuti, ze si mam vypnout upozorneni. dale se mi aplikace jen nacita, ale nenacte se. tudiz apka na 2 veci. puvodni apka alespon fungovala.",
-      "segments": [
-        "UI",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-02-11T08:20:08.673Z",
-      "replyText": "Pěkný den, Tomáši,\nv tuto chvíli evidujeme plošné potíže s přihlášením do aplikace. Za potíže s tím spojené se vám omlouvám 🙁 Veronika",
-      "version": "3.6.3"
-    },
-    {
       "id": "5422af18-057f-4c20-9e92-d117482c0854",
       "userName": "LENKA AUBRECHTOVÁ",
       "date": "2026-02-11T07:49:12.281Z",
@@ -13859,6 +13805,22 @@
       ],
       "replyDate": "2026-02-11T08:23:07.377Z",
       "replyText": "Pěkný den, Lenko,\nv tuto chvíli řešíme plošné potíže s přihlášením do aplikace a již to řešíme. Omlouvám se vám za komplikace s tím spojené 🙁 Veronika",
+      "version": "3.6.3"
+    },
+    {
+      "id": "c5efe0c8-e3ad-41a6-912e-4def429335fc",
+      "userName": "David Vučkan",
+      "date": "2026-02-11T07:47:53.980Z",
+      "score": 1,
+      "text": "dobry tak nyni je zase jiny problem s aplikaci uz nemam problemy s platbami ale naopak mi aplikace uz vubec nejde otevrit furt mam jenom ikonku nacitani a prd z toho proboha kdo vymyslel tuhle verzi muj vodafone zlata verze co byla predchozi...",
+      "text_normalized": "dobry tak nyni je zase jiny problem s aplikaci uz nemam problemy s platbami ale naopak mi aplikace uz vubec nejde otevrit furt mam jenom ikonku nacitani a prd z toho proboha kdo vymyslel tuhle verzi muj vodafone zlata verze co byla predchozi...",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-02-11T08:25:20.732Z",
+      "replyText": "Pěkný den, Davide,\nv tuto chvíli evidujeme plošné potíže s přihlášením do aplikace a již to řešíme. Omlouvám se vám za případné potíže s tím spojené 🙁 Veronika",
       "version": "3.6.3"
     },
     {
@@ -13935,8 +13897,8 @@
         "Obmezene_funkce",
         "Spokojenost"
       ],
-      "replyDate": "2026-02-11T06:18:26.240Z",
-      "replyText": "Pěkný den, Leoši,\npošlete nám prosím screenshoty přes https://tam.je/dotaz, ať se na to můžeme podívat konkrétně. 10 plátců se mi nezdá... Veronika",
+      "replyDate": "2026-02-13T11:58:56.258Z",
+      "replyText": "Pěkný den, Leoši,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.",
       "version": "3.6.3"
     },
     {
@@ -13965,8 +13927,8 @@
         "Platba_a_vyuctovani",
         "Spokojenost"
       ],
-      "replyDate": "2026-02-11T06:16:42.618Z",
-      "replyText": "Pěkný den, Magdo,\nano, pokud dojde k aktualizaci, může dojít i k odhlášení. V nové aplikaci platba přes QR kód není. Již jsme to předali kolegům jako podnět. Veronika",
+      "replyDate": "2026-02-13T11:58:40.321Z",
+      "replyText": "Pěkný den, Magdo,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.",
       "version": "3.6.3"
     },
     {
@@ -13982,24 +13944,6 @@
       ],
       "replyDate": "2026-02-10T14:06:06.794Z",
       "replyText": "Pěkný den, Jane,\nreklamy jako takové v aplikaci nejsou a své telefonní číslo můžete spravovat ihned přes úvodní stránku. Pokud potřebujete pomoct, neváhejte nám napsat přes https://tam.je/dotaz. Veronika",
-      "version": "3.6.3"
-    },
-    {
-      "id": "1fdd6535-232e-4303-8e58-b70b77fe8f81",
-      "userName": "Hana Stepnikova",
-      "date": "2026-02-10T10:26:44.362Z",
-      "score": 2,
-      "text": "Ani nová appka nevyřešila zásadní problém té staré: nelze platit kartou přes aplikace Google Pay. Tuto možnost při platbě aplikace nenabídne,ale při přihlášení přes web samoobsluha to funguje správně.",
-      "text_normalized": "ani nova appka nevyresila zasadni problem te stare: nelze platit kartou pres aplikace google pay. tuto moznost pri platbe aplikace nenabidne,ale pri prihlaseni pres web samoobsluha to funguje spravne.",
-      "segments": [
-        "Stabilita",
-        "Prihlaseni",
-        "Platba_a_vyuctovani",
-        "Obmezene_funkce",
-        "Spokojenost"
-      ],
-      "replyDate": "2026-02-10T10:57:36.209Z",
-      "replyText": "Hezký den, Hano,\nje mi líto, že jste nespokojená 🙁 Je to tak, platbu přes Google Pay zatím nenabízíme, nyní můžete využívat jiné možnosti platby. Zuzana",
       "version": "3.6.3"
     },
     {
@@ -14041,8 +13985,8 @@
         "Platba_a_vyuctovani",
         "Obmezene_funkce"
       ],
-      "replyDate": "2026-02-10T06:19:16.910Z",
-      "replyText": "Dobrý den, Tomáši,\nQR kód najdete ve Vyúčtování, které si můžete z aplikace stáhnout. Ale počítáme s tím, že ho přidáme i přímo do aplikace v jedné z příštích aktualizací. Martina",
+      "replyDate": "2026-02-13T11:58:23.403Z",
+      "replyText": "Dobrý den, Tomáši,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.",
       "version": "3.6.3"
     },
     {
@@ -14073,20 +14017,6 @@
       ],
       "replyDate": "2026-02-10T06:18:30.390Z",
       "replyText": "Dobrý den,\npůvodní aplikaci jsme ukončili, už ji nebude možné používat. Novou aplikaci dál rozvíjíme a upravujeme, proto věřím, že s ní budete časem spokojenější. Kredit má platnost 7 měsíců, k tomu najdete víc informací na https://www.vodafone.cz/pece/vyuctovani-platby-kredit/dobijeni-kredit/aktualni-vyse-kreditu/. M.",
-      "version": "3.6.3"
-    },
-    {
-      "id": "9e57c0af-2ec3-495d-a474-86848992d786",
-      "userName": "Oleh Dovhanjuk",
-      "date": "2026-02-09T19:10:08.442Z",
-      "score": 1,
-      "text": "Aplikace fungovala do dnešního dne. Po zadání dvojfázoveho ověření přestala fungovat. Proč mají zadávat ověření e-mailem když mám nastaveno ověření biometrické? Co považuji za víc bezpečně.",
-      "text_normalized": "aplikace fungovala do dnesniho dne. po zadani dvojfazoveho overeni prestala fungovat. proc maji zadavat overeni e-mailem kdyz mam nastaveno overeni biometricke? co povazuji za vic bezpecne.",
-      "segments": [
-        "Prihlaseni"
-      ],
-      "replyDate": "2026-02-10T06:14:26.584Z",
-      "replyText": "Dobrý den, Olehu,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby se vám ani poté nepodařilo přihlásit s vaším e-mailem, heslem a kódem z SMSky, zavolejte nám na 800 77 00 77, abychom to mohli prověřit přímo na vašem zákaznickém účtu. Martina",
       "version": "3.6.3"
     },
     {
@@ -14189,22 +14119,6 @@
       ],
       "replyDate": "2026-02-09T06:30:39.494Z",
       "replyText": "Dobrý den, Jano,\nděkujeme za zpětnou vazbu. Je mi líto, že jste zaznamenala takové problémy 🙁 Zkuste prosím aplikaci aktualizovat na nejnovější verzi a případně ji přeinstalovat. Kdyby to nepomohlo, prosím napište nám podrobnosti na aplikace@vodafone.cz. Viki",
-      "version": "3.6.3"
-    },
-    {
-      "id": "b4916f59-fe71-4ed2-b37e-cf3e7387fbb0",
-      "userName": "Marcel Sláma",
-      "date": "2026-02-08T17:20:46.118Z",
-      "score": 1,
-      "text": "Nefunguje nic, přihlášení, po spuštění spadne, fakt velká spolehlivá apka",
-      "text_normalized": "nefunguje nic, prihlaseni, po spusteni spadne, fakt velka spolehliva apka",
-      "segments": [
-        "Stabilita",
-        "Prihlaseni",
-        "Spokojenost"
-      ],
-      "replyDate": "2026-02-09T06:28:29.262Z",
-      "replyText": "Hezký den, Marceli, mrzí mě, že máte s aplikací potíže 🙁 Zkuste ji prosím přeinstalovat, a pokud by to nepomohlo, napište nám prosím více přes zabezpečený formulář https://tam.je/dotaz. Pomůžeme vám. Petra\n",
       "version": "3.6.3"
     },
     {
@@ -14369,22 +14283,6 @@
       "version": "3.6.2"
     },
     {
-      "id": "f6c2f766-397a-4793-9c82-6f5fbe617e07",
-      "userName": "Alexandr Studecky",
-      "date": "2026-02-07T14:20:22.200Z",
-      "score": 1,
-      "text": "nějde se přihlásit, vše co dřív fungovalo pos.... půjdu k 02",
-      "text_normalized": "nejde se prihlasit, vse co driv fungovalo pos.... pujdu k 02",
-      "segments": [
-        "Stabilita",
-        "Prihlaseni",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-02-07T14:52:55.751Z",
-      "replyText": "Dobrý den, Alexandře,\nplošné potíže s přihlášením neevidujeme. Zkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdybyste se ani poté nemohl přihlásit, zavolejte nám na 800 77 00 77, prověříme to. Martina",
-      "version": "3.6.3"
-    },
-    {
       "id": "0380a12d-695d-467b-a3df-68cba6565523",
       "userName": "Štěpán Wünsch",
       "date": "2026-02-07T13:54:39.118Z",
@@ -14516,21 +14414,6 @@
       "version": "3.6.2"
     },
     {
-      "id": "983603bc-2a09-4df8-88af-66e7baea8b03",
-      "userName": "Jaroslav Pajma",
-      "date": "2026-02-05T21:52:34.476Z",
-      "score": 3,
-      "text": "Otřes to přihlašování! Nešlo by rovnou do SMS dát číslo účtu nebo QR kód?",
-      "text_normalized": "otres to prihlasovani! neslo by rovnou do sms dat cislo uctu nebo qr kod?",
-      "segments": [
-        "Prihlaseni",
-        "Platba_a_vyuctovani"
-      ],
-      "replyDate": "2026-02-06T06:12:34.706Z",
-      "replyText": "Pěkný den, Jaroslave,\npřihlašujete se e-mailovou adresou a vlastním heslem a máte možnost nastavit si biometriku. Tento způsob přihlašování je již standardem. Veronika",
-      "version": "3.6.2"
-    },
-    {
       "id": "09fa525c-79ba-4fa5-b0fd-fa2944bbf416",
       "userName": "Renáta Šebková",
       "date": "2026-02-05T20:55:27.604Z",
@@ -14626,8 +14509,8 @@
         "Platba_a_vyuctovani",
         "Zakaznicka_podpora"
       ],
-      "replyDate": "2026-02-05T09:22:13.889Z",
-      "replyText": "Dobrý den, Thomasi,\nděkujeme za zpětnou vazbu. Přímo v aplikaci nyní QR kód opravdu není možné zobrazit 🙁 V mobilní aplikaci v sekci Vyúčtování klikněte na požadovaný měsíc a zvolte Stáhnout PDF fakturu. QR kód najdete na první straně PDF Vyúčtování 🙂 Katka",
+      "replyDate": "2026-02-13T11:57:54.826Z",
+      "replyText": "Dobrý den, Thomasi,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.",
       "version": "3.6.2"
     },
     {
@@ -14643,23 +14526,6 @@
       ],
       "replyDate": "2026-02-05T08:11:34.630Z",
       "replyText": "Hezký den, Tomáši,\nděkujeme za podnět. Všechny nápady od zákazníků sbíráme a máme v plánu funkce nadále rozšiřovat :) Katka",
-      "version": "3.6.2"
-    },
-    {
-      "id": "508b7a58-0c85-41fd-ae96-37d234535a8f",
-      "userName": "Lukáš Holub",
-      "date": "2026-02-05T06:27:46.892Z",
-      "score": 1,
-      "text": "Kde je QR platba? Edit: Odebírám druhou hvězdu PDF faktura nejde stáhnout. Edit 2. Nevím, jestli chápete psaný text. Ale faktura stáhnout NEJDE. Kam Vám můžu poslat screenshot chyby? Jdou stáhnout faktury pouze za minulé měsíce",
-      "text_normalized": "kde je qr platba? edit: odebiram druhou hvezdu pdf faktura nejde stahnout. edit 2. nevim, jestli chapete psany text. ale faktura stahnout nejde. kam vam muzu poslat screenshot chyby? jdou stahnout faktury pouze za minule mesice",
-      "segments": [
-        "UI",
-        "Stabilita",
-        "Platba_a_vyuctovani",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-02-05T06:24:40.390Z",
-      "replyText": "Hezký den, Lukáši,\nje mi to líto, ale platba QR kódem zatím nejde 🙁 Naopak stažení Vyúčtování možné je, v sekci Vyúčtování klikněte na požadovaný měsíc a zvolte Stáhnout PDF fakturu. V ní najdete i QR kód, kterým je pak možné uhradit 🙂 Katka",
       "version": "3.6.2"
     },
     {
@@ -14702,8 +14568,8 @@
       "segments": [
         "Platba_a_vyuctovani"
       ],
-      "replyDate": "2026-02-05T06:17:21.619Z",
-      "replyText": "Dobrý den, Eriko,\nQR kód najdete přímo ve Vyúčtování, které si můžete stáhnout z aplikace. Ale do budoucna ho plánujeme přidat i přímo do aplikace. Martina",
+      "replyDate": "2026-02-13T11:56:36.180Z",
+      "replyText": "Dobrý den, Eriko,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.",
       "version": "3.6.2"
     },
     {
@@ -14777,8 +14643,8 @@
         "Platba_a_vyuctovani",
         "Obmezene_funkce"
       ],
-      "replyDate": "2026-02-04T12:42:12.667Z",
-      "replyText": "Dobrý den, Tomasi,\nděkujeme za vaši zpětnou vazbu a je mi líto, že pro vás aplikace není přehledná ani praktická. Na vylepšeních průběžně pracujeme a aplikaci pravidelně aktualizujeme. Zobrazení QR kódu pro platbu bez nutnosti otevírat celé vyúčtování také zvažujeme. Viki",
+      "replyDate": "2026-02-13T11:56:20.871Z",
+      "replyText": "Dobrý den, Tomasi,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.",
       "version": null
     },
     {
@@ -14869,20 +14735,6 @@
       ],
       "replyDate": "2026-02-03T10:08:17.594Z",
       "replyText": "Pěkný den, Kacko,\nděkujeme za zpětnou vazbu. Podrobnosti o čerpání kreditu najdete ve webové samoobsluze, pokud máte tarif, tak tyto informace jsou pouze součástí vystaveného Vyúčtování, které je třeba si stáhnout/zobrazit. Tak tomu bylo vždy. Veronika",
-      "version": "3.6.2"
-    },
-    {
-      "id": "30b45c99-f03e-4dd6-86be-b15c31b58c18",
-      "userName": "Leoš Jan Borský",
-      "date": "2026-02-03T09:10:28.708Z",
-      "score": 2,
-      "text": "Po aktualizaci SW 3.2.26 zcela nefunkční, nutno odinstalovat a nová instalace plus obnovení hesla.",
-      "text_normalized": "po aktualizaci sw 3.2.26 zcela nefunkcni, nutno odinstalovat a nova instalace plus obnoveni hesla.",
-      "segments": [
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-02-03T09:36:12.155Z",
-      "replyText": "Pěkný den, Leoši,\npokud dojde k nějaké komplikaci v telefonu při aktualizaci, je přeinstalování aplikace běžnou situací. Pokud máte i poté nějaké potíže, napište nám k tomu podrobnosti a také screenshoty na e-mail aplikace@vodafone.cz. Veronika",
       "version": "3.6.2"
     },
     {
@@ -15062,20 +14914,6 @@
       "version": "3.6.1"
     },
     {
-      "id": "33d94405-6f6d-431b-9bfc-ac68d6174c57",
-      "userName": "Jiřì Zlatohlàvek",
-      "date": "2026-02-01T19:14:30.139Z",
-      "score": 2,
-      "text": "Za Vodafone Happy ty Vaše slevy to je ostuda.Koukně te na T mobile.Neustále dárky,Do kina vstupenka 1+1 ,atd tady......",
-      "text_normalized": "za vodafone happy ty vase slevy to je ostuda.koukne te na t mobile.neustale darky,do kina vstupenka 1+1 ,atd tady......",
-      "segments": [
-        "Ine"
-      ],
-      "replyDate": "2026-02-02T06:29:48.510Z",
-      "replyText": "Pěkný den, Jiří,\nděkujeme za zpětnou vazbu, bude se snažit, aby vám nabídka v budoucnu vyhovovala lépe. Veronika",
-      "version": "3.6.1"
-    },
-    {
       "id": "90d82e26-93f2-46f5-8a40-18744aaba541",
       "userName": "Dušan Uhrin",
       "date": "2026-02-01T12:25:56.297Z",
@@ -15136,20 +14974,6 @@
       "version": "3.6.1"
     },
     {
-      "id": "73c76b6d-c789-41aa-800c-4a2234f04f69",
-      "userName": "Milan Kubišta",
-      "date": "2026-01-31T16:44:12.420Z",
-      "score": 1,
-      "text": "složité, plné reklam a nepřehledné. Odměny na ne/slevy. Bohužel nic moc tedy....",
-      "text_normalized": "slozite, plne reklam a neprehledne. odmeny na ne/slevy. bohuzel nic moc tedy....",
-      "segments": [
-        "UI"
-      ],
-      "replyDate": "2026-02-02T06:30:35.270Z",
-      "replyText": "Hezký den, Milane,\nmrzí mě, že vás aplikace nezaujala 🙁 Stále na ni pracujeme a vylepšujeme ji, věřím, že do budoucna se vám bude líbit více. Zuzana",
-      "version": "3.6.1"
-    },
-    {
       "id": "18305858-e095-4303-af6c-e938ea2819ff",
       "userName": "Rival",
       "date": "2026-01-31T12:03:35.620Z",
@@ -15163,24 +14987,6 @@
       "replyDate": "2026-01-31T13:00:32.518Z",
       "replyText": "Dobrý den, Rival,\nděkujeme za vaši zpětnou vazbu. Na úpravách a dalším vývoji aplikace pracujeme, tak třeba s ní budete časem spokojenější. Martina",
       "version": "3.6.1"
-    },
-    {
-      "id": "b89ff8dc-f779-4c8c-b902-d14e843ffc17",
-      "userName": "Emil Galert",
-      "date": "2026-01-30T19:13:35.331Z",
-      "score": 1,
-      "text": "každý měsíc platím po termínu protože nejde se mi přihlásit katastrofa po každé volám na operatora, strašný a už mě mám na toe nervy po každé to chce nějakou změnu hesla už je nestarčim vymyslet ne mám na to síly",
-      "text_normalized": "kazdy mesic platim po terminu protoze nejde se mi prihlasit katastrofa po kazde volam na operatora, strasny a uz me mam na toe nervy po kazde to chce nejakou zmenu hesla uz je nestarcim vymyslet ne mam na to sily",
-      "segments": [
-        "UI",
-        "Stabilita",
-        "Prihlaseni",
-        "Zakaznicka_podpora",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-01-31T07:38:36.574Z",
-      "replyText": "Dobrý den, Emile,\npro přihlášení do aplikace stačí zadat e-mailovou adresu, alfanumerické heslo, které jste si nastavil, a kód z SMSky. Případně si můžete nastavit inkaso, abyste se o platby nemusel starat. K tomu najdete bližší informace na https://www.vodafone.cz/pece/vyuctovani-platby-kredit/inkaso/inkaso/. Martina",
-      "version": "3.6.0"
     },
     {
       "id": "04f55976-e09d-4d38-ab0c-e8269d3dbad5",
@@ -15241,23 +15047,6 @@
       "replyDate": "2026-01-30T13:50:29.888Z",
       "replyText": "Dobrý den, Lukáši,\nděkujeme za zpětnou vazbu. Mrzí mě, že aplikace nesplnila vaše očekávání. Na vývoji stále pracujeme a další funkce budou dostupné v nadcházejících verzích. Viki",
       "version": "3.6.1"
-    },
-    {
-      "id": "bd74d4d2-bb65-459b-8074-390b2bc66e5d",
-      "userName": "marek kovar",
-      "date": "2026-01-30T13:30:35.678Z",
-      "score": 1,
-      "text": "Vodafone nám přebarvil aplikaci, ale střeva zůstala stejná - tedy u platby stále nečekejte podporu Google Pay. Funkci Data strop nejde nastavit vůbec a zda jsou zobrazována mobilní data ta vyčerpaná nebo zbývající si musí člověk pohlídat svým měřením. Jedná hvězda za fungující přihlášení otiskem. Čekal jsem víc, ale co by zákazníci chtěli...",
-      "text_normalized": "vodafone nam prebarvil aplikaci, ale streva zustala stejna - tedy u platby stale necekejte podporu google pay. funkci data strop nejde nastavit vubec a zda jsou zobrazovana mobilni data ta vycerpana nebo zbyvajici si musi clovek pohlidat svym merenim. jedna hvezda za fungujici prihlaseni otiskem. cekal jsem vic, ale co by zakaznici chteli...",
-      "segments": [
-        "Stabilita",
-        "Prihlaseni",
-        "Platba_a_vyuctovani",
-        "Obmezene_funkce"
-      ],
-      "replyDate": null,
-      "replyText": null,
-      "version": null
     },
     {
       "id": "75838cf9-3418-43c3-bd64-0b25b405f024",
@@ -15357,8 +15146,8 @@
         "Platba_a_vyuctovani",
         "Obmezene_funkce"
       ],
-      "replyDate": "2026-01-29T18:17:15.404Z",
-      "replyText": "Pěkný den, Lukáši,\nje mi líto, že nejste spokojený 🙁 Spoustu funkcí včetně QR kódu budeme do aplikace postupně přidávat. Lucie",
+      "replyDate": "2026-02-13T11:54:38.948Z",
+      "replyText": "Pěkný den, Lukáši,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.",
       "version": "3.6.0"
     },
     {
@@ -15465,8 +15254,8 @@
         "Platba_a_vyuctovani",
         "Spokojenost"
       ],
-      "replyDate": "2026-01-28T18:45:31.503Z",
-      "replyText": "Pěkný den, Ivane,\nděkujeme za hodnocení a zpětnou vazbu 🙂 Již jsme podnět předali 🙂 Veronika",
+      "replyDate": "2026-02-13T11:54:24.294Z",
+      "replyText": "Pěkný den, Ivane,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Veronika",
       "version": "3.6.0"
     },
     {
@@ -15495,8 +15284,8 @@
         "Platba_a_vyuctovani",
         "Obmezene_funkce"
       ],
-      "replyDate": "2026-01-28T17:13:19.236Z",
-      "replyText": "Pěkný den, Marku,\nv mobilní aplikaci Můj Vodafone+ v sekci Vyúčtování, zde klikněte na požadovaný měsíc a zvolte Stáhnout PDF fakturu. QR kód najdete na první straně PDF Vyúčtování (můžete si udělat screenshot pro nahrání do bankovní aplikace). Veronika",
+      "replyDate": "2026-02-13T11:53:54.169Z",
+      "replyText": "Pěkný den, Marku,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.",
       "version": "3.5.1"
     },
     {
@@ -15537,8 +15326,8 @@
       "segments": [
         "Platba_a_vyuctovani"
       ],
-      "replyDate": "2026-01-28T12:14:26.305Z",
-      "replyText": "Dobrý den, Andreji,\nQR kód uvádíme ve Vyúčtování, které si z aplikace můžete stáhnout. Ale do budoucna ho plánujeme přidat i přímo do aplikace. Platbu můžete provést přímo v aplikaci, QR kód k tomu není nutný. Martina",
+      "replyDate": "2026-02-13T11:53:31.666Z",
+      "replyText": "Dobrý den, Andreji,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.",
       "version": "3.5.1"
     },
     {
@@ -15569,20 +15358,6 @@
       ],
       "replyDate": "2026-01-28T10:45:58.893Z",
       "replyText": "Dobrý den,\nděkujeme za vaše hodnocení 🙂 Martina",
-      "version": "3.5.1"
-    },
-    {
-      "id": "115ed836-b97a-4135-b417-65469973764f",
-      "userName": "Jirka Polda",
-      "date": "2026-01-28T09:42:27.910Z",
-      "score": 1,
-      "text": "Samá chyba, navíc to působí jako reklamní portál, než aplikace na správu účtu.",
-      "text_normalized": "sama chyba, navic to pusobi jako reklamni portal, nez aplikace na spravu uctu.",
-      "segments": [
-        "Stabilita"
-      ],
-      "replyDate": "2026-01-28T10:11:26.702Z",
-      "replyText": "Dobrý den, Jirko,\npokud jste zaznamenal nějakou konkrétní chybu, prosím zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi to prověříme. Martina",
       "version": "3.5.1"
     },
     {
@@ -15703,20 +15478,6 @@
       "version": "3.5.1"
     },
     {
-      "id": "4c66e929-e547-4b5b-aecf-42dc1cd32d79",
-      "userName": "Michal Šimáček",
-      "date": "2026-01-27T14:30:07.577Z",
-      "score": 1,
-      "text": "Nová verze mi přijde spíše jako Beta verze něčeho, co už tu bylo.",
-      "text_normalized": "nova verze mi prijde spise jako beta verze neceho, co uz tu bylo.",
-      "segments": [
-        "Ine"
-      ],
-      "replyDate": "2026-01-27T14:49:50.591Z",
-      "replyText": "Hezký den, Michale,\nje mi líto, že se vám aplikace nelíbí 😢 Postupně ji vylepšujeme a pracujeme na ni, věřím, že do budoucna budete spokojenější. Zuzana",
-      "version": "3.5.1"
-    },
-    {
       "id": "44c6deb0-0e2d-4ff3-a5b0-ad1376bc4218",
       "userName": "Jiri Marek",
       "date": "2026-01-27T13:17:26.458Z",
@@ -15769,8 +15530,8 @@
       "segments": [
         "Platba_a_vyuctovani"
       ],
-      "replyDate": "2026-01-27T07:10:58.581Z",
-      "replyText": "Hezký den, Karle, děkujeme za hodnocení. Se zobrazením QR kódu v aplikaci počítáme a opravdu přijde v některé z následujících aktualizacích. Poprosím vás o trpělivost. Petra",
+      "replyDate": "2026-02-13T11:53:10.734Z",
+      "replyText": "Pěkný den, Karle,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.",
       "version": "3.5.1"
     },
     {
@@ -15907,38 +15668,6 @@
       "version": "3.5.1"
     },
     {
-      "id": "289d49b8-bae0-4709-9599-20bc182da5cf",
-      "userName": "Michal",
-      "date": "2026-01-26T06:26:57.447Z",
-      "score": 1,
-      "text": "Jsem s app revolut nespokojen 🤢 Nemám přehled o kreditu a hlavně kredit 😔 Proč mám místo jména Anonymní uživatel 🤮 Šílený vemu si brát s nového operátora.!!! Dobrej.To nemáme tu kartu předplacenou.Ta je od sázky,tě je škoda.",
-      "text_normalized": "jsem s app revolut nespokojen 🤢 nemam prehled o kreditu a hlavne kredit 😔 proc mam misto jmena anonymni uzivatel 🤮 sileny vemu si brat s noveho operatora.!!! dobrej.to nemame tu kartu predplacenou.ta je od sazky,te je skoda.",
-      "segments": [
-        "UI",
-        "Zakaznicka_podpora",
-        "Spokojenost"
-      ],
-      "replyDate": "2026-01-26T06:13:01.680Z",
-      "replyText": "Pěkný den, Michale,\nnejedná se o předplacenou kartu? Napište nám prosím k tomu podrobnosti přes https://tam.je/dotaz, rádi se na vše podíváme. Veronika",
-      "version": "3.5.1"
-    },
-    {
-      "id": "c5efe0c8-e3ad-41a6-912e-4def429335fc",
-      "userName": "David Vučkan",
-      "date": "2026-01-25T16:36:43.289Z",
-      "score": 1,
-      "text": "uz nekolikrat co jsem se pokusil zaplatit prez tuhle verzi vodafone mam problém ze pri platbe mi to penize strhne ale na jejich apce mi to ukaze \"platba nebyla uspesna zkuste to znovu\" ale penize z uctu to strhne nechapu proc mazou starou vodafone apku kfyz tohle funguje jak kdyz nefunguje uz po 3 musim volat na pobocku...",
-      "text_normalized": "uz nekolikrat co jsem se pokusil zaplatit prez tuhle verzi vodafone mam problem ze pri platbe mi to penize strhne ale na jejich apce mi to ukaze \"platba nebyla uspesna zkuste to znovu\" ale penize z uctu to strhne nechapu proc mazou starou vodafone apku kfyz tohle funguje jak kdyz nefunguje uz po 3 musim volat na pobocku...",
-      "segments": [
-        "Stabilita",
-        "Platba_a_vyuctovani",
-        "Spokojenost"
-      ],
-      "replyDate": "2026-01-26T06:12:07.570Z",
-      "replyText": "Pěkný den, Davide,\npokud k této situaci dochází, určitě nám o tom dejte vědět přes https://tam.je/dotaz, ať to můžeme řešit s technickým oddělením přímo k vašemu účtu. Nezapomeňte přiložit i screenshoty, budeme potřebovat přesné datum a čas. Veronika",
-      "version": "3.5.1"
-    },
-    {
       "id": "19d81755-f984-498a-b94f-fe3193550ea6",
       "userName": "Jana Kroulova",
       "date": "2026-01-25T14:53:23.256Z",
@@ -15979,8 +15708,8 @@
       "segments": [
         "Platba_a_vyuctovani"
       ],
-      "replyDate": "2026-01-25T13:57:36.277Z",
-      "replyText": "Dobrý den, Miroslave,\nděkujeme vám za hodnocení a konkrétní zpětnou vazbu, kterou předávám dále na příslušné oddělení. Všechny podněty od zákazníků sbíráme a budeme na vylepšování aplikace dále pracovat. Katka",
+      "replyDate": "2026-02-13T11:47:13.870Z",
+      "replyText": "Dobrý den, Miroslave,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.",
       "version": "3.5.1"
     },
     {
@@ -16134,21 +15863,6 @@
       "version": "3.5.1"
     },
     {
-      "id": "037f3b02-c7ba-4fbd-9402-d96e652abc3e",
-      "userName": "Ztr Ztr",
-      "date": "2026-01-24T13:22:42.416Z",
-      "score": 1,
-      "text": "nefunguje jak má 🤔 tak že to samé co předchozí aplikace, krom změny ikony 🤣",
-      "text_normalized": "nefunguje jak ma 🤔 tak ze to same co predchozi aplikace, krom zmeny ikony 🤣",
-      "segments": [
-        "Stabilita",
-        "Spokojenost"
-      ],
-      "replyDate": "2026-01-24T13:42:08.701Z",
-      "replyText": "Dobrý den,\npokud pro nás budete mít konkrétní zpětnou vazbu, budeme za ni rádi, aplikaci se snažíme stále rozvíjet a vylepšovat. Katka",
-      "version": "3.5.1"
-    },
-    {
       "id": "17da445b-0b6e-436a-b689-895f9a3b3e83",
       "userName": "PG",
       "date": "2026-01-24T12:44:10.590Z",
@@ -16203,36 +15917,6 @@
       ],
       "replyDate": "2026-01-24T11:21:53.500Z",
       "replyText": "Dobrý den, Vladimíre,\nděkujeme za zpětnou vazbu. Pošlete nám prosím svoje dotazy přes https://tam.je/google a my vám poradíme 🙂 Katka",
-      "version": "3.5.1"
-    },
-    {
-      "id": "e73091fe-ff95-47de-9dcc-411b2e13e842",
-      "userName": "jan kubny",
-      "date": "2026-01-24T09:59:59.260Z",
-      "score": 1,
-      "text": "Vůbec se dnes nedá přihlásit a stále mne to vyhazuje na hlavni stránku....",
-      "text_normalized": "vubec se dnes neda prihlasit a stale mne to vyhazuje na hlavni stranku....",
-      "segments": [
-        "Prihlaseni"
-      ],
-      "replyDate": "2026-01-24T10:40:51.991Z",
-      "replyText": "Hezký den, Jane,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby to nepomohlo, napište nám prosím na https://tam.je/google a my s vámi všechno projdeme 🙂 Katka",
-      "version": "3.5.1"
-    },
-    {
-      "id": "c6ebfd51-3a84-4c3c-8d51-379a0ea3490c",
-      "userName": "Romisek Romiskovej",
-      "date": "2026-01-24T09:19:09.987Z",
-      "score": 1,
-      "text": "K čemu je taková aplikace, když přes ni nejde zaplatit vyúčtování ?",
-      "text_normalized": "k cemu je takova aplikace, kdyz pres ni nejde zaplatit vyuctovani ?",
-      "segments": [
-        "Stabilita",
-        "Platba_a_vyuctovani",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-01-24T09:43:03.872Z",
-      "replyText": "Hezký den, Romisku,\nv aplikaci najdete všechny informace k platbě a uhradit pak můžete jiným způsobem, například převodem, případně z bankomatu a podobně 🙂 Katka",
       "version": "3.5.1"
     },
     {
@@ -16367,22 +16051,6 @@
       "version": "3.5.1"
     },
     {
-      "id": "75370b8e-46d4-4d81-9b26-c3b05f7aee9e",
-      "userName": "Roman Boháček",
-      "date": "2026-01-22T19:10:16.187Z",
-      "score": 1,
-      "text": "Ještě horší než ta stará, nejde nastavit, aby se mi primarně zobrazovalo zvolené tel. číslo, nepřehledné, neuntivni, nefunkční",
-      "text_normalized": "jeste horsi nez ta stara, nejde nastavit, aby se mi primarne zobrazovalo zvolene tel. cislo, neprehledne, neuntivni, nefunkcni",
-      "segments": [
-        "UI",
-        "Stabilita",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-01-23T06:24:29.483Z",
-      "replyText": "Dobrý den, Romane,\nje mi líto, že aplikace nesplnila vaše očekávání. Budeme ji i nadále vylepšovat a další funkce přidáme postupně v následujících aktualizacích. Viki",
-      "version": "3.5.1"
-    },
-    {
       "id": "124f5bd6-dfab-485a-819e-e663256e72cc",
       "userName": "Ladislav Karbus",
       "date": "2026-01-22T18:36:49.205Z",
@@ -16453,21 +16121,6 @@
       ],
       "replyDate": "2026-01-22T15:22:32.370Z",
       "replyText": "Hezký den, mrzí mě, že vám aplikace nefunguje 🙁 Napište nám prosím podrobnosti na aplikace@vodafone.cz. Na vše se s vámi podíváme konkrétněji. Petra\n",
-      "version": "3.5.1"
-    },
-    {
-      "id": "1824f8c9-f69a-40ae-9887-ca2f2834f275",
-      "userName": "Dalibor Novák",
-      "date": "2026-01-22T14:44:08.864Z",
-      "score": 1,
-      "text": "Nelíbí se mi že je po mne vyžadován souhlas s nabídkami třetích stran jen abych si mohl vybrat nasmlouvanou odměnu. Toto jsme si nedomluvili. Pokud by šlo jen o reklamy uvnitř aplikace ještě bych to zakousnul ale to mi nikde garantováno není, klidně by mi tak mohli volat nejrůznější firmy.",
-      "text_normalized": "nelibi se mi ze je po mne vyzadovan souhlas s nabidkami tretich stran jen abych si mohl vybrat nasmlouvanou odmenu. toto jsme si nedomluvili. pokud by slo jen o reklamy uvnitr aplikace jeste bych to zakousnul ale to mi nikde garantovano neni, klidne by mi tak mohli volat nejruznejsi firmy.",
-      "segments": [
-        "UI",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-01-22T14:53:05.798Z",
-      "replyText": "Hezká den, Dalibore, souhlasy s nabídkami Vodafonu nebo 3. stran si můžete upravit podle návodu, který najdete na https://www.vodafone.cz/pece/muj-ucet-cislo/o-vasem-zakaznickem-uctu/souhlas-s-os/?=fb. Petra",
       "version": "3.5.1"
     },
     {
@@ -16543,20 +16196,6 @@
       "version": "3.5.1"
     },
     {
-      "id": "7a0a9536-b373-408f-93cc-2748d8c5f773",
-      "userName": "Martin Koci",
-      "date": "2026-01-22T12:59:32.552Z",
-      "score": 2,
-      "text": "Dávám 2 hvězdičky, že se mi alespoň podařilo přihlásit do aplikace. Po přihlášení vidím na displeji hromadu reklam na služby Vodafonu a až když sjezdu dolů, tak vidím informace o mých službách. Tak to si strčte za klobouk, nechci aplikaci zobrazující primárně reklamy.",
-      "text_normalized": "davam 2 hvezdicky, ze se mi alespon podarilo prihlasit do aplikace. po prihlaseni vidim na displeji hromadu reklam na sluzby vodafonu a az kdyz sjezdu dolu, tak vidim informace o mych sluzbach. tak to si strcte za klobouk, nechci aplikaci zobrazujici primarne reklamy.",
-      "segments": [
-        "Prihlaseni"
-      ],
-      "replyDate": "2026-01-22T13:46:37.821Z",
-      "replyText": "Hezký den, Martine, je mi líto, že vám aplikace nevyhovuje 🙁 Na jejím vylepšení stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
-      "version": "3.5.1"
-    },
-    {
       "id": "aee6aebf-a94b-4b5c-96a5-aa9fb74d800b",
       "userName": "Jiří Moravec",
       "date": "2026-01-22T12:57:16.502Z",
@@ -16626,8 +16265,8 @@
         "Platba_a_vyuctovani",
         "Obmezene_funkce"
       ],
-      "replyDate": "2026-01-22T11:19:14.405Z",
-      "replyText": "Pěkný den, Matouši,\nmožnost platby QR kódem do aplikace plánujeme přidat. Pevně věřím, že se vám bude líbit více. Lucie",
+      "replyDate": "2026-02-13T11:46:12.937Z",
+      "replyText": "Pěkný den, Matouši,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.\n",
       "version": "3.5.1"
     },
     {
@@ -16774,24 +16413,6 @@
       ],
       "replyDate": "2026-01-22T06:21:24.735Z",
       "replyText": "Dobrý den, Pepo,\nmrzí mě, že vám aplikace nevyhovuje 🙁 Na aplikaci stále pracujeme a věřím, že v budoucnu bude vaše zkušenost lepší. Katka",
-      "version": "3.5.1"
-    },
-    {
-      "id": "68024138-dcae-4bb7-9437-921e4defdc47",
-      "userName": "Jaroslav Lavička",
-      "date": "2026-01-21T21:44:13.700Z",
-      "score": 1,
-      "text": "Složité najít qr kód pro platbu, nefunkční odkaz na kontakty, prodejny atd. Nedodělaná aplikace, ale nutí nás ji používat. Za pár dní vypnou původní aplikaci, ale tato přitom ještě nefunguje jak má. Tobi je úplně k h0vnu. Akorát překáží a když chce člověk něco zjistit, stejně s tím neporadí. A na kontakty na operátora se nedostanete. Fakt super. Edit, reaguji na odpověď. Užitečné odkazy nefungují nikam, ne jen na kontakty a na pobočky.",
-      "text_normalized": "slozite najit qr kod pro platbu, nefunkcni odkaz na kontakty, prodejny atd. nedodelana aplikace, ale nuti nas ji pouzivat. za par dni vypnou puvodni aplikaci, ale tato pritom jeste nefunguje jak ma. tobi je uplne k h0vnu. akorat prekazi a kdyz chce clovek neco zjistit, stejne s tim neporadi. a na kontakty na operatora se nedostanete. fakt super. edit, reaguji na odpoved. uzitecne odkazy nefunguji nikam, ne jen na kontakty a na pobocky.",
-      "segments": [
-        "Stabilita",
-        "Platba_a_vyuctovani",
-        "Zakaznicka_podpora",
-        "Obmezene_funkce",
-        "Spokojenost"
-      ],
-      "replyDate": "2026-01-20T18:50:20.520Z",
-      "replyText": "Dobrý den, mrzí mě vaše nespokojenost s aplikací. Přidání QR kódu zvažujeme a tuto změnu přinese jedná z následujících aktualizací. Odkaz na seznam poboček by měl být bez potíží, kontakt na naši linku je 800 77 00 77. TOBi zatím neumí odbavit úplně všechny komunikace, ale na zlepšení pracujeme. Viki\n",
       "version": "3.5.1"
     },
     {
@@ -17303,20 +16924,6 @@
       "version": "3.5.1"
     },
     {
-      "id": "248c9b25-737e-405e-88d1-9a986f62c724",
-      "userName": "Kuba Borkovec",
-      "date": "2026-01-21T06:39:28.457Z",
-      "score": 2,
-      "text": "V aplikaci jsou horší způsoby platby než ve staré verzi. Buď musíte otrocky opisovat číslo účtu nebo vypsat do platební brány svojí kreditní kartu. QR kód je teprve ve faktuře co si musíte stáhnout. Jsem zvědavý jestli se někdy dočkáme Google pay, který už je dneska snad všude...",
-      "text_normalized": "v aplikaci jsou horsi zpusoby platby nez ve stare verzi. bud musite otrocky opisovat cislo uctu nebo vypsat do platebni brany svoji kreditni kartu. qr kod je teprve ve fakture co si musite stahnout. jsem zvedavy jestli se nekdy dockame google pay, ktery uz je dneska snad vsude...",
-      "segments": [
-        "Platba_a_vyuctovani"
-      ],
-      "replyDate": "2026-01-21T06:44:38.867Z",
-      "replyText": "Dobrý den, Kubo,\nQR kód i Google Pay bychom rádi do aplikace přidali, zatím vám ale nedokážu říct, kdy to bude. Díky za vaši trpělivost. Martina",
-      "version": "3.5.1"
-    },
-    {
       "id": "fa77a116-1b77-4f70-b86d-8d42c1140c46",
       "userName": "Michal Skotnica",
       "date": "2026-01-20T23:56:52.371Z",
@@ -17345,20 +16952,6 @@
       ],
       "replyDate": "2026-01-21T06:24:04.519Z",
       "replyText": "Dobrý den, Petře,\ntakovou chybu plošně neevidujeme. Zkuste prosím aplikaci odinstalovat a znovu stáhnout. Pokud se vám ani poté přihlášení nepodaří, zavolejte nám na 800 77 00 77, rádi to prověříme. Martina",
-      "version": "3.5.1"
-    },
-    {
-      "id": "43293d90-10b8-412b-a783-f9fed675bc3e",
-      "userName": "Jiri",
-      "date": "2026-01-20T23:31:40.807Z",
-      "score": 1,
-      "text": "Chtel jsem vam s novou apkou dat sanci. Proc to poustite mezi lidi, kdyz to ani nedokaze nabidnout formular k prihlaseni a jen to neuspesne neco nacita na pozadi?!",
-      "text_normalized": "chtel jsem vam s novou apkou dat sanci. proc to poustite mezi lidi, kdyz to ani nedokaze nabidnout formular k prihlaseni a jen to neuspesne neco nacita na pozadi?!",
-      "segments": [
-        "Prihlaseni"
-      ],
-      "replyDate": "2026-01-21T06:23:36.512Z",
-      "replyText": "Pěkný den, Jiří,\naplikace funguje v pořádku, pokud s tím máte potíže, tak ji odinstalujte a znovu nainstalujte, tím budete mít jistotu, že máte v telefonu aktuální verzi. Pokud se vám to nepodaří, pošlete nám screenshoty na e-mailovou adresu aplikace@vodafone.cz. Veronika",
       "version": "3.5.1"
     },
     {
@@ -17573,21 +17166,6 @@
       "version": "3.5.1"
     },
     {
-      "id": "d91c6f8f-60fe-4ecd-b98b-337d3323a159",
-      "userName": "T. Tom",
-      "date": "2026-01-20T15:53:24.820Z",
-      "score": 1,
-      "text": "Aplikace nejde vůbec spustit. Ihned naskočí stránka \"Něco se nepovedlo\"",
-      "text_normalized": "aplikace nejde vubec spustit. ihned naskoci stranka \"neco se nepovedlo\"",
-      "segments": [
-        "Stabilita",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-01-20T16:24:58.647Z",
-      "replyText": "Dobrý den, Tome,\nje mi líto, že máte takové potíže. Zkuste prosím aplikace přeinstalovat, případně pak přepněte z mobilních dat na Wi-Fi nebo naopak. Pokud to nepomůže, prosím napište nám podrobnosti včetně typu telefonu a screenu chyby na aplikace@vodafone.cz. Viki",
-      "version": "3.5.1"
-    },
-    {
       "id": "c9482fb2-e582-4452-a3a1-d81ed8bad999",
       "userName": "Pavel Fiala",
       "date": "2026-01-20T15:32:19.931Z",
@@ -17647,8 +17225,8 @@
         "Platba_a_vyuctovani",
         "Obmezene_funkce"
       ],
-      "replyDate": "2026-01-20T15:14:20.757Z",
-      "replyText": "Dobrý den, Romane,\nděkujeme za zpětnou vazbu. Přidání QR kódu zvažujeme a plánujeme ho zařadit v jedné z příštích aktualizací, spolu s dalšími vylepšeními výkonu a rychlosti aplikace. Viki",
+      "replyDate": "2026-02-13T11:44:24.150Z",
+      "replyText": "Dobrý den, Romane,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.\n",
       "version": "3.5.1"
     },
     {
@@ -17663,8 +17241,8 @@
         "Platba_a_vyuctovani",
         "Obmezene_funkce"
       ],
-      "replyDate": "2026-01-20T15:17:37.818Z",
-      "replyText": "Dobrý den, Vlastislave,\nmrzí nás, že vám nová aplikace nevyhovuje. Platbu přes QR kód plánujeme přidat, u Google Pay hledáme technické řešení. Co se týče internetu — restart modemu ani diagnostika nejsou v této verzi aplikace garantované, ale funkce správy služeb budeme dál rozšiřovat. Viki",
+      "replyDate": "2026-02-13T11:44:40.773Z",
+      "replyText": "Dobrý den, Vlastislave,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.\n",
       "version": "3.5.1"
     },
     {
@@ -17773,42 +17351,8 @@
         "Platba_a_vyuctovani",
         "Obmezene_funkce"
       ],
-      "replyDate": "2026-01-20T07:13:35.587Z",
-      "replyText": "Hezký den,\nmrzí mě, že jste s aplikací nespokojený 😢 Na aplikaci stále pracujeme a vylepšujeme ji, některé funkce do ní budeme postupně přidávat, věřím, že se vám v budoucnu bude líbit více. Zuzana",
-      "version": "3.5.1"
-    },
-    {
-      "id": "771be390-e104-4767-ad7e-e231dea52bfe",
-      "userName": "Paul",
-      "date": "2026-01-20T03:41:26.900Z",
-      "score": 1,
-      "text": "Tak a je to tady,nelze zaplatit pres aplikaci vyuctovani vyhazuje nam to ajaj vyskytla se chyba!Tak tohle uz ne teda.Nle jen ze nase site zdrazuji ale ted uz nejde ani pres aplikaci zaplatit.Tak a dost!Zdrazujete,aplikace nejde,wedget vubec neni,signal spatny,kdyz uz zdrazujete tak muzete lidem aspon navysovat rychlost mobilniho internetu.Sit vodafone nabral zakazniky a ted jako vzdy v cr zdrazuji ale pro zakazniky nic nevidime!Nejake zlepseni spis naopak.Proc to delate",
-      "text_normalized": "tak a je to tady,nelze zaplatit pres aplikaci vyuctovani vyhazuje nam to ajaj vyskytla se chyba!tak tohle uz ne teda.nle jen ze nase site zdrazuji ale ted uz nejde ani pres aplikaci zaplatit.tak a dost!zdrazujete,aplikace nejde,wedget vubec neni,signal spatny,kdyz uz zdrazujete tak muzete lidem aspon navysovat rychlost mobilniho internetu.sit vodafone nabral zakazniky a ted jako vzdy v cr zdrazuji ale pro zakazniky nic nevidime!nejake zlepseni spis naopak.proc to delate",
-      "segments": [
-        "Vykonnost",
-        "Stabilita",
-        "Platba_a_vyuctovani",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-01-20T06:13:01.248Z",
-      "replyText": "Pěkný den,\nje mi líto, že jste se službami nespokojený 🙁 Zavolejte nám na 800 77 00 77, abychom se s vámi mohli na vše podívat konkrétněji a pomoct vám. Budeme také rádi, když nám napíšete zpětnou vazbu na naši aplikaci Můj Vodafone+. Lucie",
-      "version": "3.5.1"
-    },
-    {
-      "id": "e581030a-7a5c-4b86-9422-995d665aec77",
-      "userName": "Robert Jeřábek",
-      "date": "2026-01-19T19:41:32.758Z",
-      "score": 1,
-      "text": "už vás mám plné zuby. nejde se přihlásit a obnovení hesla přes mail nefunguje. fakt s vámi končím",
-      "text_normalized": "uz vas mam plne zuby. nejde se prihlasit a obnoveni hesla pres mail nefunguje. fakt s vami koncim",
-      "segments": [
-        "Stabilita",
-        "Prihlaseni",
-        "Obmezene_funkce",
-        "Spokojenost"
-      ],
-      "replyDate": "2026-01-20T06:10:31.997Z",
-      "replyText": "Pěkný den, Roberte,\nje mi líto, pokud máte potíže s obnovou hesla 🙁 Rádi vám se vším pomůžeme, když nám zavoláte na 800 77 00 77. Lucie",
+      "replyDate": "2026-02-13T11:41:40.926Z",
+      "replyText": "Hezký den,\nv poslední aktualizaci jsme přidali platbu QR kódem, je v menu Vyúčtování, kde po kliknutí na Zaplatit můžete vybrat i platbu QR kódem. Budeme rádi, když appku po vyzkoušení znovu ohodnotíte. Děkujeme.\n",
       "version": "3.5.1"
     },
     {
@@ -18045,21 +17589,6 @@
       ],
       "replyDate": "2026-01-16T08:23:33.190Z",
       "replyText": "Pěkný den, Víte,\nje mi líto, pokud se vám aplikace nelíbí 🙁 Budeme také rádi za konkrétní zpětnou vazbu ke zlepšení. Lucie",
-      "version": "3.5.0"
-    },
-    {
-      "id": "9d52cdd8-eacc-4c56-b9fb-4bcbe00fb85f",
-      "userName": "Mort",
-      "date": "2026-01-16T05:14:00.906Z",
-      "score": 1,
-      "text": "Hrozná aplikace, velmi nepřehledná. U aktivních dat není vidět, do kdy jsou platné. Navíc mám zlatou simku, ke které si údajně můžu každý měsíc vybrat 5+5gb dat navíc. V aplikaci ale tato možnost není. Taky jsem měl dostat za dobití 20% kreditu navíc, ale nic jsem nedostal. Až mi dojde kredit, přecházím ke konkurenci.",
-      "text_normalized": "hrozna aplikace, velmi neprehledna. u aktivnich dat neni videt, do kdy jsou platne. navic mam zlatou simku, ke ktere si udajne muzu kazdy mesic vybrat 5+5gb dat navic. v aplikaci ale tato moznost neni. taky jsem mel dostat za dobiti 20% kreditu navic, ale nic jsem nedostal. az mi dojde kredit, prechazim ke konkurenci.",
-      "segments": [
-        "UI",
-        "Obmezene_funkce"
-      ],
-      "replyDate": "2026-01-16T06:23:05.673Z",
-      "replyText": "Pěkný den,\nje mi líto, že vám aplikace nevyhovuje 🙁 Aplikaci budeme dále rozvíjet a další funkce přidávat. V případě, že se vám nedaří vyzvednout datový dárek, napište nám prosím přes zabezpečený formulář na https://tam.je/dotaz, abychom to mohli řešit konkrétněji. Lucie",
       "version": "3.5.0"
     },
     {
@@ -18328,20 +17857,6 @@
       ],
       "replyDate": "2026-01-14T07:24:40.630Z",
       "replyText": "Pěkný den, Hano,\npřihlášení do aplikace funguje v pořádku, pokud s tím máte potíže, pošlete nám prosím jednotlivé screenshoty na e-mailovou adresu aplikace@vodafone.cz, abychom vám s tím mohli pomoct. Veronika",
-      "version": "3.5.0"
-    },
-    {
-      "id": "46ce9427-52b3-4838-91bc-a80449a576fd",
-      "userName": "Martin Holeček",
-      "date": "2026-01-14T04:05:13.504Z",
-      "score": 1,
-      "text": "Každá změna co přide stojí za h........ proč jste u placení v apce zrušili QR ? Vymyslíte vždy akorát chujovinu 😭",
-      "text_normalized": "kazda zmena co pride stoji za h........ proc jste u placeni v apce zrusili qr ? vymyslite vzdy akorat chujovinu 😭",
-      "segments": [
-        "Platba_a_vyuctovani"
-      ],
-      "replyDate": "2026-01-14T06:12:17.331Z",
-      "replyText": "Hezký den, Martine,\nmrzí mě, že jste nespokojený 🙁 Některé funkce budeme do aplikace postupně přidávat, prosím o trpělivost. Nyní QR kód najdete na první straně vašeho Vyúčtování. Zuzana",
       "version": "3.5.0"
     },
     {
@@ -39521,8 +39036,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2732,
-    "extractedAt": "2026-04-21T06:59:36.079Z",
+    "totalReviewsExtracted": 2699,
+    "extractedAt": "2026-04-21T12:41:22.480Z",
     "source": "google-play"
   }
 }
