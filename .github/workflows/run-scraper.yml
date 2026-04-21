@@ -25,6 +25,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          git config pull.rebase true
           git pull origin main
           git add vodafone-google-play-reviews.json
           git commit -m "Auto update reviews" || echo "No changes"
