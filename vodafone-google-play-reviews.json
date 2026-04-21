@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 3.9668736,
+    "score": 3.9755602,
     "scoreText": "4,0",
-    "totalRatings": 5103,
-    "totalReviews": 2149,
+    "totalRatings": 5112,
+    "totalReviews": 2151,
     "histogram": {
-      "1": 876,
-      "2": 220,
-      "3": 220,
-      "4": 654,
-      "5": 3126
+      "1": 874,
+      "2": 217,
+      "3": 217,
+      "4": 644,
+      "5": 3154
     }
   },
   "reviews": [
+    {
+      "id": "cc34e8c6-9eb3-439b-b564-c0996815b566",
+      "userName": "Vit Rusar",
+      "date": "2026-04-19T07:40:47.116Z",
+      "score": 1,
+      "text": "Widget s aktuálním čerpáním je asi nad vaše síly. Kupředu zpět!",
+      "text_normalized": "widget s aktualnim cerpanim je asi nad vase sily. kupredu zpet!",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-04-19T07:56:29.382Z",
+      "replyText": "Hezký den, Víte,\nmrzí mě, že to tak vnímáte 🙁 Ale widget v aktuální verzi zatím neplánujeme. Můžete si nastavit biometrické přihlášené a po přihlášení hned vidíte, jak vaše služby čerpáte. Zuzana",
+      "version": "3.11.0"
+    },
     {
       "id": "c5feb048-0966-403a-9e2d-411ab7df5e1b",
       "userName": "Darek Rusnák",
@@ -39507,8 +39521,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2731,
-    "extractedAt": "2026-04-20T07:18:53.974Z",
+    "totalReviewsExtracted": 2732,
+    "extractedAt": "2026-04-21T06:59:36.079Z",
     "source": "google-play"
   }
 }
