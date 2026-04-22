@@ -36,11 +36,7 @@ async function main() {
     }
   }
 
-  // 🔹 Latest known date
-  const latestDate = existingReviews.length
-    ? new Date(existingReviews[0].date)
-    : new Date(0);
-
+  // 🔹 Build set of existing IDs — this is the only deduplication we need
   const existingIds = new Set(existingReviews.map((r) => r.id));
 
   // 🔹 App info
@@ -58,6 +54,11 @@ async function main() {
   let pageCount = 0;
   let emptyPagesInRow = 0;
 
+  // 🔧 FIX: Raised from 3 to 8 — Google Play ordering isn't strictly
+  //         chronological across pages, so a few empty pages in a row
+  //         doesn't mean there are no more new reviews ahead.
+  const MAX_EMPTY_PAGES = 8;
+
   const collected = [];
 
   console.log("🚀 Fetching reviews...");
@@ -74,11 +75,11 @@ async function main() {
       nextPaginationToken: nextToken,
     });
 
-    const fresh = reviewData.data.filter((r) => {
-      const isNewId = !existingIds.has(r.id);
-      const isNewDate = new Date(r.date) > latestDate;
-      return isNewId && isNewDate;
-    });
+    // 🔧 FIX: Filter by ID only — removed the date check that was causing new
+    //         reviews to be skipped when they shared a date with the newest
+    //         stored review (AND logic was too strict, now using ID as the
+    //         single source of truth for deduplication).
+    const fresh = reviewData.data.filter((r) => !existingIds.has(r.id));
 
     console.log(
       `📄 Page ${pageCount}: total=${reviewData.data.length}, new=${fresh.length}`
@@ -90,9 +91,8 @@ async function main() {
       emptyPagesInRow = 0;
     }
 
-    // 🔥 stop after X empty pages
-    if (emptyPagesInRow >= 3) {
-      console.log("🛑 Stopping after 3 empty pages in a row");
+    if (emptyPagesInRow >= MAX_EMPTY_PAGES) {
+      console.log(`🛑 Stopping after ${MAX_EMPTY_PAGES} empty pages in a row`);
       break;
     }
 
@@ -126,6 +126,8 @@ async function main() {
   // 🔹 Merge + deduplicate (extra safety)
   const mergedMap = new Map();
 
+  // 🔧 FIX: collected first so newer fetched data takes precedence over stored
+  //         data in case a review was edited (e.g. updated reply).
   [...collected, ...existingReviews].forEach((r) => {
     mergedMap.set(r.id, r);
   });
@@ -153,6 +155,7 @@ async function main() {
   fs.writeFileSync(dataFile, JSON.stringify(output, null, 2));
 
   console.log(`📄 Saved to: ${dataFile}`);
+  console.log(`📊 Total reviews in file: ${allReviews.length}`);
   console.log("🎉 Done!");
 }
 
