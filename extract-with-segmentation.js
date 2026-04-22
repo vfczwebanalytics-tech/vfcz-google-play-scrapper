@@ -2,16 +2,10 @@ import gplay from "./index.js";
 import fs from "fs";
 import { segmentReview } from "./review-segmenter.js";
 
-// =======================
-// FUNKCIE
-// =======================
 function removeDiacritics(text = "") {
   return text.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
 
-// =======================
-// KONFIGURÁCIA
-// =======================
 const mainAppId = "com.vodafone.core.digiopcocz.react";
 const secondAppId = "com.zentity.vodafone";
 const country = "cz";
@@ -19,73 +13,57 @@ const country = "cz";
 const dataFile = "vodafone-google-play-reviews.json";
 const backupFile = "vodafone-google-play-reviews (copy).json";
 
-// =======================
-// HLAVNÝ FLOW
-// =======================
 async function main() {
-  // --- Backup existujúceho súboru ---
+  // 🔹 Backup
   if (fs.existsSync(dataFile)) {
     fs.copyFileSync(dataFile, backupFile);
     console.log(`📁 Backup created: ${backupFile}`);
   }
 
-  // --- Načítanie existujúcich recenzií ---
+  // 🔹 Load existing data
   let existingReviews = [];
   let existingRatings = {};
+
   if (fs.existsSync(dataFile)) {
     try {
       const raw = fs.readFileSync(dataFile, "utf-8");
       const parsed = JSON.parse(raw);
       existingReviews = Array.isArray(parsed.reviews) ? parsed.reviews : [];
       existingRatings = parsed.ratings || {};
-      console.log(
-        `ℹ️ Načítaných ${existingReviews.length} existujúcich recenzií`,
-      );
+      console.log(`ℹ️ Loaded ${existingReviews.length} existing reviews`);
     } catch (err) {
-      console.warn(
-        "⚠️ Chyba pri načítaní existujúceho súboru, začíname od nuly",
-      );
-      existingReviews = [];
-      existingRatings = {};
+      console.warn("⚠️ Error reading file, starting fresh");
     }
   }
 
-  // --- Staršia appka: len rating ---
-  try {
-    const secondAppData = await gplay.app({
-      appId: secondAppId,
-      country,
-      lang: "cs",
-    });
-    console.log("============================================");
-    console.log(`📱 Stará aplikace: ${secondAppId}`);
-    console.log(`⭐ Celkové hodnocení: ${secondAppData.score.toFixed(2)} / 5`);
-    console.log("============================================\n");
-  } catch (err) {
-    console.error(
-      `❌ Nepodarilo sa načítať dáta pre ${secondAppId}:`,
-      err.message,
-    );
-  }
+  // 🔹 Latest known date
+  const latestDate = existingReviews.length
+    ? new Date(existingReviews[0].date)
+    : new Date(0);
 
-  // --- Hlavná appka: info + recenzie ---
-  const appData = await gplay.app({ appId: mainAppId, country, lang: "cs" });
-  console.log(`📱 App: ${mainAppId}`);
-  console.log(`⭐ Overall score: ${appData.score.toFixed(2)} / 5`);
-  console.log(`📝 Total reviews: ${appData.reviews}`);
-  console.log("=".repeat(60));
-
-  // --- Extrakcia recenzií po stranách (paginácia) ---
-  let nextToken = null;
-  const newReviews = [];
   const existingIds = new Set(existingReviews.map((r) => r.id));
-  let pageCount = 0;
 
-  console.log("Fetching reviews page by page...");
+  // 🔹 App info
+  const appData = await gplay.app({
+    appId: mainAppId,
+    country,
+    lang: "cs",
+  });
+
+  console.log(`📱 App: ${mainAppId}`);
+  console.log(`⭐ Score: ${appData.score}`);
+  console.log("=".repeat(50));
+
+  let nextToken = null;
+  let pageCount = 0;
+  let emptyPagesInRow = 0;
+
+  const collected = [];
+
+  console.log("🚀 Fetching reviews...");
 
   do {
     pageCount++;
-    console.log(`Fetching page ${pageCount}...`);
 
     const reviewData = await gplay.reviews({
       appId: mainAppId,
@@ -96,18 +74,33 @@ async function main() {
       nextPaginationToken: nextToken,
     });
 
-    // Filtrovanie iba nových recenzií podľa ID
-    const fresh = reviewData.data.filter((r) => !existingIds.has(r.id));
+    const fresh = reviewData.data.filter((r) => {
+      const isNewId = !existingIds.has(r.id);
+      const isNewDate = new Date(r.date) > latestDate;
+      return isNewId && isNewDate;
+    });
+
     console.log(
-      `  Retrieved ${reviewData.data.length} reviews, new: ${fresh.length}`,
+      `📄 Page ${pageCount}: total=${reviewData.data.length}, new=${fresh.length}`
     );
 
-    // Normalizácia a segmentácia
+    if (fresh.length === 0) {
+      emptyPagesInRow++;
+    } else {
+      emptyPagesInRow = 0;
+    }
+
+    // 🔥 stop after X empty pages
+    if (emptyPagesInRow >= 3) {
+      console.log("🛑 Stopping after 3 empty pages in a row");
+      break;
+    }
+
     fresh.forEach((review) => {
       const originalText = review.text || "";
       const normalizedText = removeDiacritics(originalText).toLowerCase();
 
-      newReviews.push({
+      collected.push({
         id: review.id,
         userName: review.userName,
         date: review.date,
@@ -122,15 +115,25 @@ async function main() {
     });
 
     nextToken = reviewData.nextPaginationToken;
-    if (nextToken) await new Promise((r) => setTimeout(r, 1000));
-  } while (nextToken && pageCount < 20);
 
-  console.log(`✅ Celkovo nových recenzií: ${newReviews.length}`);
+    if (nextToken) {
+      await new Promise((r) => setTimeout(r, 1000)); // anti-rate-limit
+    }
+  } while (nextToken && pageCount < 50); // limit safety
 
-  // --- Spojenie: nové recenzie hore, existujúce dole ---
-  const allReviews = [...newReviews, ...existingReviews];
+  console.log(`✅ New reviews collected: ${collected.length}`);
 
-  // --- Výstup so sekciou ratings ---
+  // 🔹 Merge + deduplicate (extra safety)
+  const mergedMap = new Map();
+
+  [...collected, ...existingReviews].forEach((r) => {
+    mergedMap.set(r.id, r);
+  });
+
+  const allReviews = Array.from(mergedMap.values()).sort(
+    (a, b) => new Date(b.date) - new Date(a.date)
+  );
+
   const output = {
     ratings: {
       score: appData.score,
@@ -148,11 +151,9 @@ async function main() {
   };
 
   fs.writeFileSync(dataFile, JSON.stringify(output, null, 2));
-  console.log(`📄 Výstup uložený do: ${dataFile}`);
-  console.log("✅ Segmentácia a doplnenie nových recenzií dokončené!");
+
+  console.log(`📄 Saved to: ${dataFile}`);
+  console.log("🎉 Done!");
 }
 
-// =======================
-// SPUSTENIE
-// =======================
 main().catch((err) => console.error("❌ Error:", err));
