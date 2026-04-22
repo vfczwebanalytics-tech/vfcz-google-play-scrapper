@@ -3,6 +3,8 @@ on:
   schedule:
     - cron: "0 5 * * *"   # každý deň 05:00 UTC
   workflow_dispatch:
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -12,27 +14,21 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
-
       - name: Install dependencies
         run: npm install
-
       - name: Run scraper
         run: node extract-with-segmentation.js
-
       - name: Commit & push changes
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          # Stage both the main file and the backup to avoid unstaged changes error
           git add vodafone-google-play-reviews.json
+          git add "vodafone-google-play-reviews (copy).json" || true
           git diff --cached --quiet && echo "No changes, skipping" && exit 0
           git commit -m "Auto update reviews"
-          for i in 1 2 3; do
-            git pull --rebase origin main && git push origin main && break
-            echo "Retry $i failed, waiting..."
-            sleep 5
-          done
+          git push origin main
