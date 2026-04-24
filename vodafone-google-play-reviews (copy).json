@@ -1,18 +1,46 @@
 {
   "ratings": {
-    "score": 3.9718876,
-    "scoreText": "4,0",
-    "totalRatings": 5118,
+    "score": 3.9482071,
+    "scoreText": "3,9",
+    "totalRatings": 5121,
     "totalReviews": 2154,
     "histogram": {
-      "1": 872,
-      "2": 225,
-      "3": 225,
-      "4": 636,
-      "5": 3154
+      "1": 907,
+      "2": 224,
+      "3": 224,
+      "4": 631,
+      "5": 3131
     }
   },
   "reviews": [
+    {
+      "id": "76892bb0-7b9f-4284-8d48-da89e73f7485",
+      "userName": "zoulova1",
+      "date": "2026-04-21T20:42:15.533Z",
+      "score": 1,
+      "text": "S aplikací je to horší a horší. Jen samotné přihlášení do aplikace, je poměrně složité. Zdlouhavé načítání, následné odhlášení, opět načítání a stále dokola. Žádné zlepšení bohužel nevidím.",
+      "text_normalized": "s aplikaci je to horsi a horsi. jen samotne prihlaseni do aplikace, je pomerne slozite. zdlouhave nacitani, nasledne odhlaseni, opet nacitani a stale dokola. zadne zlepseni bohuzel nevidim.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-04-22T05:12:04.188Z",
+      "replyText": "Pěkný den,\nje mi líto, pokud máte s přihlašováním do aplikace potíže 🙁 Rádi to prověříme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie\n",
+      "version": "3.11.0"
+    },
+    {
+      "id": "2c9230ac-0905-41bb-9177-876ac270a71e",
+      "userName": "D E",
+      "date": "2026-04-21T10:37:41.571Z",
+      "score": 1,
+      "text": "Děs. Přihlašování přes zasílané kódy. Pořád zadávat mail.... 😡. Funkčnost",
+      "text_normalized": "des. prihlasovani pres zasilane kody. porad zadavat mail.... 😡. funkcnost",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-04-21T10:58:11.773Z",
+      "replyText": "Pěkný den,\nje mi líto, pokud se vám aplikace nelíbí a nefunguje správně 🙁 V případě, že musíte opakovaně zadávat e-mail pro přihlášení, napište nám prosím přes https://tam.je/dotaz, abychom to mohli řešit konkrétněji. Lucie\n",
+      "version": "3.11.0"
+    },
     {
       "id": "0a0660a6-5d12-4ae6-ae08-a6a2000f5103",
       "userName": "Medvěd Grizzly",
@@ -28976,8 +29004,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1974,
-    "extractedAt": "2026-04-22T07:53:22.377Z",
+    "totalReviewsExtracted": 1976,
+    "extractedAt": "2026-04-23T07:02:32.679Z",
     "source": "google-play"
   }
 }
