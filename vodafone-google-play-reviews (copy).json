@@ -3,7 +3,7 @@
     "score": 3.9482071,
     "scoreText": "3,9",
     "totalRatings": 5121,
-    "totalReviews": 2154,
+    "totalReviews": 2155,
     "histogram": {
       "1": 907,
       "2": 224,
@@ -13,6 +13,23 @@
     }
   },
   "reviews": [
+    {
+      "id": "ff4521d3-0a1b-4c1f-b104-065894bc3b84",
+      "userName": "Václav Hošek",
+      "date": "2026-04-22T07:39:01.875Z",
+      "score": 1,
+      "text": "Aplikace nefunguje. Vůbec se nenačítá a když jsem přeinstaloval tak sice naběhla ale po pokusu o přihlášení stále jen načítací logo a nic se neděje. Aplikace mě odhlásila takže pak musím žádat o reset hesla, protože jsem měl nastaveno přihlášením otiskem což už pak samozřejmě nejde. Pěkná bída, rozhodně jděte na web když od Vodafonu něco chcete, tohle je nepoužitelné.",
+      "text_normalized": "aplikace nefunguje. vubec se nenacita a kdyz jsem preinstaloval tak sice nabehla ale po pokusu o prihlaseni stale jen nacitaci logo a nic se nedeje. aplikace me odhlasila takze pak musim zadat o reset hesla, protoze jsem mel nastaveno prihlasenim otiskem coz uz pak samozrejme nejde. pekna bida, rozhodne jdete na web kdyz od vodafonu neco chcete, tohle je nepouzitelne.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-22T08:01:21.792Z",
+      "replyText": "Hezký den, Václave,\ntakové potíže mě mrzí, to by se dít nemělo 🙁 Rádi se na to podíváme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie\n",
+      "version": "3.11.0"
+    },
     {
       "id": "76892bb0-7b9f-4284-8d48-da89e73f7485",
       "userName": "zoulova1",
@@ -29004,8 +29021,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1976,
-    "extractedAt": "2026-04-23T07:02:32.679Z",
+    "totalReviewsExtracted": 1977,
+    "extractedAt": "2026-04-24T07:05:25.832Z",
     "source": "google-play"
   }
 }
