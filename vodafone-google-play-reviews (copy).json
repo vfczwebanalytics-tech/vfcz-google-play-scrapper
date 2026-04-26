@@ -1,18 +1,34 @@
 {
   "ratings": {
-    "score": 3.9482071,
+    "score": 3.9423459,
     "scoreText": "3,9",
-    "totalRatings": 5121,
-    "totalReviews": 2155,
+    "totalRatings": 5123,
+    "totalReviews": 2157,
     "histogram": {
-      "1": 907,
-      "2": 224,
-      "3": 224,
-      "4": 631,
-      "5": 3131
+      "1": 916,
+      "2": 223,
+      "3": 223,
+      "4": 630,
+      "5": 3125
     }
   },
   "reviews": [
+    {
+      "id": "185d083e-b2e5-40e4-93e9-6da4dc39777c",
+      "userName": "Ondra_Not_Here",
+      "date": "2026-04-24T05:31:30.152Z",
+      "score": 1,
+      "text": "Oproti předchozímu pokusu o aplikaci je o trochu rychlejší, ale stavá se častěji, že něco nefunguje. Nevím za co mám platit tolik, když skoro nic nefunguje. Navíc aplikace ztrácí úplný smysl, protože to co tahle \"aplikace\" nabízí, je i na jejich webu, na který se mi aspoň daří přihlásit.",
+      "text_normalized": "oproti predchozimu pokusu o aplikaci je o trochu rychlejsi, ale stava se casteji, ze neco nefunguje. nevim za co mam platit tolik, kdyz skoro nic nefunguje. navic aplikace ztraci uplny smysl, protoze to co tahle \"aplikace\" nabizi, je i na jejich webu, na ktery se mi aspon dari prihlasit.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-24T05:38:57.259Z",
+      "replyText": "Dobrý den, Ondro,\nděkujeme za zpětnou vazbu. Mrzí mě, že aplikace nesplňuje vaše očekávání. Na stabilitě a funkčnosti průběžně pracujeme – pokud narazíte na konkrétní chybu, budeme rádi za detail přes *77 nebo formulář https://tam.je/dotaz. Viki",
+      "version": "3.11.0"
+    },
     {
       "id": "ff4521d3-0a1b-4c1f-b104-065894bc3b84",
       "userName": "Václav Hošek",
@@ -29021,8 +29037,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1977,
-    "extractedAt": "2026-04-24T07:05:25.832Z",
+    "totalReviewsExtracted": 1978,
+    "extractedAt": "2026-04-25T06:21:19.013Z",
     "source": "google-play"
   }
 }
