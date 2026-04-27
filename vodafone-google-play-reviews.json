@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 3.9343936,
+    "score": 3.920792,
     "scoreText": "3,9",
-    "totalRatings": 5124,
-    "totalReviews": 2159,
+    "totalRatings": 5126,
+    "totalReviews": 2161,
     "histogram": {
-      "1": 926,
+      "1": 943,
       "2": 223,
       "3": 223,
-      "4": 630,
-      "5": 3116
+      "4": 639,
+      "5": 3095
     }
   },
   "reviews": [
+    {
+      "id": "e66e6466-0872-4578-8a35-ebc5f6efbd37",
+      "userName": "Jan N",
+      "date": "2026-04-25T09:16:54.914Z",
+      "score": 1,
+      "text": "aplikace neplní závazky ve smlouvě. respektive app blbne a dělá si co chce.",
+      "text_normalized": "aplikace neplni zavazky ve smlouve. respektive app blbne a dela si co chce.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-04-25T09:43:13.468Z",
+      "replyText": "Dobrý den, Jane,\nzavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, co konkrétně vám v aplikace nefunguje. Rádi to prověříme. Martina\n",
+      "version": "3.11.0"
+    },
     {
       "id": "65a0e1b5-4649-4e51-96f3-2e7c070b8567",
       "userName": "Daniel Filipi",
@@ -29066,8 +29080,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1980,
-    "extractedAt": "2026-04-26T06:59:55.529Z",
+    "totalReviewsExtracted": 1981,
+    "extractedAt": "2026-04-27T07:36:00.203Z",
     "source": "google-play"
   }
 }
