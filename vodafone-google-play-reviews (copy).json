@@ -1,18 +1,34 @@
 {
   "ratings": {
-    "score": 3.920792,
+    "score": 3.9150198,
     "scoreText": "3,9",
     "totalRatings": 5126,
-    "totalReviews": 2161,
+    "totalReviews": 2163,
     "histogram": {
-      "1": 943,
-      "2": 223,
-      "3": 223,
-      "4": 639,
-      "5": 3095
+      "1": 951,
+      "2": 222,
+      "3": 222,
+      "4": 638,
+      "5": 3089
     }
   },
   "reviews": [
+    {
+      "id": "e5689ea4-31fe-4033-bf1c-9bb7b69fa903",
+      "userName": "G T",
+      "date": "2026-04-26T18:04:07.460Z",
+      "score": 1,
+      "text": "Aplikace stale nefunguje a je silne neprehledna, jako predchozi verze. Nechte si to udelat znovu a poradne!",
+      "text_normalized": "aplikace stale nefunguje a je silne neprehledna, jako predchozi verze. nechte si to udelat znovu a poradne!",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-27T05:09:38.863Z",
+      "replyText": "Dobrý den, je mi líto, že máte s aplikací potíže. Prosím zkuste ji odinstalovat, restartovat telefon a následně ji nainstalovat zpět. Kdyby to nepomohlo, napište nám prosím podrobnosti přes https://tam.je/dotaz nebo nám zavolejte na *77. Rádi to prověříme. Viki",
+      "version": "3.11.0"
+    },
     {
       "id": "e66e6466-0872-4578-8a35-ebc5f6efbd37",
       "userName": "Jan N",
@@ -29080,8 +29096,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1981,
-    "extractedAt": "2026-04-27T07:36:00.203Z",
+    "totalReviewsExtracted": 1982,
+    "extractedAt": "2026-04-28T07:33:11.631Z",
     "source": "google-play"
   }
 }
