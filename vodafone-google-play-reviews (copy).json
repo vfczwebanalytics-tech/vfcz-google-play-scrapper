@@ -1,18 +1,78 @@
 {
   "ratings": {
-    "score": 3.9150198,
+    "score": 3.9058824,
     "scoreText": "3,9",
-    "totalRatings": 5126,
-    "totalReviews": 2163,
+    "totalRatings": 5130,
+    "totalReviews": 2167,
     "histogram": {
-      "1": 951,
-      "2": 222,
-      "3": 222,
-      "4": 638,
-      "5": 3089
+      "1": 975,
+      "2": 210,
+      "3": 220,
+      "4": 632,
+      "5": 3087
     }
   },
   "reviews": [
+    {
+      "id": "9a44cf32-77f5-4890-85b0-16d49ed46453",
+      "userName": "Tankista Martin",
+      "date": "2026-04-28T05:39:42.573Z",
+      "score": 1,
+      "text": "Proč se musím každý měsíc přihlašovat heslem když je nové vyúčtování. Mám nastavený otisk který funguje do dalšího vyúčtování a pak se musím zase přihlásit heslem a pak zase měsíc funguje otisk. Já myslím že jsem jasně napsal že používám otisk prstu,ktery normálně v aplikaci používám přesto se musím u každého nového vyúčtování přihlásit emailem a pak už otisk funguje",
+      "text_normalized": "proc se musim kazdy mesic prihlasovat heslem kdyz je nove vyuctovani. mam nastaveny otisk ktery funguje do dalsiho vyuctovani a pak se musim zase prihlasit heslem a pak zase mesic funguje otisk. ja myslim ze jsem jasne napsal ze pouzivam otisk prstu,ktery normalne v aplikaci pouzivam presto se musim u kazdeho noveho vyuctovani prihlasit emailem a pak uz otisk funguje",
+      "segments": [
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-28T05:17:43.193Z",
+      "replyText": "Hezký den, Martine, platnost biometrického přihlášení vyprší, pokud aplikaci odinstalujete a budete ji instalovat znovu. Pokud nepoužijete biometrické přihlášení (telefon ho nepodporuje nebo ho nepovolíte), zůstanete v aplikaci přihlášeni, dokud se ručně neodhlásíte, maximálně ale 30 dnů. Petra",
+      "version": "3.11.0"
+    },
+    {
+      "id": "4ac4329f-7260-4421-bb4f-9ed5ef7909bb",
+      "userName": "Ales Bliznak",
+      "date": "2026-04-27T18:21:44.437Z",
+      "score": 1,
+      "text": "Mínus hvězdičky by byly tak mínus 5000 hvězdiček a to jsem vyzkoušel jen přihlášeni do aplikace",
+      "text_normalized": "minus hvezdicky by byly tak minus 5000 hvezdicek a to jsem vyzkousel jen prihlaseni do aplikace",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-04-28T05:14:29.927Z",
+      "replyText": "Pěkný den, Alesi,\nděkujeme za zpětnou vazbu, ze které však nevyplývá, co se stalo. Budu ráda, když nám k tomu napíšete podrobnosti přes https://tam.je/dotaz, abychom vám mohli případně pomoc. Můžete také využít e-mailové adresy aplikace@vodafone.cz. Veronika",
+      "version": null
+    },
+    {
+      "id": "370e38f9-dbcd-4335-85b9-17028d438bdc",
+      "userName": "Vlastimil Poděbradský",
+      "date": "2026-04-27T16:51:32.301Z",
+      "score": 5,
+      "text": "Vaše nová aplikace je o mnoho lepší než ta původní. Gratulace !👍",
+      "text_normalized": "vase nova aplikace je o mnoho lepsi nez ta puvodni. gratulace !👍",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-04-27T17:21:32.416Z",
+      "replyText": "Hezký den, Vlastimile,\nděkujeme za hodnocení. Jsem ráda, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.6.3"
+    },
+    {
+      "id": "0e49acb9-781c-4e58-9d92-4035d9b4616f",
+      "userName": "Sara Helebrantova",
+      "date": "2026-04-27T16:45:47.624Z",
+      "score": 1,
+      "text": "Tak moc nefunkční aplikace až mám pocit, že Vodafone systematicky znemožňuje uživatelům jednoduše zaplatit tarif aby museli platit pokuty. Je to dlouho trvající problém, nelze se přihlásit, konstantě se mění požadavky na přihlášení a heslo, nelze se dostat k vyúčtování natož ho pomocí aplikace zaplatit.",
+      "text_normalized": "tak moc nefunkcni aplikace az mam pocit, ze vodafone systematicky znemoznuje uzivatelum jednoduse zaplatit tarif aby museli platit pokuty. je to dlouho trvajici problem, nelze se prihlasit, konstante se meni pozadavky na prihlaseni a heslo, nelze se dostat k vyuctovani natoz ho pomoci aplikace zaplatit.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-04-27T16:50:57.624Z",
+      "replyText": "Hezký den, Sáro,\ntakové potíže mě mrzí, to by se dít nemělo 🙁 Rádi vám s tím pomůžeme, když nám napíšete podrobnosti přes https://tam.je/dotaz, kde to můžeme řešit konkrétněji. Lucie",
+      "version": "3.11.0"
+    },
     {
       "id": "e5689ea4-31fe-4033-bf1c-9bb7b69fa903",
       "userName": "G T",
@@ -29096,8 +29156,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1982,
-    "extractedAt": "2026-04-28T07:33:11.631Z",
+    "totalReviewsExtracted": 1986,
+    "extractedAt": "2026-04-29T07:26:31.666Z",
     "source": "google-play"
   }
 }
