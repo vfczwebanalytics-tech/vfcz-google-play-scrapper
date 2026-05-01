@@ -1,18 +1,91 @@
 {
   "ratings": {
-    "score": 3.9058824,
+    "score": 3.883495,
     "scoreText": "3,9",
-    "totalRatings": 5130,
-    "totalReviews": 2167,
+    "totalRatings": 5135,
+    "totalReviews": 2173,
     "histogram": {
-      "1": 975,
-      "2": 210,
-      "3": 220,
-      "4": 632,
-      "5": 3087
+      "1": 1006,
+      "2": 209,
+      "3": 218,
+      "4": 638,
+      "5": 3060
     }
   },
   "reviews": [
+    {
+      "id": "c2aff560-bab5-4629-bdd4-8a1a214054c8",
+      "userName": "Veronika Šenkyříková",
+      "date": "2026-04-29T06:53:06.237Z",
+      "score": 1,
+      "text": "strašná aplikace, extrémně pomalá, nic horšího jsem za poslední domu nezažila",
+      "text_normalized": "strasna aplikace, extremne pomala, nic horsiho jsem za posledni domu nezazila",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-04-29T06:59:32.419Z",
+      "replyText": "Hezký den, Veroniko, je mi líto, že nejste s aplikací spokojená 🙁 Na jejím vylepšení stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": null
+    },
+    {
+      "id": "01b6b81c-9d0b-4be8-82e3-fd73b6a83eea",
+      "userName": "Bobeš Michal",
+      "date": "2026-04-29T06:48:27.723Z",
+      "score": 1,
+      "text": "Jako opravdu příšerná aplikace, u takové firmy bych čekal bezproblémovou aplikaci. Všechno strašně dlouho trvá, načítá, kolikrát se vůbec nejde přihlásit. Po každé aktualizaci se z aplikace odhlasím, musím se pokaždé opět přihlásit. Když chci něco v aplikaci zkontrolovat objeví se chybová hláška. Fakt šílenost tohle. Ale nedej bože nezaplatit hovada co.",
+      "text_normalized": "jako opravdu priserna aplikace, u takove firmy bych cekal bezproblemovou aplikaci. vsechno strasne dlouho trva, nacita, kolikrat se vubec nejde prihlasit. po kazde aktualizaci se z aplikace odhlasim, musim se pokazde opet prihlasit. kdyz chci neco v aplikaci zkontrolovat objevi se chybova hlaska. fakt silenost tohle. ale nedej boze nezaplatit hovada co.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-04-29T07:00:59.959Z",
+      "replyText": "Hezký den, Michale, mrzí mě, že máte potíže s aplikací 🙁 Napište nám prosím podrobnosti přes zabezpečený formulář https://tam.je/dotaz. Na vše se podíváme konkrétněji. Petra\n",
+      "version": "3.12.0"
+    },
+    {
+      "id": "40b938c4-0b6a-450f-b7b1-fa7b84845a80",
+      "userName": "Pavel Vavrusa",
+      "date": "2026-04-29T04:46:16.963Z",
+      "score": 1,
+      "text": "Je to pomalý paskvil.",
+      "text_normalized": "je to pomaly paskvil.",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-04-29T05:23:33.171Z",
+      "replyText": "Hezké den, Pavle, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.12.0"
+    },
+    {
+      "id": "585471c6-8317-40c0-96b5-16f2c5232821",
+      "userName": "D'J.Tamáš ツ",
+      "date": "2026-04-28T13:54:45.858Z",
+      "score": 1,
+      "text": "Dobrý den.Ne vždycky když nějaký IT něco vymyslí je dobré,tohle je na pikaču verze.Ta původní můj Vodafone - Verze 5.28.13,byla milionkrát lepší.PROSTĚ ZASE SI NĚJAKÝ CHYTRÁK JAKO VŽDY,NĚCO VYMYSLEL A PAK SI NAMASTIL KAPSY.Ale nic prospěšného a dobrého nevymyslel,prostě ne že by se firmy drželi dobrých věcí a nechali všechno původně jak to bylo vymyšleno tak chtějí novinky ale ty novinky jsou často na prd!.Tak je to s každou aplikaci a se vším v mobilu.A taky s tou UI.Na shledanou TJ.",
+      "text_normalized": "dobry den.ne vzdycky kdyz nejaky it neco vymysli je dobre,tohle je na pikacu verze.ta puvodni muj vodafone - verze 5.28.13,byla milionkrat lepsi.proste zase si nejaky chytrak jako vzdy,neco vymyslel a pak si namastil kapsy.ale nic prospesneho a dobreho nevymyslel,proste ne ze by se firmy drzeli dobrych veci a nechali vsechno puvodne jak to bylo vymysleno tak chteji novinky ale ty novinky jsou casto na prd!.tak je to s kazdou aplikaci a se vsim v mobilu.a taky s tou ui.na shledanou tj.",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-04-28T14:35:35.773Z",
+      "replyText": "Hezký den,\nděkujeme za vaši recenzi a hodnocení, i když pro nás není velmi pozitivní 🙁 Na aplikaci stále pracujeme a vylepšujeme ji, věřím, že do budoucna se vám bude líbit stejně tak, jako ta původní. Zuzana",
+      "version": "3.11.0"
+    },
+    {
+      "id": "2252a8d4-54a3-4d6d-a864-cf1d7aa2e135",
+      "userName": "Sawyer Seiling",
+      "date": "2026-04-28T07:51:54.806Z",
+      "score": 1,
+      "text": "nenávidím tu aplikaci",
+      "text_normalized": "nenavidim tu aplikaci",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-04-28T08:23:28.802Z",
+      "replyText": "Hezký den, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.11.0"
+    },
     {
       "id": "9a44cf32-77f5-4890-85b0-16d49ed46453",
       "userName": "Tankista Martin",
@@ -29156,8 +29229,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1986,
-    "extractedAt": "2026-04-29T07:26:31.666Z",
+    "totalReviewsExtracted": 1991,
+    "extractedAt": "2026-04-30T07:30:31.681Z",
     "source": "google-play"
   }
 }
