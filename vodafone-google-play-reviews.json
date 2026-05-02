@@ -1,18 +1,63 @@
 {
   "ratings": {
-    "score": 3.8556485,
-    "scoreText": "3,9",
-    "totalRatings": 5142,
+    "score": 3.83368,
+    "scoreText": "3,8",
+    "totalRatings": 5143,
     "totalReviews": 2175,
     "histogram": {
-      "1": 1053,
-      "2": 192,
-      "3": 225,
-      "4": 633,
-      "5": 3033
+      "1": 1069,
+      "2": 213,
+      "3": 224,
+      "4": 630,
+      "5": 3003
     }
   },
   "reviews": [
+    {
+      "id": "0e204831-712b-44bb-b010-d1d31f9a23ac",
+      "userName": "Stanislav Orság",
+      "date": "2026-04-30T12:43:52.314Z",
+      "score": 1,
+      "text": "nepoužívejte to, nefunguje. celý tým IT by měli vyhazet. tragédie jako vzdy",
+      "text_normalized": "nepouzivejte to, nefunguje. cely tym it by meli vyhazet. tragedie jako vzdy",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-30T13:03:59.570Z",
+      "replyText": "Hezký den, Stanislave, děkujeme za hodnocení. Je mi líto, že vám aplikace nevyhovuje 🙁 Napište nám prosím vaši zpětnou vazbu přes zabezpečený formulář https://tam.je/dotaz. Na vše se podíváme konkrétněji. Petra\n",
+      "version": "3.12.0"
+    },
+    {
+      "id": "3b9ecd8c-156c-4ca6-8360-19d45e09cc5c",
+      "userName": "Jaroslav Šín",
+      "date": "2026-04-30T12:06:42.881Z",
+      "score": 2,
+      "text": "Je to strašně pomalé. Je vůbec problém se přihlásit.",
+      "text_normalized": "je to strasne pomale. je vubec problem se prihlasit.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-04-30T12:32:51.940Z",
+      "replyText": "Hezký den, Jaroslave, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.12.0"
+    },
+    {
+      "id": "af96d821-fc4c-439c-99e5-c0e1fa2df4e2",
+      "userName": "Pošlete mi to sem",
+      "date": "2026-04-30T08:42:03.371Z",
+      "score": 1,
+      "text": "Je to pořád dokola. S žádnou jinou aplikací nemám tak strašnou uživatelskou zkušenost. Vývojáři prakticky ignorují všechny negativní zkušenosti. Použití aplikace je lepší se vyhnout. A když už, tak ji neaktualizovat, protože aktualizace nezlepšují UX.",
+      "text_normalized": "je to porad dokola. s zadnou jinou aplikaci nemam tak strasnou uzivatelskou zkusenost. vyvojari prakticky ignoruji vsechny negativni zkusenosti. pouziti aplikace je lepsi se vyhnout. a kdyz uz, tak ji neaktualizovat, protoze aktualizace nezlepsuji ux.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-04-30T09:09:58.438Z",
+      "replyText": "Pěkný den,\nje mi líto, že vám aplikace z nějaké důvodu nevyhovuje. Touto cestou nemáme posoudit, co se stalo. Napište nám prosím k tomu více podrobností na e-mailovou adresu aplikace@vodafone.cz. Případně přiložte si screenshoty. Veronika",
+      "version": "3.12.0"
+    },
     {
       "id": "7c03ec5b-8537-4f1b-a9fd-2baa5b6bc961",
       "userName": "djblake156",
@@ -29317,8 +29362,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1997,
-    "extractedAt": "2026-05-01T07:27:45.650Z",
+    "totalReviewsExtracted": 2000,
+    "extractedAt": "2026-05-02T07:02:31.200Z",
     "source": "google-play"
   }
 }

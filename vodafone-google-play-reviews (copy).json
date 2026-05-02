@@ -1,18 +1,106 @@
 {
   "ratings": {
-    "score": 3.883495,
+    "score": 3.8556485,
     "scoreText": "3,9",
-    "totalRatings": 5135,
-    "totalReviews": 2173,
+    "totalRatings": 5142,
+    "totalReviews": 2175,
     "histogram": {
-      "1": 1006,
-      "2": 209,
-      "3": 218,
-      "4": 638,
-      "5": 3060
+      "1": 1053,
+      "2": 192,
+      "3": 225,
+      "4": 633,
+      "5": 3033
     }
   },
   "reviews": [
+    {
+      "id": "7c03ec5b-8537-4f1b-a9fd-2baa5b6bc961",
+      "userName": "djblake156",
+      "date": "2026-04-29T17:34:57.318Z",
+      "score": 1,
+      "text": "Nejde se přihlásit do aplikace. Ani se nenačte",
+      "text_normalized": "nejde se prihlasit do aplikace. ani se nenacte",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-04-29T18:01:44.707Z",
+      "replyText": "Dobrý den,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby vám ani poté přihlášení nefungovalo, zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz, prověříme to. Martina\n",
+      "version": "3.12.0"
+    },
+    {
+      "id": "cbc5d587-a0b8-4d6c-a5a0-a2ea0073d459",
+      "userName": "Richard Matura",
+      "date": "2026-04-29T17:03:39.140Z",
+      "score": 1,
+      "text": "pravidelně nefunguje",
+      "text_normalized": "pravidelne nefunguje",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-04-29T17:31:35.325Z",
+      "replyText": "Dobrý den, Richarde,\nje mi líto, že máte takovou zkušenost 🙁 Zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi fungování aplikace s vaším zákaznickým účtem prověříme. Martina\n",
+      "version": "3.12.0"
+    },
+    {
+      "id": "1121e4bb-76e8-4e52-9e80-8e61607fa930",
+      "userName": "Jarda",
+      "date": "2026-04-29T15:55:00.638Z",
+      "score": 3,
+      "text": "aplikace neustále odhlašuje, nejde otevřít smlouva (obrazovka zůstává bílá)...",
+      "text_normalized": "aplikace neustale odhlasuje, nejde otevrit smlouva (obrazovka zustava bila)...",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-04-29T16:02:16.654Z",
+      "replyText": "Dobrý den, Jardo,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Pokud budou potíže přetrvávat, zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi to prověříme na konkrétním příkladu. Martina\n",
+      "version": "3.10.1"
+    },
+    {
+      "id": "b6f1d4c4-051d-4c81-b3fd-4f0eb1d7473b",
+      "userName": "Radek Flasar",
+      "date": "2026-04-29T14:00:41.367Z",
+      "score": 1,
+      "text": "Pomalejší apka snad neexistuje.",
+      "text_normalized": "pomalejsi apka snad neexistuje.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-04-29T14:35:19.440Z",
+      "replyText": "Dobrý den, Radku,\nděkujeme za zpětnou vazbu. Na dalších úpravách aplikace pracujeme, tak třeba s ní budete časem spokojenější. Martina",
+      "version": "3.12.0"
+    },
+    {
+      "id": "2938603f-de60-4d21-9f15-3d0565dcdca2",
+      "userName": "Radomír Ašver",
+      "date": "2026-04-29T11:02:37.544Z",
+      "score": 1,
+      "text": "Aplikace na dvě věci! I banky prihlašují jednodušeji, klidně otiskem prstu a tady musíte hledat heslo když se chcete jednou za čas na něco podívat! Dvě aplikace a každá k ničemu!",
+      "text_normalized": "aplikace na dve veci! i banky prihlasuji jednoduseji, klidne otiskem prstu a tady musite hledat heslo kdyz se chcete jednou za cas na neco podivat! dve aplikace a kazda k nicemu!",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-04-29T10:28:58.313Z",
+      "replyText": "Hezký den, Radomíre,\nje mi líto, pokud vám aplikace nevyhovuje 🙁 Budeme rádi za konkrétnější zpětnou vazbu ke zlepšení. Lucie",
+      "version": "3.11.0"
+    },
+    {
+      "id": "0bd3c324-1eaf-4efc-97e4-d8f424c6d260",
+      "userName": "Miloslav",
+      "date": "2026-04-29T09:25:13.321Z",
+      "score": 1,
+      "text": "Nejpomalejší aplikace co mám v telefonu je bezkonkurenčně tato od vodafonu",
+      "text_normalized": "nejpomalejsi aplikace co mam v telefonu je bezkonkurencne tato od vodafonu",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-04-29T09:29:09.951Z",
+      "replyText": "Hezký den, Miloslave, děkujeme hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že s ní budete do budoucna spokojenější. Petra",
+      "version": "3.12.0"
+    },
     {
       "id": "c2aff560-bab5-4629-bdd4-8a1a214054c8",
       "userName": "Veronika Šenkyříková",
@@ -29229,8 +29317,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 1991,
-    "extractedAt": "2026-04-30T07:30:31.681Z",
+    "totalReviewsExtracted": 1997,
+    "extractedAt": "2026-05-01T07:27:45.650Z",
     "source": "google-play"
   }
 }
