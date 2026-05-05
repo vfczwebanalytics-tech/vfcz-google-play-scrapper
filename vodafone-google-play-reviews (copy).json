@@ -1,18 +1,33 @@
 {
   "ratings": {
-    "score": 3.83368,
+    "score": 3.8240166,
     "scoreText": "3,8",
-    "totalRatings": 5143,
+    "totalRatings": 5145,
     "totalReviews": 2175,
     "histogram": {
-      "1": 1069,
-      "2": 213,
-      "3": 224,
-      "4": 630,
-      "5": 3003
+      "1": 1075,
+      "2": 223,
+      "3": 223,
+      "4": 628,
+      "5": 2992
     }
   },
   "reviews": [
+    {
+      "id": "df914f4d-3837-409a-a00e-d88842e7ee12",
+      "userName": "Milan Duháček",
+      "date": "2026-05-02T09:22:18.980Z",
+      "score": 2,
+      "text": "Ani do internetového bankovnictví není tak otravný se přihlašovat jako neustále sem.",
+      "text_normalized": "ani do internetoveho bankovnictvi neni tak otravny se prihlasovat jako neustale sem.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-05-02T09:39:56.459Z",
+      "replyText": "Dobrý den, Milane,\nje mi líto, že vám způsob přihlášení nevyhovuje 🙁 Stačí zadat e-mailovou adresu, alfanumerické heslo, které jste si nastavil, a kód z SMSky. Také si můžete nastavit biometrické přihlášení, které vám přístup do aplikace pro příště zjednoduší. Martina",
+      "version": "3.12.0"
+    },
     {
       "id": "0e204831-712b-44bb-b010-d1d31f9a23ac",
       "userName": "Stanislav Orság",
@@ -29362,8 +29377,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2000,
-    "extractedAt": "2026-05-03T07:20:24.020Z",
+    "totalReviewsExtracted": 2001,
+    "extractedAt": "2026-05-04T07:49:09.355Z",
     "source": "google-play"
   }
 }
