@@ -1,15 +1,15 @@
 {
   "ratings": {
-    "score": 3.8240166,
+    "score": 3.8264463,
     "scoreText": "3,8",
-    "totalRatings": 5145,
-    "totalReviews": 2175,
+    "totalRatings": 5146,
+    "totalReviews": 2177,
     "histogram": {
-      "1": 1075,
+      "1": 1073,
       "2": 223,
       "3": 223,
-      "4": 628,
-      "5": 2992
+      "4": 626,
+      "5": 2997
     }
   },
   "reviews": [
@@ -29378,7 +29378,7 @@
   ],
   "metadata": {
     "totalReviewsExtracted": 2001,
-    "extractedAt": "2026-05-04T07:49:09.355Z",
+    "extractedAt": "2026-05-05T07:19:54.631Z",
     "source": "google-play"
   }
 }
