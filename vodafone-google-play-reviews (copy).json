@@ -1,18 +1,47 @@
 {
   "ratings": {
-    "score": 3.8189301,
+    "score": 3.813906,
     "scoreText": "3,8",
-    "totalRatings": 5147,
-    "totalReviews": 2180,
+    "totalRatings": 5148,
+    "totalReviews": 2184,
     "histogram": {
-      "1": 1079,
-      "2": 222,
-      "3": 232,
-      "4": 623,
-      "5": 2986
+      "1": 1084,
+      "2": 220,
+      "3": 241,
+      "4": 620,
+      "5": 2978
     }
   },
   "reviews": [
+    {
+      "id": "8da960d4-5369-4edc-aa15-e5b747c4ca16",
+      "userName": "peters cz",
+      "date": "2026-05-05T16:49:59.859Z",
+      "score": 2,
+      "text": "Až bude v aplikaci dostupná \"Historie čerpání kreditu\", dám 5 hvězd. Edit: S možností 5 hvězd do budoucna taky určitě počítám. Zatím tedy povyšuju na 2 za ten příslib. :-)",
+      "text_normalized": "az bude v aplikaci dostupna \"historie cerpani kreditu\", dam 5 hvezd. edit: s moznosti 5 hvezd do budoucna taky urcite pocitam. zatim tedy povysuju na 2 za ten prislib. :-)",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-05-05T13:25:34.190Z",
+      "replyText": "Pěkný den,\ns touto možností do budoucna určitě počítáme, zatím podrobnosti k čerpání kreditu najdete ve webové samoobsluze. Veronika",
+      "version": "3.12.0"
+    },
+    {
+      "id": "384d0775-9fac-4b81-828c-b23f19e56b8a",
+      "userName": "Pavel Pikeš",
+      "date": "2026-05-05T09:27:13.860Z",
+      "score": 3,
+      "text": "pořád nefunguje",
+      "text_normalized": "porad nefunguje",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-05T09:50:27.490Z",
+      "replyText": "Pěkný den, Pavle,\nje mi líto, pokud máte s aplikací potíže 🙁 Rádi se na to podíváme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie\n",
+      "version": "3.12.0"
+    },
     {
       "id": "80061a82-69a7-4358-8719-b37da7a4bd7b",
       "userName": "Kamila Trepešová",
@@ -29408,8 +29437,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2003,
-    "extractedAt": "2026-05-06T07:36:47.560Z",
+    "totalReviewsExtracted": 2005,
+    "extractedAt": "2026-05-07T07:44:21.742Z",
     "source": "google-play"
   }
 }

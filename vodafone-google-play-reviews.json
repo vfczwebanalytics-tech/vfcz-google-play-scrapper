@@ -1,18 +1,89 @@
 {
   "ratings": {
-    "score": 3.813906,
+    "score": 3.8011928,
     "scoreText": "3,8",
-    "totalRatings": 5148,
-    "totalReviews": 2184,
+    "totalRatings": 5162,
+    "totalReviews": 2192,
     "histogram": {
-      "1": 1084,
-      "2": 220,
-      "3": 241,
-      "4": 620,
-      "5": 2978
+      "1": 1097,
+      "2": 225,
+      "3": 235,
+      "4": 646,
+      "5": 2955
     }
   },
   "reviews": [
+    {
+      "id": "a138bbdb-b90c-4455-b358-a07c97064896",
+      "userName": "Marcel Gabčo",
+      "date": "2026-05-07T04:51:01.951Z",
+      "score": 4,
+      "text": "Super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-07T05:06:19.793Z",
+      "replyText": "Pěkný den, Marceli,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.12.0"
+    },
+    {
+      "id": "d223cdc8-339c-429e-94f8-142c8a79a15c",
+      "userName": "Jan Bek",
+      "date": "2026-05-07T03:22:19.154Z",
+      "score": 5,
+      "text": "Používám dlouho a spokojenost",
+      "text_normalized": "pouzivam dlouho a spokojenost",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-07T05:05:56.583Z",
+      "replyText": "Pěkný den, Jane,\nto nás moc těší a děkujeme za zpětnou vazbu a hodnocení 🙂 Veronika",
+      "version": "3.12.0"
+    },
+    {
+      "id": "df073140-04ce-4114-b989-c3663bf1ffe7",
+      "userName": "Vít Bohuňovský",
+      "date": "2026-05-06T17:54:08.129Z",
+      "score": 2,
+      "text": "Se SAZKAmobilem, který jste mi zrušili, se to nedá vůbec srovnat. Ta neměla chybu. Takže asi tak. Hm",
+      "text_normalized": "se sazkamobilem, ktery jste mi zrusili, se to neda vubec srovnat. ta nemela chybu. takze asi tak. hm",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-05-07T05:10:12.772Z",
+      "replyText": "Dobrý den, Víte,\nmrzí mě, že vám aplikace nevyhovuje 🙁 Na jejích dalších úpravách a rozvoji pracujeme, tak třeba s ní budete časem spokojenější. Martina",
+      "version": "3.12.0"
+    },
+    {
+      "id": "5dfe9328-3b21-4029-ab9e-5db1143743b2",
+      "userName": "Jan Eisner",
+      "date": "2026-05-06T16:57:15.786Z",
+      "score": 1,
+      "text": "naprostá katastrofa. Od přihlášení po detail čerpání dat a nastavení datastropu, který nelze v aplikaci jednoduše najít.",
+      "text_normalized": "naprosta katastrofa. od prihlaseni po detail cerpani dat a nastaveni datastropu, ktery nelze v aplikaci jednoduse najit.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-05-06T16:54:50.797Z",
+      "replyText": "Dobrý den, Jane,\nje mi líto, že vám aplikace nevyhovuje 🙁 Pokud jde o DataStrop, na stránce https://www.vodafone.cz/pece/internet-data/objem-dat-blokovani/datastrop/ uvádíme návod, kde v aplikaci tuto službu najdete. Martina",
+      "version": "3.12.1"
+    },
+    {
+      "id": "0fbf362d-9be5-4814-8128-ac53cf3c31ab",
+      "userName": "Karel Dlouhy",
+      "date": "2026-05-06T11:13:55.844Z",
+      "score": 5,
+      "text": "přehledné",
+      "text_normalized": "prehledne",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-05-06T11:25:43.307Z",
+      "replyText": "Hezký den, Karle,\nděkujeme vám za hezké hodnocení 🙂 Jsem ráda, že vám aplikace vyhovuje. Viki",
+      "version": "3.12.0"
+    },
     {
       "id": "8da960d4-5369-4edc-aa15-e5b747c4ca16",
       "userName": "peters cz",
@@ -29437,8 +29508,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2005,
-    "extractedAt": "2026-05-07T07:44:21.742Z",
+    "totalReviewsExtracted": 2010,
+    "extractedAt": "2026-05-08T06:54:06.062Z",
     "source": "google-play"
   }
 }
