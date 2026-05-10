@@ -1,18 +1,105 @@
 {
   "ratings": {
-    "score": 3.8,
+    "score": 3.7944112,
     "scoreText": "3,8",
-    "totalRatings": 5187,
-    "totalReviews": 2197,
+    "totalRatings": 5197,
+    "totalReviews": 2200,
     "histogram": {
-      "1": 1121,
-      "2": 189,
-      "3": 263,
-      "4": 634,
-      "5": 2973
+      "1": 1119,
+      "2": 206,
+      "3": 269,
+      "4": 621,
+      "5": 2976
     }
   },
   "reviews": [
+    {
+      "id": "c6de12cc-c9dd-482d-8393-732d8b73feaa",
+      "userName": "Ivan Zajan",
+      "date": "2026-05-09T04:30:23.659Z",
+      "score": 5,
+      "text": "V pohodě, vše v jednom , o tom to je 😀",
+      "text_normalized": "v pohode, vse v jednom , o tom to je 😀",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-09T06:42:57.691Z",
+      "replyText": "Hezký den, Ivane, děkujeme za vaše hodnocení. Těší mě, že se vám aplikace líbí 🙂 Petra",
+      "version": "3.12.2"
+    },
+    {
+      "id": "cf7e774c-f251-49ef-ac51-d555908800bb",
+      "userName": "marcel skála",
+      "date": "2026-05-08T17:52:22.124Z",
+      "score": 2,
+      "text": "není to pořád přehledně",
+      "text_normalized": "neni to porad prehledne",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-05-09T06:39:53.975Z",
+      "replyText": "Hezký den, Marceli, děkujeme za vaše hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.12.2"
+    },
+    {
+      "id": "024a5754-7e9f-493e-98ba-c11075872d7a",
+      "userName": "Vaclav Kovařík",
+      "date": "2026-05-08T15:58:59.867Z",
+      "score": 5,
+      "text": "jj teď už je super na rok 2026",
+      "text_normalized": "jj ted uz je super na rok 2026",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-09T06:33:47.910Z",
+      "replyText": "Hezký den, Václave, děkujeme za vaše hodnocení 🙂 Vaše spokojenost je pro nás důležitá. Petra",
+      "version": "3.12.2"
+    },
+    {
+      "id": "3f1e8b92-2bb2-43c3-a7ed-7a1070b858bf",
+      "userName": "Josef Hroch",
+      "date": "2026-05-08T15:00:50.180Z",
+      "score": 1,
+      "text": "Nejde zobrazit útrata.",
+      "text_normalized": "nejde zobrazit utrata.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-05-09T06:33:03.767Z",
+      "replyText": "Hezký den, Josefe, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Zkuste aplikaci prosím přeinstalovat, a pokud by to nepomohlo, napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Vše prověříme. Petra",
+      "version": "3.12.2"
+    },
+    {
+      "id": "19ec3f39-487a-415d-9ed3-a0b11966350d",
+      "userName": "Ztr Ztr",
+      "date": "2026-05-08T14:26:29.922Z",
+      "score": 1,
+      "text": "Prý ,, stačí říct,, 🤣🤣🤣 kampaaaň. Vaši zaměstnanci ani neví kdy co a za co jsem doplatil trvalo to dva týdny až se mi ozval (ten pravý) Váš zaměstnanec a řekl že jsem vlastně žádné zařízení na splátky nedoplatil ale údajně nějakou slevu tak že jsem u vás koupil zařízení na splátky bez slevy kterou jste nabízeli. Takže jsem zaplatil plnou cenu zařízení,, hlavně se upsat na prodloužení smlouvy že?! Jste podvodníci ✌🏻 ,, odpověď já žádnou smlouvu neukončil 🫣🤣",
+      "text_normalized": "pry ,, staci rict,, 🤣🤣🤣 kampaaan. vasi zamestnanci ani nevi kdy co a za co jsem doplatil trvalo to dva tydny az se mi ozval (ten pravy) vas zamestnanec a rekl ze jsem vlastne zadne zarizeni na splatky nedoplatil ale udajne nejakou slevu tak ze jsem u vas koupil zarizeni na splatky bez slevy kterou jste nabizeli. takze jsem zaplatil plnou cenu zarizeni,, hlavne se upsat na prodlouzeni smlouvy ze?! jste podvodnici ✌🏻 ,, odpoved ja zadnou smlouvu neukoncil 🫣🤣",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-08T12:32:52.791Z",
+      "replyText": "Hezký den, při předčasném ukončení smlouvy vám doúčtujeme poměrnou část slevy, kterou jste získal na zařízení, Pokud máte nějaké nesrovnalosti, napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Prověříme to. Petra\n",
+      "version": "3.12.2"
+    },
+    {
+      "id": "3c791d5b-4aa2-4e89-b2fd-e46bae72b0a9",
+      "userName": "George Q",
+      "date": "2026-05-08T13:08:58.884Z",
+      "score": 3,
+      "text": "Aplikace funguje,ale proč nemá widget?",
+      "text_normalized": "aplikace funguje,ale proc nema widget?",
+      "segments": [
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-08T13:37:03.704Z",
+      "replyText": "Hezký den, George, děkujeme za vaše hodnocení i za to, že jste si našel čas nám napsat. Vaši zpětné vazby si opravdu vážíme. Widgety do nové aplikace bohužel přidávat neplánujeme, protože většina našich zákazníků již využívá neomezená data. Petra",
+      "version": "3.12.2"
+    },
     {
       "id": "b94d7bff-142c-4f8d-82f9-010ee484d8f5",
       "userName": "Kateřina Řepová",
@@ -29609,8 +29696,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2017,
-    "extractedAt": "2026-05-09T07:11:07.750Z",
+    "totalReviewsExtracted": 2023,
+    "extractedAt": "2026-05-10T07:27:23.086Z",
     "source": "google-play"
   }
 }

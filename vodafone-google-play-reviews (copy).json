@@ -1,18 +1,119 @@
 {
   "ratings": {
-    "score": 3.8011928,
+    "score": 3.8,
     "scoreText": "3,8",
-    "totalRatings": 5162,
-    "totalReviews": 2192,
+    "totalRatings": 5187,
+    "totalReviews": 2197,
     "histogram": {
-      "1": 1097,
-      "2": 225,
-      "3": 235,
-      "4": 646,
-      "5": 2955
+      "1": 1121,
+      "2": 189,
+      "3": 263,
+      "4": 634,
+      "5": 2973
     }
   },
   "reviews": [
+    {
+      "id": "b94d7bff-142c-4f8d-82f9-010ee484d8f5",
+      "userName": "Kateřina Řepová",
+      "date": "2026-05-07T19:14:35.940Z",
+      "score": 1,
+      "text": "aplikace nefunguje, nemohu se přihlásit do samoubsluhy, píše mi to pořád chybu",
+      "text_normalized": "aplikace nefunguje, nemohu se prihlasit do samoubsluhy, pise mi to porad chybu",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-08T06:24:51.313Z",
+      "replyText": "Hezký den, Kateřino, je mi líto, že máte potíže s přihlášením do aplikace Můj Vodafone 🙁 Zkuste ji prosím přeinstalovat a změnit si heslo. Pokud by to nepomohlo, napište nám prosím na aplikace@vodafone.cz. Pomůžeme vám. Petra\n",
+      "version": "3.12.2"
+    },
+    {
+      "id": "92576501-07ed-412c-8d65-f96c6553501d",
+      "userName": "Jan K.",
+      "date": "2026-05-07T17:43:35.194Z",
+      "score": 2,
+      "text": "Tezkopadna aplikace",
+      "text_normalized": "tezkopadna aplikace",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-05-07T18:00:18.167Z",
+      "replyText": "Dobrý den, Jane,\nděkujeme za zpětnou vazbu. Aplikaci budeme dál postupně vylepšovat a nové funkce přidáme v dalších aktualizacích. Viki",
+      "version": "3.12.1"
+    },
+    {
+      "id": "4cea2436-2912-4d35-a825-f3a8513de981",
+      "userName": "Leoš Gerlich",
+      "date": "2026-05-07T16:30:40.522Z",
+      "score": 5,
+      "text": "úplná spokojenost..",
+      "text_normalized": "uplna spokojenost..",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-07T17:02:32.980Z",
+      "replyText": "Hezký den, Leoši,\nděkujeme vám za pozitivní zpětnou vazbu a hodnocení 🙂 Jsem moc ráda, že vám aplikace Můj Vodafone+ vyhovuje. Viki",
+      "version": "3.12.1"
+    },
+    {
+      "id": "e8005432-506f-4a5f-80ac-efd0dceb6542",
+      "userName": "Jan Bílek",
+      "date": "2026-05-07T11:56:11.559Z",
+      "score": 5,
+      "text": "Používám ihned od jeho vydání a jsem spokojen👍!",
+      "text_normalized": "pouzivam ihned od jeho vydani a jsem spokojen👍!",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-07T12:25:55.394Z",
+      "replyText": "Pěkný den, Jane,\nto nás moc těší a děkujeme za zpětnou vazbu a hodnocení 🙂 Veronika",
+      "version": "3.12.1"
+    },
+    {
+      "id": "0627691b-b9cb-43d1-bb6c-dd0f53cf5a91",
+      "userName": "Veronika Koudelková",
+      "date": "2026-05-07T11:12:08.680Z",
+      "score": 3,
+      "text": "meně přehledné, nefungují odkazy na Happy",
+      "text_normalized": "mene prehledne, nefunguji odkazy na happy",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-05-07T11:27:15.697Z",
+      "replyText": "Pěkný den, Veroniko,\nje mi líto, že vám aplikace nevyhovuje. Pokud máte potíže se spuštěním odkazu, pošlete nám prosím k tomu screenshoty přes https://tam.je/dotaz, abychom vám s tím mohli pomoct přímo k vašemu účtu. Veronika",
+      "version": "3.12.1"
+    },
+    {
+      "id": "472774b2-100a-426c-96ed-b222a3844db3",
+      "userName": "Zažít Sucho",
+      "date": "2026-05-07T11:05:30.988Z",
+      "score": 1,
+      "text": "Přihlašovací proces že k tomu potřebujete live operátora... Řešit cokoliv s vodafonem je zážitek na půl dne. Edit.: Diky za snahu, ale pěkný den mě již přešel. Aplikaci musíte nainstalovat, založit účet z toho se znova odhlásit a aplikaci vypnout, aby jste ji znovu museli zapnout a přihlásit. Pak až se vám zobrazí nabidnutí propojení existujícího účtu (stará smlouva co neměla mail, jen kód pře sms). Radši udělat normálně fungující aplikaci než deset návodů na internetu.",
+      "text_normalized": "prihlasovaci proces ze k tomu potrebujete live operatora... resit cokoliv s vodafonem je zazitek na pul dne. edit.: diky za snahu, ale pekny den me jiz presel. aplikaci musite nainstalovat, zalozit ucet z toho se znova odhlasit a aplikaci vypnout, aby jste ji znovu museli zapnout a prihlasit. pak az se vam zobrazi nabidnuti propojeni existujiciho uctu (stara smlouva co nemela mail, jen kod pre sms). radsi udelat normalne fungujici aplikaci nez deset navodu na internetu.",
+      "segments": [
+        "Prihlaseni",
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-05-07T10:57:24.435Z",
+      "replyText": "Pěkný den,\npro přihlášení nepotřebujete asistenci operátora, přihlašujeme se e-mailovou adresou a vlastním heslem, které jste si nastavil. Celý postup popisujeme případně zde: https://www.vodafone.cz/pece/muj-vodafone/prihlasovani-e-mailem/aktivace-prihlasovani-emailem/. Veronika",
+      "version": "3.12.1"
+    },
+    {
+      "id": "bd3961bb-8aaf-4c08-8a37-3ea5a0ecf7fc",
+      "userName": "Šárka Marková",
+      "date": "2026-05-07T10:58:31.581Z",
+      "score": 5,
+      "text": "super aplikace",
+      "text_normalized": "super aplikace",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-07T11:27:42.286Z",
+      "replyText": "Pěkný den, Šárko,\nděkujeme za hodnocení a zpětnou vazbu 🙂 Veronika",
+      "version": "3.12.0"
+    },
     {
       "id": "a138bbdb-b90c-4455-b358-a07c97064896",
       "userName": "Marcel Gabčo",
@@ -29508,8 +29609,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2010,
-    "extractedAt": "2026-05-08T06:54:06.062Z",
+    "totalReviewsExtracted": 2017,
+    "extractedAt": "2026-05-09T07:11:07.750Z",
     "source": "google-play"
   }
 }
