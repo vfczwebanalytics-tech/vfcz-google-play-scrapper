@@ -1,18 +1,62 @@
 {
   "ratings": {
-    "score": 3.7944112,
+    "score": 3.799607,
     "scoreText": "3,8",
-    "totalRatings": 5197,
-    "totalReviews": 2200,
+    "totalRatings": 5202,
+    "totalReviews": 2203,
     "histogram": {
-      "1": 1119,
-      "2": 206,
-      "3": 269,
-      "4": 621,
-      "5": 2976
+      "1": 1124,
+      "2": 203,
+      "3": 255,
+      "4": 622,
+      "5": 2993
     }
   },
   "reviews": [
+    {
+      "id": "30817bf0-9e52-4ca3-811c-5162d0c8506a",
+      "userName": "Jpd Ftaa",
+      "date": "2026-05-09T23:40:45.970Z",
+      "score": 5,
+      "text": "no prostě paráda",
+      "text_normalized": "no proste parada",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-10T06:09:34.502Z",
+      "replyText": "Hezký den, děkujeme za vaše milé hodnocení 🙂 Vaše spokojenost je pro nás důležitá :-) Petra",
+      "version": "3.12.2"
+    },
+    {
+      "id": "23108db8-2c51-4444-abfd-461769d45fdf",
+      "userName": "Martin Papousek",
+      "date": "2026-05-09T10:58:28.986Z",
+      "score": 1,
+      "text": "veškerá nastavení trvají neskutečně dlouho, odezva aplikace zoufalá. úplně stejně se chová i webové rozhraní, tak třeba jen integrovali prohlížeč do aplikace. pokud měníte třeba limity roaming, tak pro 3 čísla je to minimálně na 10 minut.",
+      "text_normalized": "veskera nastaveni trvaji neskutecne dlouho, odezva aplikace zoufala. uplne stejne se chova i webove rozhrani, tak treba jen integrovali prohlizec do aplikace. pokud menite treba limity roaming, tak pro 3 cisla je to minimalne na 10 minut.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-09T11:13:26.212Z",
+      "replyText": "Pěkný den, Martine, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.12.2"
+    },
+    {
+      "id": "57594f97-b52e-4cc6-81d6-b8e8107802d5",
+      "userName": "Pavel",
+      "date": "2026-05-09T08:12:12.644Z",
+      "score": 5,
+      "text": "služby zákazníkům jsou na vysoké úrovni, všichni operátoři milí a ochotní, vstřícní,jen jsou služby pro mne stále dražší než bych si představoval..Mám 60r. a terminální stadium rakoviny obou plic a ještě k tomu hůř vidím,tak potřebují i internet o i když mám invalidní důchod 3 stupně, tak bohužel nedostavam od státu ani korunu, neboť mi chybí potřebná doba pojištění 1rok a cca 35 dnů...., které teď nemohu vzhledem k zdravotnímu stavu odpracovat..tolik by se mi hodil Váš citlivý vhled a SLEVA na",
+      "text_normalized": "sluzby zakaznikum jsou na vysoke urovni, vsichni operatori mili a ochotni, vstricni,jen jsou sluzby pro mne stale drazsi nez bych si predstavoval..mam 60r. a terminalni stadium rakoviny obou plic a jeste k tomu hur vidim,tak potrebuji i internet o i kdyz mam invalidni duchod 3 stupne, tak bohuzel nedostavam od statu ani korunu, nebot mi chybi potrebna doba pojisteni 1rok a cca 35 dnu...., ktere ted nemohu vzhledem k zdravotnimu stavu odpracovat..tolik by se mi hodil vas citlivy vhled a sleva na",
+      "segments": [
+        "Stabilita",
+        "Zakaznicka_podpora",
+        "Cena"
+      ],
+      "replyDate": "2026-05-09T09:13:42.214Z",
+      "replyText": "Hezký den, Pavle, děkujeme za vaše milé hodnocení 🙂 Vaše spokojenost je pro nás důležitá. Petra",
+      "version": "3.10.1"
+    },
     {
       "id": "c6de12cc-c9dd-482d-8393-732d8b73feaa",
       "userName": "Ivan Zajan",
@@ -29696,8 +29740,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2023,
-    "extractedAt": "2026-05-10T07:27:23.086Z",
+    "totalReviewsExtracted": 2026,
+    "extractedAt": "2026-05-11T08:26:43.703Z",
     "source": "google-play"
   }
 }
