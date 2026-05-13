@@ -1,18 +1,75 @@
 {
   "ratings": {
-    "score": 3.799607,
+    "score": 3.8183556,
     "scoreText": "3,8",
-    "totalRatings": 5202,
-    "totalReviews": 2203,
+    "totalRatings": 5218,
+    "totalReviews": 2208,
     "histogram": {
-      "1": 1124,
-      "2": 203,
-      "3": 255,
-      "4": 622,
-      "5": 2993
+      "1": 1107,
+      "2": 199,
+      "3": 248,
+      "4": 637,
+      "5": 3022
     }
   },
   "reviews": [
+    {
+      "id": "c20fdce6-4dcc-4679-bb9a-38f4e557f2c6",
+      "userName": "patricio 33",
+      "date": "2026-05-11T04:47:09.447Z",
+      "score": 5,
+      "text": "perfektní",
+      "text_normalized": "perfektni",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-11T05:18:46.386Z",
+      "replyText": "Pěkný den,\nděkujeme vám za pozitivní hodnocení. Jsem ráda, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.12.2"
+    },
+    {
+      "id": "3f14acf5-c611-4f70-8b3a-8e3cc52dcb82",
+      "userName": "Klára B.",
+      "date": "2026-05-11T03:22:43.420Z",
+      "score": 5,
+      "text": "Super, lepší jak ta předchozí 👌",
+      "text_normalized": "super, lepsi jak ta predchozi 👌",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-11T05:17:37.545Z",
+      "replyText": "Pěkný den, Kláro,\nděkujeme vám za hodnocení. Těší mě, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.12.2"
+    },
+    {
+      "id": "bb825913-1104-48cc-a4ba-bf3c6bd00d36",
+      "userName": "Ginger Bittch",
+      "date": "2026-05-10T20:21:16.825Z",
+      "score": 1,
+      "text": "co je ta nová aplikace tak to stojí za .... koupený balíček k předplacené kartě s tím, že má mít +10GB dat - data navíc nejsou v aplikaci nikde dostupné. komunikace se zákaznickým servisem ohledně vyřešení je na další měsíc a data navíc žádná....",
+      "text_normalized": "co je ta nova aplikace tak to stoji za .... koupeny balicek k predplacene karte s tim, ze ma mit +10gb dat - data navic nejsou v aplikaci nikde dostupne. komunikace se zakaznickym servisem ohledne vyreseni je na dalsi mesic a data navic zadna....",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-11T05:17:16.104Z",
+      "replyText": "Hezký den,\ntakové potíže mě mrzí 🙁 Rádi to prověříme, když nám napíšete podrobnosti přes https://tam.je/dotaz, kde to můžeme řešit konkrétněji. Lucie",
+      "version": null
+    },
+    {
+      "id": "1fe78475-89eb-4fa8-9f4a-a5723b749097",
+      "userName": "Valdemar Brožík",
+      "date": "2026-05-10T19:09:59.272Z",
+      "score": 1,
+      "text": "Nevím co aplikace dělá, je velmi pomalá, přes mobilní data se nepřihlásí, že čas vypršel. V Moje Osobní údaje jsou uvedeny nesmyslné údaje e-mailu a telefonního čísla. Firma zdražila poplatek, ale data a apku znetvořila.",
+      "text_normalized": "nevim co aplikace dela, je velmi pomala, pres mobilni data se neprihlasi, ze cas vyprsel. v moje osobni udaje jsou uvedeny nesmyslne udaje e-mailu a telefonniho cisla. firma zdrazila poplatek, ale data a apku znetvorila.",
+      "segments": [
+        "Vykonnost",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-05-11T05:18:53.342Z",
+      "replyText": "Pěkný den, Vlademare,\nzkuste prosím telefon vypnout a zapnout a znovu aplikaci spustit, případně ji odinstalujte a znovu nainstalujte, abyste měl jistotu, že máte v telefonu její poslední verzi. Pokud s tím budete mít i nadále potíže, pošlete nám podrobnosti a screenshoty na e-mail aplikace@vodafone.cz. Veronika",
+      "version": "3.12.2"
+    },
     {
       "id": "30817bf0-9e52-4ca3-811c-5162d0c8506a",
       "userName": "Jpd Ftaa",
@@ -29740,8 +29797,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2026,
-    "extractedAt": "2026-05-11T08:26:43.703Z",
+    "totalReviewsExtracted": 2030,
+    "extractedAt": "2026-05-12T07:45:54.409Z",
     "source": "google-play"
   }
 }
