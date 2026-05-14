@@ -1,18 +1,102 @@
 {
   "ratings": {
-    "score": 3.8183556,
-    "scoreText": "3,8",
-    "totalRatings": 5218,
-    "totalReviews": 2208,
+    "score": 3.8540146,
+    "scoreText": "3,9",
+    "totalRatings": 5243,
+    "totalReviews": 2213,
     "histogram": {
-      "1": 1107,
-      "2": 199,
-      "3": 248,
-      "4": 637,
-      "5": 3022
+      "1": 1081,
+      "2": 190,
+      "3": 239,
+      "4": 631,
+      "5": 3099
     }
   },
   "reviews": [
+    {
+      "id": "b7d0f312-8312-47fb-8b11-e382cb913c86",
+      "userName": "Daniel Žebrák",
+      "date": "2026-05-11T20:56:50.666Z",
+      "score": 5,
+      "text": "spokojeny",
+      "text_normalized": "spokojeny",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-12T05:25:49.480Z",
+      "replyText": "Hezký den, Danieli,\nděkujeme za kladné hodnocení 🙂 Jsme rádi, že jste spokojený. Zuzana",
+      "version": "3.12.2"
+    },
+    {
+      "id": "18e4594f-e9f0-4b60-9bd2-0eefaeb14d43",
+      "userName": "Petr Eliáš (TTrejbyCz)",
+      "date": "2026-05-11T16:42:09.903Z",
+      "score": 5,
+      "text": "top",
+      "text_normalized": "top",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-11T17:05:25.199Z",
+      "replyText": "Hezký den, Petře,\nděkujeme za kladné hodnocení naší aplikace 🙂 Zuzana",
+      "version": "3.12.2"
+    },
+    {
+      "id": "5d394f24-6bf3-4ac8-b3bc-7d63c7cfee11",
+      "userName": "Jiří Mrňàk",
+      "date": "2026-05-11T15:38:06.139Z",
+      "score": 5,
+      "text": "férový operátor.",
+      "text_normalized": "ferovy operator.",
+      "segments": [
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-05-11T16:08:27.314Z",
+      "replyText": "Hezký den, Jiří,\nděkujeme za kladné hodnocení 🙂 Jsme rádi, že jste spokojený. Zuzana",
+      "version": "3.12.2"
+    },
+    {
+      "id": "93f2cf6d-0cd6-438e-95f0-cf0db99f6e83",
+      "userName": "Radek Prokop",
+      "date": "2026-05-11T11:17:07.591Z",
+      "score": 5,
+      "text": "paráda všechno funguje rychle a snad nastavíte cokoliv",
+      "text_normalized": "parada vsechno funguje rychle a snad nastavite cokoliv",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-11T11:37:07.429Z",
+      "replyText": "Hezký den, Radku,\ntěší mě, že jste s aplikací spokojený 🙂 Zuzana",
+      "version": "3.12.2"
+    },
+    {
+      "id": "97883c38-cf56-4798-840a-1f3fff74fd9c",
+      "userName": "M. M",
+      "date": "2026-05-11T09:25:36.330Z",
+      "score": 5,
+      "text": "super aplikace",
+      "text_normalized": "super aplikace",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-11T09:38:04.140Z",
+      "replyText": "Pěkný den,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.12.2"
+    },
+    {
+      "id": "28e0fe30-72e2-49ed-821d-3d2b022edd93",
+      "userName": "Ольга Герасимчук",
+      "date": "2026-05-11T08:49:31.843Z",
+      "score": 5,
+      "text": "👍👍👍",
+      "text_normalized": "👍👍👍",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-11T09:06:58.860Z",
+      "replyText": "Pěkný den, Olgo,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.12.2"
+    },
     {
       "id": "c20fdce6-4dcc-4679-bb9a-38f4e557f2c6",
       "userName": "patricio 33",
@@ -29797,8 +29881,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2030,
-    "extractedAt": "2026-05-12T07:45:54.409Z",
+    "totalReviewsExtracted": 2036,
+    "extractedAt": "2026-05-13T07:52:51.055Z",
     "source": "google-play"
   }
 }
