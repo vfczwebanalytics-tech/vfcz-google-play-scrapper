@@ -1,18 +1,63 @@
 {
   "ratings": {
-    "score": 3.825188,
+    "score": 3.810313,
     "scoreText": "3,8",
-    "totalRatings": 5293,
-    "totalReviews": 2222,
+    "totalRatings": 5304,
+    "totalReviews": 2224,
     "histogram": {
-      "1": 1133,
-      "2": 178,
-      "3": 237,
-      "4": 666,
-      "5": 3073
+      "1": 1161,
+      "2": 175,
+      "3": 233,
+      "4": 664,
+      "5": 3066
     }
   },
   "reviews": [
+    {
+      "id": "bac71fca-ce7d-4110-bbfd-89e78fad18fa",
+      "userName": "Pezzay Pezzay",
+      "date": "2026-05-15T14:39:28.480Z",
+      "score": 1,
+      "text": "Nefunguje Vodafone happy.. vždycky vyskočí chybová stránka error loading page. error code 3. description: SSL error",
+      "text_normalized": "nefunguje vodafone happy.. vzdycky vyskoci chybova stranka error loading page. error code 3. description: ssl error",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-15T14:50:58.837Z",
+      "replyText": "Hezký den, Pezzay,\nje mi líto, že jste zaznamenal takové potíže. Prosím zkuste aplikaci přeinstalovat a kdyby tento krok nepomohl, pošlete nám prosím podrobnosti včetně screenu chyby přes https://tam.je/dotaz. Viki",
+      "version": "3.12.2"
+    },
+    {
+      "id": "feaf16da-8c02-4fa1-9b84-97d22f3570e4",
+      "userName": "Patrik Šeděnka",
+      "date": "2026-05-15T09:03:30.439Z",
+      "score": 1,
+      "text": "Další Martina, co nečte text? Moje body: 1. Nátlak na marketing (GDPR hrana). 2. Nefunkční login. Místo řešení dostávám prázdné fráze. Je v budově někdo, kdo aplikaci reálně viděl, nebo příště odpoví Lulu z Honolulu? Dokud neuvidím fix, hodnocení zůstává jako varování před neprofesionalitou Vodafone Czech. Přestaňte se schovávat za smajlíky a opravte základní funkce.",
+      "text_normalized": "dalsi martina, co necte text? moje body: 1. natlak na marketing (gdpr hrana). 2. nefunkcni login. misto reseni dostavam prazdne fraze. je v budove nekdo, kdo aplikaci realne videl, nebo priste odpovi lulu z honolulu? dokud neuvidim fix, hodnoceni zustava jako varovani pred neprofesionalitou vodafone czech. prestante se schovavat za smajliky a opravte zakladni funkce.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-05-14T05:08:41.688Z",
+      "replyText": "Dobrý den, Patriku,\nje mi líto, že vám aplikace nevyhovuje 🙁 Na jejím dalším vývoji a doplnění o další funkce pracujeme, tak třeba s ní budete časem spokojenější. Martina",
+      "version": "3.12.2"
+    },
+    {
+      "id": "ca33021b-724f-46fb-b347-d82fce30d0ac",
+      "userName": "Jiří Demčák",
+      "date": "2026-05-15T07:44:49.609Z",
+      "score": 5,
+      "text": "Perfektní",
+      "text_normalized": "perfektni",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-15T07:56:51.244Z",
+      "replyText": "Hezký den, Jiří,\nděkujeme za kladné hodnocení 🙂 Jsme rádi, že jste spokojený. Zuzana",
+      "version": "3.12.2"
+    },
     {
       "id": "4b4af1ca-7a55-4c0b-9671-8da3d2339e1c",
       "userName": "Ladislav Szatmary",
@@ -30039,8 +30084,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2047,
-    "extractedAt": "2026-05-16T07:19:28.946Z",
+    "totalReviewsExtracted": 2050,
+    "extractedAt": "2026-05-17T07:34:50.001Z",
     "source": "google-play"
   }
 }

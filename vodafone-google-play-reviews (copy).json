@@ -1,18 +1,105 @@
 {
   "ratings": {
-    "score": 3.8250496,
+    "score": 3.825188,
     "scoreText": "3,8",
-    "totalRatings": 5266,
-    "totalReviews": 2218,
+    "totalRatings": 5293,
+    "totalReviews": 2222,
     "histogram": {
-      "1": 1119,
-      "2": 177,
-      "3": 251,
-      "4": 669,
-      "5": 3045
+      "1": 1133,
+      "2": 178,
+      "3": 237,
+      "4": 666,
+      "5": 3073
     }
   },
   "reviews": [
+    {
+      "id": "4b4af1ca-7a55-4c0b-9671-8da3d2339e1c",
+      "userName": "Ladislav Szatmary",
+      "date": "2026-05-14T12:00:28.988Z",
+      "score": 5,
+      "text": "ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-14T12:35:19.486Z",
+      "replyText": "Hezký den, Ladislave, děkujeme za vaše hodnocení 🙂 Těší nás, že se vám aplikace líbí. Petra",
+      "version": "3.12.2"
+    },
+    {
+      "id": "16a49d00-646a-4847-9763-f409328ecf0b",
+      "userName": "Stanislav Kos",
+      "date": "2026-05-13T19:42:23.524Z",
+      "score": 1,
+      "text": "Aplikace jako taková je v celku jednoduchá a funguje, ačkoliv graficky je tragická a ne zrovna přehledná. Každopádně samostatné \"přihlášení\" do Vodafonu je úplně jiná pohádka, nic horšího jsem nezažil.. pokaždé neplatné údaje.. obnova hesla... a znova stejný kolotoč. Když už se člověk přihlásí s novým heslem, tak chce aplikace přihlásit 2x a to včetně SMS kódu. Prostě na přihlášení do této skvělé aplikace, potřebuje člověk půl dne dovolenou a nervy vytahaný jak ponožky. Zduř.",
+      "text_normalized": "aplikace jako takova je v celku jednoducha a funguje, ackoliv graficky je tragicka a ne zrovna prehledna. kazdopadne samostatne \"prihlaseni\" do vodafonu je uplne jina pohadka, nic horsiho jsem nezazil.. pokazde neplatne udaje.. obnova hesla... a znova stejny kolotoc. kdyz uz se clovek prihlasi s novym heslem, tak chce aplikace prihlasit 2x a to vcetne sms kodu. proste na prihlaseni do teto skvele aplikace, potrebuje clovek pul dne dovolenou a nervy vytahany jak ponozky. zdur.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-14T05:08:04.588Z",
+      "replyText": "Dobrý den, Stanislave,\nplošné potíže s přihlášením neevidujeme. Pokud vám nefunguje přihlášení s vaším e-mailem, alfanumerickým heslem a kódem z SMSky, zavolejte nám prosím na 800 77 00 77, abychom to mohli prověřit na konkrétním příkladu. Martina",
+      "version": null
+    },
+    {
+      "id": "a2394eea-9e31-4b1a-8df1-5f232fd30891",
+      "userName": "Elvíra Gregorová",
+      "date": "2026-05-13T16:36:16.330Z",
+      "score": 1,
+      "text": "Aplikace je opravdu strašná. ale co je horší, tak nastavení služeb. Od té doby, co jsme přidali další číslo a internet, tak neustále řešíme vyúčtování. Každý měsíc už čtvrt roku, neskutečné. Nejdříve nezapočtená sleva za giga kombo, pak úplně nesmyslný tarif u jednoho čísla. Na lince slyším stále dokola, že je to v pořádku. NENÍ! Appka na TV je čirá katastrofa. Nevím který ajťák tuhle hrůzu vymyslel, ale fakt se nepovedla. Takže jdeme jinam i kdybyste nám to vše dávali zdarma.",
+      "text_normalized": "aplikace je opravdu strasna. ale co je horsi, tak nastaveni sluzeb. od te doby, co jsme pridali dalsi cislo a internet, tak neustale resime vyuctovani. kazdy mesic uz ctvrt roku, neskutecne. nejdrive nezapoctena sleva za giga kombo, pak uplne nesmyslny tarif u jednoho cisla. na lince slysim stale dokola, ze je to v poradku. neni! appka na tv je cira katastrofa. nevim ktery ajtak tuhle hruzu vymyslel, ale fakt se nepovedla. takze jdeme jinam i kdybyste nam to vse davali zdarma.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-05-13T16:41:09.380Z",
+      "replyText": "Pěkný den, Elvíro,\nděkujeme za zpětnou vazbu, i když se úplně aplikace netýká. Napište nám prosím přes https://tam.je/dotaz, rádi vám pomůžeme. Veronika",
+      "version": "3.12.2"
+    },
+    {
+      "id": "fb228519-5b53-43ff-8487-91ea8f812f94",
+      "userName": "Pjater Rajko",
+      "date": "2026-05-13T16:01:53.550Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-13T16:10:07.705Z",
+      "replyText": "Pěkný den, Pjatere,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.12.2"
+    },
+    {
+      "id": "b6db3886-af0f-4799-a846-ab025743987c",
+      "userName": "Petr Novák",
+      "date": "2026-05-13T15:50:20.690Z",
+      "score": 5,
+      "text": "zatím dobrá a přehledná aplikace .",
+      "text_normalized": "zatim dobra a prehledna aplikace .",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-05-13T16:10:37.225Z",
+      "replyText": "Pěkný den, Petře,\nděkujeme za zpětnou vazbu a hodnocení 🙂 Veronika",
+      "version": "3.12.2"
+    },
+    {
+      "id": "b7fec781-417d-401e-a9f3-2f060253866a",
+      "userName": "Zbyněk Vojáček",
+      "date": "2026-05-13T12:06:42.330Z",
+      "score": 1,
+      "text": "Nepřehledná",
+      "text_normalized": "neprehledna",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-05-13T12:11:48.204Z",
+      "replyText": "Hezký den, Zbyňku, děkujeme za vaše hodnocení, i když není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.12.2"
+    },
     {
       "id": "79deb48d-95ca-41cb-a378-aeb83a6b651c",
       "userName": "Jan Reichert",
@@ -29952,8 +30039,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2041,
-    "extractedAt": "2026-05-14T07:45:56.917Z",
+    "totalReviewsExtracted": 2047,
+    "extractedAt": "2026-05-16T07:19:28.946Z",
     "source": "google-play"
   }
 }
