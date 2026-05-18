@@ -1,18 +1,46 @@
 {
   "ratings": {
-    "score": 3.810313,
-    "scoreText": "3,8",
-    "totalRatings": 5304,
-    "totalReviews": 2224,
+    "score": 3.732535,
+    "scoreText": "3,7",
+    "totalRatings": 5312,
+    "totalReviews": 2226,
     "histogram": {
-      "1": 1161,
-      "2": 175,
-      "3": 233,
-      "4": 664,
-      "5": 3066
+      "1": 1239,
+      "2": 190,
+      "3": 253,
+      "4": 688,
+      "5": 2936
     }
   },
   "reviews": [
+    {
+      "id": "1fe76918-09db-428c-96c4-ec8062231c33",
+      "userName": "Lukáš Janáček",
+      "date": "2026-05-17T04:38:22.810Z",
+      "score": 1,
+      "text": "Dobrý den, neskutečně pomalá aplikace, objednání dat trvá několik hodin,od koupě balíčku. Tato apka nepatří do 21. století.",
+      "text_normalized": "dobry den, neskutecne pomala aplikace, objednani dat trva nekolik hodin,od koupe balicku. tato apka nepatri do 21. stoleti.",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-05-17T06:26:05.621Z",
+      "replyText": "Dobrý den, Lukáši,\nmoc mě mrzí, že aplikace nesplnila vaše očekávání 🙁 Další zlepšení a funkcionality budou postupně zaváděny v rámci následujících aktualizací aplikace. Věřím tak, že v budoucnu se vám bude líbit víc. Viki",
+      "version": "3.12.2"
+    },
+    {
+      "id": "a6d753b8-5c83-4d1a-8d87-eb195c10b79b",
+      "userName": "Jan Korbel",
+      "date": "2026-05-16T14:40:30.264Z",
+      "score": 1,
+      "text": "neuvěřitelně nepřehledná aplikace, nezaslouží si ani jednu hvězdu",
+      "text_normalized": "neuveritelne neprehledna aplikace, nezaslouzi si ani jednu hvezdu",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-05-16T14:56:46.155Z",
+      "replyText": "Hezký den, Jane,\ndíky za zpětnou vazbu, i když není pozitivní. Aktivně aplikaci rozvíjíme a nové možnosti budeme přidávat v dalších aktualizacích. Věřím tak, že se vám v budoucnu bude líbit víc. Viki",
+      "version": "3.12.2"
+    },
     {
       "id": "bac71fca-ce7d-4110-bbfd-89e78fad18fa",
       "userName": "Pezzay Pezzay",
@@ -30084,8 +30112,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2050,
-    "extractedAt": "2026-05-17T07:34:50.001Z",
+    "totalReviewsExtracted": 2052,
+    "extractedAt": "2026-05-18T08:48:17.290Z",
     "source": "google-play"
   }
 }
