@@ -1,18 +1,62 @@
 {
   "ratings": {
-    "score": 3.732535,
+    "score": 3.741483,
     "scoreText": "3,7",
-    "totalRatings": 5312,
+    "totalRatings": 5329,
     "totalReviews": 2226,
     "histogram": {
-      "1": 1239,
-      "2": 190,
-      "3": 253,
-      "4": 688,
-      "5": 2936
+      "1": 1237,
+      "2": 191,
+      "3": 245,
+      "4": 682,
+      "5": 2968
     }
   },
   "reviews": [
+    {
+      "id": "b56629e6-ec1b-4c3b-92c9-24150e57d0da",
+      "userName": "David Holý",
+      "date": "2026-05-18T05:14:35.698Z",
+      "score": 5,
+      "text": "Úžasná aplikace služby mám jako v bavlnce a platba je jedna radost. Vodafonu moc moc děkuji jako dlouholetý zákazník a za mě nejlepší operátor. 😘",
+      "text_normalized": "uzasna aplikace sluzby mam jako v bavlnce a platba je jedna radost. vodafonu moc moc dekuji jako dlouholety zakaznik a za me nejlepsi operator. 😘",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-18T05:28:06.918Z",
+      "replyText": "Pěkný den, Davide,\nděkujeme vám za pozitivní hodnocení. Těší mě, že jste se službami i aplikací spokojený 🙂 Lucie",
+      "version": "3.12.2"
+    },
+    {
+      "id": "4eb89519-f7b6-4744-aa29-6af0b06101b3",
+      "userName": "Vojtech Broz, DiS.",
+      "date": "2026-05-17T19:35:21.375Z",
+      "score": 5,
+      "text": "umí",
+      "text_normalized": "umi",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-18T05:08:09.445Z",
+      "replyText": "Hezký den, Vojtěchu,\nděkujeme za hodnocení. Jsem ráda, pokud se vám aplikace líbí 🙂 Lucie",
+      "version": "3.12.2"
+    },
+    {
+      "id": "49c84fc4-44d2-4fa0-b56d-992e011aad2e",
+      "userName": "pista pistabox",
+      "date": "2026-05-17T19:07:01.378Z",
+      "score": 1,
+      "text": "Drahota jak cyp",
+      "text_normalized": "drahota jak cyp",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-18T05:07:40.604Z",
+      "replyText": "Pěkný den,\nje mi líto, jestli jste nespokojený se službami 🙁 V případě, že budete mít zpětnou vazbu k aplikaci Můj Vodafone+, budeme za ni rádi. Lucie",
+      "version": "3.12.2"
+    },
     {
       "id": "1fe76918-09db-428c-96c4-ec8062231c33",
       "userName": "Lukáš Janáček",
@@ -30112,8 +30156,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2052,
-    "extractedAt": "2026-05-18T08:48:17.290Z",
+    "totalReviewsExtracted": 2055,
+    "extractedAt": "2026-05-19T08:30:38.065Z",
     "source": "google-play"
   }
 }
