@@ -1,18 +1,46 @@
 {
   "ratings": {
-    "score": 3.7583497,
+    "score": 3.7678916,
     "scoreText": "3,8",
-    "totalRatings": 5338,
-    "totalReviews": 2229,
+    "totalRatings": 5346,
+    "totalReviews": 2231,
     "histogram": {
-      "1": 1215,
-      "2": 188,
-      "3": 250,
-      "4": 691,
-      "5": 2988
+      "1": 1209,
+      "2": 185,
+      "3": 247,
+      "4": 692,
+      "5": 3008
     }
   },
   "reviews": [
+    {
+      "id": "4b32081d-4700-4d33-bbb3-a206e4471649",
+      "userName": "Zdenka Vaňková",
+      "date": "2026-05-19T12:11:51.698Z",
+      "score": 5,
+      "text": "zatím spokojenost 😀",
+      "text_normalized": "zatim spokojenost 😀",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-19T12:33:24.670Z",
+      "replyText": "Pěkný den, Zdenko,\nděkujeme vám za hodnocení. Jsem ráda, že jste spokojená 🙂 Lucie",
+      "version": "3.12.2"
+    },
+    {
+      "id": "a48797d0-4540-47e9-ae30-360e6398126e",
+      "userName": "Jaroslav",
+      "date": "2026-05-19T10:56:25.289Z",
+      "score": 5,
+      "text": "Kvalitní aplikace.",
+      "text_normalized": "kvalitni aplikace.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-19T11:03:21.380Z",
+      "replyText": "Dobrý den, Jaroslave,\nděkujeme vám za hodnocení 🙂 Martina",
+      "version": "3.12.2"
+    },
     {
       "id": "b56629e6-ec1b-4c3b-92c9-24150e57d0da",
       "userName": "David Holý",
@@ -30156,8 +30184,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2055,
-    "extractedAt": "2026-05-20T08:28:45.748Z",
+    "totalReviewsExtracted": 2057,
+    "extractedAt": "2026-05-21T08:35:30.425Z",
     "source": "google-play"
   }
 }
