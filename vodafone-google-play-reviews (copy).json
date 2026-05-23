@@ -1,18 +1,60 @@
 {
   "ratings": {
-    "score": 3.7678916,
+    "score": 3.7519686,
     "scoreText": "3,8",
-    "totalRatings": 5346,
-    "totalReviews": 2231,
+    "totalRatings": 5364,
+    "totalReviews": 2233,
     "histogram": {
-      "1": 1209,
-      "2": 185,
-      "3": 247,
-      "4": 692,
-      "5": 3008
+      "1": 1235,
+      "2": 178,
+      "3": 231,
+      "4": 748,
+      "5": 2966
     }
   },
   "reviews": [
+    {
+      "id": "55ef22f5-2bd1-4b71-9462-ea7f28bb980b",
+      "userName": "Marek Šmajsl",
+      "date": "2026-05-21T02:37:18.892Z",
+      "score": 1,
+      "text": "cyberWall detekuje Vaši App jako škodlivý soft",
+      "text_normalized": "cyberwall detekuje vasi app jako skodlivy soft",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-21T07:48:09.280Z",
+      "replyText": "Pěkný den, Marku,\ndíky za vaše upozornění, budeme to řešit, aplikace Můj Vodafone+ se samozřejmě bát nemusíte 🙂 Ondra",
+      "version": "3.13.0"
+    },
+    {
+      "id": "0c7e25c6-7a9d-4988-986a-5f31c47f5245",
+      "userName": "Jakub Matýsek",
+      "date": "2026-05-20T17:09:01.547Z",
+      "score": 5,
+      "text": "Za mě povedená samoobsluha najdu v aplikaci vše co potřebují jsem rád že jsem přešel od O2 mám mnohém lepší ceny za tarify",
+      "text_normalized": "za me povedena samoobsluha najdu v aplikaci vse co potrebuji jsem rad ze jsem presel od o2 mam mnohem lepsi ceny za tarify",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-20T17:43:37.114Z",
+      "replyText": "Dobrý den, Jakube,\ntěší nás, že jste spokojený 🙂 Děkujeme za vaše hodnocení. Martina",
+      "version": "3.13.0"
+    },
+    {
+      "id": "e1ec2337-cd65-430d-9514-b08d91cfcc2a",
+      "userName": "RŮŽKŮ Martin Qěták",
+      "date": "2026-05-20T11:26:59.966Z",
+      "score": 4,
+      "text": "OK!¡!",
+      "text_normalized": "ok!¡!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-20T11:38:18.730Z",
+      "replyText": "Hezký den, Martine, děkujeme za hodnocení 🙂 Těší mě, že jste s aplikací spokojený. Petra",
+      "version": "3.13.0"
+    },
     {
       "id": "4b32081d-4700-4d33-bbb3-a206e4471649",
       "userName": "Zdenka Vaňková",
@@ -30184,8 +30226,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2057,
-    "extractedAt": "2026-05-21T08:35:30.425Z",
+    "totalReviewsExtracted": 2060,
+    "extractedAt": "2026-05-22T08:24:08.397Z",
     "source": "google-play"
   }
 }

@@ -1,18 +1,47 @@
 {
   "ratings": {
-    "score": 3.7519686,
-    "scoreText": "3,8",
-    "totalRatings": 5364,
-    "totalReviews": 2233,
+    "score": 3.74364,
+    "scoreText": "3,7",
+    "totalRatings": 5366,
+    "totalReviews": 2236,
     "histogram": {
-      "1": 1235,
-      "2": 178,
-      "3": 231,
-      "4": 748,
-      "5": 2966
+      "1": 1249,
+      "2": 177,
+      "3": 230,
+      "4": 744,
+      "5": 2961
     }
   },
   "reviews": [
+    {
+      "id": "290ea75d-7d36-4fb2-b5e5-84263593d8b3",
+      "userName": "Z. D.",
+      "date": "2026-05-21T15:30:19.495Z",
+      "score": 1,
+      "text": "Za ty ověřovací SMS máte za jedna. V každé službě kterou používám je to dobrovolné pokud už to nabízí, pro jisté zaostalé nepište mi, že to je standard, jde o to pokud chci používám, pokud ne, tak ne. V bance mi stačí čtyřmístný PIN, u vás email, heslo a ještě SMS, to je na palici vzhledem k tomu, že to někomu platím a musím čekat na přeposlání kódu což ne vždy jde, takže je asi lepší to neplatit a dotyčný člověk vám takovou raketu platit nebude, pokud to úplně nezruší, možností je dnes nespočet",
+      "text_normalized": "za ty overovaci sms mate za jedna. v kazde sluzbe kterou pouzivam je to dobrovolne pokud uz to nabizi, pro jiste zaostale nepiste mi, ze to je standard, jde o to pokud chci pouzivam, pokud ne, tak ne. v bance mi staci ctyrmistny pin, u vas email, heslo a jeste sms, to je na palici vzhledem k tomu, ze to nekomu platim a musim cekat na preposlani kodu coz ne vzdy jde, takze je asi lepsi to neplatit a dotycny clovek vam takovou raketu platit nebude, pokud to uplne nezrusi, moznosti je dnes nespocet",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-05-21T15:48:58.340Z",
+      "replyText": "Pěkný den,\nděkujeme za zpětnou vazbu, nicméně dvoufázové ověření je již standardem mnoha aplikací. Navíc si můžete nastavit biometriku, abyste údaje nemusel zadávat ručně. Veronika",
+      "version": "3.11.0"
+    },
+    {
+      "id": "0fb4a79f-fc57-4980-8f31-b644373a53ba",
+      "userName": "Hana Kaitmanova",
+      "date": "2026-05-21T09:54:05.414Z",
+      "score": 1,
+      "text": "Včera mi telefon hlásil že tahle aplikace ohrožuje můj telefon a data. Tak jsem jí raději odinstalovala. Jak je to možné 😭😭😭.",
+      "text_normalized": "vcera mi telefon hlasil ze tahle aplikace ohrozuje muj telefon a data. tak jsem ji radeji odinstalovala. jak je to mozne 😭😭😭.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-21T10:13:11.270Z",
+      "replyText": "Pěkný den, Hano,\nděkuji vám za zpětnou vazbu. Mohu vás ujistit, že aplikace je v pořádku. S dodavatelem aplikace CyberWall chybnou detekci řešíme. Veronika",
+      "version": null
+    },
     {
       "id": "55ef22f5-2bd1-4b71-9462-ea7f28bb980b",
       "userName": "Marek Šmajsl",
@@ -30226,8 +30255,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2060,
-    "extractedAt": "2026-05-22T08:24:08.397Z",
+    "totalReviewsExtracted": 2062,
+    "extractedAt": "2026-05-23T07:34:12.587Z",
     "source": "google-play"
   }
 }
