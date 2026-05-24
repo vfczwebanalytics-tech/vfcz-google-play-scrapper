@@ -1,18 +1,60 @@
 {
   "ratings": {
-    "score": 3.74364,
+    "score": 3.7360308,
     "scoreText": "3,7",
-    "totalRatings": 5366,
+    "totalRatings": 5373,
     "totalReviews": 2236,
     "histogram": {
-      "1": 1249,
-      "2": 177,
-      "3": 230,
-      "4": 744,
-      "5": 2961
+      "1": 1262,
+      "2": 175,
+      "3": 227,
+      "4": 755,
+      "5": 2950
     }
   },
   "reviews": [
+    {
+      "id": "21beaeb9-2278-405b-bf95-23a9ffadd2fd",
+      "userName": "Renata Schovánková",
+      "date": "2026-05-22T14:37:26.454Z",
+      "score": 1,
+      "text": "Nainstalovala sem tuto aplikaci a dostala sem se jen na hlavní stránku a pak mi to napsalo že se něco nepovedlo . 🫣💁 .",
+      "text_normalized": "nainstalovala sem tuto aplikaci a dostala sem se jen na hlavni stranku a pak mi to napsalo ze se neco nepovedlo . 🫣💁 .",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-22T14:45:38.665Z",
+      "replyText": "Hezký den, Renato, je mi líto, že máte potíže s aplikací 🙁 Zkuste ji prosím přeinstalovat, a pokud by to nepomohlo, napište nám podrobnosti na aplikace@vodafone.cz. Pomůžeme vám. Petra",
+      "version": null
+    },
+    {
+      "id": "13c0e3f6-88ca-4783-9c57-498e072bd9f2",
+      "userName": "Emmet „Brickowski“ BrickHacker",
+      "date": "2026-05-22T12:20:57.453Z",
+      "score": 4,
+      "text": "podstatně lepší než předchozí aplikace. Z uživatelského hlediska bych si uměl představit drobná vylepšení, takže nechci dávat plné hodnocení, ale čtyři hvězdičky se mi zdají málo. viděl bych to spíš tak na 9/10.",
+      "text_normalized": "podstatne lepsi nez predchozi aplikace. z uzivatelskeho hlediska bych si umel predstavit drobna vylepseni, takze nechci davat plne hodnoceni, ale ctyri hvezdicky se mi zdaji malo. videl bych to spis tak na 9/10.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-22T12:46:12.114Z",
+      "replyText": "Pěkný den, Emmete, děkujeme za vaše hodnocení 🙂 Vaše spokojenost je pro nás důležitá, proto aplikaci stále vylepšujeme a přidáváme nové funkce. Věřím, že do budoucna vám bude plně vyhovovat 🙂 Petra",
+      "version": "3.13.0"
+    },
+    {
+      "id": "a8a564c0-e4d6-44b9-b1eb-a74c21d4859b",
+      "userName": "Hana Lipovská",
+      "date": "2026-05-22T10:31:06.854Z",
+      "score": 5,
+      "text": "Vodafone je vážně nejlepší.",
+      "text_normalized": "vodafone je vazne nejlepsi.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-22T10:45:54.494Z",
+      "replyText": "Pěkný den, Hano,\nmoc děkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.13.0"
+    },
     {
       "id": "290ea75d-7d36-4fb2-b5e5-84263593d8b3",
       "userName": "Z. D.",
@@ -30255,8 +30297,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2062,
-    "extractedAt": "2026-05-23T07:34:12.587Z",
+    "totalReviewsExtracted": 2065,
+    "extractedAt": "2026-05-24T07:50:43.721Z",
     "source": "google-play"
   }
 }
