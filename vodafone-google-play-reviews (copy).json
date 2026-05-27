@@ -1,18 +1,66 @@
 {
   "ratings": {
-    "score": 3.7384615,
+    "score": 3.728,
     "scoreText": "3,7",
-    "totalRatings": 5375,
-    "totalReviews": 2239,
+    "totalRatings": 5381,
+    "totalReviews": 2241,
     "histogram": {
-      "1": 1260,
-      "2": 175,
-      "3": 227,
-      "4": 754,
-      "5": 2955
+      "1": 1269,
+      "2": 182,
+      "3": 236,
+      "4": 742,
+      "5": 2948
     }
   },
   "reviews": [
+    {
+      "id": "ce1bb29c-5fde-46b1-9ad5-240d8779dd67",
+      "userName": "Zdeněk Mašín",
+      "date": "2026-05-24T20:21:37.747Z",
+      "score": 1,
+      "text": "tragédie vážně čím dál horší...hlavně že mám nejdražší tarify a signál katastrofa ani žádná pomoc od techniku ale hlavně ty jejich mapy pokrytí to je směšné za 15 let žádná změna..",
+      "text_normalized": "tragedie vazne cim dal horsi...hlavne ze mam nejdrazsi tarify a signal katastrofa ani zadna pomoc od techniku ale hlavne ty jejich mapy pokryti to je smesne za 15 let zadna zmena..",
+      "segments": [
+        "Vykonnost",
+        "Cena"
+      ],
+      "replyDate": "2026-05-25T05:30:27.130Z",
+      "replyText": "Hezký den, Zdeňku, je mi líto, že vám aplikace nevyhovuje 🙁 Pokud vám můžeme s čímkoliv pomoci, napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Rádi se vám budeme věnovat. Petra\n",
+      "version": "3.13.0"
+    },
+    {
+      "id": "c5bb599f-6bc9-4d35-95fd-40368eee7af3",
+      "userName": "Martina Györgyová",
+      "date": "2026-05-24T19:17:54.495Z",
+      "score": 3,
+      "text": "Aplikace věčně nejde, strašně se seká. Přihlášení je někdy o testování me trpělivosti. Taková no nepřehledná, ale na to si jde časem zvyknout.",
+      "text_normalized": "aplikace vecne nejde, strasne se seka. prihlaseni je nekdy o testovani me trpelivosti. takova no neprehledna, ale na to si jde casem zvyknout.",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-05-25T05:26:49.955Z",
+      "replyText": "Hezký den, Martino, děkujeme za hodnocení. Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.13.0"
+    },
+    {
+      "id": "9382cd3d-89e1-4f98-b6cd-4f9d7f8e2278",
+      "userName": "Natália Šicová",
+      "date": "2026-05-24T10:25:17.760Z",
+      "score": 2,
+      "text": "Jedna z najhorsich aplikacii, s akou som pracovala. v dnesnej dobe mat tak pomale rozhranie je nepochopitelne. Vsetko tam trva dlho, ked chcem zmenit nastavenia, tak nemozem zmenit postupne viac, zeby sa to rovno ulozilo, ale musim pockat, kym sa vyriesi prve. Nieco mi zmenit ani nejde, aj ked tu moznost ponuka... Zorientovat sa v nej celkom da, ale nejake nastavenia su skuska trpezlivosti...",
+      "text_normalized": "jedna z najhorsich aplikacii, s akou som pracovala. v dnesnej dobe mat tak pomale rozhranie je nepochopitelne. vsetko tam trva dlho, ked chcem zmenit nastavenia, tak nemozem zmenit postupne viac, zeby sa to rovno ulozilo, ale musim pockat, kym sa vyriesi prve. nieco mi zmenit ani nejde, aj ked tu moznost ponuka... zorientovat sa v nej celkom da, ale nejake nastavenia su skuska trpezlivosti...",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-05-24T11:08:32.277Z",
+      "replyText": "Dobrý den, Natálio,\nděkujeme vám za zpětnou vazbu a mrzí mě, že nemáte s aplikací dobrou zkušenost 🙁 Podněty od zákazníků sbíráme a budeme na ní dále pracovat... Katka",
+      "version": "3.13.0"
+    },
     {
       "id": "21beaeb9-2278-405b-bf95-23a9ffadd2fd",
       "userName": "Renata Schovánková",
@@ -30297,8 +30345,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2065,
-    "extractedAt": "2026-05-25T09:00:22.209Z",
+    "totalReviewsExtracted": 2068,
+    "extractedAt": "2026-05-26T08:35:08.748Z",
     "source": "google-play"
   }
 }
