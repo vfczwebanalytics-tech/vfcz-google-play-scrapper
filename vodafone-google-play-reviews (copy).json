@@ -1,18 +1,46 @@
 {
   "ratings": {
-    "score": 3.728,
+    "score": 3.7411067,
     "scoreText": "3,7",
-    "totalRatings": 5381,
+    "totalRatings": 5386,
     "totalReviews": 2241,
     "histogram": {
-      "1": 1269,
-      "2": 182,
-      "3": 236,
-      "4": 742,
-      "5": 2948
+      "1": 1255,
+      "2": 180,
+      "3": 233,
+      "4": 744,
+      "5": 2968
     }
   },
   "reviews": [
+    {
+      "id": "e569c208-958c-4b02-a4ea-13c33211fe64",
+      "userName": "Zdeněk Šmakala",
+      "date": "2026-05-25T18:13:28.262Z",
+      "score": 5,
+      "text": "O.k.zd",
+      "text_normalized": "o.k.zd",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-26T05:07:25.131Z",
+      "replyText": "Pěkný den, Zdeňku,\nděkujeme za hodnocení 🙂 Veronika",
+      "version": "3.13.0"
+    },
+    {
+      "id": "925de481-2816-4c7e-b6cb-069721c5ea64",
+      "userName": "Marcela Slušná",
+      "date": "2026-05-25T09:49:15.815Z",
+      "score": 5,
+      "text": "Jednání s manažerem bylo na velmi dobré úrovni. Děkuji",
+      "text_normalized": "jednani s manazerem bylo na velmi dobre urovni. dekuji",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-25T09:57:33.292Z",
+      "replyText": "Hezký den, Marcelo,\nděkujeme za zpětnou vazbu a jsme rádi, že jste spokojená 🙂 Zuzana",
+      "version": "3.13.0"
+    },
     {
       "id": "ce1bb29c-5fde-46b1-9ad5-240d8779dd67",
       "userName": "Zdeněk Mašín",
@@ -30345,8 +30373,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2068,
-    "extractedAt": "2026-05-26T08:35:08.748Z",
+    "totalReviewsExtracted": 2070,
+    "extractedAt": "2026-05-27T08:40:58.198Z",
     "source": "google-play"
   }
 }
