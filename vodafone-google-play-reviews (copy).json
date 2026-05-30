@@ -1,18 +1,46 @@
 {
   "ratings": {
-    "score": 3.7514794,
-    "scoreText": "3,8",
-    "totalRatings": 5384,
-    "totalReviews": 2242,
+    "score": 3.7296224,
+    "scoreText": "3,7",
+    "totalRatings": 5393,
+    "totalReviews": 2246,
     "histogram": {
-      "1": 1242,
-      "2": 179,
-      "3": 233,
-      "4": 743,
-      "5": 2983
+      "1": 1275,
+      "2": 181,
+      "3": 246,
+      "4": 706,
+      "5": 2980
     }
   },
   "reviews": [
+    {
+      "id": "be19cba1-3381-46f7-85f5-bd7d63483d26",
+      "userName": "Václav Tomášek",
+      "date": "2026-05-27T15:53:32.189Z",
+      "score": 1,
+      "text": "Minulý měsíc jsem přešel jsem k t-mobilu, ale stejně nechápu proč v aplikaci nevidím žádné vyúčtování a to ani vyúčtování, které jsem ještě Vodafonu neuhradil.",
+      "text_normalized": "minuly mesic jsem presel jsem k t-mobilu, ale stejne nechapu proc v aplikaci nevidim zadne vyuctovani a to ani vyuctovani, ktere jsem jeste vodafonu neuhradil.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-28T06:19:07.196Z",
+      "replyText": "Hezký den, Václava, informace, kde najdete své poslední Vyúčtování, uvádíme na https://www.vodafone.cz/pece/vyuctovani-platby-kredit/nastaveni-vyuctovani/posledni-vyuctovani-po-zruseniprenosu-cisla/?tc=fb. Petra",
+      "version": "3.13.1"
+    },
+    {
+      "id": "647bd46c-2f64-449b-b1ad-dddee60a3c64",
+      "userName": "Josef Hroch",
+      "date": "2026-05-27T11:51:06.355Z",
+      "score": 5,
+      "text": "Konečne aplikace funguje tak jak má.",
+      "text_normalized": "konecne aplikace funguje tak jak ma.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-27T12:03:41.771Z",
+      "replyText": "Hezký den, Josefe, děkujeme za hodnocení 🙂 Vaše spokojenost je pro nás důležitá. Petra",
+      "version": "3.13.1"
+    },
     {
       "id": "e569c208-958c-4b02-a4ea-13c33211fe64",
       "userName": "Zdeněk Šmakala",
@@ -30373,8 +30401,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2070,
-    "extractedAt": "2026-05-28T08:45:14.932Z",
+    "totalReviewsExtracted": 2072,
+    "extractedAt": "2026-05-29T08:44:18.169Z",
     "source": "google-play"
   }
 }

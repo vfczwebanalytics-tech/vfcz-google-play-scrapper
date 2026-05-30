@@ -1,18 +1,75 @@
 {
   "ratings": {
-    "score": 3.7296224,
+    "score": 3.72549,
     "scoreText": "3,7",
-    "totalRatings": 5393,
-    "totalReviews": 2246,
+    "totalRatings": 5401,
+    "totalReviews": 2249,
     "histogram": {
-      "1": 1275,
-      "2": 181,
-      "3": 246,
-      "4": 706,
-      "5": 2980
+      "1": 1270,
+      "2": 179,
+      "3": 274,
+      "4": 709,
+      "5": 2965
     }
   },
   "reviews": [
+    {
+      "id": "c8c6c38c-dbf9-4582-8253-f4fc8cca296e",
+      "userName": "Ivana Frankova",
+      "date": "2026-05-29T05:03:33.600Z",
+      "score": 1,
+      "text": "vůbec aplikace nefunguje",
+      "text_normalized": "vubec aplikace nefunguje",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-29T05:17:35.745Z",
+      "replyText": "Hezký den, Ivano,\nje mi líto, že máte potíže s aplikací 🙁 Doporučuji aplikaci přeinstalovat, poté by to mělo být v pořádku. Pokud by potíže přetrvávaly, zavolejte nám na linku *77 a kolegové to s vámi prověří. Zuzana",
+      "version": "3.13.2"
+    },
+    {
+      "id": "e435fe4d-e48a-46c6-8ea9-8556f84cc33f",
+      "userName": "Marek Němeček",
+      "date": "2026-05-28T19:20:45.855Z",
+      "score": 5,
+      "text": "Dobrý večer přeji vám chtěl bych se zeptat zda je možné koupit telefón Samsung i levnější???",
+      "text_normalized": "dobry vecer preji vam chtel bych se zeptat zda je mozne koupit telefon samsung i levnejsi???",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-29T05:16:21.217Z",
+      "replyText": "Dobrý den, Marku,\nprosím spojte se s námi na 800 77 00 77, rádi se s vámi podíváme na možnosti přímo k vaší smlouvě 🙂 Viki",
+      "version": "3.13.0"
+    },
+    {
+      "id": "1aa0453d-9f4e-459d-9c56-07ef54608fd0",
+      "userName": "Jiří Jungman",
+      "date": "2026-05-28T18:18:29.220Z",
+      "score": 3,
+      "text": "Co má, to plní. ale člověk by zestárnul při načítání požadovaných dat. To i státní aplikace snad fungují rychleji a to je co říct.",
+      "text_normalized": "co ma, to plni. ale clovek by zestarnul pri nacitani pozadovanych dat. to i statni aplikace snad funguji rychleji a to je co rict.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-29T05:15:02.340Z",
+      "replyText": "Dobrý den, Jiří,\nděkujeme za zpětnou vazbu. Mrzí mě pomalejší načítání – na zlepšení výkonu aplikace průběžně pracujeme, aby byla rychlejší a pohodlnější k používání. Viki",
+      "version": null
+    },
+    {
+      "id": "da2b0b8e-98de-47a7-ac7e-36ee241f6b45",
+      "userName": "David Andrysek",
+      "date": "2026-05-28T10:47:47.454Z",
+      "score": 3,
+      "text": "Sláva, po urgenci se zobrazuje po spuštění aplikace moje číslo, ne zbytku rodiny. Ještě rozchodit widget alespoň na zobrazení spotřebovaných dat z balíčku (ne každý je má neomezené...) a bude to skvělé!",
+      "text_normalized": "slava, po urgenci se zobrazuje po spusteni aplikace moje cislo, ne zbytku rodiny. jeste rozchodit widget alespon na zobrazeni spotrebovanych dat z balicku (ne kazdy je ma neomezene...) a bude to skvele!",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-05-28T12:21:45.237Z",
+      "replyText": "Pěkný den, Davide,\nděkujeme vám za zpětnou vazbu. Widgety bohužel do aplikace zařadit neplánujeme 🙁 Lucie",
+      "version": "3.13.2"
+    },
     {
       "id": "be19cba1-3381-46f7-85f5-bd7d63483d26",
       "userName": "Václav Tomášek",
@@ -30401,8 +30458,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2072,
-    "extractedAt": "2026-05-29T08:44:18.169Z",
+    "totalReviewsExtracted": 2076,
+    "extractedAt": "2026-05-30T07:42:42.811Z",
     "source": "google-play"
   }
 }
