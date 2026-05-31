@@ -1,18 +1,77 @@
 {
   "ratings": {
-    "score": 3.72549,
+    "score": 3.7351778,
     "scoreText": "3,7",
-    "totalRatings": 5401,
-    "totalReviews": 2249,
+    "totalRatings": 5406,
+    "totalReviews": 2248,
     "histogram": {
       "1": 1270,
-      "2": 179,
-      "3": 274,
-      "4": 709,
-      "5": 2965
+      "2": 169,
+      "3": 277,
+      "4": 683,
+      "5": 3001
     }
   },
   "reviews": [
+    {
+      "id": "ec3fa913-a478-4bd3-9341-edbd97a3ac86",
+      "userName": "Jan Siroky",
+      "date": "2026-05-29T16:37:12.350Z",
+      "score": 3,
+      "text": "Po poslední aktualizaci, která se prezentuje mj. přidáním Google Pay do možností platby vyúčtování se vůbec nenačte platební brána kartou. Po chvíli vykreslování loga to napíše: \"Ajaj...něco se pokazilo.\" Nepomohlo ani vymazání dat, odinstalace a nová instalace aplikace. Musel jsem zaplatit bankovním převodem. Místo všemožných serepetiček okolo by bylo dobré, aby si vývojáři pohlídali spolehlivost základních funkcí. EDIT: Později téhož dne brána fungovala - asi výpadek serveru.",
+      "text_normalized": "po posledni aktualizaci, ktera se prezentuje mj. pridanim google pay do moznosti platby vyuctovani se vubec nenacte platebni brana kartou. po chvili vykreslovani loga to napise: \"ajaj...neco se pokazilo.\" nepomohlo ani vymazani dat, odinstalace a nova instalace aplikace. musel jsem zaplatit bankovnim prevodem. misto vsemoznych serepeticek okolo by bylo dobre, aby si vyvojari pohlidali spolehlivost zakladnich funkci. edit: pozdeji tehoz dne brana fungovala - asi vypadek serveru.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-05-29T05:19:17.770Z",
+      "replyText": "Dobrý den, Jane,\nděkujeme za zpětnou vazbu. Mrzí mě popsané potíže s platební bránou. Zkuste prosím ještě aplikaci aktualizovat na nejnovější verzi, případně využít jiný způsob připojení. Pokud by potíže přetrvávaly, zavolejte nám prosím na *77 nebo nám napište přes https://tam.je/dotaz. Viki",
+      "version": "3.13.2"
+    },
+    {
+      "id": "0c257af1-f2d0-4297-9d7f-6a8a92053139",
+      "userName": "Tomáš Vincenec",
+      "date": "2026-05-29T16:26:33.928Z",
+      "score": 1,
+      "text": "Po delší době jsem otevřel aplikaci a nestačím se divit. Je aktualizovaná a úplně nepřehledná! Vůbec nejsem schopný přenastavit datový limit sdílených mobilních dat mezi jednotlivými členy! Centrum nápovědy po mě chce další přihlášení a TOBi!? Na tupějšího chatbota jsem do teď ještě nenarazil! Mám chuť aplikaci odinstalovat a od Vodafonu úplně odejít!",
+      "text_normalized": "po delsi dobe jsem otevrel aplikaci a nestacim se divit. je aktualizovana a uplne neprehledna! vubec nejsem schopny prenastavit datovy limit sdilenych mobilnich dat mezi jednotlivymi cleny! centrum napovedy po me chce dalsi prihlaseni a tobi!? na tupejsiho chatbota jsem do ted jeste nenarazil! mam chut aplikaci odinstalovat a od vodafonu uplne odejit!",
+      "segments": [
+        "UI",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-05-29T16:44:57.857Z",
+      "replyText": "Pěkný den, Tomáši,\nděkujeme za zpětnou vazbu. Mrzí mě, že vám aplikace nevyhovuje 🙁 Úpravu DataLimitu najdete v sekci Služby - vyberte telefonní číslo - Balíčky - Datový limit. Vše případně popisujeme zde: https://www.vodafone.cz/pece/internet-data/objem-dat-blokovani/kontrola-datovych-nakladu-datalimit/. Veronika",
+      "version": "3.13.2"
+    },
+    {
+      "id": "02a3769e-6eb4-4ba9-87c3-80c3d300f532",
+      "userName": "Jaroslav Vysloužil",
+      "date": "2026-05-29T13:48:02.225Z",
+      "score": 1,
+      "text": "Vodafone se chlubí 20 let na českém trhu.. a né a né napsat aplikaci abych nemusel resetovat heslo při každém přihlášení..",
+      "text_normalized": "vodafone se chlubi 20 let na ceskem trhu.. a ne a ne napsat aplikaci abych nemusel resetovat heslo pri kazdem prihlaseni..",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-05-29T14:17:49.396Z",
+      "replyText": "Pěkný den, Jaroslave,\nděkujeme za zpětnou vazbu, nicméně není důvod měnit heslo při každém přihlášení. Heslo si nastavujete své vlastní, musí mít alespoň 8 znaků a 3 z uvedených podmínek: velké písmeno, malé písmeno, číslo, speciální symbol/znak, nelze zadat poslední hesla znovu. Veronika",
+      "version": "3.13.2"
+    },
+    {
+      "id": "514dd802-b4e7-4814-a316-5894ea53a5af",
+      "userName": "Vaclav Vigner",
+      "date": "2026-05-29T13:38:14.549Z",
+      "score": 5,
+      "text": "Jsem moc spokojen.Dekuji.",
+      "text_normalized": "jsem moc spokojen.dekuji.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-05-29T13:41:28.817Z",
+      "replyText": "Pěkný den, Václave,\nto nás moc těší a děkujeme za hodnocení 🙂 Veronika",
+      "version": "3.13.1"
+    },
     {
       "id": "c8c6c38c-dbf9-4582-8253-f4fc8cca296e",
       "userName": "Ivana Frankova",
@@ -30458,8 +30517,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2076,
-    "extractedAt": "2026-05-30T07:42:42.811Z",
+    "totalReviewsExtracted": 2080,
+    "extractedAt": "2026-05-31T08:17:30.271Z",
     "source": "google-play"
   }
 }
