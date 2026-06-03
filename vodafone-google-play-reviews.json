@@ -1,18 +1,75 @@
 {
   "ratings": {
-    "score": 3.7338552,
+    "score": 3.7283463,
     "scoreText": "3,7",
-    "totalRatings": 5415,
-    "totalReviews": 2255,
+    "totalRatings": 5424,
+    "totalReviews": 2257,
     "histogram": {
-      "1": 1282,
-      "2": 168,
-      "3": 264,
-      "4": 688,
-      "5": 3008
+      "1": 1291,
+      "2": 180,
+      "3": 256,
+      "4": 672,
+      "5": 3021
     }
   },
   "reviews": [
+    {
+      "id": "2d1757d5-ff5b-4f6a-9ba7-a77da366afb2",
+      "userName": "Ludek Venkrbec",
+      "date": "2026-06-01T16:05:26.847Z",
+      "score": 2,
+      "text": "Opět se mi po třech měsících, kdy jsem ji nepoužil, kompletně odhlásila včetně biometrie.",
+      "text_normalized": "opet se mi po trech mesicich, kdy jsem ji nepouzil, kompletne odhlasila vcetne biometrie.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-01T16:42:38.599Z",
+      "replyText": "Hezký den, Ludku,\ntoto je nastavení aplikace. Je mi líto, že vám to nevyhovuje, ale důvodem je snaha o bezpečí vašich dat. Katka",
+      "version": "3.13.2"
+    },
+    {
+      "id": "4fbd7122-6b9f-435a-9266-4b002abd73dc",
+      "userName": "vlk21 rojza",
+      "date": "2026-06-01T15:12:23.625Z",
+      "score": 1,
+      "text": "otřesná věc, už jsem jí otvíral otiskem a teď chce zase e-mail a heslo, přihlašování tedy úplně špatné",
+      "text_normalized": "otresna vec, uz jsem ji otviral otiskem a ted chce zase e-mail a heslo, prihlasovani tedy uplne spatne",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-06-01T15:24:03.708Z",
+      "replyText": "Dobrý den,\nto by se stávat nemělo 🙁 Mohlo by pomoci, že aplikaci odinstalujete a znovu stáhnete. Zkuste to, prosím. Katka",
+      "version": "3.13.2"
+    },
+    {
+      "id": "a88464f7-a377-4735-a133-00545f2530fd",
+      "userName": "Lisette Zed",
+      "date": "2026-06-01T13:05:57.268Z",
+      "score": 2,
+      "text": "Poslední dobou, při snaze dobít kredit, zadám údaje z karty a aplikace vždy spadne.",
+      "text_normalized": "posledni dobou, pri snaze dobit kredit, zadam udaje z karty a aplikace vzdy spadne.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-06-01T14:22:52.321Z",
+      "replyText": "Hezký den, Lisette,\nto mě mrzí 🙁 Zkuste aplikaci odinstalovat a znovu stáhnout, prosím. Mohlo by to pomoci. Katka",
+      "version": "3.13.2"
+    },
+    {
+      "id": "317a4330-c89a-404c-aa19-864a61ecda2a",
+      "userName": "Vojtech Erlebach",
+      "date": "2026-06-01T11:38:53.459Z",
+      "score": 1,
+      "text": "Nejhorsi aplikace!! pokazdy mě odhlasi, kolonka pro zustat prihlasen je tedy asi jen tak. Biometrika zpravidla nefuguje. neprehledny, narvany debilnima reklama - nerozumim proc bych na to mel koukat kdyz platim takovy prachy? fakt nechci telefon za 140%. kdyz platim kartou, aplikace to vezme az na 2-3 pokus. zkrachujte! zlaty O2.",
+      "text_normalized": "nejhorsi aplikace!! pokazdy me odhlasi, kolonka pro zustat prihlasen je tedy asi jen tak. biometrika zpravidla nefuguje. neprehledny, narvany debilnima reklama - nerozumim proc bych na to mel koukat kdyz platim takovy prachy? fakt nechci telefon za 140%. kdyz platim kartou, aplikace to vezme az na 2-3 pokus. zkrachujte! zlaty o2.",
+      "segments": [
+        "UI",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-06-01T11:55:23.478Z",
+      "replyText": "Dobrý den, Vojtěchu,\nmrzí nás vaše zkušenost. Zkuste prosím aktualizovat aplikaci a znovu nastavit biometriku – případně nás kontaktujte přes https://tam.je/dotaz se značkou zařízení, rádi vše prověříme. Na zlepšení přehlednosti i stability aplikace průběžně pracujeme. Viki",
+      "version": "3.12.2"
+    },
     {
       "id": "bb0b3843-c9dc-4d54-a302-90f1a096f27d",
       "userName": "Libuše Havlíková",
@@ -30559,8 +30616,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2083,
-    "extractedAt": "2026-06-02T09:12:12.257Z",
+    "totalReviewsExtracted": 2087,
+    "extractedAt": "2026-06-03T09:56:40.727Z",
     "source": "google-play"
   }
 }

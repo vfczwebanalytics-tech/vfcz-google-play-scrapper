@@ -1,18 +1,60 @@
 {
   "ratings": {
-    "score": 3.734127,
+    "score": 3.7338552,
     "scoreText": "3,7",
-    "totalRatings": 5410,
-    "totalReviews": 2250,
+    "totalRatings": 5415,
+    "totalReviews": 2255,
     "histogram": {
-      "1": 1276,
-      "2": 171,
-      "3": 267,
-      "4": 686,
-      "5": 3004
+      "1": 1282,
+      "2": 168,
+      "3": 264,
+      "4": 688,
+      "5": 3008
     }
   },
   "reviews": [
+    {
+      "id": "bb0b3843-c9dc-4d54-a302-90f1a096f27d",
+      "userName": "Libuše Havlíková",
+      "date": "2026-06-01T08:37:42.698Z",
+      "score": 1,
+      "text": "nekomentují",
+      "text_normalized": "nekomentuji",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-01T08:56:27.352Z",
+      "replyText": "Dobrý den, Libuše,\nje mi líto, pokud aplikace nesplnila vaše očekávání. Vývoj pokračuje a funkcionalitu budeme dále rozšiřovat v nadcházejících aktualizacích. Věřím, že v budoucnu vám bude vyhovovat víc. Viki",
+      "version": "3.13.2"
+    },
+    {
+      "id": "072f328b-7e1d-4486-8634-ba51230a4912",
+      "userName": "Alexandr Studecky",
+      "date": "2026-05-31T17:21:24.676Z",
+      "score": 1,
+      "text": "apka se mi načítá 10 minut 😁a načítá,a načítá...😁",
+      "text_normalized": "apka se mi nacita 10 minut 😁a nacita,a nacita...😁",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-01T05:31:59.952Z",
+      "replyText": "Hezký den, Alexandře, zkuste prosím aplikaci přeinstalovat, a pokud by to nepomohlo, napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Naši technici to prověří. Petra\n",
+      "version": "3.13.2"
+    },
+    {
+      "id": "00abc96b-1705-4fb1-a8d4-07d4a3bb4175",
+      "userName": "Eva Dlabolová",
+      "date": "2026-05-31T14:08:11.288Z",
+      "score": 5,
+      "text": "fajn",
+      "text_normalized": "fajn",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-05-31T14:18:55.352Z",
+      "replyText": "Pěkný den, Evo,\nděkujeme za hodnocení. Těší mě, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.13.2"
+    },
     {
       "id": "ec3fa913-a478-4bd3-9341-edbd97a3ac86",
       "userName": "Jan Siroky",
@@ -30517,8 +30559,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2080,
-    "extractedAt": "2026-06-01T10:24:39.465Z",
+    "totalReviewsExtracted": 2083,
+    "extractedAt": "2026-06-02T09:12:12.257Z",
     "source": "google-play"
   }
 }
