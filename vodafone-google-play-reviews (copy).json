@@ -1,18 +1,48 @@
 {
   "ratings": {
-    "score": 3.7283463,
+    "score": 3.7249508,
     "scoreText": "3,7",
-    "totalRatings": 5424,
-    "totalReviews": 2257,
+    "totalRatings": 5432,
+    "totalReviews": 2259,
     "histogram": {
-      "1": 1291,
+      "1": 1301,
       "2": 180,
       "3": 256,
-      "4": 672,
-      "5": 3021
+      "4": 661,
+      "5": 3030
     }
   },
   "reviews": [
+    {
+      "id": "975d9306-42e6-4005-8cc2-8b6bb9df9a7a",
+      "userName": "Jan Fiala",
+      "date": "2026-06-03T05:54:50.308Z",
+      "score": 1,
+      "text": "Nejhorší aplikace... hloupá a nefunkční",
+      "text_normalized": "nejhorsi aplikace... hloupa a nefunkcni",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-06-03T05:59:21.372Z",
+      "replyText": "Pěkný den, Jane,\nděkujeme za zpětnou vazbu, ze které však nevyplývá, co se konkrétně stalo. Budu ráda, když nám k tomu napíšete podrobnosti na e-mailovou adresu aplikace@vodafone.cz, abychom vám mohli pomoct. Veronika",
+      "version": "3.13.2"
+    },
+    {
+      "id": "729911c8-471e-422a-9361-a267620078cb",
+      "userName": "Max",
+      "date": "2026-06-02T22:27:14.986Z",
+      "score": 1,
+      "text": "teda přihlásit se do této aplikace to je o nervy 😡😡😡😡 10x ověření a stejně to nejde no na 💩",
+      "text_normalized": "teda prihlasit se do teto aplikace to je o nervy 😡😡😡😡 10x overeni a stejne to nejde no na 💩",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-06-03T05:11:47.272Z",
+      "replyText": "Hezký den, Maxi,\nje mi líto, pokud máte potíže s přihlášením 🙁 Rádi se s vámi na vše podíváme konkrétněji, když nám zavoláte na 800 77 00 77 nebo napíšete na aplikace@vodafone.cz. Lucie\n",
+      "version": "3.13.2"
+    },
     {
       "id": "2d1757d5-ff5b-4f6a-9ba7-a77da366afb2",
       "userName": "Ludek Venkrbec",
@@ -30616,8 +30646,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2087,
-    "extractedAt": "2026-06-03T09:56:40.727Z",
+    "totalReviewsExtracted": 2089,
+    "extractedAt": "2026-06-04T08:53:06.733Z",
     "source": "google-play"
   }
 }
