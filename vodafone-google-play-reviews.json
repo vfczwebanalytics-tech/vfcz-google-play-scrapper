@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 3.7086613,
+    "score": 3.7047243,
     "scoreText": "3,7",
-    "totalRatings": 5443,
-    "totalReviews": 2260,
+    "totalRatings": 5445,
+    "totalReviews": 2262,
     "histogram": {
-      "1": 1338,
-      "2": 171,
-      "3": 266,
-      "4": 620,
-      "5": 3042
+      "1": 1339,
+      "2": 181,
+      "3": 267,
+      "4": 610,
+      "5": 3043
     }
   },
   "reviews": [
+    {
+      "id": "879da744-aacb-4bb0-88ac-cdc95fd1dd89",
+      "userName": "Miloš Prchal",
+      "date": "2026-06-04T14:42:27.900Z",
+      "score": 2,
+      "text": "aplikaci mám a používám dlouho nemusíte mi to připomínat každý týden",
+      "text_normalized": "aplikaci mam a pouzivam dlouho nemusite mi to pripominat kazdy tyden",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-04T15:07:47.346Z",
+      "replyText": "Dobrý den, Miloši,\nděkujeme za vaši zpětnou vazbu, chápu, že časté výzvy k hodnocení mohou být nepříjemné. Vážíme si jí a bereme ji v potaz při dalším vylepšování aplikace, aby pro vás byla co nejpříjemnější na používání. Viki",
+      "version": "3.13.2"
+    },
     {
       "id": "874a73e0-eca0-4c3e-b674-f891a9100dca",
       "userName": "Petr Černický",
@@ -30691,8 +30705,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2092,
-    "extractedAt": "2026-06-05T08:45:34.235Z",
+    "totalReviewsExtracted": 2093,
+    "extractedAt": "2026-06-06T07:48:27.867Z",
     "source": "google-play"
   }
 }

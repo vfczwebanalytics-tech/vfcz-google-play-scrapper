@@ -1,18 +1,63 @@
 {
   "ratings": {
-    "score": 3.7249508,
+    "score": 3.7086613,
     "scoreText": "3,7",
-    "totalRatings": 5432,
-    "totalReviews": 2259,
+    "totalRatings": 5443,
+    "totalReviews": 2260,
     "histogram": {
-      "1": 1301,
-      "2": 180,
-      "3": 256,
-      "4": 661,
-      "5": 3030
+      "1": 1338,
+      "2": 171,
+      "3": 266,
+      "4": 620,
+      "5": 3042
     }
   },
   "reviews": [
+    {
+      "id": "874a73e0-eca0-4c3e-b674-f891a9100dca",
+      "userName": "Petr Černický",
+      "date": "2026-06-04T04:41:15.857Z",
+      "score": 1,
+      "text": "\"Plíseň plus\" od Vodafonu. Předchozí aplikace byla to stejné, jen bez toho \"Plus\". Už snad milionkrát jsem si nastavil pro aplikaci výchozí službu...myslíte, že je toto nastavení v aplikaci funkční? Odpovím sám - NE. Hlavně, že mi aplikace neustále cpe a podsouvá souhlasy, které neustále odmítám. Snad nejhorší aplikace, kterou v telefonu mám...nebýt kartelu operátorů, už bych u Vodafonu dávno nebyl...a to jsem už přes 23 let s jedním číslem.",
+      "text_normalized": "\"plisen plus\" od vodafonu. predchozi aplikace byla to stejne, jen bez toho \"plus\". uz snad milionkrat jsem si nastavil pro aplikaci vychozi sluzbu...myslite, ze je toto nastaveni v aplikaci funkcni? odpovim sam - ne. hlavne, ze mi aplikace neustale cpe a podsouva souhlasy, ktere neustale odmitam. snad nejhorsi aplikace, kterou v telefonu mam...nebyt kartelu operatoru, uz bych u vodafonu davno nebyl...a to jsem uz pres 23 let s jednim cislem.",
+      "segments": [
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-06-04T05:11:17.661Z",
+      "replyText": "Dobrý den, Petře,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout a poté nastavte výchozí službu podle návodu na https://www.vodafone.cz/pece/muj-vodafone/prihlasovani-e-mailem/prepnuti-sluzby-muj-vodafone/. Kdyby se nové nastavení neuložilo, zavolejte nám na 800 77 00 77, rádi to prověříme. Martina",
+      "version": "3.13.2"
+    },
+    {
+      "id": "8feeacce-0115-4b11-81b5-1235e66ec6f8",
+      "userName": "Tomas Policky",
+      "date": "2026-06-03T15:50:12.480Z",
+      "score": 1,
+      "text": "Dal bych mínus pět hvězd, ale bohužel nelze. Jednoznačně nejhorší aplikace za 15 let co nějaké používám. Nelze se přihlásit, dokola chodí nějaké kódy, aplikace padá. Hrůza, hrůza a hrůza 🤮",
+      "text_normalized": "dal bych minus pet hvezd, ale bohuzel nelze. jednoznacne nejhorsi aplikace za 15 let co nejake pouzivam. nelze se prihlasit, dokola chodi nejake kody, aplikace pada. hruza, hruza a hruza 🤮",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-06-03T16:11:45.229Z",
+      "replyText": "Hezký večer, Tomáši,\nje mi líto, že jste s aplikací nespokojený 🙁 Zkuste ji přeinstalovat, věřím, že to pomůže. Pokud by potíže přetrvávaly, zavolejte nám na linku *77 a kolegové to s vámi prověří. Zuzana",
+      "version": "3.13.2"
+    },
+    {
+      "id": "ba29ed65-8fba-45f4-9941-28b9de43affe",
+      "userName": "Marie Bohatá",
+      "date": "2026-06-03T14:12:14.937Z",
+      "score": 2,
+      "text": "Aplikace nefunguje se zapnutou VPN...",
+      "text_normalized": "aplikace nefunguje se zapnutou vpn...",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-03T14:34:37.564Z",
+      "replyText": "Hezký den, Marie,\nchápu vás 🙁 Ano, anonymizační VPN může způsobit potíže. Protože podobné nástroje často používají internetoví útočníci, aby znemožnili vypátrat zdroj útoku, není přihlášení při zapnuté VPN možné. Vypněte proto prosím vámi používanou VPN a zkuste se přihlásit znovu. Zuzana",
+      "version": "3.13.2"
+    },
     {
       "id": "975d9306-42e6-4005-8cc2-8b6bb9df9a7a",
       "userName": "Jan Fiala",
@@ -30646,8 +30691,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2089,
-    "extractedAt": "2026-06-04T08:53:06.733Z",
+    "totalReviewsExtracted": 2092,
+    "extractedAt": "2026-06-05T08:45:34.235Z",
     "source": "google-play"
   }
 }
