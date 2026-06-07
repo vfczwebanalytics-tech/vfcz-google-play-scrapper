@@ -1,18 +1,46 @@
 {
   "ratings": {
-    "score": 3.7047243,
+    "score": 3.6827853,
     "scoreText": "3,7",
-    "totalRatings": 5445,
-    "totalReviews": 2262,
+    "totalRatings": 5453,
+    "totalReviews": 2263,
     "histogram": {
-      "1": 1339,
-      "2": 181,
-      "3": 267,
+      "1": 1360,
+      "2": 200,
+      "3": 263,
       "4": 610,
-      "5": 3043
+      "5": 3015
     }
   },
   "reviews": [
+    {
+      "id": "65b37a11-a476-40f8-9e01-af22d19e3465",
+      "userName": "Milda cotijepotom",
+      "date": "2026-06-05T23:29:07.386Z",
+      "score": 5,
+      "text": "super ok!!!!!???????????????",
+      "text_normalized": "super ok!!!!!???????????????",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-06T06:07:36.177Z",
+      "replyText": "Pěkný den, Mildo,\nděkujeme za hodnocení a zpětnou vazbu 🙂 Veronika",
+      "version": "3.13.2"
+    },
+    {
+      "id": "c3c14ea2-a767-42a6-b8fe-431d11ab8969",
+      "userName": "Petr Dusek",
+      "date": "2026-06-05T13:30:37.663Z",
+      "score": 1,
+      "text": "Bohudík!!! Tak jste to VYLEPŠILY",
+      "text_normalized": "bohudik!!! tak jste to vylepsily",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-05T13:43:29.236Z",
+      "replyText": "Pěkný den, Petře,\nděkujeme za zpětnou vazbu. Pokud se potýkáte s nějakými potížemi v aplikaci, tak nám prosím pošlete aktuální screenshoty a více podrobností na e-mailovou adresu aplikace@vodafone.cz. Veronika",
+      "version": "3.13.2"
+    },
     {
       "id": "879da744-aacb-4bb0-88ac-cdc95fd1dd89",
       "userName": "Miloš Prchal",
@@ -30705,8 +30733,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2093,
-    "extractedAt": "2026-06-06T07:48:27.867Z",
+    "totalReviewsExtracted": 2095,
+    "extractedAt": "2026-06-07T08:25:54.285Z",
     "source": "google-play"
   }
 }
