@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 3.6827853,
+    "score": 3.6653543,
     "scoreText": "3,7",
-    "totalRatings": 5453,
-    "totalReviews": 2263,
+    "totalRatings": 5452,
+    "totalReviews": 2265,
     "histogram": {
-      "1": 1360,
-      "2": 200,
-      "3": 263,
+      "1": 1384,
+      "2": 203,
+      "3": 257,
       "4": 610,
-      "5": 3015
+      "5": 2993
     }
   },
   "reviews": [
+    {
+      "id": "47584061-5567-4747-b950-c76d623aa013",
+      "userName": "Jana Horackova",
+      "date": "2026-06-07T06:22:41.166Z",
+      "score": 5,
+      "text": "Stojí to za houby. Nepodařilo se mo ti nainstalivat ani za pomoci operátora",
+      "text_normalized": "stoji to za houby. nepodarilo se mo ti nainstalivat ani za pomoci operatora",
+      "segments": [
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-06-07T06:52:14.209Z",
+      "replyText": "Pěkný den, Jano,\naplikaci si můžete stáhnout pro iPhone (systém iOS 15.1 a vyšší) a telefony s Androidem (systém Android 8 a vyšší), více informací je zde: https://www.vodafone.cz/pece/muj-vodafone/aplikace-muj-vodafone/aplikace-muj-vodafone-plus/. Veronika",
+      "version": "3.13.0"
+    },
     {
       "id": "65b37a11-a476-40f8-9e01-af22d19e3465",
       "userName": "Milda cotijepotom",
@@ -30733,8 +30747,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2095,
-    "extractedAt": "2026-06-07T08:25:54.285Z",
+    "totalReviewsExtracted": 2096,
+    "extractedAt": "2026-06-08T09:26:05.808Z",
     "source": "google-play"
   }
 }
