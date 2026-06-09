@@ -1,18 +1,48 @@
 {
   "ratings": {
-    "score": 3.6653543,
-    "scoreText": "3,7",
-    "totalRatings": 5452,
-    "totalReviews": 2265,
+    "score": 3.6498055,
+    "scoreText": "3,6",
+    "totalRatings": 5457,
+    "totalReviews": 2271,
     "histogram": {
-      "1": 1384,
-      "2": 203,
-      "3": 257,
-      "4": 610,
-      "5": 2993
+      "1": 1401,
+      "2": 201,
+      "3": 264,
+      "4": 625,
+      "5": 2961
     }
   },
   "reviews": [
+    {
+      "id": "4d1d209a-af78-49d7-8276-d7ada156040d",
+      "userName": "Adam Fajt",
+      "date": "2026-06-07T21:52:11.310Z",
+      "score": 4,
+      "text": "Jsem nový zákazník Vodafonu a musím říct, že tato aplikace se zlepšuje a oprati původní je lepší a to odost, ale musím se přidat ke komentujícím... Nechápu proč musím dávat souhlas s nabídkami třetích stran v sekci happy Vodafone.",
+      "text_normalized": "jsem novy zakaznik vodafonu a musim rict, ze tato aplikace se zlepsuje a oprati puvodni je lepsi a to odost, ale musim se pridat ke komentujicim... nechapu proc musim davat souhlas s nabidkami tretich stran v sekci happy vodafone.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-06-08T05:16:01.573Z",
+      "replyText": "Pěkný den, Adame,\nděkujeme za zpětnou vazbu a hodnocení 🙂 Souhlas s nabídky třetích stran potvrdit nemusíte, záleží na vás 🙂 Veronika",
+      "version": "3.13.2"
+    },
+    {
+      "id": "409a6f66-5670-4a42-a3c1-4a0981097461",
+      "userName": "Al Piv",
+      "date": "2026-06-07T14:19:49.419Z",
+      "score": 1,
+      "text": "Asi nejhorší aplikace na světě... Při každém spuštění se přihlašovat, opisovat SMS, opakovat tak 3x a pak se možná člověk dostane i do aplikace, kde je půlka dat chybně a skoro nic nefunguje. Léta to samé, snad ještě čím dál tím horší.",
+      "text_normalized": "asi nejhorsi aplikace na svete... pri kazdem spusteni se prihlasovat, opisovat sms, opakovat tak 3x a pak se mozna clovek dostane i do aplikace, kde je pulka dat chybne a skoro nic nefunguje. leta to same, snad jeste cim dal tim horsi.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-07T14:47:44.182Z",
+      "replyText": "Pěkný den,\npokud si nastavíte biometriku, nebudete muset pokaždé údaje vypisovat. Vše najdete v menu nastavení. Veronika",
+      "version": "3.12.0"
+    },
     {
       "id": "47584061-5567-4747-b950-c76d623aa013",
       "userName": "Jana Horackova",
@@ -30747,8 +30777,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2096,
-    "extractedAt": "2026-06-08T09:26:05.808Z",
+    "totalReviewsExtracted": 2098,
+    "extractedAt": "2026-06-09T08:32:43.723Z",
     "source": "google-play"
   }
 }
