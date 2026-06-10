@@ -1,18 +1,77 @@
 {
   "ratings": {
-    "score": 3.6498055,
-    "scoreText": "3,6",
-    "totalRatings": 5457,
-    "totalReviews": 2271,
+    "score": 3.6594913,
+    "scoreText": "3,7",
+    "totalRatings": 5463,
+    "totalReviews": 2272,
     "histogram": {
-      "1": 1401,
-      "2": 201,
-      "3": 264,
-      "4": 625,
-      "5": 2961
+      "1": 1400,
+      "2": 191,
+      "3": 266,
+      "4": 608,
+      "5": 2992
     }
   },
   "reviews": [
+    {
+      "id": "e3fce424-2c6e-4230-a63a-0c73ec2ce6de",
+      "userName": "Seřík Zajíček",
+      "date": "2026-06-09T05:05:11.919Z",
+      "score": 3,
+      "text": "To je ale docela divná aplikace.",
+      "text_normalized": "to je ale docela divna aplikace.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-09T05:23:37.298Z",
+      "replyText": "Hezké dopoledne, děkujeme za hodnocení. Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.13.2"
+    },
+    {
+      "id": "f1343934-64b8-4cec-8352-cc065abe1db3",
+      "userName": "Jaroslav Polák",
+      "date": "2026-06-08T13:42:37.917Z",
+      "score": 5,
+      "text": "Vše ok",
+      "text_normalized": "vse ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-08T13:52:18.963Z",
+      "replyText": "Hezký den, Jaroslave, děkujeme za hodnocení 🙂 Těší mě, že se vám aplikace líbí 🙂 Petra",
+      "version": null
+    },
+    {
+      "id": "66f96338-1f79-4198-85d8-270b930fa7da",
+      "userName": "Slunce",
+      "date": "2026-06-08T10:51:21.572Z",
+      "score": 1,
+      "text": "Neustálá aktualizace je únavná.Nemožnost přihlásit se přes otisk.",
+      "text_normalized": "neustala aktualizace je unavna.nemoznost prihlasit se pres otisk.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-06-08T11:24:01.862Z",
+      "replyText": "Hezký den, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Platnost biometrického přihlášení vyprší, pokud aplikaci odinstalujete a budete ji instalovat znovu. Pokud nepoužijete biometrické přihlášení, zůstanete v aplikaci přihlášeni, dokud se ručně neodhlásíte, maximálně ale 30 dnů. Petra",
+      "version": "3.13.2"
+    },
+    {
+      "id": "f4697f2f-9cb9-467d-b36f-de7ddedc034f",
+      "userName": "Martin „Šotek“ Šotola",
+      "date": "2026-06-08T08:45:48.403Z",
+      "score": 1,
+      "text": "Je to šíleně nepřehledný a fakt na to nemám energii a čas něco hledat. EDIT : ALE JÁ NECHCI HLEDAT PODLE NÁVODU, JAK SE NĚKAM DOSTANU !JÁ SE TAM CHCI DOSTAT INTUITIVNĚ ! dělám to jednou za čas , ten postup si nebudu pamatovat , BOŽE JE TAK TĚŽKÝ UDĚLAT NĚCO , ABY TO DÁVALO SMYSL ??? nebudu to prostě používat. = nainstaluju – vyzkouším – nefunguje?= odinstaluju (a dokola dokud to nebude normálně fungovat)",
+      "text_normalized": "je to silene neprehledny a fakt na to nemam energii a cas neco hledat. edit : ale ja nechci hledat podle navodu, jak se nekam dostanu !ja se tam chci dostat intuitivne ! delam to jednou za cas , ten postup si nebudu pamatovat , boze je tak tezky udelat neco , aby to davalo smysl ??? nebudu to proste pouzivat. = nainstaluju – vyzkousim – nefunguje?= odinstaluju (a dokola dokud to nebude normalne fungovat)",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-08T07:50:25.484Z",
+      "replyText": "Pěkný den, Martine,\nděkujeme za zpětnou vazbu. Celý postup, jak tuto změnu provést v aplikaci, najdete zde: https://www.vodafone.cz/pece/internet-data/objem-dat-blokovani/datastrop/. Veronika",
+      "version": "3.13.2"
+    },
     {
       "id": "4d1d209a-af78-49d7-8276-d7ada156040d",
       "userName": "Adam Fajt",
@@ -30777,8 +30836,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2098,
-    "extractedAt": "2026-06-09T08:32:43.723Z",
+    "totalReviewsExtracted": 2102,
+    "extractedAt": "2026-06-10T08:52:44.014Z",
     "source": "google-play"
   }
 }
