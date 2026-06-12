@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 3.6594913,
+    "score": 3.6763005,
     "scoreText": "3,7",
-    "totalRatings": 5463,
+    "totalRatings": 5480,
     "totalReviews": 2272,
     "histogram": {
-      "1": 1400,
-      "2": 191,
-      "3": 266,
-      "4": 608,
-      "5": 2992
+      "1": 1382,
+      "2": 189,
+      "3": 274,
+      "4": 601,
+      "5": 3029
     }
   },
   "reviews": [
+    {
+      "id": "d7fe4db5-44bd-4441-87ff-89bf0ab32c18",
+      "userName": "Milan Panák",
+      "date": "2026-06-09T15:01:48.260Z",
+      "score": 5,
+      "text": "Spokojenost.",
+      "text_normalized": "spokojenost.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-09T15:23:36.162Z",
+      "replyText": "Pěkný den, Milane,\nděkujeme za hodnocení. Jsem ráda, že jste s aplikací spokojený 🙂 Lucie",
+      "version": "3.11.0"
+    },
     {
       "id": "e3fce424-2c6e-4230-a63a-0c73ec2ce6de",
       "userName": "Seřík Zajíček",
@@ -30836,8 +30850,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2102,
-    "extractedAt": "2026-06-10T08:52:44.014Z",
+    "totalReviewsExtracted": 2103,
+    "extractedAt": "2026-06-11T09:14:30.015Z",
     "source": "google-play"
   }
 }
