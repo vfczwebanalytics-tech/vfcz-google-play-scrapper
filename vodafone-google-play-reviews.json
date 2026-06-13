@@ -1,18 +1,91 @@
 {
   "ratings": {
-    "score": 3.691571,
+    "score": 3.7093024,
     "scoreText": "3,7",
-    "totalRatings": 5495,
-    "totalReviews": 2278,
+    "totalRatings": 5512,
+    "totalReviews": 2284,
     "histogram": {
       "1": 1367,
-      "2": 189,
-      "3": 273,
-      "4": 598,
-      "5": 3062
+      "2": 180,
+      "3": 266,
+      "4": 565,
+      "5": 3128
     }
   },
   "reviews": [
+    {
+      "id": "4405bded-0f84-4b03-a9ce-aeb50d998aa8",
+      "userName": "Petr",
+      "date": "2026-06-12T07:21:40.213Z",
+      "score": 5,
+      "text": "Super aplikace kde je vlastně vše pohromadě co je potřeba.",
+      "text_normalized": "super aplikace kde je vlastne vse pohromade co je potreba.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-12T07:33:41.362Z",
+      "replyText": "Pěkný den, Petře,\nděkujeme vám za hodnocení. Jsem ráda, že jste s aplikací spokojený 🙂 Lucie",
+      "version": "3.14.0"
+    },
+    {
+      "id": "fec9bbee-76e1-4bc4-9d17-99f2695888bd",
+      "userName": "Jaroslav Zrzavý",
+      "date": "2026-06-12T00:26:17.803Z",
+      "score": 1,
+      "text": "po aktualizaci nefungují ČT programy a jiné",
+      "text_normalized": "po aktualizaci nefunguji ct programy a jine",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-12T05:29:32.481Z",
+      "replyText": "Hezký den, Jaroslave, je mi líto, že máte potíže s Vodafone TV 🙁 Napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Pomůžeme vám. Petra",
+      "version": "3.14.0"
+    },
+    {
+      "id": "8479821d-e174-4a22-a09a-eefabcb79ad5",
+      "userName": "Pavlína Štěchová",
+      "date": "2026-06-11T18:54:16.236Z",
+      "score": 5,
+      "text": "Jsem plně spokojená",
+      "text_normalized": "jsem plne spokojena",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-12T05:30:49.970Z",
+      "replyText": "Pěkný den, Pavlíno,\nděkujeme za hodnocení. Těší mě, že jste spokojená 🙂 Lucie",
+      "version": "3.13.2"
+    },
+    {
+      "id": "dd3bb468-fa0e-4c50-8178-d0d37e400221",
+      "userName": "dominik sigi",
+      "date": "2026-06-11T15:22:53.355Z",
+      "score": 1,
+      "text": "Obyčejně aplikace z takhle nízkým hodnocením ani nevztahuji, Bohužel jsem se taky přesvědčil, že je hodnocení oprávněné. Aplikace je nepoužitelná proto dávám jednu hvězdičku.",
+      "text_normalized": "obycejne aplikace z takhle nizkym hodnocenim ani nevztahuji, bohuzel jsem se taky presvedcil, ze je hodnoceni opravnene. aplikace je nepouzitelna proto davam jednu hvezdicku.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-11T15:35:13.757Z",
+      "replyText": "Dobrý den, Dominiku,\nděkuji vám za zpětnou vazbu. i když není pozitivní. Aktivně aplikaci rozvíjíme a nové možnosti budeme přidávat v dalších aktualizacích. Věřím tak, že se vám bude v budoucnu líbit víc. Viki",
+      "version": "3.14.0"
+    },
+    {
+      "id": "5c65e380-6ebd-4c3b-816f-18b77357d3e9",
+      "userName": "Jan Sigi",
+      "date": "2026-06-11T15:19:20.868Z",
+      "score": 1,
+      "text": "aplikace je ještě horší než minula, nepřehledná nedá se tam nic najít. padá problémy s přihlášením.",
+      "text_normalized": "aplikace je jeste horsi nez minula, neprehledna neda se tam nic najit. pada problemy s prihlasenim.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-06-11T15:37:00.138Z",
+      "replyText": "Hezký den, Jane,\nmrzí mě, pokud máte nepříjemnou zkušenost. Aplikaci dlouhodobě rozvíjíme a nové funkce budou implementovány v dalších verzích. Pokud máte potíže s přihlášením, doporučuji tuto stránku: https://www.vodafone.cz/pece/muj-vodafone/hesla/prihlaseni-muj-vodafone-nefunguje/. Viki",
+      "version": "3.14.0"
+    },
     {
       "id": "6f4ecee5-c540-4461-940b-27eb1577bdda",
       "userName": "KLÁRA KAUCKA",
@@ -30881,8 +30954,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2105,
-    "extractedAt": "2026-06-12T09:02:01.649Z",
+    "totalReviewsExtracted": 2110,
+    "extractedAt": "2026-06-13T08:24:47.594Z",
     "source": "google-play"
   }
 }

@@ -1,18 +1,49 @@
 {
   "ratings": {
-    "score": 3.6763005,
+    "score": 3.691571,
     "scoreText": "3,7",
-    "totalRatings": 5480,
-    "totalReviews": 2272,
+    "totalRatings": 5495,
+    "totalReviews": 2278,
     "histogram": {
-      "1": 1382,
+      "1": 1367,
       "2": 189,
-      "3": 274,
-      "4": 601,
-      "5": 3029
+      "3": 273,
+      "4": 598,
+      "5": 3062
     }
   },
   "reviews": [
+    {
+      "id": "6f4ecee5-c540-4461-940b-27eb1577bdda",
+      "userName": "KLÁRA KAUCKA",
+      "date": "2026-06-11T06:47:13.540Z",
+      "score": 1,
+      "text": "takže jak koukám nejsem sama komu aplikace nefunguje . vemte si příklad z t.mobile protože vaše aplikace je opravdu příšerná absolutně nepoužitelná takže během 5 minut je v koši",
+      "text_normalized": "takze jak koukam nejsem sama komu aplikace nefunguje . vemte si priklad z t.mobile protoze vase aplikace je opravdu priserna absolutne nepouzitelna takze behem 5 minut je v kosi",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-11T07:00:13.269Z",
+      "replyText": "Hezký den, Kláro,\nje mi líto, pokud máte s aplikací nějaké potíže 🙁 Hromadně ale chybu neevidujeme. Pokud vám aplikace nefunguje správně, rádi to prověříme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie",
+      "version": null
+    },
+    {
+      "id": "60b051e6-e41f-493b-9f9e-375f02da7a38",
+      "userName": "Vláďa Konečný",
+      "date": "2026-06-10T18:39:03.225Z",
+      "score": 5,
+      "text": "Za mně skvělá appka. 5 hvězdiček. Je moc fajn, že jste vyslyšeli nás co jsme chtěli zpět QR kód pro platbu a tuto možnost nám opět umožnili. Je to velmi jednoduchý a pohodlný způsob placení. Takže děkuji mockrát. Jinak jsem s appkou velmi spokojen. Jde vidět, že jste na tom zamakali. Hezký den.",
+      "text_normalized": "za mne skvela appka. 5 hvezdicek. je moc fajn, ze jste vyslyseli nas co jsme chteli zpet qr kod pro platbu a tuto moznost nam opet umoznili. je to velmi jednoduchy a pohodlny zpusob placeni. takze dekuji mockrat. jinak jsem s appkou velmi spokojen. jde videt, ze jste na tom zamakali. hezky den.",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-11T05:07:44.741Z",
+      "replyText": "Pěkný den, Vláďo,\nděkujeme za hodnocení a také zpětnou vazbu, velmi si toho vážíme 🙂 Veronika",
+      "version": "3.14.0"
+    },
     {
       "id": "d7fe4db5-44bd-4441-87ff-89bf0ab32c18",
       "userName": "Milan Panák",
@@ -30850,8 +30881,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2103,
-    "extractedAt": "2026-06-11T09:14:30.015Z",
+    "totalReviewsExtracted": 2105,
+    "extractedAt": "2026-06-12T09:02:01.649Z",
     "source": "google-play"
   }
 }
