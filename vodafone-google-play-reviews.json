@@ -1,18 +1,103 @@
 {
   "ratings": {
-    "score": 3.7093024,
+    "score": 3.7277882,
     "scoreText": "3,7",
-    "totalRatings": 5512,
-    "totalReviews": 2284,
+    "totalRatings": 5525,
+    "totalReviews": 2282,
     "histogram": {
-      "1": 1367,
-      "2": 180,
-      "3": 266,
-      "4": 565,
-      "5": 3128
+      "1": 1325,
+      "2": 187,
+      "3": 292,
+      "4": 573,
+      "5": 3143
     }
   },
   "reviews": [
+    {
+      "id": "abcbc89e-6397-4cad-812d-fd40245cb2ed",
+      "userName": "Vojtěch Majoroš",
+      "date": "2026-06-13T06:58:24.730Z",
+      "score": 1,
+      "text": "Strašná aplikace, při tvoření účtu jak přepnete na doručené kódy,hned vás to z aplikace vyhodí a musíte vše dělat znova. Po čtyřech pokusech díky nechci a to jsem u Vodafone 20 let 🤦🏻",
+      "text_normalized": "strasna aplikace, pri tvoreni uctu jak prepnete na dorucene kody,hned vas to z aplikace vyhodi a musite vse delat znova. po ctyrech pokusech diky nechci a to jsem u vodafone 20 let 🤦🏻",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-13T07:13:15.441Z",
+      "replyText": "Dobrý den, Vojtěchu,\nje mi líto, že jste nespokojený 🙁 Jestli potřebujete pomoc s přihlášením, zavolejte nám prosím na 800 77 00 77 nebo se stavte v kterékoliv naší prodejně, rádi se na to s vámi podíváme. Martina",
+      "version": "3.14.0"
+    },
+    {
+      "id": "24bd2fa1-b8c2-4c37-829a-0bb56cd1aba3",
+      "userName": "Michal Marec",
+      "date": "2026-06-13T06:48:38.536Z",
+      "score": 5,
+      "text": "dobrý",
+      "text_normalized": "dobry",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-13T07:13:31.272Z",
+      "replyText": "Dobrý den, Michale,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.14.0"
+    },
+    {
+      "id": "335a3194-1866-4188-ae7a-cfe9f190f6d7",
+      "userName": "Bernard Free",
+      "date": "2026-06-12T19:15:26.334Z",
+      "score": 1,
+      "text": "stalo mnohém hůř... vypínal roaming 5 minut... strašně pomalá app",
+      "text_normalized": "stalo mnohem hur... vypinal roaming 5 minut... strasne pomala app",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-06-13T07:12:26.493Z",
+      "replyText": "Dobrý den, Bernarde,\nje mi líto, že jste měl potíže se zadáním změny. Aplikaci nadále rozvíjíme a upravujeme, tak třeba se vaše zkušenost časem zlepší. Martina",
+      "version": "3.14.0"
+    },
+    {
+      "id": "b51019d0-2c86-46bc-9d04-6f204abbadc6",
+      "userName": "Lukáš Tomeček",
+      "date": "2026-06-12T17:13:12.894Z",
+      "score": 5,
+      "text": "Naprostá spokojenost",
+      "text_normalized": "naprosta spokojenost",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-12T17:52:53.699Z",
+      "replyText": "Hezký den, Lukáši,\njsem moc ráda, že jste spokojený, a děkuji vám za krásné hodnocení 🙂Katka",
+      "version": "3.14.0"
+    },
+    {
+      "id": "ade9e149-fa84-420b-a331-7b3ef18fc434",
+      "userName": "Ursegor 78",
+      "date": "2026-06-12T14:16:28.913Z",
+      "score": 3,
+      "text": "Abych aplikaci mohl použít musím mít nejnovější verzi. To je problém když chci zjistit kolik mi zbývá dat, a aktualizaci bych musel stáhnout přes data, což je trošku nelogické. Alespoň povolte třeba 2 až 3 staré verze, kde bude upozornění, že s další novou verzi ta současná brzy přestane fungovat.",
+      "text_normalized": "abych aplikaci mohl pouzit musim mit nejnovejsi verzi. to je problem kdyz chci zjistit kolik mi zbyva dat, a aktualizaci bych musel stahnout pres data, coz je trosku nelogicke. alespon povolte treba 2 az 3 stare verze, kde bude upozorneni, ze s dalsi novou verzi ta soucasna brzy prestane fungovat.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-06-12T15:28:36.703Z",
+      "replyText": "Hezký den,\nděkuji vám za zpětnou vazbu a na vylepšování aplikace budeme dále pracovat 🙂 Katka",
+      "version": "3.14.0"
+    },
+    {
+      "id": "23073587-9e49-4da1-977e-3d06414e9b48",
+      "userName": "Gabriela Šrámková (Fuxová)",
+      "date": "2026-06-12T09:35:27.375Z",
+      "score": 2,
+      "text": "Aplikace je pomalá, stále se něco načítá.",
+      "text_normalized": "aplikace je pomala, stale se neco nacita.",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-06-12T10:04:59.922Z",
+      "replyText": "Hezký den, Gabrielo,\nje mi líto, pokud aplikace nenaplňuje vaše očekávání 🙁 Budeme se snažit, aby se vám do budoucna líbila více. Lucie",
+      "version": "3.14.0"
+    },
     {
       "id": "4405bded-0f84-4b03-a9ce-aeb50d998aa8",
       "userName": "Petr",
@@ -30954,8 +31039,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2110,
-    "extractedAt": "2026-06-13T08:24:47.594Z",
+    "totalReviewsExtracted": 2116,
+    "extractedAt": "2026-06-14T08:42:45.732Z",
     "source": "google-play"
   }
 }
