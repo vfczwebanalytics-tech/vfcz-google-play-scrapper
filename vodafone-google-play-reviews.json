@@ -1,18 +1,61 @@
 {
   "ratings": {
-    "score": 3.7277882,
+    "score": 3.7466412,
     "scoreText": "3,7",
-    "totalRatings": 5525,
-    "totalReviews": 2282,
+    "totalRatings": 5535,
+    "totalReviews": 2286,
     "histogram": {
-      "1": 1325,
-      "2": 187,
-      "3": 292,
-      "4": 573,
-      "5": 3143
+      "1": 1284,
+      "2": 190,
+      "3": 318,
+      "4": 583,
+      "5": 3154
     }
   },
   "reviews": [
+    {
+      "id": "d9f7dbe0-f11c-4c08-9f50-b4671ead4e41",
+      "userName": "Michal",
+      "date": "2026-06-14T08:06:03.106Z",
+      "score": 3,
+      "text": "Na 1. stránce mi aplikace ukazuje že mám celkově 4 Gb dat, po rozkliknutí se mi ukáže že mám 5 Gb. Názorně je zobrazeno kolik procent z celkového počtu dat je, ale už nejde poznat, jestli je to počet využitých dat, nebo počet zbívajících dat !",
+      "text_normalized": "na 1. strance mi aplikace ukazuje ze mam celkove 4 gb dat, po rozkliknuti se mi ukaze ze mam 5 gb. nazorne je zobrazeno kolik procent z celkoveho poctu dat je, ale uz nejde poznat, jestli je to pocet vyuzitych dat, nebo pocet zbivajicich dat !",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-06-14T08:17:00.501Z",
+      "replyText": "Dobrý den, Michale,\nděkujeme za zpětnou vazbu. Na úpravách aplikace pracujeme, proto věřím, že se i tento přehled podaří zlepšit. Martina",
+      "version": "3.14.0"
+    },
+    {
+      "id": "a9b3ef9d-3f19-4530-8c33-228948d6d77c",
+      "userName": "Lukáš Ryšavý",
+      "date": "2026-06-14T00:03:53.417Z",
+      "score": 4,
+      "text": "Aplikace se za poslední týden chová zvláštně. Při používání jiné aplikace se po zmáčknutí tlačítka Zpět, tak se samovolně aplikace Můj Vodafone+, sekne se a odhlásí se. Při zkušebním spuštění aplikace to chce přihlásit.",
+      "text_normalized": "aplikace se za posledni tyden chova zvlastne. pri pouzivani jine aplikace se po zmacknuti tlacitka zpet, tak se samovolne aplikace muj vodafone+, sekne se a odhlasi se. pri zkusebnim spusteni aplikace to chce prihlasit.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-06-14T06:56:46.375Z",
+      "replyText": "Dobrý den, Lukáši,\nděkujeme za zpětnou vazbu. Zkuste prosím aplikaci odinstalovat a znovu stáhnout, mohlo by to pomoci. Martina",
+      "version": "3.14.0"
+    },
+    {
+      "id": "6670cd72-0f71-4a68-8cad-4bb8f583463b",
+      "userName": "Vlastimil Rampas",
+      "date": "2026-06-13T17:13:05.910Z",
+      "score": 5,
+      "text": "jsem velmi spokojen",
+      "text_normalized": "jsem velmi spokojen",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-14T06:56:04.753Z",
+      "replyText": "Dobrý den, Vlastimile,\nto nás moc těší 🙂 Děkujeme vám za hodnocení 🙂 Martina",
+      "version": null
+    },
     {
       "id": "abcbc89e-6397-4cad-812d-fd40245cb2ed",
       "userName": "Vojtěch Majoroš",
@@ -31039,8 +31082,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2116,
-    "extractedAt": "2026-06-14T08:42:45.732Z",
+    "totalReviewsExtracted": 2119,
+    "extractedAt": "2026-06-15T10:57:12.429Z",
     "source": "google-play"
   }
 }
