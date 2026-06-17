@@ -1,18 +1,48 @@
 {
   "ratings": {
-    "score": 3.7466412,
+    "score": 3.7360308,
     "scoreText": "3,7",
-    "totalRatings": 5535,
-    "totalReviews": 2286,
+    "totalRatings": 5543,
+    "totalReviews": 2290,
     "histogram": {
-      "1": 1284,
-      "2": 190,
-      "3": 318,
-      "4": 583,
-      "5": 3154
+      "1": 1302,
+      "2": 191,
+      "3": 319,
+      "4": 576,
+      "5": 3150
     }
   },
   "reviews": [
+    {
+      "id": "78a61c96-0245-4c74-a029-bdb9ea405814",
+      "userName": "Rysanek Radek",
+      "date": "2026-06-15T09:41:16.156Z",
+      "score": 1,
+      "text": "Absurdně se neustále odhlašuje a stále aktualizuje. V podstatě se aplikace za poslední cca 2 roky mění z relativně jednoduchého nástroje na nepřehledný nefunkční zmatek.",
+      "text_normalized": "absurdne se neustale odhlasuje a stale aktualizuje. v podstate se aplikace za posledni cca 2 roky meni z relativne jednoducheho nastroje na neprehledny nefunkcni zmatek.",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-06-15T09:45:19.193Z",
+      "replyText": "Pěkný den, Radku,\nje mi líto, pokud máte s aplikací potíže 🙁 Zkuste ji prosím přeinstalovat. Pokud by to nepomohlo, napište nám prosím podrobnosti přes https://tam.je/dotaz, abychom to mohli řešit konkrétněji. Lucie",
+      "version": "3.13.1"
+    },
+    {
+      "id": "931a95f0-cb55-4fd9-8ca8-b51899a8ae3c",
+      "userName": "Tatiana Galčenková",
+      "date": "2026-06-15T09:03:59.936Z",
+      "score": 1,
+      "text": "moc dlouho hrae hudba + do toho umělá inteligence, to znamená, že služby funguje velmi nízko, když k vám volá tolik lidí a apod dlouhé době není možná k vám dovolat.",
+      "text_normalized": "moc dlouho hrae hudba + do toho umela inteligence, to znamena, ze sluzby funguje velmi nizko, kdyz k vam vola tolik lidi a apod dlouhe dobe neni mozna k vam dovolat.",
+      "segments": [
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-15T09:22:12.166Z",
+      "replyText": "Hezký den, Tatiano,\nje mi líto, že dlouho čekáte na spojení. V některé denní dobu bývá naše zákaznická linka maximálně vytížená, omlouvám se 🙁 Zkuste nám prosím zavolat v jiný čas. Katka",
+      "version": "3.14.0"
+    },
     {
       "id": "d9f7dbe0-f11c-4c08-9f50-b4671ead4e41",
       "userName": "Michal",
@@ -31082,8 +31112,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2119,
-    "extractedAt": "2026-06-15T10:57:12.429Z",
+    "totalReviewsExtracted": 2121,
+    "extractedAt": "2026-06-16T10:13:36.207Z",
     "source": "google-play"
   }
 }
