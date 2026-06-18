@@ -1,18 +1,51 @@
 {
   "ratings": {
-    "score": 3.7360308,
+    "score": 3.7418113,
     "scoreText": "3,7",
-    "totalRatings": 5543,
+    "totalRatings": 5557,
     "totalReviews": 2290,
     "histogram": {
-      "1": 1302,
-      "2": 191,
-      "3": 319,
-      "4": 576,
-      "5": 3150
+      "1": 1284,
+      "2": 192,
+      "3": 341,
+      "4": 588,
+      "5": 3147
     }
   },
   "reviews": [
+    {
+      "id": "4438996f-2db3-4fa7-abfa-8aaed4e50020",
+      "userName": "sicca",
+      "date": "2026-06-16T05:17:17.950Z",
+      "score": 1,
+      "text": "opět nefunguje !",
+      "text_normalized": "opet nefunguje !",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-16T05:48:45.281Z",
+      "replyText": "Hezký den,\nje mi líto, pokud máte s aplikací nějaké potíže 🙁 Zkuste ji prosím přeinstalovat. Pokud by to nepomohlo, napište nám prosím podrobnosti přes https://tam.je/dotaz, abychom to mohli řešit konkrétně. Lucie\n",
+      "version": "3.14.0"
+    },
+    {
+      "id": "a233426e-bd76-4dce-917b-12e1f926da14",
+      "userName": "Robin Mašinda",
+      "date": "2026-06-15T18:58:34.635Z",
+      "score": 1,
+      "text": "Nenajdete horší aplikaci než je ta od Vodafonu. Měla by za to získat snad i zlatého Pátroviče. Nefunkční rozbalení fakturačnich účtů, o nákupu zařízení ani nemluvě, standardní problem s ohlašování a zapomenutím hesla i biometriky... dalších xx bugu. Ani nový telefon ani reinstalace appky. Vývojáři se mohou stydět za roky nedokážou nic opravit natož někam posunout. Ostuda tohoto operátora. Zvažuji přechod všech účtu ke konkurenci. Tohle nemám zapotřebí.",
+      "text_normalized": "nenajdete horsi aplikaci nez je ta od vodafonu. mela by za to ziskat snad i zlateho patrovice. nefunkcni rozbaleni fakturacnich uctu, o nakupu zarizeni ani nemluve, standardni problem s ohlasovani a zapomenutim hesla i biometriky... dalsich xx bugu. ani novy telefon ani reinstalace appky. vyvojari se mohou stydet za roky nedokazou nic opravit natoz nekam posunout. ostuda tohoto operatora. zvazuji prechod vsech uctu ke konkurenci. tohle nemam zapotrebi.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-06-16T05:07:44.534Z",
+      "replyText": "Pěkný den, Robine,\nje mi líto, pokud máte s aplikací takové potíže a jste nespokojený 🙁 Rádi se na vše podíváme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz, abychom to mohli prověřit. Lucie\n",
+      "version": "3.14.0"
+    },
     {
       "id": "78a61c96-0245-4c74-a029-bdb9ea405814",
       "userName": "Rysanek Radek",
@@ -31112,8 +31145,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2121,
-    "extractedAt": "2026-06-16T10:13:36.207Z",
+    "totalReviewsExtracted": 2123,
+    "extractedAt": "2026-06-17T09:52:44.428Z",
     "source": "google-play"
   }
 }
