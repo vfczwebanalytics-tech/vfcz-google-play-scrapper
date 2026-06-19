@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 3.775862,
+    "score": 3.7857144,
     "scoreText": "3,8",
-    "totalRatings": 5567,
-    "totalReviews": 2291,
+    "totalRatings": 5578,
+    "totalReviews": 2294,
     "histogram": {
-      "1": 1247,
-      "2": 180,
-      "3": 329,
-      "4": 617,
-      "5": 3188
+      "1": 1237,
+      "2": 182,
+      "3": 333,
+      "4": 601,
+      "5": 3219
     }
   },
   "reviews": [
+    {
+      "id": "6a2699e7-db4e-4e56-a03c-b9b403811eed",
+      "userName": "John",
+      "date": "2026-06-18T03:06:43.224Z",
+      "score": 1,
+      "text": "katastrofální aplikace velmi pomalé načítání nepřehledné pomalé žádná změna oproti staré verzi hodnocení uživatelů ostatní odpovídá nezaslouží si ani jednu hvězdu",
+      "text_normalized": "katastrofalni aplikace velmi pomale nacitani neprehledne pomale zadna zmena oproti stare verzi hodnoceni uzivatelu ostatni odpovida nezaslouzi si ani jednu hvezdu",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-06-18T05:07:31.139Z",
+      "replyText": "Hezký den,\nje mi líto, že nejste s aplikací spokojený 🙁 Aplikaci dále vylepšujeme a pevně věřím, že se vám do budoucna bude líbit více. Lucie",
+      "version": null
+    },
     {
       "id": "033c567a-6d02-4308-a89b-cb1739bc0fde",
       "userName": "Aneta Markovova",
@@ -31159,8 +31173,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2124,
-    "extractedAt": "2026-06-18T09:19:24.910Z",
+    "totalReviewsExtracted": 2125,
+    "extractedAt": "2026-06-19T09:46:30.040Z",
     "source": "google-play"
   }
 }

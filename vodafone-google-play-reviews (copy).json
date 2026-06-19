@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 3.7418113,
-    "scoreText": "3,7",
-    "totalRatings": 5557,
-    "totalReviews": 2290,
+    "score": 3.775862,
+    "scoreText": "3,8",
+    "totalRatings": 5567,
+    "totalReviews": 2291,
     "histogram": {
-      "1": 1284,
-      "2": 192,
-      "3": 341,
-      "4": 588,
-      "5": 3147
+      "1": 1247,
+      "2": 180,
+      "3": 329,
+      "4": 617,
+      "5": 3188
     }
   },
   "reviews": [
+    {
+      "id": "033c567a-6d02-4308-a89b-cb1739bc0fde",
+      "userName": "Aneta Markovova",
+      "date": "2026-06-16T11:43:27.919Z",
+      "score": 4,
+      "text": "neustále změny mně jsou nepřijemne.U ČSOB mám nový účet .Tak si strhněte platbu",
+      "text_normalized": "neustale zmeny mne jsou neprijemne.u csob mam novy ucet .tak si strhnete platbu",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-06-16T11:50:29.442Z",
+      "replyText": "Pěkný den, Aneto,\npokud potřebujete pomoct, ozvěte se nám přes https://tam.je/dotaz a rádi se na vše podíváme. Veronika",
+      "version": "3.12.0"
+    },
     {
       "id": "4438996f-2db3-4fa7-abfa-8aaed4e50020",
       "userName": "sicca",
@@ -31145,8 +31159,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2123,
-    "extractedAt": "2026-06-17T09:52:44.428Z",
+    "totalReviewsExtracted": 2124,
+    "extractedAt": "2026-06-18T09:19:24.910Z",
     "source": "google-play"
   }
 }
