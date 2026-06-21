@@ -1,18 +1,47 @@
 {
   "ratings": {
-    "score": 3.7857144,
+    "score": 3.796545,
     "scoreText": "3,8",
-    "totalRatings": 5578,
-    "totalReviews": 2294,
+    "totalRatings": 5591,
+    "totalReviews": 2298,
     "histogram": {
-      "1": 1237,
-      "2": 182,
-      "3": 333,
-      "4": 601,
-      "5": 3219
+      "1": 1223,
+      "2": 181,
+      "3": 332,
+      "4": 622,
+      "5": 3229
     }
   },
   "reviews": [
+    {
+      "id": "a381baed-4df1-4562-a30c-846b8c5ec1d3",
+      "userName": "Seilan Moon",
+      "date": "2026-06-18T14:12:18.937Z",
+      "score": 1,
+      "text": "Nejhorší aplikace od korporatu jako je Vodafon. Po každé aktualizaci musím znovu zadávat své přihlašovací údaje i když mám nastavené biometrické ověření. Je to lenost a neschopnost programátorů, že tohle dopustí. A určitě to není z důvodu bezpečnostních. Pokud tuto možnost přihlašování po každé aktualizaci nepotřebuje bankovní aplikace George, tak nevím proč by to nešlo i u Vodafonu.",
+      "text_normalized": "nejhorsi aplikace od korporatu jako je vodafon. po kazde aktualizaci musim znovu zadavat sve prihlasovaci udaje i kdyz mam nastavene biometricke overeni. je to lenost a neschopnost programatoru, ze tohle dopusti. a urcite to neni z duvodu bezpecnostnich. pokud tuto moznost prihlasovani po kazde aktualizaci nepotrebuje bankovni aplikace george, tak nevim proc by to neslo i u vodafonu.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-06-18T14:30:34.746Z",
+      "replyText": "Pěkný den, Seilane,\nano, u některých aktualizací může dojít k vynucenému přihlášení zadáním přihlašovacích údajů. Následně pak již biometrické přihlášení funguje standardně. Veronika",
+      "version": "3.14.0"
+    },
+    {
+      "id": "7d06c9e1-b2bb-48b6-bce1-e0f4bd2a1a9a",
+      "userName": "Jan Pou",
+      "date": "2026-06-18T12:36:35.831Z",
+      "score": 5,
+      "text": "super apka",
+      "text_normalized": "super apka",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-18T12:55:48.133Z",
+      "replyText": "Pěkný den, Jane,\nděkujeme za hodnocení 🙂 Veronika",
+      "version": null
+    },
     {
       "id": "6a2699e7-db4e-4e56-a03c-b9b403811eed",
       "userName": "John",
@@ -31173,8 +31202,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2125,
-    "extractedAt": "2026-06-19T09:46:30.040Z",
+    "totalReviewsExtracted": 2127,
+    "extractedAt": "2026-06-20T08:23:16.978Z",
     "source": "google-play"
   }
 }

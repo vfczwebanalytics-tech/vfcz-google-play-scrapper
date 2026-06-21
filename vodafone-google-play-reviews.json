@@ -1,18 +1,85 @@
 {
   "ratings": {
-    "score": 3.796545,
+    "score": 3.802682,
     "scoreText": "3,8",
-    "totalRatings": 5591,
-    "totalReviews": 2298,
+    "totalRatings": 5602,
+    "totalReviews": 2301,
     "histogram": {
       "1": 1223,
       "2": 181,
-      "3": 332,
+      "3": 321,
       "4": 622,
-      "5": 3229
+      "5": 3251
     }
   },
   "reviews": [
+    {
+      "id": "409f5ac2-0e5a-4375-9f8d-8a99c330c4da",
+      "userName": "Martin Broda",
+      "date": "2026-06-19T14:30:13.387Z",
+      "score": 1,
+      "text": "teame Vodafone, jste břídilové když nedokážete ani udělat tak primitivní aplikaci. proč se pořád ohlašuje a stále dokola vyžadujete ověřování z SMS, já chci prostě jen otisk prstu. k tomu je aplikace strašně pomalá. suverénně nejhorší aplikace co mám v telefonu",
+      "text_normalized": "teame vodafone, jste bridilove kdyz nedokazete ani udelat tak primitivni aplikaci. proc se porad ohlasuje a stale dokola vyzadujete overovani z sms, ja chci proste jen otisk prstu. k tomu je aplikace strasne pomala. suverenne nejhorsi aplikace co mam v telefonu",
+      "segments": [
+        "Vykonnost",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-06-19T15:26:25.399Z",
+      "replyText": "Hezký den, Martine,\nje mi líto, že máte potíže s biometrickým přihlášením 🙁 Zkuste aplikaci přeinstalovat a poté biometriku povolit znovu. Věřím, že to bude v pořádku. Pokud by potíže trvaly, zavolejte nám na linku *77 a nebo nám napište přes zabezpečený formulář https://tam.je/dotaz a prověříme to. Zuzana",
+      "version": "3.14.0"
+    },
+    {
+      "id": "34741009-f200-4711-8ff2-243ad4749aeb",
+      "userName": "Mr58962",
+      "date": "2026-06-19T13:35:40.909Z",
+      "score": 1,
+      "text": "Fuu, to jsem nečekal. 21. století a aplikace, co nejenže nic neumí a vše otevírá ve stránkách vypadajících, jako kdyby je někdo psal v Goldenu v roce 2006, ale k tomu ani vyúčtování neotevře. Pro operátora je děsivý problém rozdělit fakturační skupiny. No, lituji, že jsem přešel od T-Mobile k Vodafonu a jejich apce. Hnus. Dva měsíce a už mám vážné důvody vzít OKU kódy a jít. Blahopřeji, to se ještě v tak krátké době nepovedlo nikomu. 😅 P.S. Hlavně mi prosím nepište, že ji mám reinstalovat.",
+      "text_normalized": "fuu, to jsem necekal. 21. stoleti a aplikace, co nejenze nic neumi a vse otevira ve strankach vypadajicich, jako kdyby je nekdo psal v goldenu v roce 2006, ale k tomu ani vyuctovani neotevre. pro operatora je desivy problem rozdelit fakturacni skupiny. no, lituji, ze jsem presel od t-mobile k vodafonu a jejich apce. hnus. dva mesice a uz mam vazne duvody vzit oku kody a jit. blahopreji, to se jeste v tak kratke dobe nepovedlo nikomu. 😅 p.s. hlavne mi prosim nepiste, ze ji mam reinstalovat.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-06-19T14:29:21.245Z",
+      "replyText": "Hezký den,\nje mi líto, že jste s aplikací nespokojený 🙁 Zavolejte nám na linku *77 a nebo nám napište přes zabezpečený formulář https://tam.je/dotaz a rádi se s vámi na celou situaci znovu podíváme. Zuzana",
+      "version": "3.14.0"
+    },
+    {
+      "id": "c8ac31c4-f14e-42d5-8bf2-9806f6e3dcd7",
+      "userName": "Walter Ambrož",
+      "date": "2026-06-19T12:55:27.972Z",
+      "score": 1,
+      "text": "katastrofa. jinak tuto aplikaci nazvat nelze. pomalá, čeká se dlouho načítá nesmyslné ikony. neintuitivní nejhorší s čím jsem se kdy setkal",
+      "text_normalized": "katastrofa. jinak tuto aplikaci nazvat nelze. pomala, ceka se dlouho nacita nesmyslne ikony. neintuitivni nejhorsi s cim jsem se kdy setkal",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-06-19T13:12:50.891Z",
+      "replyText": "Hezký den, Ambroži,\nje mi líto, že jste s aplikací nespokojený 🙁 V tuto chvíli doporučím aplikaci přeinstalovat, věřím, že to pomůže. Pokud by potíže přetrvávaly, zavolejte nám na linku *77 a kolegové se na to s vámi rádi podívají. Zuzana",
+      "version": "3.7.1"
+    },
+    {
+      "id": "d357416a-1d4a-4ed2-bcb6-231e1d890dfd",
+      "userName": "Jan Morava",
+      "date": "2026-06-19T10:55:32.580Z",
+      "score": 1,
+      "text": "Aplikace nefunguje, nelze se do ni ani přihlásit. Operátor neustále zvyšuje cenu služby a na oplátku vydá nefungující aplikaci s nefungující podporou, která je absolutně nepřehledná. Většinu času se do aplikace nelze ani přihlásit a když už se na stý pokus povede, přivítá mě 1000 vyskakovacích oken kreré všechny potřebujou odkliknout nebo něco. Nevidím ani kdy se mi obnovuje tarif ale hlavně že jsem dostal 30% slevu na předplatné nějakého postiženého časopisu. Přestupuji k T-mobilu.",
+      "text_normalized": "aplikace nefunguje, nelze se do ni ani prihlasit. operator neustale zvysuje cenu sluzby a na oplatku vyda nefungujici aplikaci s nefungujici podporou, ktera je absolutne neprehledna. vetsinu casu se do aplikace nelze ani prihlasit a kdyz uz se na sty pokus povede, privita me 1000 vyskakovacich oken krere vsechny potrebujou odkliknout nebo neco. nevidim ani kdy se mi obnovuje tarif ale hlavne ze jsem dostal 30% slevu na predplatne nejakeho postizeneho casopisu. prestupuji k t-mobilu.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-19T11:05:03.926Z",
+      "replyText": "Dobrý den, Jane,\nmrzí mě , že vám aplikace nevyhovuje, a budeme se snažit, aby s ní byla vaše zkušenost do budoucna lepší. Pokud bychom vám mohli s něčím pomoci, prosím napište nám přes https://tam.je/dotaz nebo nám zavolejte na *77 – rádi pomůžeme. Viki",
+      "version": "3.14.0"
+    },
     {
       "id": "a381baed-4df1-4562-a30c-846b8c5ec1d3",
       "userName": "Seilan Moon",
@@ -31202,8 +31269,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2127,
-    "extractedAt": "2026-06-20T08:23:16.978Z",
+    "totalReviewsExtracted": 2131,
+    "extractedAt": "2026-06-21T08:58:50.379Z",
     "source": "google-play"
   }
 }
