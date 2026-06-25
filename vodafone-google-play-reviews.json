@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 3.879017,
+    "score": 3.9238095,
     "scoreText": "3,9",
-    "totalRatings": 5629,
-    "totalReviews": 2304,
+    "totalRatings": 5637,
+    "totalReviews": 2308,
     "histogram": {
-      "1": 1127,
-      "2": 180,
-      "3": 318,
-      "4": 617,
-      "5": 3383
+      "1": 1083,
+      "2": 160,
+      "3": 310,
+      "4": 622,
+      "5": 3457
     }
   },
   "reviews": [
+    {
+      "id": "46150628-cca8-4d4f-91b3-cf6a72402290",
+      "userName": "Vladimír Reiner",
+      "date": "2026-06-23T09:33:49.410Z",
+      "score": 5,
+      "text": "Vše OK.",
+      "text_normalized": "vse ok.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-23T09:45:38.463Z",
+      "replyText": "Dobrý den, Vladimíre,\nděkuji vám za zpětnou vazbu a hezké hodnocení 🙂 Katka",
+      "version": "3.14.0"
+    },
     {
       "id": "8201cdb6-078b-4a48-b5da-815ce6c37b85",
       "userName": "Václav Krhounek",
@@ -31325,8 +31339,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2135,
-    "extractedAt": "2026-06-24T08:24:54.873Z",
+    "totalReviewsExtracted": 2136,
+    "extractedAt": "2026-06-25T08:25:21.556Z",
     "source": "google-play"
   }
 }
