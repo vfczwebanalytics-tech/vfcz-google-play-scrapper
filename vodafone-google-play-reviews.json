@@ -1,18 +1,78 @@
 {
   "ratings": {
-    "score": 3.9410646,
+    "score": 3.9451797,
     "scoreText": "3,9",
-    "totalRatings": 5643,
-    "totalReviews": 2309,
+    "totalRatings": 5658,
+    "totalReviews": 2311,
     "histogram": {
-      "1": 1083,
+      "1": 1080,
       "2": 138,
-      "3": 299,
-      "4": 621,
-      "5": 3496
+      "3": 298,
+      "4": 630,
+      "5": 3507
     }
   },
   "reviews": [
+    {
+      "id": "808361a4-473b-47f8-a092-20660848bbd0",
+      "userName": "Josef Spike Peterka",
+      "date": "2026-06-26T03:07:56.803Z",
+      "score": 2,
+      "text": "Aplikace neumí stále witgety na plochu, AI neřekne, kolik dat mi zbývá. aspoň poradí sms, ale ... Správcovský číslo se zase řadí jako poslední, prostě nepřehledné.. i 2⭐ jsou moc.",
+      "text_normalized": "aplikace neumi stale witgety na plochu, ai nerekne, kolik dat mi zbyva. aspon poradi sms, ale ... spravcovsky cislo se zase radi jako posledni, proste neprehledne.. i 2⭐ jsou moc.",
+      "segments": [
+        "UI",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-06-26T05:38:06.365Z",
+      "replyText": "Hezký den, Josefe,\nje mi líto, že jste nespokojený 🙁 V nových verzích aplikace už widgety nepodporujeme. Přehled o své útratě však nadále v aplikaci uvidíte. Zobrazovanou službu nastavíte jednoduše, vyberte nabídku Účet - Nastavení a oprávnění k účtu - Výchozí služba. Zuzana",
+      "version": "3.14.1"
+    },
+    {
+      "id": "b3f42463-ba04-47fd-a2c8-7cf79b189fde",
+      "userName": "Jarmila Koldova",
+      "date": "2026-06-25T17:27:23.512Z",
+      "score": 5,
+      "text": "pohoda",
+      "text_normalized": "pohoda",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-25T17:55:00.874Z",
+      "replyText": "Hezký den, Jarmilo, děkujeme za hodnocení 🙂 Vaše spokojenost je nás důležitá. Petra",
+      "version": "3.11.0"
+    },
+    {
+      "id": "e6be4606-16cb-4b14-81a9-5e5679e25924",
+      "userName": "Marcel Sláma",
+      "date": "2026-06-25T17:07:13.341Z",
+      "score": 1,
+      "text": "Proč doprdele zase nejde přihlásit se, opět a znova, stále dokola.",
+      "text_normalized": "proc doprdele zase nejde prihlasit se, opet a znova, stale dokola.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-06-25T17:30:44.579Z",
+      "replyText": "Hezký den, Marceli, je mi líto, že máte potíže s přihlášením do aplikace 🙁 Zkuste ji prosím přeinstalovat, a pokud by to nepomohlo, napište nám prosím na aplikace@vodafone.cz. Pomůžeme vám. Petra\n",
+      "version": "3.14.1"
+    },
+    {
+      "id": "c9c3a613-0b97-4472-81d2-2225b9c2be86",
+      "userName": "Karel Jánský",
+      "date": "2026-06-25T14:54:28.964Z",
+      "score": 5,
+      "text": "hvězdičky to potvrzují",
+      "text_normalized": "hvezdicky to potvrzuji",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-25T15:25:30.139Z",
+      "replyText": "Hezký den, Karle, děkujeme za hodnocení 🙂 Vaše spokojenost je pro vás důležitá. Petra",
+      "version": "3.13.2"
+    },
     {
       "id": "b2daa52a-8a68-47b4-a9d4-47d3b81119d1",
       "userName": "Jana Farkasova",
@@ -31383,8 +31443,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2139,
-    "extractedAt": "2026-06-26T08:32:10.605Z",
+    "totalReviewsExtracted": 2143,
+    "extractedAt": "2026-06-27T07:51:40.147Z",
     "source": "google-play"
   }
 }

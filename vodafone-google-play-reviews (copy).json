@@ -1,18 +1,62 @@
 {
   "ratings": {
-    "score": 3.9238095,
+    "score": 3.9410646,
     "scoreText": "3,9",
-    "totalRatings": 5637,
-    "totalReviews": 2308,
+    "totalRatings": 5643,
+    "totalReviews": 2309,
     "histogram": {
       "1": 1083,
-      "2": 160,
-      "3": 310,
-      "4": 622,
-      "5": 3457
+      "2": 138,
+      "3": 299,
+      "4": 621,
+      "5": 3496
     }
   },
   "reviews": [
+    {
+      "id": "b2daa52a-8a68-47b4-a9d4-47d3b81119d1",
+      "userName": "Jana Farkasova",
+      "date": "2026-06-25T06:07:57.513Z",
+      "score": 1,
+      "text": "nefunguje v ní nic, vyučování nezobrazuje, smlouvu...",
+      "text_normalized": "nefunguje v ni nic, vyucovani nezobrazuje, smlouvu...",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-25T06:23:05.226Z",
+      "replyText": "Hezký den, Jano,\nje mi líto, pokud máte s aplikací potíže 🙁 Zkuste ji prosím přeinstalovat. Pokud to nepomůže, napište nám prosím detaily přes https://tam.je/dotaz, rádi se na to podíváme konkrétněji. Lucie",
+      "version": "3.14.0"
+    },
+    {
+      "id": "261dcad8-4a6c-49ba-861e-3aaf1ca6e310",
+      "userName": "David Vesely",
+      "date": "2026-06-24T15:27:53.904Z",
+      "score": 3,
+      "text": "Xiaomi 17 T pro je docela dobrý telefon protože o němu mám koloběžku zdarma a to je docela výhodný obchod dík",
+      "text_normalized": "xiaomi 17 t pro je docela dobry telefon protoze o nemu mam kolobezku zdarma a to je docela vyhodny obchod dik",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-24T15:50:09.482Z",
+      "replyText": "Pěkný den, Davide,\njsem ráda, že jste s telefonem spokojený. Pokud byste měl zpětnou vazbu i k aplikaci Můj Vodafone+, budeme za ni rádi 🙂 Lucie",
+      "version": "3.14.1"
+    },
+    {
+      "id": "8c73723e-15a7-4499-8227-77795b70a3f9",
+      "userName": "Michal Kasík",
+      "date": "2026-06-24T11:49:10.810Z",
+      "score": 1,
+      "text": "aplikace otvírá stejně vše v internetovém prohlížeči, ukazuje rozdílné ceny oproti webové verzi, což ani po urgenci nikdo neřeší. ošklivý design by mi ani tak nevadil, kdyby bylo vše funkční... některé odkazy v apce prostě nikam nevedou nebo se zobrazí prázdný json. Raději chodím na webovou verzi můj Vodafone a to ještě jen verze pro počítač. jak už někdo psal, dal bych si facku, že jsem se všemi službami přešel k Vodafone. jaký operátor, takové služby...",
+      "text_normalized": "aplikace otvira stejne vse v internetovem prohlizeci, ukazuje rozdilne ceny oproti webove verzi, coz ani po urgenci nikdo neresi. osklivy design by mi ani tak nevadil, kdyby bylo vse funkcni... nektere odkazy v apce proste nikam nevedou nebo se zobrazi prazdny json. radeji chodim na webovou verzi muj vodafone a to jeste jen verze pro pocitac. jak uz nekdo psal, dal bych si facku, ze jsem se vsemi sluzbami presel k vodafone. jaky operator, takove sluzby...",
+      "segments": [
+        "UI",
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-06-24T12:20:23.931Z",
+      "replyText": "Pěkný den, Michale,\nje mi líto, že nejste s aplikací spokojený 🙁 V případě, že sledujete chybné chování, napište nám prosím podrobnosti přes zabezpečený formulář na https://tam.je/dotaz, abychom to mohli řešit konkrétněji. Lucie\n",
+      "version": "3.14.1"
+    },
     {
       "id": "46150628-cca8-4d4f-91b3-cf6a72402290",
       "userName": "Vladimír Reiner",
@@ -31339,8 +31383,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2136,
-    "extractedAt": "2026-06-25T08:25:21.556Z",
+    "totalReviewsExtracted": 2139,
+    "extractedAt": "2026-06-26T08:32:10.605Z",
     "source": "google-play"
   }
 }
