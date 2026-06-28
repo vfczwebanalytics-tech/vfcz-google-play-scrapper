@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 3.9451797,
+    "score": 3.9366853,
     "scoreText": "3,9",
-    "totalRatings": 5658,
-    "totalReviews": 2311,
+    "totalRatings": 5666,
+    "totalReviews": 2313,
     "histogram": {
-      "1": 1080,
-      "2": 138,
-      "3": 298,
-      "4": 630,
-      "5": 3507
+      "1": 1096,
+      "2": 136,
+      "3": 294,
+      "4": 632,
+      "5": 3502
     }
   },
   "reviews": [
+    {
+      "id": "690fcfc6-48f6-4ed2-8505-95e9275a2833",
+      "userName": "Marcela Antošová",
+      "date": "2026-06-26T12:19:01.329Z",
+      "score": 1,
+      "text": "jsem velmi nespokojena. chtela bych, abyste si robota dali za klobouk a poskytovali kvalitni sluzby prostrednictvim zivych lidi",
+      "text_normalized": "jsem velmi nespokojena. chtela bych, abyste si robota dali za klobouk a poskytovali kvalitni sluzby prostrednictvim zivych lidi",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-26T12:30:52.416Z",
+      "replyText": "Dobrý den, Marcelo,\nje mi líto, pokud máte špatnou zkušenost 🙁 TOBi ještě neumí odbavit úplně všechny komunikace, můžete se na nás obracet přes linku *77, formulář https://tam.je/dotaz nebo také přes samoobsluhu na webu v sekci Zeptejte se nás. Rádi vám pomůžeme. Viki",
+      "version": "3.14.0"
+    },
     {
       "id": "808361a4-473b-47f8-a092-20660848bbd0",
       "userName": "Josef Spike Peterka",
@@ -31443,8 +31457,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2143,
-    "extractedAt": "2026-06-27T07:51:40.147Z",
+    "totalReviewsExtracted": 2144,
+    "extractedAt": "2026-06-28T08:24:55.039Z",
     "source": "google-play"
   }
 }
