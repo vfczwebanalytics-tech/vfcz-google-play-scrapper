@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 3.9366853,
+    "score": 3.9410682,
     "scoreText": "3,9",
-    "totalRatings": 5666,
-    "totalReviews": 2313,
+    "totalRatings": 5673,
+    "totalReviews": 2316,
     "histogram": {
-      "1": 1096,
-      "2": 136,
-      "3": 294,
-      "4": 632,
-      "5": 3502
+      "1": 1085,
+      "2": 146,
+      "3": 292,
+      "4": 636,
+      "5": 3510
     }
   },
   "reviews": [
+    {
+      "id": "711c196a-2d68-470c-8064-91de07fc2b14",
+      "userName": "Slava Dragan",
+      "date": "2026-06-28T05:06:34.351Z",
+      "score": 5,
+      "text": "ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-28T06:48:32.923Z",
+      "replyText": "Dobrý den, Slavo,\nděkujeme vám za kladné hodnocení aplikace 🙂 Moc nás těší, že vám vyhovuje. Viki",
+      "version": "3.4.0"
+    },
     {
       "id": "690fcfc6-48f6-4ed2-8505-95e9275a2833",
       "userName": "Marcela Antošová",
@@ -31457,8 +31471,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2144,
-    "extractedAt": "2026-06-28T08:24:55.039Z",
+    "totalReviewsExtracted": 2145,
+    "extractedAt": "2026-06-29T09:51:50.515Z",
     "source": "google-play"
   }
 }
