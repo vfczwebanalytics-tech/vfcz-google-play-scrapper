@@ -1,18 +1,46 @@
 {
   "ratings": {
-    "score": 3.9410682,
-    "scoreText": "3,9",
-    "totalRatings": 5673,
-    "totalReviews": 2316,
+    "score": 3.954628,
+    "scoreText": "4,0",
+    "totalRatings": 5683,
+    "totalReviews": 2318,
     "histogram": {
-      "1": 1085,
-      "2": 146,
-      "3": 292,
-      "4": 636,
-      "5": 3510
+      "1": 1072,
+      "2": 144,
+      "3": 288,
+      "4": 638,
+      "5": 3536
     }
   },
   "reviews": [
+    {
+      "id": "2a3c5d93-5e18-41d9-adb4-2ce4b3f13368",
+      "userName": "Milan Makuňa",
+      "date": "2026-06-29T05:28:19.811Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-06-29T05:40:20.367Z",
+      "replyText": "Hezký den, Milane,\nděkujeme vám za hezké hodnocení 🙂 Jsem moc ráda, že vám aplikace Můj Vodafone+ vyhovuje. Viki",
+      "version": "3.14.1"
+    },
+    {
+      "id": "a883bf29-ca5a-4d73-99d2-de0832cfbab2",
+      "userName": "Miroslav Pouzar",
+      "date": "2026-06-29T04:04:57.902Z",
+      "score": 5,
+      "text": "Spolehlivost",
+      "text_normalized": "spolehlivost",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-29T05:19:39.452Z",
+      "replyText": "Dobrý den, Miroslave,\nmoc děkujeme za vaši pozitivní zpětnou vazbu 🙂 Mám radost, že vám aplikace vyhovuje, a věřím, že s ní budete spokojený i nadále. Viki",
+      "version": "3.14.1"
+    },
     {
       "id": "711c196a-2d68-470c-8064-91de07fc2b14",
       "userName": "Slava Dragan",
@@ -31471,8 +31499,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2145,
-    "extractedAt": "2026-06-29T09:51:50.515Z",
+    "totalReviewsExtracted": 2147,
+    "extractedAt": "2026-06-30T08:32:13.234Z",
     "source": "google-play"
   }
 }
