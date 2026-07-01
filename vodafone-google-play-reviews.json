@@ -1,18 +1,64 @@
 {
   "ratings": {
-    "score": 3.954628,
-    "scoreText": "4,0",
-    "totalRatings": 5683,
-    "totalReviews": 2318,
+    "score": 3.9499073,
+    "scoreText": "3,9",
+    "totalRatings": 5694,
+    "totalReviews": 2321,
     "histogram": {
-      "1": 1072,
-      "2": 144,
-      "3": 288,
-      "4": 638,
-      "5": 3536
+      "1": 1088,
+      "2": 147,
+      "3": 284,
+      "4": 611,
+      "5": 3559
     }
   },
   "reviews": [
+    {
+      "id": "9b09e3d6-a4e0-473b-836b-5a758bc39d8e",
+      "userName": "Vladimír Pelant",
+      "date": "2026-06-30T08:20:28.740Z",
+      "score": 1,
+      "text": "Aplikace neobsahuje informaci, do kdy je aktivní služba GIGA karta - datové připojení, což je pro tuto kartu stejně důležitá informace jako výše a platnot kreditu. S odpovědí si neporadí ani TOBi. Takže nad sloganem \"Mějte svůj účet pod kontrolou kdykoli a kdekoli. Čerpání dat, minut nebo SMS? Vyúčtování? Všechno pěkně na jednom místě.\" se prosím zamyslete.",
+      "text_normalized": "aplikace neobsahuje informaci, do kdy je aktivni sluzba giga karta - datove pripojeni, coz je pro tuto kartu stejne dulezita informace jako vyse a platnot kreditu. s odpovedi si neporadi ani tobi. takze nad sloganem \"mejte svuj ucet pod kontrolou kdykoli a kdekoli. cerpani dat, minut nebo sms? vyuctovani? vsechno pekne na jednom miste.\" se prosim zamyslete.",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-06-30T09:07:36.844Z",
+      "replyText": "Hezký den, Vladimíre,\nmrzí mě, že s aplikací nejste spokojený 🙁 V ceně máte prvních 100 GB dat. Jakmile je spotřebujete, budete si moct data dokoupit za standardní cenu dle Ceníku. Veškeré informace najdete na našem webu - Podmínky Online Promo na předplacenou kartu „GIGA karta“. Zuzana",
+      "version": "3.14.1"
+    },
+    {
+      "id": "f6b9f5c9-f327-4d2d-be2c-5de693e1f7c4",
+      "userName": "Lukáš Dostal",
+      "date": "2026-06-30T07:21:00.883Z",
+      "score": 2,
+      "text": "AI chatbot je úplně k ničemu. Lidi ve Vodafonu se nemusí bát ze by jejich práci nahradilo AI",
+      "text_normalized": "ai chatbot je uplne k nicemu. lidi ve vodafonu se nemusi bat ze by jejich praci nahradilo ai",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-30T07:51:09.491Z",
+      "replyText": "Hezký den, Lukáši,\nmrzí mě, že nejste spokojený s TOBIm. TOBi generuje odpovědi s využitím AI, přičemž čerpá primárně z dostupných znalostních bází a předem připravených informací. V současnosti TOBi nepracuje s personalizovanými daty zákazníka, proto vás vždy předá na živého kolegu 🙂 Zuzana",
+      "version": "3.14.1"
+    },
+    {
+      "id": "d907dfd3-c96e-4686-be96-7ba4a12187b6",
+      "userName": "Kenzi Lovitsky",
+      "date": "2026-06-29T09:10:26.561Z",
+      "score": 1,
+      "text": "abych mohla zaplatit vyúčtování musím se přihlásit. abych se mohla přihlásit musím aktualizovat aplikaci jinak me to nepustí. jsem na dovolené..... opravdu tu nechci stahovat hloupou appku. velice na naprd služba. zdražování tarifu bez vašeho upozornění tom ani nemluvím/ s ohledem na nefunkčnost appky jsem rovnou odinstalovala.. je pozoruhodné že za 10 let nejste schopni udělat normalni appku na placení a souhrn služeb co zákazník chce a toho je druhá aplikace od vas. ta neschopnost je k pláči",
+      "text_normalized": "abych mohla zaplatit vyuctovani musim se prihlasit. abych se mohla prihlasit musim aktualizovat aplikaci jinak me to nepusti. jsem na dovolene..... opravdu tu nechci stahovat hloupou appku. velice na naprd sluzba. zdrazovani tarifu bez vaseho upozorneni tom ani nemluvim/ s ohledem na nefunkcnost appky jsem rovnou odinstalovala.. je pozoruhodne ze za 10 let nejste schopni udelat normalni appku na placeni a souhrn sluzeb co zakaznik chce a toho je druha aplikace od vas. ta neschopnost je k placi",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Cena"
+      ],
+      "replyDate": "2026-06-29T09:48:04.341Z",
+      "replyText": "Hezký den, Kenzi,\nje mi líto, že jste nespokojená 🙁 V nové verzi aplikace Můj Vodafone+ můžete hradit pohodlně online kartou (vč. Apple Pay a Google Pay). Další možnosti platby Vyúčtování najdete na tomto odkazu https://www.vodafone.cz/pece/vyuctovani-platby-kredit/platba-vyuctovani/jak-uhradit-vyuctovani/. Zuzana",
+      "version": "3.12.0"
+    },
     {
       "id": "2a3c5d93-5e18-41d9-adb4-2ce4b3f13368",
       "userName": "Milan Makuňa",
@@ -31499,8 +31545,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2147,
-    "extractedAt": "2026-06-30T08:32:13.234Z",
+    "totalReviewsExtracted": 2150,
+    "extractedAt": "2026-07-01T08:54:20.925Z",
     "source": "google-play"
   }
 }
