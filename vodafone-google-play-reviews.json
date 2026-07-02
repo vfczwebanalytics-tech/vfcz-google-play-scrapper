@@ -1,18 +1,46 @@
 {
   "ratings": {
-    "score": 3.9499073,
+    "score": 3.9345794,
     "scoreText": "3,9",
-    "totalRatings": 5694,
-    "totalReviews": 2321,
+    "totalRatings": 5702,
+    "totalReviews": 2324,
     "histogram": {
-      "1": 1088,
-      "2": 147,
-      "3": 284,
-      "4": 611,
-      "5": 3559
+      "1": 1107,
+      "2": 148,
+      "3": 287,
+      "4": 617,
+      "5": 3537
     }
   },
   "reviews": [
+    {
+      "id": "edbcfd3b-c696-4cfe-8902-a0fa60f3b6f6",
+      "userName": "iris iris",
+      "date": "2026-06-30T23:09:57.821Z",
+      "score": 1,
+      "text": "nepřehledná aplikace",
+      "text_normalized": "neprehledna aplikace",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-07-01T05:13:54.753Z",
+      "replyText": "Hezký den, iris,\nděkujeme za hodnocené aplikace, i když pro nás není moc pozitivní 🙁 Věřím, že do budoucna se vám aplikace bude líbit více. Zuzana",
+      "version": "3.14.1"
+    },
+    {
+      "id": "60190ebf-d3a7-4352-b23e-1f398a0b1ac3",
+      "userName": "Adam Hrncir",
+      "date": "2026-06-30T12:45:52.246Z",
+      "score": 1,
+      "text": "nejhloupější aplikace co byla vytvořena. Je to pomalej šrot co pořád jen točí a člověk čeká. To by snad i junior s claude code udelal lepší za jedno odpoledne. fuj",
+      "text_normalized": "nejhloupejsi aplikace co byla vytvorena. je to pomalej srot co porad jen toci a clovek ceka. to by snad i junior s claude code udelal lepsi za jedno odpoledne. fuj",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-06-30T13:13:05.245Z",
+      "replyText": "Dobrý den, Adame,\nje mi líto, že jste s aplikací nespokojený 🙁 Zkuste ji prosím odinstalovat a znovu stáhnout, případně přepnout mezi připojením přes Wi-Fi a přes mobilní data. Martina",
+      "version": "3.14.1"
+    },
     {
       "id": "9b09e3d6-a4e0-473b-836b-5a758bc39d8e",
       "userName": "Vladimír Pelant",
@@ -31545,8 +31573,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2150,
-    "extractedAt": "2026-07-01T08:54:20.925Z",
+    "totalReviewsExtracted": 2152,
+    "extractedAt": "2026-07-02T08:13:36.245Z",
     "source": "google-play"
   }
 }
