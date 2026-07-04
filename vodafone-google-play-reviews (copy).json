@@ -1,18 +1,60 @@
 {
   "ratings": {
-    "score": 3.9345794,
+    "score": 3.9236498,
     "scoreText": "3,9",
-    "totalRatings": 5702,
-    "totalReviews": 2324,
+    "totalRatings": 5714,
+    "totalReviews": 2327,
     "histogram": {
-      "1": 1107,
+      "1": 1127,
       "2": 148,
       "3": 287,
-      "4": 617,
-      "5": 3537
+      "4": 616,
+      "5": 3531
     }
   },
   "reviews": [
+    {
+      "id": "c2844046-dea1-4474-a22c-db1023d95a61",
+      "userName": "Il Iliev",
+      "date": "2026-07-01T19:05:33.949Z",
+      "score": 1,
+      "text": "Hodně zpomalena aplikace , 5 minuti načítání",
+      "text_normalized": "hodne zpomalena aplikace , 5 minuti nacitani",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-02T05:10:08.304Z",
+      "replyText": "Hezký den, mrzí mě, že máte potíže s načítáním aplikace 🙁 Zkuste ji prosím přeinstalovat. Mohlo by to pomoci. Petra",
+      "version": "3.14.1"
+    },
+    {
+      "id": "9a619597-fe2c-487b-973f-34aa77b519e2",
+      "userName": "Roman Velcovsky",
+      "date": "2026-07-01T12:37:38.209Z",
+      "score": 1,
+      "text": "Tato aplikace by se měla okamžitě zrušit......nic horšího a neintuitivniho jsem zatím nezažil.... styďte se",
+      "text_normalized": "tato aplikace by se mela okamzite zrusit......nic horsiho a neintuitivniho jsem zatim nezazil.... stydte se",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-07-01T12:48:33.994Z",
+      "replyText": "Hezký den, Romane, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.14.1"
+    },
+    {
+      "id": "1e07d478-2747-44ce-b9f8-c2ff08b9ca60",
+      "userName": "Petr Kyseľ",
+      "date": "2026-07-01T10:09:28.825Z",
+      "score": 1,
+      "text": "Nepoužitelná aplikace. Pořád dokola se musím přihlašovat",
+      "text_normalized": "nepouzitelna aplikace. porad dokola se musim prihlasovat",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-07-01T10:18:51.136Z",
+      "replyText": "Hezký den, Petře, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věří, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.14.1"
+    },
     {
       "id": "edbcfd3b-c696-4cfe-8902-a0fa60f3b6f6",
       "userName": "iris iris",
@@ -31573,8 +31615,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2152,
-    "extractedAt": "2026-07-02T08:13:36.245Z",
+    "totalReviewsExtracted": 2155,
+    "extractedAt": "2026-07-03T08:12:52.341Z",
     "source": "google-play"
   }
 }
