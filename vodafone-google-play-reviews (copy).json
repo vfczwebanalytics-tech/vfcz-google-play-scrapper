@@ -1,18 +1,60 @@
 {
   "ratings": {
-    "score": 3.9236498,
+    "score": 3.9334567,
     "scoreText": "3,9",
-    "totalRatings": 5714,
-    "totalReviews": 2327,
+    "totalRatings": 5726,
+    "totalReviews": 2329,
     "histogram": {
-      "1": 1127,
-      "2": 148,
-      "3": 287,
-      "4": 616,
-      "5": 3531
+      "1": 1110,
+      "2": 147,
+      "3": 295,
+      "4": 623,
+      "5": 3545
     }
   },
   "reviews": [
+    {
+      "id": "0789b826-32f2-43ad-968d-b2e7640ac423",
+      "userName": "Jan Morávek",
+      "date": "2026-07-02T19:55:27.884Z",
+      "score": 5,
+      "text": "Dobrá aplikace doporučuji každému velká změna systému je rychlejší za mě je to nejlepší volba.",
+      "text_normalized": "dobra aplikace doporucuji kazdemu velka zmena systemu je rychlejsi za me je to nejlepsi volba.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-03T05:26:53.576Z",
+      "replyText": "Hezký den, Jane,\nděkujeme za milé hodnocení 🙂 Máme radost, že vám nová verze aplikace vyhovuje a že oceňujete její rychlost i vylepšení. Budeme se snažit dál. Viki",
+      "version": "3.14.1"
+    },
+    {
+      "id": "497bee09-04a2-4d01-a983-2128124ad588",
+      "userName": "Hana Mrazikova",
+      "date": "2026-07-02T14:18:05.140Z",
+      "score": 3,
+      "text": "Moc se mi nelíbí,bez admin hesla mě nechce pustit dál,je to přece můj účet,tak jaké zase další heslo? Proč je vše tak složité....",
+      "text_normalized": "moc se mi nelibi,bez admin hesla me nechce pustit dal,je to prece muj ucet,tak jake zase dalsi heslo? proc je vse tak slozite....",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-07-02T14:26:15.628Z",
+      "replyText": "Hezký den, Hano,\nje mi líto, že vám aplikace nevyhovuje 🙁 V aplikaci Můj Vodafone+ jsou k dispozici citlivé osobní údaje, proto musí být zabezpečena heslem a dvoufázovým ověřením. Zkuste si nastavit biometrické přihlášení (Face ID nebo otisk prstu). Zuzana",
+      "version": "3.14.1"
+    },
+    {
+      "id": "6d412789-73b3-4299-8e17-657bcf3bd823",
+      "userName": "Libuse HANZALOVA",
+      "date": "2026-07-02T08:58:33.836Z",
+      "score": 5,
+      "text": "ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-02T09:20:32.843Z",
+      "replyText": "Hezký den, Libuše,\nděkujeme za zpětnou vazbu a jsem ráda, že jste spokojená 🙂 Katka",
+      "version": "3.14.1"
+    },
     {
       "id": "c2844046-dea1-4474-a22c-db1023d95a61",
       "userName": "Il Iliev",
@@ -31615,8 +31657,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2155,
-    "extractedAt": "2026-07-03T08:12:52.341Z",
+    "totalReviewsExtracted": 2158,
+    "extractedAt": "2026-07-04T07:49:52.299Z",
     "source": "google-play"
   }
 }

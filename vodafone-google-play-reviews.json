@@ -1,18 +1,46 @@
 {
   "ratings": {
-    "score": 3.9334567,
+    "score": 3.9449542,
     "scoreText": "3,9",
-    "totalRatings": 5726,
-    "totalReviews": 2329,
+    "totalRatings": 5729,
+    "totalReviews": 2331,
     "histogram": {
-      "1": 1110,
-      "2": 147,
-      "3": 295,
-      "4": 623,
-      "5": 3545
+      "1": 1103,
+      "2": 146,
+      "3": 283,
+      "4": 620,
+      "5": 3573
     }
   },
   "reviews": [
+    {
+      "id": "6f029504-cb74-4fda-bec8-acff6cd90e2e",
+      "userName": "Tomáš Harazím",
+      "date": "2026-07-04T07:54:16.825Z",
+      "score": 5,
+      "text": "v pohodě",
+      "text_normalized": "v pohode",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-04T07:57:36.366Z",
+      "replyText": "Pěkný den, Tomáši,\nděkujeme vám za hodnocení. Těší mě, jestli se vám aplikace líbí 🙂 Lucie",
+      "version": "3.14.1"
+    },
+    {
+      "id": "c436c176-5804-43ef-a418-784a6705a764",
+      "userName": "Miroslav Kubeš",
+      "date": "2026-07-04T07:34:03.348Z",
+      "score": 5,
+      "text": "Jsem spokojen se službami dlouhé roky od ukončení Oskara 👍",
+      "text_normalized": "jsem spokojen se sluzbami dlouhe roky od ukonceni oskara 👍",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-04T07:58:16.897Z",
+      "replyText": "Pěkný den, Miroslave,\nděkujeme za hodnocení, to rádi slyšíme. Pevně doufám, že i do budoucna budete spokojený 🙂 Lucie",
+      "version": "3.14.0"
+    },
     {
       "id": "0789b826-32f2-43ad-968d-b2e7640ac423",
       "userName": "Jan Morávek",
@@ -31657,8 +31685,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2158,
-    "extractedAt": "2026-07-04T07:49:52.299Z",
+    "totalReviewsExtracted": 2160,
+    "extractedAt": "2026-07-05T08:04:48.040Z",
     "source": "google-play"
   }
 }
