@@ -1,18 +1,60 @@
 {
   "ratings": {
-    "score": 3.9449542,
-    "scoreText": "3,9",
-    "totalRatings": 5729,
-    "totalReviews": 2331,
+    "score": 3.9529836,
+    "scoreText": "4,0",
+    "totalRatings": 5737,
+    "totalReviews": 2335,
     "histogram": {
-      "1": 1103,
-      "2": 146,
-      "3": 283,
-      "4": 620,
-      "5": 3573
+      "1": 1088,
+      "2": 154,
+      "3": 279,
+      "4": 622,
+      "5": 3588
     }
   },
   "reviews": [
+    {
+      "id": "704ef12e-ca75-43ae-a73f-eda10b1e8274",
+      "userName": "Jakub Miksanik",
+      "date": "2026-07-05T08:18:22.186Z",
+      "score": 4,
+      "text": "V pořádku",
+      "text_normalized": "v poradku",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-05T08:31:54.573Z",
+      "replyText": "Pěkný den, Jakube,\nděkujeme vám za hodnocení. Jsem ráda, jestli jste s aplikací spokojený 🙂 Lucie",
+      "version": "3.14.1"
+    },
+    {
+      "id": "cae1814c-7e2f-4025-ade4-3594e6c89857",
+      "userName": "Martin Zdeněk",
+      "date": "2026-07-04T21:20:56.420Z",
+      "score": 5,
+      "text": "Ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-05T06:32:56.950Z",
+      "replyText": "Pěkný den, Martine,\nděkujeme vám za hodnocení 🙂 Lucie",
+      "version": "3.14.1"
+    },
+    {
+      "id": "32dcccde-ab58-47bb-a9f3-1b9de248e906",
+      "userName": "Honza Burian",
+      "date": "2026-07-04T20:31:06.166Z",
+      "score": 5,
+      "text": "za mě Vodafone super neměnil bych 👍",
+      "text_normalized": "za me vodafone super nemenil bych 👍",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-05T06:32:39.421Z",
+      "replyText": "Hezký den, Honzo,\nděkujeme vám za hodnocení. Jsem ráda, že jste spokojený 🙂 Lucie",
+      "version": "3.14.1"
+    },
     {
       "id": "6f029504-cb74-4fda-bec8-acff6cd90e2e",
       "userName": "Tomáš Harazím",
@@ -31685,8 +31727,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2160,
-    "extractedAt": "2026-07-05T08:04:48.040Z",
+    "totalReviewsExtracted": 2163,
+    "extractedAt": "2026-07-06T09:02:54.146Z",
     "source": "google-play"
   }
 }
