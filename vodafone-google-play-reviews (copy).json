@@ -1,18 +1,48 @@
 {
   "ratings": {
-    "score": 3.9529836,
-    "scoreText": "4,0",
-    "totalRatings": 5737,
-    "totalReviews": 2335,
+    "score": 3.9158878,
+    "scoreText": "3,9",
+    "totalRatings": 5746,
+    "totalReviews": 2342,
     "histogram": {
-      "1": 1088,
-      "2": 154,
-      "3": 279,
-      "4": 622,
-      "5": 3588
+      "1": 1137,
+      "2": 160,
+      "3": 289,
+      "4": 611,
+      "5": 3543
     }
   },
   "reviews": [
+    {
+      "id": "720df9ff-3da1-4bbc-9182-d1efaf1798f0",
+      "userName": "Jiří Jelínek",
+      "date": "2026-07-05T16:38:18.400Z",
+      "score": 1,
+      "text": "nefunguje přihlášení",
+      "text_normalized": "nefunguje prihlaseni",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-06T07:13:19.842Z",
+      "replyText": "Hezký den, Jiří, mrzí mě, že máte potíže s přihlášením 🙁 Napište nám prosím na aplikace@vodafone.cz. Pomůžeme vám. Petra\n",
+      "version": "3.14.1"
+    },
+    {
+      "id": "8ab318ab-54ab-4f38-bd2a-667d187244a1",
+      "userName": "Uživatel Googlu",
+      "date": "2026-07-05T10:36:26.692Z",
+      "score": 1,
+      "text": "aplikace úplně k hovnu, čím dál horší... operátor taky, odcházím",
+      "text_normalized": "aplikace uplne k hovnu, cim dal horsi... operator taky, odchazim",
+      "segments": [
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-07-05T11:59:45.590Z",
+      "replyText": "Hezký den,\nje mi líto, pokud se vám aplikace nelíbí a nejste spokojený se službami 🙁 Pokud budete mít konkrétnější zpětnou vazbu ke zlepšení, budeme za ni rádi. Lucie",
+      "version": "3.14.1"
+    },
     {
       "id": "704ef12e-ca75-43ae-a73f-eda10b1e8274",
       "userName": "Jakub Miksanik",
@@ -31727,8 +31757,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2163,
-    "extractedAt": "2026-07-06T09:02:54.146Z",
+    "totalReviewsExtracted": 2165,
+    "extractedAt": "2026-07-07T08:26:40.407Z",
     "source": "google-play"
   }
 }
