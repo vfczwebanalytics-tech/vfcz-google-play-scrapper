@@ -1,18 +1,109 @@
 {
   "ratings": {
-    "score": 3.9158878,
+    "score": 3.9147005,
     "scoreText": "3,9",
-    "totalRatings": 5746,
-    "totalReviews": 2342,
+    "totalRatings": 5762,
+    "totalReviews": 2345,
     "histogram": {
-      "1": 1137,
-      "2": 160,
-      "3": 289,
-      "4": 611,
-      "5": 3543
+      "1": 1139,
+      "2": 166,
+      "3": 292,
+      "4": 605,
+      "5": 3554
     }
   },
   "reviews": [
+    {
+      "id": "49b8d085-3b48-432d-be14-db13327ae359",
+      "userName": "Miloslav Koníček",
+      "date": "2026-07-07T04:26:06.178Z",
+      "score": 3,
+      "text": "je to hrůza, vůbec nic nefunguje. aspoň ten přehled při neomezeném tarifu je super. to je jako se dívat na televizi, vědět co dávají a obraz nikde.",
+      "text_normalized": "je to hruza, vubec nic nefunguje. aspon ten prehled pri neomezenem tarifu je super. to je jako se divat na televizi, vedet co davaji a obraz nikde.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-07T05:19:32.842Z",
+      "replyText": "Pěkný den, Miloslave,\nje mi líto, pokud jste s něčím nespokojený 🙁 Rádi se na to podíváme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie\n",
+      "version": "3.14.1"
+    },
+    {
+      "id": "ac35e254-e17b-4d11-90f1-13d551d94bc8",
+      "userName": "Vana Krejca",
+      "date": "2026-07-06T22:47:26.911Z",
+      "score": 5,
+      "text": "Docela rad musim upravit hodnoceni kladnym smerem. Aplikace je na mem DG S88 opet funkci po predchozim \"vylepseni zabezpeceni\". Dekuji vyvojarum za opravu zadrhele a omlouvam se za predchozi ostry koment. Diky 👍",
+      "text_normalized": "docela rad musim upravit hodnoceni kladnym smerem. aplikace je na mem dg s88 opet funkci po predchozim \"vylepseni zabezpeceni\". dekuji vyvojarum za opravu zadrhele a omlouvam se za predchozi ostry koment. diky 👍",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-07T05:18:16.198Z",
+      "replyText": "Pěkný den,\nděkujeme vám za zpětnou vazbu. Jsem ráda, že je nyní vše v pořádku 🙂 Lucie",
+      "version": "3.14.1"
+    },
+    {
+      "id": "9fae7637-3bbb-4210-a32d-37023d8f2abd",
+      "userName": "Radek Z",
+      "date": "2026-07-06T18:25:45.702Z",
+      "score": 1,
+      "text": "nefunguje, černy display, nereaguje",
+      "text_normalized": "nefunguje, cerny display, nereaguje",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-07T05:17:11.936Z",
+      "replyText": "Hezký den, Radku,\nje mi líto, že máte potíže s aplikací 😢 Doporučuji ji přeinstalovat, věřím, že poté bude vše v pořádku. Pokud by potíže přetrvávaly, zavolejte nám na linku *77 a kolegové se na to s vámi podívají. Zuzana",
+      "version": "3.14.1"
+    },
+    {
+      "id": "250799fd-be1e-49f7-8c19-d6a7625827bd",
+      "userName": "David Panocha",
+      "date": "2026-07-06T12:04:56.790Z",
+      "score": 1,
+      "text": "Aplikace k prdu. Přihlašujete se po měsíci? Tak to máte s otiskem smůlu a musite vyplnit přihlašovací údaje včetně ověřovacího kódu. Chcete zaplatit přes GPay? Tak to máte smůlu, protože aplikace k platbě leze přes web a bez vyskakovacích oken nefunguje, prestože žádná jiná aplikace s platbou přes GPay se stejným nastavenim telefonu nemá problém. Takže nakonec jen vygeneruje qr kód, který by mohl vodafone poslat mailem či do SMS 🤦",
+      "text_normalized": "aplikace k prdu. prihlasujete se po mesici? tak to mate s otiskem smulu a musite vyplnit prihlasovaci udaje vcetne overovaciho kodu. chcete zaplatit pres gpay? tak to mate smulu, protoze aplikace k platbe leze pres web a bez vyskakovacich oken nefunguje, prestoze zadna jina aplikace s platbou pres gpay se stejnym nastavenim telefonu nema problem. takze nakonec jen vygeneruje qr kod, ktery by mohl vodafone poslat mailem ci do sms 🤦",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-06T12:58:16.985Z",
+      "replyText": "Hezký den, Davide, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Platnost biometrického přihlášení je opravdu 30 dnů. Na vylepšení aplikace ale stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.14.1"
+    },
+    {
+      "id": "563389ec-ccdc-4a79-bfdd-2c2452007898",
+      "userName": "Sisi Saidova",
+      "date": "2026-07-06T11:50:00.321Z",
+      "score": 2,
+      "text": "Zobrazované informace nesedí s realitou a aplikace reaguje velmi pomalu.",
+      "text_normalized": "zobrazovane informace nesedi s realitou a aplikace reaguje velmi pomalu.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-06T12:05:54.803Z",
+      "replyText": "Hezký den, Sisi, je mi líto, pokud máte v aplikaci nesrovnalosti 🙁 Napište nám prosím podrobnosti přes zabezpečený formulář https://tam.je/dotaz. Prověříme to. Petra\n",
+      "version": "3.14.1"
+    },
+    {
+      "id": "5cfc3bed-d2f0-48d5-974f-1211f4861f25",
+      "userName": "Antonín Husník",
+      "date": "2026-07-06T09:12:10.561Z",
+      "score": 5,
+      "text": "👍",
+      "text_normalized": "👍",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-06T09:36:39.665Z",
+      "replyText": "Hezký den, Antoníne, děkujeme za hodnocení 🙂 Těší mě, že jste s aplikací spokojený. Petra",
+      "version": "3.14.1"
+    },
     {
       "id": "720df9ff-3da1-4bbc-9182-d1efaf1798f0",
       "userName": "Jiří Jelínek",
@@ -31757,8 +31848,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2165,
-    "extractedAt": "2026-07-07T08:26:40.407Z",
+    "totalReviewsExtracted": 2171,
+    "extractedAt": "2026-07-08T07:31:50.145Z",
     "source": "google-play"
   }
 }
