@@ -1,18 +1,67 @@
 {
   "ratings": {
-    "score": 3.9147005,
+    "score": 3.877095,
     "scoreText": "3,9",
-    "totalRatings": 5762,
-    "totalReviews": 2345,
+    "totalRatings": 5770,
+    "totalReviews": 2350,
     "histogram": {
-      "1": 1139,
-      "2": 166,
-      "3": 292,
-      "4": 605,
-      "5": 3554
+      "1": 1203,
+      "2": 161,
+      "3": 279,
+      "4": 623,
+      "5": 3502
     }
   },
   "reviews": [
+    {
+      "id": "7a887b70-94b4-406e-937f-7a5c420542a9",
+      "userName": "Tomas Pisa",
+      "date": "2026-07-07T17:30:02.653Z",
+      "score": 1,
+      "text": "aplikace úplně na nic ale do slova nelze se tam přihlásit pokud se tam náhodou povede přihlásit tak se nemohu dostat do vyúčtování a furt mi to nabízí nějaké tarify i když žádný nechci přihlášení složitější a horší než do banky jako kdybych tam měl mít uloženou krypto měnu nevím kdo to vyvíjí ale ten se asi nad tím nikdy nezamyslel základní informace je když se přihlásit tak stav dát pokud mám nějaké omezení a platba či kolik mám provoláno a ne abych to někde složité hledal",
+      "text_normalized": "aplikace uplne na nic ale do slova nelze se tam prihlasit pokud se tam nahodou povede prihlasit tak se nemohu dostat do vyuctovani a furt mi to nabizi nejake tarify i kdyz zadny nechci prihlaseni slozitejsi a horsi nez do banky jako kdybych tam mel mit ulozenou krypto menu nevim kdo to vyviji ale ten se asi nad tim nikdy nezamyslel zakladni informace je kdyz se prihlasit tak stav dat pokud mam nejake omezeni a platba ci kolik mam provolano a ne abych to nekde slozite hledal",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-07T17:42:02.360Z",
+      "replyText": "Pěkný den, Tomáši,\nděkujeme za zpětnou vazbu. Je mi líto, že je pro vás aplikace zbytečně složitá. Pokud budete potřebovat pomoc z naší strany, neváhejte nás kontaktovat přes https://tam.je/dotaz. Veronika",
+      "version": null
+    },
+    {
+      "id": "4cdd511f-a59c-4afd-a815-68cad6fd0bd0",
+      "userName": "Miloslav Henzl",
+      "date": "2026-07-07T15:55:35.482Z",
+      "score": 1,
+      "text": "Problém s přihlášením opět, již jsem do aplikace přihlášený byl, nastavil jsem biometrické přihlášení, po několikátém funkčním přihlášení, opět vyžadováno přihlášení pomocí emailu. Aplikace se neumí vrátit do místa kde je vyžadováno zadání kódu z emailu. Takže začarovaný kruh. Na venek super prezentace firmy, ale aplikaci navrhovalo dítě z základní školy.",
+      "text_normalized": "problem s prihlasenim opet, jiz jsem do aplikace prihlaseny byl, nastavil jsem biometricke prihlaseni, po nekolikatem funkcnim prihlaseni, opet vyzadovano prihlaseni pomoci emailu. aplikace se neumi vratit do mista kde je vyzadovano zadani kodu z emailu. takze zacarovany kruh. na venek super prezentace firmy, ale aplikaci navrhovalo dite z zakladni skoly.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-07T16:14:30.985Z",
+      "replyText": "Pěkný den, Miloslave,\ntato situace nastane pro aktualizace aplikace, poté si stačí znovu biometriku nastavit. Veronika",
+      "version": "3.14.1"
+    },
+    {
+      "id": "1f9f1863-866d-4d2c-9b64-50cdc7ee6562",
+      "userName": "DominikChuran",
+      "date": "2026-07-07T10:07:14.788Z",
+      "score": 4,
+      "text": "více dat a budete jich mít 5, nechápu proč v Česku zaostáváme",
+      "text_normalized": "vice dat a budete jich mit 5, nechapu proc v cesku zaostavame",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-07T10:10:52.382Z",
+      "replyText": "Pěkný den, Dominiku,\nděkujeme za zpětnou vazbu. Pokud potřebujete řešit nastavení vašich služeb, spojte se prosím se zákaznickou linkou na čísle 800 77 00 77. Veronika",
+      "version": "3.14.1"
+    },
     {
       "id": "49b8d085-3b48-432d-be14-db13327ae359",
       "userName": "Miloslav Koníček",
@@ -31848,8 +31897,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2171,
-    "extractedAt": "2026-07-08T07:31:50.145Z",
+    "totalReviewsExtracted": 2174,
+    "extractedAt": "2026-07-09T08:31:43.525Z",
     "source": "google-play"
   }
 }
