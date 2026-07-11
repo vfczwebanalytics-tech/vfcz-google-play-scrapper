@@ -1,18 +1,89 @@
 {
   "ratings": {
-    "score": 3.8957953,
+    "score": 3.8972478,
     "scoreText": "3,9",
-    "totalRatings": 5780,
-    "totalReviews": 2354,
+    "totalRatings": 5795,
+    "totalReviews": 2357,
     "histogram": {
-      "1": 1182,
-      "2": 147,
-      "3": 273,
-      "4": 654,
-      "5": 3517
+      "1": 1169,
+      "2": 158,
+      "3": 286,
+      "4": 658,
+      "5": 3519
     }
   },
   "reviews": [
+    {
+      "id": "13e43c40-aa3f-41e1-8eb6-4e98d1124b17",
+      "userName": "Jakub Eichler",
+      "date": "2026-07-10T01:36:44.102Z",
+      "score": 1,
+      "text": "Vyházet celý team vývojářů, této aplikace! K Vodafone jsem nuceně přešel, při ukončení Sazkamobilu. Aplikace od Sazky fungovala, narozdíl o této 💩, perfektně. Aplikace buď neustále padá, nebo se načítá déle, než jak trvá zapnutí počítače s Windows 95. O přehlednosti a aktivaci balíčků v aplikaci, raději psát ani nebudu. Protože na to ani neexistují, vhodná slova.",
+      "text_normalized": "vyhazet cely team vyvojaru, teto aplikace! k vodafone jsem nucene presel, pri ukonceni sazkamobilu. aplikace od sazky fungovala, narozdil o teto 💩, perfektne. aplikace bud neustale pada, nebo se nacita dele, nez jak trva zapnuti pocitace s windows 95. o prehlednosti a aktivaci balicku v aplikaci, radeji psat ani nebudu. protoze na to ani neexistuji, vhodna slova.",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ],
+      "replyDate": "2026-07-10T05:11:57.639Z",
+      "replyText": "Pěkný den, Jakube,\nobvykle aplikace funguje bez potíží. Odinstalujte ji, telefon vypněte a zapněte a znovu ji nainstalujte, tím budete mít jistotu, že využíváte její poslední verzi. Pokud s tím budete mít i nadále potíže, napište nám podrobnosti přes https://tam.je/dotaz. Veronika",
+      "version": "3.14.1"
+    },
+    {
+      "id": "66b68396-0757-446b-86b3-4f96a81268d8",
+      "userName": "Xo oX",
+      "date": "2026-07-09T22:04:32.626Z",
+      "score": 1,
+      "text": "Naštěstí Vodafone nemám, ale nastavoval jsem něco na mobilu přítelkyně a málem jsem hodil telefonem o zeď, jak jakákoliv změna sebevíc nedůležitého nastavení trvala...a trvala...a trvala...a nakonec oznámení o chybě.",
+      "text_normalized": "nastesti vodafone nemam, ale nastavoval jsem neco na mobilu pritelkyne a malem jsem hodil telefonem o zed, jak jakakoliv zmena sebevic neduleziteho nastaveni trvala...a trvala...a trvala...a nakonec oznameni o chybe.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-07-10T05:10:31.987Z",
+      "replyText": "Pěkný den,\nto mě moc mrzí 🙁 Pokud s tím má přítelkyně potíže, ať se nám prosím ozve s podrobnostmi přes https://tam.je/dotaz. Doporučuji také aplikaci odinstalovat a znovu nainstalovat, tím bude mít jistotu, že má její poslední verzi, to může také způsobit popisované potíže. Veronika",
+      "version": "3.14.1"
+    },
+    {
+      "id": "bbd72367-7db0-47fd-952a-68e4f3edbbce",
+      "userName": "S P",
+      "date": "2026-07-09T14:33:26.800Z",
+      "score": 2,
+      "text": "Je to pomalé, když si otevřu služby a chci více, 2x se to načte a potom už to nereaguje. Tudíž si nemohu otevřít ani nastavit více služeb. No aplikace před tímto \"plusem\" byla rychlejší a přehlednější. Ne vždy je lepší něco zajeteho zlepšovat 🤷",
+      "text_normalized": "je to pomale, kdyz si otevru sluzby a chci vice, 2x se to nacte a potom uz to nereaguje. tudiz si nemohu otevrit ani nastavit vice sluzeb. no aplikace pred timto \"plusem\" byla rychlejsi a prehlednejsi. ne vzdy je lepsi neco zajeteho zlepsovat 🤷",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-07-09T15:01:55.424Z",
+      "replyText": "Hezký den,\nje mi líto, že nejste s aplikací spokojená 🙁 V tomto případě doporučuji aplikaci přeinstalovat, věřím, že to bude v pořádku. Pokud by potíže přetrvávaly, zavolejte nám na linku *77 a kolegové e na to s vámi rádi podívají. Zuzana",
+      "version": "3.14.1"
+    },
+    {
+      "id": "656ecde5-c613-4c67-8f1f-8d590f255440",
+      "userName": "Pavel Štefl",
+      "date": "2026-07-09T13:30:54.430Z",
+      "score": 5,
+      "text": "skvělé",
+      "text_normalized": "skvele",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-09T13:46:49.538Z",
+      "replyText": "Hezký den, Pavle,\njsme rádi, že se vám aplikace líbí 🙂 Zuzana",
+      "version": "3.10.0"
+    },
+    {
+      "id": "89a52617-6d25-40ff-a12f-ed72beb65c1d",
+      "userName": "Kveta Stepankova",
+      "date": "2026-07-09T08:41:48.578Z",
+      "score": 5,
+      "text": "S aplikaci jsem spokojena",
+      "text_normalized": "s aplikaci jsem spokojena",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-09T08:46:16.258Z",
+      "replyText": "Pěkný den, Květo,\nděkujeme za hodnocení aplikace. Těší mě, že jste s ní spokojená 🙂 Lucie",
+      "version": "3.14.1"
+    },
     {
       "id": "f7bb79a8-d88e-4535-8541-29fdb054f30a",
       "userName": "Jaroslav Růžička",
@@ -31981,8 +32052,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2180,
-    "extractedAt": "2026-07-10T08:26:32.126Z",
+    "totalReviewsExtracted": 2185,
+    "extractedAt": "2026-07-11T07:14:11.435Z",
     "source": "google-play"
   }
 }

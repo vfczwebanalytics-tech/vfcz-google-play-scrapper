@@ -1,18 +1,102 @@
 {
   "ratings": {
-    "score": 3.877095,
+    "score": 3.8957953,
     "scoreText": "3,9",
-    "totalRatings": 5770,
-    "totalReviews": 2350,
+    "totalRatings": 5780,
+    "totalReviews": 2354,
     "histogram": {
-      "1": 1203,
-      "2": 161,
-      "3": 279,
-      "4": 623,
-      "5": 3502
+      "1": 1182,
+      "2": 147,
+      "3": 273,
+      "4": 654,
+      "5": 3517
     }
   },
   "reviews": [
+    {
+      "id": "f7bb79a8-d88e-4535-8541-29fdb054f30a",
+      "userName": "Jaroslav Růžička",
+      "date": "2026-07-09T07:16:34.474Z",
+      "score": 4,
+      "text": "problemove spojeni",
+      "text_normalized": "problemove spojeni",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-07-09T07:46:39.263Z",
+      "replyText": "Pěkný den, Jaroslave,\nje mi líto, pokud máte nějaké potíže 🙁 Rádi se na to podíváme konkrétněji, když nám napíšete detaily přes https://tam.je/dotaz nebo zavoláte na 800 77 00 77. Lucie",
+      "version": "3.14.1"
+    },
+    {
+      "id": "d2112735-3b5a-410d-a33e-57c7ecce1633",
+      "userName": "Jan Dvořák",
+      "date": "2026-07-09T00:28:58.458Z",
+      "score": 5,
+      "text": "spokojenost",
+      "text_normalized": "spokojenost",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-09T05:21:40.264Z",
+      "replyText": "Dobrý den, Jane,\nděkuji vám za nejvyšší možné hodnocení a jsem ráda, že jste spokojený 🙂 Katka",
+      "version": "3.14.1"
+    },
+    {
+      "id": "7497f4b2-62c0-4e91-84c4-093fa6dc41ea",
+      "userName": "Petr Dobeš",
+      "date": "2026-07-08T20:47:08.888Z",
+      "score": 5,
+      "text": "jsem spokojen.",
+      "text_normalized": "jsem spokojen.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-09T05:20:38.376Z",
+      "replyText": "Hezký den, Petře,\nděkujeme za hodnocení a jsem moc ráda, že jste spokojený 🙂 Katka",
+      "version": "3.14.1"
+    },
+    {
+      "id": "588f79e1-2d85-4b4c-842e-c7e3caf67ae5",
+      "userName": "Pavel Šůs",
+      "date": "2026-07-08T17:37:27.100Z",
+      "score": 4,
+      "text": "V pohodě 😂👍",
+      "text_normalized": "v pohode 😂👍",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-08T17:43:55.768Z",
+      "replyText": "Dobrý den, Pavle,\nděkujeme vám za hodnocení a zpětnou vazbu 🙂 Viki",
+      "version": "3.14.1"
+    },
+    {
+      "id": "5021be7d-9483-4737-99f5-431df48dd34c",
+      "userName": "Jan Kroll",
+      "date": "2026-07-08T10:51:00.160Z",
+      "score": 1,
+      "text": "Po nainstalování poslední doporučené aktualizace tato aplikace zamrzne hned po spuštění. Vše je vidět jako zašedlé a neaktivní. Opakovany restart aplikace nepomohl. Nepomohlo ani odinstalovani a nová instalace aplikace. Po vyplnění všech vstupních nastavení aplikace opět zamrzla na hlavni zašedlé obrazovce.",
+      "text_normalized": "po nainstalovani posledni doporucene aktualizace tato aplikace zamrzne hned po spusteni. vse je videt jako zasedle a neaktivni. opakovany restart aplikace nepomohl. nepomohlo ani odinstalovani a nova instalace aplikace. po vyplneni vsech vstupnich nastaveni aplikace opet zamrzla na hlavni zasedle obrazovce.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-08T11:27:48.756Z",
+      "replyText": "Hezký den, Jane,\nmrzí mě, že máte potíže s aplikací 🙁 Zavolejte nám na linku *77 a kolegové se na to s vámi rádi podívají. Zuzana",
+      "version": "3.4.1"
+    },
+    {
+      "id": "0f37c524-f9f6-4f62-9891-bf2db521af64",
+      "userName": "Alena Bastyrova",
+      "date": "2026-07-08T10:47:23.770Z",
+      "score": 4,
+      "text": "Jste super",
+      "text_normalized": "jste super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-08T11:27:12.305Z",
+      "replyText": "Hezký den, Aleno,\nděkujeme vám, moc si toho vážíme 🙂 Zuzana",
+      "version": "3.9.0"
+    },
     {
       "id": "7a887b70-94b4-406e-937f-7a5c420542a9",
       "userName": "Tomas Pisa",
@@ -31897,8 +31981,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2174,
-    "extractedAt": "2026-07-09T08:31:43.525Z",
+    "totalReviewsExtracted": 2180,
+    "extractedAt": "2026-07-10T08:26:32.126Z",
     "source": "google-play"
   }
 }
