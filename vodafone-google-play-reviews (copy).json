@@ -1,18 +1,76 @@
 {
   "ratings": {
-    "score": 3.901099,
+    "score": 3.9071038,
     "scoreText": "3,9",
-    "totalRatings": 5811,
-    "totalReviews": 2360,
+    "totalRatings": 5823,
+    "totalReviews": 2365,
     "histogram": {
-      "1": 1170,
+      "1": 1156,
       "2": 148,
-      "3": 297,
-      "4": 659,
-      "5": 3533
+      "3": 306,
+      "4": 678,
+      "5": 3531
     }
   },
   "reviews": [
+    {
+      "id": "1d44edca-c43c-4b00-baca-0dddb4a63e93",
+      "userName": "Alena Hanáková",
+      "date": "2026-07-12T08:17:11.776Z",
+      "score": 4,
+      "text": "trochu nepřehledné",
+      "text_normalized": "trochu neprehledne",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-07-12T08:58:47.260Z",
+      "replyText": "Dobrý den,\nděkujeme za hodnocení a zpětnou vazbu 🙂 Katka",
+      "version": "3.14.1"
+    },
+    {
+      "id": "b7e0f260-63e7-4f70-84f1-a016b02a8e0a",
+      "userName": "Václav Tengl",
+      "date": "2026-07-12T07:42:18.621Z",
+      "score": 1,
+      "text": "nejde se přihlásit do můj Vodafone CZ",
+      "text_normalized": "nejde se prihlasit do muj vodafone cz",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-12T08:02:20.219Z",
+      "replyText": "Hezký den, Václave,\ndo aplikace se přihlásíte e-mailem a vlastním alfanumerickým heslem, poté SMS kódem. Pokud se vám to nedaří, zkuste aplikaci odinstalovat a znovu stáhnout. Mohlo by to pomoci :) Případně nám napište na aplikace@vodafone.cz. Katka",
+      "version": "3.14.1"
+    },
+    {
+      "id": "fc772be5-2343-41fd-994d-6682c0a1cbda",
+      "userName": "Ladislav Sindelar",
+      "date": "2026-07-11T17:11:34.311Z",
+      "score": 1,
+      "text": "Funguje vubec někdy někomu ta jejich aplikace?",
+      "text_normalized": "funguje vubec nekdy nekomu ta jejich aplikace?",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-12T07:41:34.168Z",
+      "replyText": "Dobrý den, Ladislave,\npokud vám aplikace vůbec nefunguje, zkuste ji prosím odinstalovat a znovu stáhnout. Kdyby potíže trvaly, napište nám na aplikace@vodafone.cz a my všechno prověříme. Katka",
+      "version": null
+    },
+    {
+      "id": "07e49a83-b7fa-4990-b952-9f726600fbc3",
+      "userName": "Michael Vašek",
+      "date": "2026-07-11T14:46:41.880Z",
+      "score": 3,
+      "text": "Prosím, mohli byste udělat něco, aby mi čísla plátce vždycky nepřekrývaly okno? Zároveň nepotřebují a nechci vidět další dvě čísla, kde jedno je ze skoro 10 let staré zrušené služby, a to druhé je z něčeho ani nevím čeho, co jsem nikdy neměl. Když jsem aktivoval Vodafone, tak jsem to tam nemě, a za několik dní se to objevilo. Nechci to tam pořád vidět při každém otevření. Děkuju za pochopení!",
+      "text_normalized": "prosim, mohli byste udelat neco, aby mi cisla platce vzdycky neprekryvaly okno? zaroven nepotrebuji a nechci videt dalsi dve cisla, kde jedno je ze skoro 10 let stare zrusene sluzby, a to druhe je z neceho ani nevim ceho, co jsem nikdy nemel. kdyz jsem aktivoval vodafone, tak jsem to tam neme, a za nekolik dni se to objevilo. nechci to tam porad videt pri kazdem otevreni. dekuju za pochopeni!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-11T15:06:08.948Z",
+      "replyText": "Dobrý den, Michaeli,\nna vaši situaci se rádi podíváme konkrétně. Napište nám prosím na náš e-mail aplikace@vodafone.cz a my se vám budeme věnovat 🙂 Katka",
+      "version": "3.14.1"
+    },
     {
       "id": "eb7960aa-d8a2-4edd-a081-ca0d64ea7572",
       "userName": "Fordjob Fordjob",
@@ -32095,8 +32153,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2188,
-    "extractedAt": "2026-07-12T07:30:18.901Z",
+    "totalReviewsExtracted": 2192,
+    "extractedAt": "2026-07-13T08:19:06.545Z",
     "source": "google-play"
   }
 }

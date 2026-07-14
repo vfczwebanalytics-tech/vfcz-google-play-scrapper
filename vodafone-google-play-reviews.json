@@ -1,18 +1,47 @@
 {
   "ratings": {
-    "score": 3.9071038,
+    "score": 3.9307833,
     "scoreText": "3,9",
-    "totalRatings": 5823,
-    "totalReviews": 2365,
+    "totalRatings": 5835,
+    "totalReviews": 2373,
     "histogram": {
-      "1": 1156,
+      "1": 1126,
       "2": 148,
-      "3": 306,
-      "4": 678,
-      "5": 3531
+      "3": 308,
+      "4": 668,
+      "5": 3581
     }
   },
   "reviews": [
+    {
+      "id": "8f838da8-8e35-45fe-aefe-5dafbc4d9088",
+      "userName": "Tomáš Rod",
+      "date": "2026-07-13T07:08:22.243Z",
+      "score": 3,
+      "text": "nefunkční platba Google pay",
+      "text_normalized": "nefunkcni platba google pay",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-13T07:31:23.413Z",
+      "replyText": "Pěkný den, Tomáši,\nje mi líto, jestli máte s platbou potíže 🙁 Rádi to prověříme konkrétněji, když nám napíšete podrobnosti přes zabezpečený formulář na https://tam.je/dotaz. Lucie\n",
+      "version": null
+    },
+    {
+      "id": "35b6ff94-8d6f-4922-ac7a-1dce1d738f6a",
+      "userName": "Igor Souček",
+      "date": "2026-07-12T10:28:29.190Z",
+      "score": 5,
+      "text": "Skvělé služby... maximální spokojenost. Děkuji",
+      "text_normalized": "skvele sluzby... maximalni spokojenost. dekuji",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-12T11:15:51.390Z",
+      "replyText": "Dobrý den, Igore,\njsem ráda, že jste spokojený. Děkujeme za zpětnou vazbu 🙂 Katka",
+      "version": "3.14.1"
+    },
     {
       "id": "1d44edca-c43c-4b00-baca-0dddb4a63e93",
       "userName": "Alena Hanáková",
@@ -32153,8 +32182,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2192,
-    "extractedAt": "2026-07-13T08:19:06.545Z",
+    "totalReviewsExtracted": 2194,
+    "extractedAt": "2026-07-14T07:11:33.643Z",
     "source": "google-play"
   }
 }
