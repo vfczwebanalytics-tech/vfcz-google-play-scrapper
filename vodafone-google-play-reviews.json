@@ -1,18 +1,137 @@
 {
   "ratings": {
-    "score": 3.9307833,
+    "score": 3.9151626,
     "scoreText": "3,9",
-    "totalRatings": 5835,
+    "totalRatings": 5850,
     "totalReviews": 2373,
     "histogram": {
-      "1": 1126,
-      "2": 148,
-      "3": 308,
-      "4": 668,
-      "5": 3581
+      "1": 1129,
+      "2": 157,
+      "3": 337,
+      "4": 675,
+      "5": 3547
     }
   },
   "reviews": [
+    {
+      "id": "2e8707d9-6490-41b1-b414-4a6e9777bf85",
+      "userName": "Petr Janda",
+      "date": "2026-07-13T20:34:34.100Z",
+      "score": 1,
+      "text": "Nefunguje stále a opakovaně. Nepřehledné, nepřívětivé.",
+      "text_normalized": "nefunguje stale a opakovane. neprehledne, neprivetive.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-14T05:10:48.458Z",
+      "replyText": "Pěkný den, Petře,\naplikaci prosím odinstalujte, telefon vypněte a zapněte a znovu nainstalujte, tím budeme mít jistotu, že máte v telefonu její poslední verzi. Pokud se situace nezmění, pošlete nám k tomu podrobnosti a screenshoty na e-mail aplikace@vodafone.cz. Veronika",
+      "version": "3.14.1"
+    },
+    {
+      "id": "0dcdad78-58e5-4a82-902a-a8975742b476",
+      "userName": "Tatana Melnikova",
+      "date": "2026-07-13T18:59:27.250Z",
+      "score": 5,
+      "text": "Jsem s Vodafone dlouho a jsem spokojený zákazník",
+      "text_normalized": "jsem s vodafone dlouho a jsem spokojeny zakaznik",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-14T05:08:13.370Z",
+      "replyText": "Pěkný den, Tatano,\nděkujeme za milou zpětnou vazbu a hodnocení 🙂 Jsme rádi, že jste s námi spokojená 😍 Veronika",
+      "version": "3.10.0"
+    },
+    {
+      "id": "90639d26-6bc3-473d-99d2-cebe6baab99e",
+      "userName": "marian chodilek",
+      "date": "2026-07-13T18:43:56.832Z",
+      "score": 1,
+      "text": "Tak jsem byl DONUCEN vodafonem do nové appky a nechápu ten propadák. V appce nic není a nejde udělat. Mám tarif pro 4 členy. Po návštěvě prodejny jsem zjistil,že nelze sledovat spotřebu dat jednotlivých členu. Nechápu. Něco nastavit,je problém dohledat. Prosím o návrat staré appky.",
+      "text_normalized": "tak jsem byl donucen vodafonem do nove appky a nechapu ten propadak. v appce nic neni a nejde udelat. mam tarif pro 4 cleny. po navsteve prodejny jsem zjistil,ze nelze sledovat spotrebu dat jednotlivych clenu. nechapu. neco nastavit,je problem dohledat. prosim o navrat stare appky.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-14T05:09:27.678Z",
+      "replyText": "Pěkný den, Mariane,\nděkujeme za zpětnou vazbu, nicméně čerpání dat je v aplikaci viditelné. Veronika",
+      "version": "3.14.1"
+    },
+    {
+      "id": "ff2e606b-26ce-4fc4-91c4-87daeb39fdba",
+      "userName": "Aleš Ježek",
+      "date": "2026-07-13T14:05:41.784Z",
+      "score": 5,
+      "text": "super labombastic fantastic skolastic",
+      "text_normalized": "super labombastic fantastic skolastic",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-13T14:34:47.387Z",
+      "replyText": "Hezký den, Aleši,\nděkujeme vám za pozitivní hodnocení 🙂 Jsem ráda, že vám aplikace vyhovuje. Viki",
+      "version": null
+    },
+    {
+      "id": "d076160d-13d0-4c61-80ab-8af974ebc0a4",
+      "userName": "Věra Škultétyová",
+      "date": "2026-07-13T12:22:28.312Z",
+      "score": 1,
+      "text": "Nefunguje.. nenačítá se.",
+      "text_normalized": "nefunguje.. nenacita se.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-13T12:35:30.870Z",
+      "replyText": "Hezký den, Věro, je mi líto, že máte takové potíže 😕 Dnes 13. 7. jsme zaznamenali výpadek, který jsme už ale vyřešili. Prosím, případně aplikaci přeinstalujte. Kdyby to nepomohlo, napište nám prosím podrobnosti přes https://tam.je/dotaz. Viki",
+      "version": null
+    },
+    {
+      "id": "21514d36-83d1-4c7b-a01a-4863dd831046",
+      "userName": "Adam Rampáček",
+      "date": "2026-07-13T09:05:20.141Z",
+      "score": 3,
+      "text": "Velice oceňuji přidání možnosti plateb přes Google Pay. V aplikaci však tato možnost zobrazuje chybu a platba nelze provést. Přes web bez problémů.",
+      "text_normalized": "velice ocenuji pridani moznosti plateb pres google pay. v aplikaci vsak tato moznost zobrazuje chybu a platba nelze provest. pres web bez problemu.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-13T09:41:29.240Z",
+      "replyText": "Dobrý den, Adame,\npokud se vám ani příště nepodaří platbu provést, pořiďte prosím screenshot chybové hlášky a zavolejte nám na 800 77 00 77, abychom to mohli prověřit na základě konkrétního příkladu. Martina",
+      "version": "3.14.1"
+    },
+    {
+      "id": "a14f18f7-1322-4cb6-a690-078859a9ad1a",
+      "userName": "Roman Dobšík",
+      "date": "2026-07-13T08:47:55.440Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-13T09:01:08.118Z",
+      "replyText": "Dobrý den, Romane,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.14.1"
+    },
+    {
+      "id": "2ea583d7-3871-4af0-9a8f-5e9e4b3a734c",
+      "userName": "Michal Žďánský",
+      "date": "2026-07-13T08:38:56.380Z",
+      "score": 1,
+      "text": "Regulérně nejhorší aplikace. Problémy s přihlašováním, s biometrikou, se vším.",
+      "text_normalized": "regulerne nejhorsi aplikace. problemy s prihlasovanim, s biometrikou, se vsim.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-07-13T09:01:42.331Z",
+      "replyText": "Dobrý den, Michale,\nje mi líto, že vám aplikace nevyhovuje 🙁 Na jejích dalších úpravách a doplněních pracujeme, tak třeba s ní budete časem spokojenější. Martina",
+      "version": "3.14.1"
+    },
     {
       "id": "8f838da8-8e35-45fe-aefe-5dafbc4d9088",
       "userName": "Tomáš Rod",
@@ -32182,8 +32301,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2194,
-    "extractedAt": "2026-07-14T07:11:33.643Z",
+    "totalReviewsExtracted": 2202,
+    "extractedAt": "2026-07-15T07:17:51.307Z",
     "source": "google-play"
   }
 }
