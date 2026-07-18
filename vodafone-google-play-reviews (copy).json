@@ -1,18 +1,77 @@
 {
   "ratings": {
-    "score": 3.9169674,
+    "score": 3.897666,
     "scoreText": "3,9",
-    "totalRatings": 5862,
+    "totalRatings": 5878,
     "totalReviews": 2379,
     "histogram": {
-      "1": 1131,
-      "2": 157,
-      "3": 338,
-      "4": 665,
-      "5": 3565
+      "1": 1150,
+      "2": 168,
+      "3": 358,
+      "4": 653,
+      "5": 3545
     }
   },
   "reviews": [
+    {
+      "id": "4f9d2b15-6e9e-43d4-90b2-ac69fa32d81a",
+      "userName": "Vojtěch Matoušek",
+      "date": "2026-07-16T06:18:46.964Z",
+      "score": 1,
+      "text": "kazdy měsíc minimálně jedna aktualizace, přihlašování složitější než do internetoveho bankovnictví, absolutně nechapu proc se mam ověřovat přes e-mail, co vam je do meho mailu, aplikace prakticky nejde nikym zneuzit ale přesto musím furt menit hesla a spoustu obtížných, otravných a zbytečných kroků. kdyby jste radeji posilovali signál... jsem rozhodnuty od vas po 19 letech odejít",
+      "text_normalized": "kazdy mesic minimalne jedna aktualizace, prihlasovani slozitejsi nez do internetoveho bankovnictvi, absolutne nechapu proc se mam overovat pres e-mail, co vam je do meho mailu, aplikace prakticky nejde nikym zneuzit ale presto musim furt menit hesla a spoustu obtiznych, otravnych a zbytecnych kroku. kdyby jste radeji posilovali signal... jsem rozhodnuty od vas po 19 letech odejit",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-16T06:49:03.870Z",
+      "replyText": "Hezký den, Vojtěchu,\nmrzí mě, že nejste s aplikací spokojený 🙁 Pokud by se někdo dostal do vašeho účtu, mohl by vám způsobit finanční nebo jiné potíže. Aplikace je proto dostatečně ošetřena a vyžaduje dvoufázové ověření. Pokud si nastavíte biometriku, nemusíte při každém přihlášení zadávat heslo. Zuzana",
+      "version": null
+    },
+    {
+      "id": "8be1b585-286f-46d5-9ef0-d1aa73e4b2cd",
+      "userName": "Tomáš Hájek",
+      "date": "2026-07-15T19:04:36.137Z",
+      "score": 1,
+      "text": "strašný",
+      "text_normalized": "strasny",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-16T05:16:03.480Z",
+      "replyText": "Hezký den, Tomáši,\nmrzí mě, že nejste s aplikací spokojený 🙁 Pokud máte konkrétní podněty, budeme rádi, když nám o nich dáte vědět přes zabezpečený formulář https://tam.je/dotaz, abychom je mohli prověřit. Zuzana",
+      "version": "3.14.1"
+    },
+    {
+      "id": "d62333bd-0020-46a7-9015-7461bcfa3a97",
+      "userName": "Mira Macek",
+      "date": "2026-07-15T15:58:51.261Z",
+      "score": 5,
+      "text": "všé OK",
+      "text_normalized": "vse ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-15T16:10:17.392Z",
+      "replyText": "Hezký den, Míro, děkujeme za hodnocení 🙂 Vaše spokojenost je pro nás důležitá 🙂 Petra",
+      "version": "3.13.2"
+    },
+    {
+      "id": "7254e4c1-e3ce-4a65-9372-bbb68571a581",
+      "userName": "D jiricka",
+      "date": "2026-07-15T09:32:04.887Z",
+      "score": 1,
+      "text": "K čemu mám aplikaci, když 90% položek na které kliknu odkážou jen na html odkaz,který se otevře v aplikaci, a musím vždy dlouze čekat na načtení celého obsahu? Dobít kredit? Počkej si pár minut, než si vyberu za kolik a pak než mě to převede na platební bránu. Jednoduší a rychlejší už je si jít dobít do trafiky, jak za starých časů. Změna služby je vůbec katastrofa, protože musíte čekat na potvrzení, jinak už nezměníte nic. Naposled jsem čekal den na potvrzení, že si mohu zrušit internet.",
+      "text_normalized": "k cemu mam aplikaci, kdyz 90% polozek na ktere kliknu odkazou jen na html odkaz,ktery se otevre v aplikaci, a musim vzdy dlouze cekat na nacteni celeho obsahu? dobit kredit? pockej si par minut, nez si vyberu za kolik a pak nez me to prevede na platebni branu. jednodusi a rychlejsi uz je si jit dobit do trafiky, jak za starych casu. zmena sluzby je vubec katastrofa, protoze musite cekat na potvrzeni, jinak uz nezmenite nic. naposled jsem cekal den na potvrzeni, ze si mohu zrusit internet.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-15T09:42:40.297Z",
+      "replyText": "Hezký den, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že s ní budete do budoucna spokojenější. Petra",
+      "version": "3.14.1"
+    },
     {
       "id": "2e8707d9-6490-41b1-b414-4a6e9777bf85",
       "userName": "Petr Janda",
@@ -32301,8 +32360,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2202,
-    "extractedAt": "2026-07-16T07:25:20.905Z",
+    "totalReviewsExtracted": 2206,
+    "extractedAt": "2026-07-17T07:20:21.420Z",
     "source": "google-play"
   }
 }

@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 3.897666,
+    "score": 3.9018183,
     "scoreText": "3,9",
-    "totalRatings": 5878,
-    "totalReviews": 2379,
+    "totalRatings": 5895,
+    "totalReviews": 2383,
     "histogram": {
-      "1": 1150,
-      "2": 168,
-      "3": 358,
-      "4": 653,
-      "5": 3545
+      "1": 1146,
+      "2": 170,
+      "3": 364,
+      "4": 642,
+      "5": 3568
     }
   },
   "reviews": [
+    {
+      "id": "aa509a59-d063-4731-81b4-224e53822856",
+      "userName": "Johana Gregorová",
+      "date": "2026-07-16T13:24:13.244Z",
+      "score": 1,
+      "text": "Co měsíc chce člověk zaplatit vyúčtování, ale taky co měsíc musí člověk celou aplikaci aktualizovat... o ještě nedávné absenci platební brány se ani nezmiňuji 😒😒",
+      "text_normalized": "co mesic chce clovek zaplatit vyuctovani, ale taky co mesic musi clovek celou aplikaci aktualizovat... o jeste nedavne absenci platebni brany se ani nezminuji 😒😒",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-07-16T13:43:42.143Z",
+      "replyText": "Pěkný den,\nděkujeme vám za zpětnou vazbu, i když pro nás není pozitivní. Budeme se snažit, abyste s aplikací byla do budoucna spokojenější. Lucie\n",
+      "version": null
+    },
     {
       "id": "4f9d2b15-6e9e-43d4-90b2-ac69fa32d81a",
       "userName": "Vojtěch Matoušek",
@@ -32360,8 +32374,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2206,
-    "extractedAt": "2026-07-17T07:20:21.420Z",
+    "totalReviewsExtracted": 2207,
+    "extractedAt": "2026-07-18T07:01:35.424Z",
     "source": "google-play"
   }
 }
