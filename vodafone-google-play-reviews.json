@@ -1,18 +1,48 @@
 {
   "ratings": {
-    "score": 3.9018183,
+    "score": 3.899818,
     "scoreText": "3,9",
-    "totalRatings": 5895,
-    "totalReviews": 2383,
+    "totalRatings": 5904,
+    "totalReviews": 2388,
     "histogram": {
-      "1": 1146,
-      "2": 170,
-      "3": 364,
-      "4": 642,
-      "5": 3568
+      "1": 1150,
+      "2": 171,
+      "3": 375,
+      "4": 622,
+      "5": 3580
     }
   },
   "reviews": [
+    {
+      "id": "cbb9ecc6-9e9c-4652-b3e4-5ddcc40ec7e6",
+      "userName": "Pavel Vagner",
+      "date": "2026-07-18T05:25:50.419Z",
+      "score": 1,
+      "text": "nejde zapnout neomezená data na den, aplikace je hrozná, a ty automatické odpovědi na faktickou kritiku v recenzích ještě horši",
+      "text_normalized": "nejde zapnout neomezena data na den, aplikace je hrozna, a ty automaticke odpovedi na faktickou kritiku v recenzich jeste horsi",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-18T07:07:11.957Z",
+      "replyText": "Hezký den, Pavle, je mi líto, že máte potíže s aplikací Můj Vodafone+ 🙁 Napište nám prosím podrobnosti přes https://tam.je/dotaz. Na vše se s vámi podíváme konkrétněji. Petra\n",
+      "version": "3.14.1"
+    },
+    {
+      "id": "fb02f583-6e13-408d-8b69-9b3751c4b665",
+      "userName": "Jakub Bia",
+      "date": "2026-07-17T10:47:52.744Z",
+      "score": 1,
+      "text": "Tet jsi tvořím nový účet u Vodafonu vse jsem správně vyplnil a potom se mi ukáže okno jestli jsem robot a když to zmáčknout tak se mi smažou všechny informace a musim vyplňovat odznova uz mě to sere že nemůžu se přihlásit nevím co mám dělat",
+      "text_normalized": "tet jsi tvorim novy ucet u vodafonu vse jsem spravne vyplnil a potom se mi ukaze okno jestli jsem robot a kdyz to zmacknout tak se mi smazou vsechny informace a musim vyplnovat odznova uz me to sere ze nemuzu se prihlasit nevim co mam delat",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-17T11:23:40.322Z",
+      "replyText": "Dobrý den, Jakube,\npošlete nám prosím podrobnosti na aplikace@vodafone.cz včetně screenů této chyby, podíváme se na to. Viki",
+      "version": "3.14.1"
+    },
     {
       "id": "aa509a59-d063-4731-81b4-224e53822856",
       "userName": "Johana Gregorová",
@@ -32374,8 +32404,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2207,
-    "extractedAt": "2026-07-18T07:01:35.424Z",
+    "totalReviewsExtracted": 2209,
+    "extractedAt": "2026-07-19T07:28:58.553Z",
     "source": "google-play"
   }
 }
