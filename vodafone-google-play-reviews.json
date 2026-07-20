@@ -1,18 +1,102 @@
 {
   "ratings": {
-    "score": 3.899818,
+    "score": 3.908438,
     "scoreText": "3,9",
-    "totalRatings": 5904,
+    "totalRatings": 5921,
     "totalReviews": 2388,
     "histogram": {
-      "1": 1150,
-      "2": 171,
-      "3": 375,
-      "4": 622,
-      "5": 3580
+      "1": 1147,
+      "2": 169,
+      "3": 360,
+      "4": 636,
+      "5": 3603
     }
   },
   "reviews": [
+    {
+      "id": "7fdafb98-749a-439e-a85a-8eddf7877428",
+      "userName": "Tomáš Foferka",
+      "date": "2026-07-19T06:27:53.958Z",
+      "score": 5,
+      "text": "Famózní",
+      "text_normalized": "famozni",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-19T08:12:28.813Z",
+      "replyText": "Hezký den, Tomáši, děkujeme za vaše hodnocení. Vaše spokojenost je pro nás důležitá. Petra",
+      "version": "3.14.1"
+    },
+    {
+      "id": "685e079f-7b92-4c4c-a520-f9ebafec9cd9",
+      "userName": "bretislav zidlicky",
+      "date": "2026-07-18T19:20:54.172Z",
+      "score": 5,
+      "text": "nemá chybu",
+      "text_normalized": "nema chybu",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-07-19T08:10:57.137Z",
+      "replyText": "Hezký den, Břetislave, děkujeme za vaše milé hodnocení 🙂 Těší nás, že jste s aplikací spokojený. Petra",
+      "version": "3.14.1"
+    },
+    {
+      "id": "a344e0ec-b900-405e-abcd-fa7b9a5e7723",
+      "userName": "Marek Hauschwitz",
+      "date": "2026-07-18T17:55:28.512Z",
+      "score": 1,
+      "text": "Každé kliknutí způsobí 30vteřinové načítání další obrazovky. Bezkonkurenčně nejhorší aplikace, ze všech, které jsem kdy používal. Jak dokážete vyvíjet takhle špatnou aplikaci, která jen obaluje webovou stránku.",
+      "text_normalized": "kazde kliknuti zpusobi 30vterinove nacitani dalsi obrazovky. bezkonkurencne nejhorsi aplikace, ze vsech, ktere jsem kdy pouzival. jak dokazete vyvijet takhle spatnou aplikaci, ktera jen obaluje webovou stranku.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-19T08:09:47.543Z",
+      "replyText": "Hezký den, Marku, děkujeme za vaše hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám bude líbit více. Pokud se vám aplikace dlouho načítá, zkuste ji prosím přeinstalovat. Mohlo by to pomoci. Petra",
+      "version": "3.14.1"
+    },
+    {
+      "id": "e7fb1c2b-af22-4c71-8dea-dfea11302088",
+      "userName": "Jitka Hanzlíková",
+      "date": "2026-07-18T16:32:50.968Z",
+      "score": 4,
+      "text": "jsem spokojená",
+      "text_normalized": "jsem spokojena",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-19T08:08:20.963Z",
+      "replyText": "Hezký den, Jitko, děkujeme za vaše hodnocení 🙂 Vaše spokojenost je pro nás důležitá 🙂 Petra",
+      "version": "3.14.1"
+    },
+    {
+      "id": "d5c5125e-4fae-4af5-9a8f-a9d7d0bb03d5",
+      "userName": "Jirka Marada",
+      "date": "2026-07-18T14:22:31.149Z",
+      "score": 1,
+      "text": "Nevidím vyzvednutý dárek který jsem obdržel při stírání Vašeho losu ve vaší uváděné aplikaci!!! a navíc za mě je hodně nepřehledná a velmi silně nestabilní a když si chci změnit některé nastavení služeb tak je to ultra na dlouho. Asi brzy přejdu ke konkurenci, ani když to mám se slevou tak u neomezených tarifu máte hned omezené tarify za opravdu velké přemrštěné pálky ke kterým nemám ve finále ani trochu důvod jít do těchto tarifů.",
+      "text_normalized": "nevidim vyzvednuty darek ktery jsem obdrzel pri stirani vaseho losu ve vasi uvadene aplikaci!!! a navic za me je hodne neprehledna a velmi silne nestabilni a kdyz si chci zmenit nektere nastaveni sluzeb tak je to ultra na dlouho. asi brzy prejdu ke konkurenci, ani kdyz to mam se slevou tak u neomezenych tarifu mate hned omezene tarify za opravdu velke premrstene palky ke kterym nemam ve finale ani trochu duvod jit do techto tarifu.",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-07-18T15:00:11.167Z",
+      "replyText": "Hezký den, Jirko, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit. Pokud nevidíte v aplikaci dárek, napište nám prosím podrobnosti na https://tam.je/dotaz. Prověříme to. Petra\n",
+      "version": "3.14.1"
+    },
+    {
+      "id": "43c90ba4-f51f-4659-b386-3b41b0133979",
+      "userName": "Karel Rudolf",
+      "date": "2026-07-18T11:41:19.148Z",
+      "score": 2,
+      "text": "lačnim po poučení jak s tím pracovat",
+      "text_normalized": "lacnim po pouceni jak s tim pracovat",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-18T11:56:34.306Z",
+      "replyText": "Hezký den, Karle, děkujeme za vaše hodnocení. Spoustu odpovědí najdete v Centru péče na https://www.vodafone.cz/pece/muj-vodafone/aplikace-muj-vodafone/ 🙂 Petra",
+      "version": "3.14.1"
+    },
     {
       "id": "cbb9ecc6-9e9c-4652-b3e4-5ddcc40ec7e6",
       "userName": "Pavel Vagner",
@@ -32404,8 +32488,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2209,
-    "extractedAt": "2026-07-19T07:28:58.553Z",
+    "totalReviewsExtracted": 2215,
+    "extractedAt": "2026-07-20T08:08:59.161Z",
     "source": "google-play"
   }
 }
