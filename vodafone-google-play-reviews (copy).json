@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 3.908438,
+    "score": 3.9121864,
     "scoreText": "3,9",
-    "totalRatings": 5921,
-    "totalReviews": 2388,
+    "totalRatings": 5930,
+    "totalReviews": 2391,
     "histogram": {
-      "1": 1147,
+      "1": 1146,
       "2": 169,
       "3": 360,
-      "4": 636,
-      "5": 3603
+      "4": 626,
+      "5": 3623
     }
   },
   "reviews": [
+    {
+      "id": "c13c3901-b9f8-4cb6-a52e-9953a945107e",
+      "userName": "Robert Dvořák",
+      "date": "2026-07-19T15:14:00.215Z",
+      "score": 1,
+      "text": "vždyť se do toho nedá ani přihlásit. bílá stránka. takže nepoužitelný.",
+      "text_normalized": "vzdyt se do toho neda ani prihlasit. bila stranka. takze nepouzitelny.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-07-20T05:18:53.998Z",
+      "replyText": "Pěkný den, Roberte,\naplikaci prosím odinstalujte a znovu nainstalujte, tím budete mít jistotu, že máte v telefonu její poslední verzi. Pokud i poté budete mít s přihlášením potíže, pošlete nám podrobnosti a také screenshoty na e-mail aplikace@vodafone.cz. Veronika",
+      "version": "3.14.1"
+    },
     {
       "id": "7fdafb98-749a-439e-a85a-8eddf7877428",
       "userName": "Tomáš Foferka",
@@ -32488,8 +32502,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2215,
-    "extractedAt": "2026-07-20T08:08:59.161Z",
+    "totalReviewsExtracted": 2216,
+    "extractedAt": "2026-07-21T07:34:13.161Z",
     "source": "google-play"
   }
 }

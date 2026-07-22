@@ -1,18 +1,77 @@
 {
   "ratings": {
-    "score": 3.9121864,
+    "score": 3.9294755,
     "scoreText": "3,9",
-    "totalRatings": 5930,
-    "totalReviews": 2391,
+    "totalRatings": 5941,
+    "totalReviews": 2396,
     "histogram": {
-      "1": 1146,
-      "2": 169,
-      "3": 360,
-      "4": 626,
-      "5": 3623
+      "1": 1127,
+      "2": 182,
+      "3": 343,
+      "4": 612,
+      "5": 3673
     }
   },
   "reviews": [
+    {
+      "id": "49785a3c-e8da-4a15-aba9-7d85b3db18b3",
+      "userName": "Renata Votavova",
+      "date": "2026-07-21T07:27:31.271Z",
+      "score": 1,
+      "text": "časté potíže s přihlášením - nefunguje appka",
+      "text_normalized": "caste potize s prihlasenim - nefunguje appka",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-21T07:32:22.794Z",
+      "replyText": "Pěkný den, Renato,\nje mi líto, pokud máte s aplikací potíže 🙁 Rádi se na to podíváme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie",
+      "version": "3.15.0"
+    },
+    {
+      "id": "382f6396-c76d-42ff-95e2-b329113991e8",
+      "userName": "Tomáš Činčala",
+      "date": "2026-07-20T19:10:34.935Z",
+      "score": 5,
+      "text": "Udělali jste dobře, že jste tu starou aplikaci zahodili. Tato aplikace je stabilnější, funguje plynuleji a daří se vám ji postupně vylepšovat správným směrem.",
+      "text_normalized": "udelali jste dobre, ze jste tu starou aplikaci zahodili. tato aplikace je stabilnejsi, funguje plynuleji a dari se vam ji postupne vylepsovat spravnym smerem.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-21T05:13:07.440Z",
+      "replyText": "Hezký den, Tomáši, děkujeme za vaše milé hodnocení 🙂 Vaše spokojenost je pro nás důležitá 🙂 Petra",
+      "version": "3.15.0"
+    },
+    {
+      "id": "942f24ba-3852-40bb-8641-fd7ad0ceb874",
+      "userName": "Miroslav Hecl",
+      "date": "2026-07-20T10:41:45.140Z",
+      "score": 5,
+      "text": "OK",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-20T11:06:03.821Z",
+      "replyText": "Pěkný den, Miroslave,\nděkujeme za pozitivní hodnocení 🙂 Jsem ráda, že se vám aplikace líbí. Viki",
+      "version": "3.14.1"
+    },
+    {
+      "id": "947df699-043c-44a1-96c5-75f57d505611",
+      "userName": "Petr Kohout",
+      "date": "2026-07-20T10:36:38.831Z",
+      "score": 1,
+      "text": "aplikace hrůzy !!! neprehledna správa čísel. snad pokaždé musím aktualizovat a pokaždé znovu dohledat heslo... do banky se dostanu na 3 kliknutí i se všemi ověřeními , do Vodafonu 15 minut.",
+      "text_normalized": "aplikace hruzy !!! neprehledna sprava cisel. snad pokazde musim aktualizovat a pokazde znovu dohledat heslo... do banky se dostanu na 3 kliknuti i se vsemi overenimi , do vodafonu 15 minut.",
+      "segments": [
+        "UI",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-07-20T11:09:36.935Z",
+      "replyText": "Dobrý den, Petře,\nmrzí mě vaše nespokojenost s aplikací. Další zlepšení a funkcionality budou postupně zaváděny v rámci budoucích aktualizací. Věřím tak, že v budoucnu vám bude vyhovovat víc. Viki",
+      "version": "3.15.0"
+    },
     {
       "id": "c13c3901-b9f8-4cb6-a52e-9953a945107e",
       "userName": "Robert Dvořák",
@@ -32502,8 +32561,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2216,
-    "extractedAt": "2026-07-21T07:34:13.161Z",
+    "totalReviewsExtracted": 2220,
+    "extractedAt": "2026-07-22T07:36:54.253Z",
     "source": "google-play"
   }
 }
