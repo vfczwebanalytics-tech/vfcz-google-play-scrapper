@@ -1,18 +1,92 @@
 {
   "ratings": {
-    "score": 3.9294755,
+    "score": 3.911032,
     "scoreText": "3,9",
-    "totalRatings": 5941,
-    "totalReviews": 2396,
+    "totalRatings": 5950,
+    "totalReviews": 2398,
     "histogram": {
-      "1": 1127,
-      "2": 182,
-      "3": 343,
-      "4": 612,
-      "5": 3673
+      "1": 1153,
+      "2": 190,
+      "3": 338,
+      "4": 613,
+      "5": 3652
     }
   },
   "reviews": [
+    {
+      "id": "e5bb34db-f9dc-40ff-90d2-e06a32db8155",
+      "userName": "Paul",
+      "date": "2026-07-22T02:34:07.472Z",
+      "score": 5,
+      "text": "Zatim ok aplikace od vodafonu.Jen by bylo dobry udělat wedget!Please",
+      "text_normalized": "zatim ok aplikace od vodafonu.jen by bylo dobry udelat wedget!please",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-22T05:08:54.653Z",
+      "replyText": "Dobrý den, Paule,\nděkujeme za vaše hodnocení 🙂 Widget zatím neplánujeme, ale je možné, že se to časem změní. Martina",
+      "version": "3.14.1"
+    },
+    {
+      "id": "0d9d6215-aca2-4fe6-b75b-93bfed529c02",
+      "userName": "Jiří Holeček",
+      "date": "2026-07-21T16:22:50.723Z",
+      "score": 1,
+      "text": "Po aktualizaci se už 15min točí logo a nic se neděje. Hodnotit něco co nefunguje moc nejde.",
+      "text_normalized": "po aktualizaci se uz 15min toci logo a nic se nedeje. hodnotit neco co nefunguje moc nejde.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-21T16:37:17.511Z",
+      "replyText": "Dobrý den, Jiří,\nprosím zkuste případně ještě přeinstalaci nebo taky přepnout z mobilních dat na Wi-Fi (nebo naopak), tyto kroky by měly pomoci. Viki",
+      "version": "3.15.0"
+    },
+    {
+      "id": "21b163ae-cea5-4f19-9ac6-f1c9f3f6dce8",
+      "userName": "Jaroslav Bartos",
+      "date": "2026-07-21T11:13:42.210Z",
+      "score": 1,
+      "text": "K ničemu jenom se točí znak Vodafonu a nic.",
+      "text_normalized": "k nicemu jenom se toci znak vodafonu a nic.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-21T11:33:14.963Z",
+      "replyText": "Hezký den, Jaroslave,\nje mi líto, pokud vám aplikace nefunguje správně 🙁 Zkuste ji prosím přeinstalovat. V případě, že to nepomůže, napište nám podrobnosti přes https://tam.je/dotaz, abychom se na to mohli podívat. Lucie",
+      "version": "3.15.0"
+    },
+    {
+      "id": "e633952e-839d-4eef-b183-e9e5e920a599",
+      "userName": "Marek Bouček",
+      "date": "2026-07-21T08:25:54.693Z",
+      "score": 1,
+      "text": "neustále hlásí chybu ověření. aplikace je tudíž k ničemu, když si nemůžu upravovat balicky. nutí lidi volat na linku aby vam mohli cpát dalsi nesmysly",
+      "text_normalized": "neustale hlasi chybu overeni. aplikace je tudiz k nicemu, kdyz si nemuzu upravovat balicky. nuti lidi volat na linku aby vam mohli cpat dalsi nesmysly",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-21T08:33:02.973Z",
+      "replyText": "Pěkný den, Marku,\nje mi líto, pokud máte s aplikací potíže 🙁 Zkuste ji prosím přeinstalovat. V případě, že by to nepomáhalo, napište nám podrobnosti přes https://tam.je/dotaz, rádi se na vše podíváme. Lucie",
+      "version": "3.15.0"
+    },
+    {
+      "id": "1df44007-20d9-4224-9f25-4c498dd3425e",
+      "userName": "Leo Taska",
+      "date": "2026-07-21T08:08:06.545Z",
+      "score": 4,
+      "text": "Super funkce.",
+      "text_normalized": "super funkce.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-21T08:33:23.521Z",
+      "replyText": "Hezký den, Leo,\nděkujeme za hodnocení. Těší mě, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.15.0"
+    },
     {
       "id": "49785a3c-e8da-4a15-aba9-7d85b3db18b3",
       "userName": "Renata Votavova",
@@ -32561,8 +32635,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2220,
-    "extractedAt": "2026-07-22T07:36:54.253Z",
+    "totalReviewsExtracted": 2225,
+    "extractedAt": "2026-07-23T07:35:06.623Z",
     "source": "google-play"
   }
 }
