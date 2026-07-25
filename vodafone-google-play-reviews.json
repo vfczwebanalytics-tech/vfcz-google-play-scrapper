@@ -1,18 +1,61 @@
 {
   "ratings": {
-    "score": 3.927928,
+    "score": 3.9199288,
     "scoreText": "3,9",
-    "totalRatings": 5956,
-    "totalReviews": 2400,
+    "totalRatings": 5964,
+    "totalReviews": 2405,
     "histogram": {
-      "1": 1126,
-      "2": 192,
-      "3": 331,
-      "4": 632,
-      "5": 3669
+      "1": 1145,
+      "2": 190,
+      "3": 328,
+      "4": 625,
+      "5": 3670
     }
   },
   "reviews": [
+    {
+      "id": "1858f858-67c2-446b-8a90-55496500147b",
+      "userName": "Jiřì Zlatohlàvek",
+      "date": "2026-07-24T04:46:58.356Z",
+      "score": 1,
+      "text": "Proč nevidím aktuální úhradu?Jen hláška připravujeme!!!!Dříve tam byla normálně částka!!!!Furt to Vaše zlepšování k HORŠÍMU 😡😡😡😡😡!!!!",
+      "text_normalized": "proc nevidim aktualni uhradu?jen hlaska pripravujeme!!!!drive tam byla normalne castka!!!!furt to vase zlepsovani k horsimu 😡😡😡😡😡!!!!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-24T05:17:00.987Z",
+      "replyText": "Pěkný den, Jiří,\npravděpodobně myslíte aktuální útratu, ta je na hlavní stránce stále. V případě, že máte nastavené GIGA Kombo a měníte nastavení v průběhu zúčtovacího období, může se tato informace zobrazit. Veronika",
+      "version": "3.15.0"
+    },
+    {
+      "id": "d0b42a0f-55be-4b57-b76c-864641a46ae5",
+      "userName": "Mo W",
+      "date": "2026-07-23T13:57:49.275Z",
+      "score": 1,
+      "text": "Hrozná nepřehledná vše trvá neuvěřitelně dlouho.Aplikaci zjednodušit zrychlit bez nutnosti se někde neustále registrovat stačí se přihlásit číslem biometrikou.",
+      "text_normalized": "hrozna neprehledna vse trva neuveritelne dlouho.aplikaci zjednodusit zrychlit bez nutnosti se nekde neustale registrovat staci se prihlasit cislem biometrikou.",
+      "segments": [
+        "UI",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-07-23T14:12:07.821Z",
+      "replyText": "Pěkný den,\naplikaci prosím odinstalujte, telefon vypněte a zapněte a znovu ji nainstalujte, tím budete mít jistotu, že máte její poslední verzi. Poté si nastavte biometriku, abyste přihlašovací údaje nemuseli zadávat ručně. Po větších aktualizacích budete k vyzvání údajů ručně. Veronika",
+      "version": "3.15.0"
+    },
+    {
+      "id": "011191eb-f191-40dd-badb-cb3045fb99c0",
+      "userName": "Jaroslav Borecký",
+      "date": "2026-07-23T11:07:41.336Z",
+      "score": 1,
+      "text": "Predchozi verze fungovala lepe a rychleji. Dost tlacitek prejde na stranku a nic se nenacte, nebo odkaze na web a ten zas odkaze na aplikaci (takze se nedozvite nic).",
+      "text_normalized": "predchozi verze fungovala lepe a rychleji. dost tlacitek prejde na stranku a nic se nenacte, nebo odkaze na web a ten zas odkaze na aplikaci (takze se nedozvite nic).",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-23T11:18:17.502Z",
+      "replyText": "Hezký den, Jaroslave, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.15.0"
+    },
     {
       "id": "50ce454f-24fa-4b97-91a0-86ccdd2bd08b",
       "userName": "Kamil Preiss",
@@ -32666,8 +32709,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2227,
-    "extractedAt": "2026-07-24T07:35:18.875Z",
+    "totalReviewsExtracted": 2230,
+    "extractedAt": "2026-07-25T07:21:24.964Z",
     "source": "google-play"
   }
 }

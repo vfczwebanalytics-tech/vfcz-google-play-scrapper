@@ -1,18 +1,49 @@
 {
   "ratings": {
-    "score": 3.911032,
+    "score": 3.927928,
     "scoreText": "3,9",
-    "totalRatings": 5950,
-    "totalReviews": 2398,
+    "totalRatings": 5956,
+    "totalReviews": 2400,
     "histogram": {
-      "1": 1153,
-      "2": 190,
-      "3": 338,
-      "4": 613,
-      "5": 3652
+      "1": 1126,
+      "2": 192,
+      "3": 331,
+      "4": 632,
+      "5": 3669
     }
   },
   "reviews": [
+    {
+      "id": "50ce454f-24fa-4b97-91a0-86ccdd2bd08b",
+      "userName": "Kamil Preiss",
+      "date": "2026-07-22T14:33:12.250Z",
+      "score": 3,
+      "text": "Dobrý den,nevím proč,ale nemůžu se přihlásit do aplikace,protože mi nechodí sms s ověřovacím kódem 🤨",
+      "text_normalized": "dobry den,nevim proc,ale nemuzu se prihlasit do aplikace,protoze mi nechodi sms s overovacim kodem 🤨",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-22T14:37:35.540Z",
+      "replyText": "Pěkný den, Kamile,\ntakové potíže mě mrzí 🙁 Rádi se na to podíváme konkrétněji, když nám zavoláte na 800 77 00 77, kde vám s tím můžeme pomoct, případně nám napište na e-mail aplikace@vodafone.cz. Lucie",
+      "version": "3.15.0"
+    },
+    {
+      "id": "a9b9af3b-ca28-479b-b87b-88c65aaf5410",
+      "userName": "Barbora Majerová",
+      "date": "2026-07-22T07:41:41.503Z",
+      "score": 2,
+      "text": "Aplikace je pomalá, občas se ani neotevře. Je strašně nepřehledná. Převedli mi sem 4 čísla od sazkamobilu a orientovat se v nich je příšerné. Nejdou ani přejmenovat podle jmen členů rodiny. Není přehledné ani jaký účet patří tv a jaký internetu.",
+      "text_normalized": "aplikace je pomala, obcas se ani neotevre. je strasne neprehledna. prevedli mi sem 4 cisla od sazkamobilu a orientovat se v nich je priserne. nejdou ani prejmenovat podle jmen clenu rodiny. neni prehledne ani jaky ucet patri tv a jaky internetu.",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-22T08:11:35.861Z",
+      "replyText": "Pěkný den, Barboro,\njednotlivé služby si máte možnost pojmenovat. V aplikaci se dostanete na další službu v části Úvod jednoduše přejetím prstem zprava doleva přes dlaždici s telefonním číslem (nebo jinou službou). Podle právě zobrazené služby se následně změní obsah dalších informačních dlaždic. Veronika",
+      "version": "3.15.0"
+    },
     {
       "id": "e5bb34db-f9dc-40ff-90d2-e06a32db8155",
       "userName": "Paul",
@@ -32635,8 +32666,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2225,
-    "extractedAt": "2026-07-23T07:35:06.623Z",
+    "totalReviewsExtracted": 2227,
+    "extractedAt": "2026-07-24T07:35:18.875Z",
     "source": "google-play"
   }
 }
