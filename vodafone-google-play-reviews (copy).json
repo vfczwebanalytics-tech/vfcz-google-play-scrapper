@@ -1,18 +1,90 @@
 {
   "ratings": {
-    "score": 3.9199288,
+    "score": 3.926259,
     "scoreText": "3,9",
-    "totalRatings": 5964,
-    "totalReviews": 2405,
+    "totalRatings": 5973,
+    "totalReviews": 2410,
     "histogram": {
-      "1": 1145,
-      "2": 190,
-      "3": 328,
-      "4": 625,
-      "5": 3670
+      "1": 1149,
+      "2": 171,
+      "3": 332,
+      "4": 633,
+      "5": 3684
     }
   },
   "reviews": [
+    {
+      "id": "974e5941-daa5-47cf-9675-6cfb6171db68",
+      "userName": "Pavel Lovas",
+      "date": "2026-07-25T06:41:56.707Z",
+      "score": 5,
+      "text": "aplikace je prehledna je super",
+      "text_normalized": "aplikace je prehledna je super",
+      "segments": [
+        "UI",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-25T06:40:09.732Z",
+      "replyText": "Dobrý den, Pavle,\nděkujeme za zpětnou vazbu. Výhrece soutěží se snažíme co nejdřív kontaktovat a jejich jména také uvádíme na https://www.vodafone.cz/o-vodafonu/ke-stazeni/osobni-a-firemni/archiv/vysledky-soutezi/. Martina",
+      "version": "3.15.0"
+    },
+    {
+      "id": "e0563302-56db-4214-b5f2-742664c9f8d0",
+      "userName": "Michal Procházka",
+      "date": "2026-07-25T05:34:00.878Z",
+      "score": 1,
+      "text": "jednou za čas když si chci z aktivovat data, musím se znovu do do aplikace přihlásit. Neznám heslo. Tak si ho obnovým. Jenže zároveň musím použit pc a telefon, abych nemusel opustit stránku se zadáváním kódu, pak už ji nelze najít když potřebují hledat kód v emailu. Už asi půl hodiny v té dementní app hledám, kde si aktivovat 5gb dat a po každé, když překliknu na jiné okenko v té app tak to trvá asi 10 vteřin a vždy vyskočí okno na povolení cookies. To je šílené.",
+      "text_normalized": "jednou za cas kdyz si chci z aktivovat data, musim se znovu do do aplikace prihlasit. neznam heslo. tak si ho obnovym. jenze zaroven musim pouzit pc a telefon, abych nemusel opustit stranku se zadavanim kodu, pak uz ji nelze najit kdyz potrebuji hledat kod v emailu. uz asi pul hodiny v te dementni app hledam, kde si aktivovat 5gb dat a po kazde, kdyz prekliknu na jine okenko v te app tak to trva asi 10 vterin a vzdy vyskoci okno na povoleni cookies. to je silene.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-25T06:43:29.241Z",
+      "replyText": "Dobrý den, Michale,\nděkujeme za zpětnou vazbu. Přihlášení do aplikace si můžete zjednodušit aktivací biometrického přihlášení (otiskem prstu nebo skenem obličeje) v sekci Účet - Nastavení aplikace. Martina",
+      "version": "3.14.1"
+    },
+    {
+      "id": "4f7bcc2a-0131-4ca5-b003-85e19925fdd6",
+      "userName": "Tom Blue",
+      "date": "2026-07-24T22:56:01.985Z",
+      "score": 5,
+      "text": "Ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-25T06:40:24.904Z",
+      "replyText": "Dobrý den,Tome,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.15.0"
+    },
+    {
+      "id": "a6f95f62-9047-41c4-8a10-3157f3a3a53f",
+      "userName": "Martin Z",
+      "date": "2026-07-24T18:20:40.160Z",
+      "score": 1,
+      "text": "kdyby šlo dát 0 hvězd, dám 0",
+      "text_normalized": "kdyby slo dat 0 hvezd, dam 0",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-25T06:35:32.395Z",
+      "replyText": "Dobrý den, Martine,\nje mi líto, že vám aplikace nevyhovuje 🙁 Na jejím dalším rozvoji a úpravách pracujeme, tak třeba s ní budete časem spokojenější. Martina",
+      "version": "3.15.0"
+    },
+    {
+      "id": "53634bf3-f9c8-478d-90a6-4e2b54eeef24",
+      "userName": "Uživatel Googlu",
+      "date": "2026-07-24T08:20:38.190Z",
+      "score": 5,
+      "text": "jasné a přehledné",
+      "text_normalized": "jasne a prehledne",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-07-24T08:47:33.706Z",
+      "replyText": "Hezký den,\nděkujeme za pozitivní hodnocení 🙂 Jsem ráda, že vám aplikace Můj Vodafone+ vyhovuje. Budeme se snažit i nadále 🍀 Viki",
+      "version": "3.15.0"
+    },
     {
       "id": "1858f858-67c2-446b-8a90-55496500147b",
       "userName": "Jiřì Zlatohlàvek",
@@ -32709,8 +32781,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2230,
-    "extractedAt": "2026-07-25T07:21:24.964Z",
+    "totalReviewsExtracted": 2235,
+    "extractedAt": "2026-07-26T07:38:14.297Z",
     "source": "google-play"
   }
 }
