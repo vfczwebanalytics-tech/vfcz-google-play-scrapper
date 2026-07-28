@@ -1,18 +1,91 @@
 {
   "ratings": {
-    "score": 3.926259,
+    "score": 3.9204948,
     "scoreText": "3,9",
-    "totalRatings": 5973,
-    "totalReviews": 2410,
+    "totalRatings": 5982,
+    "totalReviews": 2412,
     "histogram": {
-      "1": 1149,
-      "2": 171,
-      "3": 332,
+      "1": 1140,
+      "2": 199,
+      "3": 327,
       "4": 633,
-      "5": 3684
+      "5": 3677
     }
   },
   "reviews": [
+    {
+      "id": "577ff344-a6d5-4028-b351-c2f02d0d1d81",
+      "userName": "Robert Smrecek",
+      "date": "2026-07-26T05:47:16.791Z",
+      "score": 5,
+      "text": "Super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-26T06:44:26.459Z",
+      "replyText": "Dobrý den, Roberte,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.15.0"
+    },
+    {
+      "id": "c2e05a9c-5922-4917-bea0-9c3f4823073b",
+      "userName": "Josef Sláma",
+      "date": "2026-07-25T19:31:56.267Z",
+      "score": 1,
+      "text": "Nejhnusnější aplikace čím novější tím horší. Neustálé přihlašování vypisování hesla. Podrobný vypis který býval ve starší verzi nefunguje. Složité vyhledávání. V jednoduchosti byla síla. Teď složité nepřehledné.",
+      "text_normalized": "nejhnusnejsi aplikace cim novejsi tim horsi. neustale prihlasovani vypisovani hesla. podrobny vypis ktery byval ve starsi verzi nefunguje. slozite vyhledavani. v jednoduchosti byla sila. ted slozite neprehledne.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-26T06:44:08.852Z",
+      "replyText": "Dobrý den, Josefe,\nje mi líto, že vám aplikace nevyhovuje. Na jejím dalším rozvoji a úpravách nadále pracujeme. Martina",
+      "version": "3.15.0"
+    },
+    {
+      "id": "67b250da-d39c-4e03-9ef7-d5ddb0b8ad3e",
+      "userName": "Michael Vašek",
+      "date": "2026-07-25T17:23:32.526Z",
+      "score": 2,
+      "text": "Kolo odměn nic moc. Můj email s tím že opakovaně v sekci vyúčtování mi půlku obrazovky zabírají 3 různé čísla plátce, přestože mám internet, nikdo nereagoval, a nedošlo k žádné opravě.",
+      "text_normalized": "kolo odmen nic moc. muj email s tim ze opakovane v sekci vyuctovani mi pulku obrazovky zabiraji 3 ruzne cisla platce, prestoze mam internet, nikdo nereagoval, a nedoslo k zadne oprave.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-26T06:43:26.800Z",
+      "replyText": "Dobrý den, Michaeli,\nnapište nám prosím přes https://tam.je/dotaz podrobnější informace ohledně potíží se zobrazením Vyúčtování, rádi to prověříme. Martina\n",
+      "version": "3.15.0"
+    },
+    {
+      "id": "3bf18f99-0854-490b-a0f1-dc2c7936aad5",
+      "userName": "Pavel Strnad",
+      "date": "2026-07-25T10:15:37.866Z",
+      "score": 2,
+      "text": "Aplikace nedovede hodně věcí, zejména technické, které asi lze udělat na webu. AI asistent to neví a trvale navádí na provedení akcí (generování hesla do TV app apod.). Lepší je dělat vše přes web a appku zahodit.",
+      "text_normalized": "aplikace nedovede hodne veci, zejmena technicke, ktere asi lze udelat na webu. ai asistent to nevi a trvale navadi na provedeni akci (generovani hesla do tv app apod.). lepsi je delat vse pres web a appku zahodit.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-25T10:30:43.701Z",
+      "replyText": "Dobrý den, Pavle,\nje mi líto, že vám aplikace nevyhovuje 🙁 Heslo k Vodafone TV je možné změnit i v aplikaci, návod k tomu najdete například na https://www.vodafone.cz/pece/televize/vodafone-tv/televize-aplikace/. Martina",
+      "version": "3.15.0"
+    },
+    {
+      "id": "ffbff6e1-f737-477f-92d6-9af3732a4204",
+      "userName": "Frantisek Stepanek",
+      "date": "2026-07-25T08:08:14.320Z",
+      "score": 5,
+      "text": "přehledná aplikace, na běžnou správu služeb naprosto dostačující",
+      "text_normalized": "prehledna aplikace, na beznou spravu sluzeb naprosto dostacujici",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-07-25T08:19:02.380Z",
+      "replyText": "Dobrý den, Františku,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.15.0"
+    },
     {
       "id": "974e5941-daa5-47cf-9675-6cfb6171db68",
       "userName": "Pavel Lovas",
@@ -32781,8 +32854,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2235,
-    "extractedAt": "2026-07-26T07:38:14.297Z",
+    "totalReviewsExtracted": 2240,
+    "extractedAt": "2026-07-27T08:34:31.411Z",
     "source": "google-play"
   }
 }
