@@ -1,18 +1,75 @@
 {
   "ratings": {
-    "score": 3.9204948,
+    "score": 3.925267,
     "scoreText": "3,9",
-    "totalRatings": 5982,
-    "totalReviews": 2412,
+    "totalRatings": 5987,
+    "totalReviews": 2418,
     "histogram": {
-      "1": 1140,
-      "2": 199,
-      "3": 327,
-      "4": 633,
-      "5": 3677
+      "1": 1128,
+      "2": 212,
+      "3": 318,
+      "4": 638,
+      "5": 3685
     }
   },
   "reviews": [
+    {
+      "id": "9d9589df-7b52-4690-9361-1aa5c1d1b339",
+      "userName": "stamprdle Becheru",
+      "date": "2026-07-27T07:08:59.352Z",
+      "score": 5,
+      "text": "intuitivní ovládání. Vše co potřebují je tam.",
+      "text_normalized": "intuitivni ovladani. vse co potrebuji je tam.",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-07-27T07:27:04.914Z",
+      "replyText": "Hezký den, stamprdle Becheru,\nděkujeme vám za kladné hodnocení aplikace 🙂 Jsem moc ráda, že vám vyhovuje. Viki",
+      "version": "3.15.0"
+    },
+    {
+      "id": "7890938c-757d-4cf6-88b5-8a6237b88460",
+      "userName": "Janekk 7610",
+      "date": "2026-07-27T03:32:55.896Z",
+      "score": 3,
+      "text": "Nevím proč, ale poslední dobou mi aplikace neukazuje průběžnou přibližnou útratu. Mám například 16 dni do konce zúčtovacího období, ale místo abych si prohlédl přibližnou útratu, vidím jen text - připravujeme, již brzy. Co to má znamenat, to připravuje Vodafone vyúčtování už 16 dní před samotným skončení zúčtovacího období?!! To je velké mínus této aplikace!",
+      "text_normalized": "nevim proc, ale posledni dobou mi aplikace neukazuje prubeznou pribliznou utratu. mam napriklad 16 dni do konce zuctovaciho obdobi, ale misto abych si prohledl pribliznou utratu, vidim jen text - pripravujeme, jiz brzy. co to ma znamenat, to pripravuje vodafone vyuctovani uz 16 dni pred samotnym skonceni zuctovaciho obdobi?!! to je velke minus teto aplikace!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-27T05:40:49.267Z",
+      "replyText": "Hezký den, Jankku,\nje mi líto, že máte potíže 🙁 Doporučuji aplikaci přeinstalovat, věřím, že to pomůže. Pokud by potíže přetrvávaly, zavolejte nám na linku *77 nebo nám napište přes zabezpečený formulář https://tam.je/dotaz a situaci prověříme. Zuzana",
+      "version": "3.15.0"
+    },
+    {
+      "id": "e986e6cc-ebca-43b7-9c00-fdfcca9c91a9",
+      "userName": "Petra Staňková",
+      "date": "2026-07-26T16:24:06.758Z",
+      "score": 1,
+      "text": "Pomalé, nepřehledné",
+      "text_normalized": "pomale, neprehledne",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-07-27T05:39:12.156Z",
+      "replyText": "Hezký den, Petro,\nje mi líto, že nejste s aplikací spokojená 🙁 Stále na ni pracujeme a věřím, že do budoucna se vám bude líbit více. Zuzana",
+      "version": "3.15.0"
+    },
+    {
+      "id": "6402be5c-cab1-430e-a397-99452ccc6f35",
+      "userName": "J S",
+      "date": "2026-07-26T12:28:35.553Z",
+      "score": 1,
+      "text": "Do této stupidní aplikace se nejde ani zaregistrovat!!!! Klasicky Vodafone",
+      "text_normalized": "do teto stupidni aplikace se nejde ani zaregistrovat!!!! klasicky vodafone",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-26T12:55:04.630Z",
+      "replyText": "Dobrý den,\nnejdřív je třeba si nastavit e-mailové přihlášení - k tomu najdete návod na https://www.vodafone.cz/pece/muj-vodafone/prihlasovani-e-mailem/aktivace-prihlasovani-emailem/. Poté stačí přihlásit se s e-mailem, alfanumerickým heslem a kódem z SMSky, případně si nastavit biometrické přihlášení. Martina",
+      "version": "3.15.0"
+    },
     {
       "id": "577ff344-a6d5-4028-b351-c2f02d0d1d81",
       "userName": "Robert Smrecek",
@@ -32854,8 +32911,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2240,
-    "extractedAt": "2026-07-27T08:34:31.411Z",
+    "totalReviewsExtracted": 2244,
+    "extractedAt": "2026-07-28T07:41:15.704Z",
     "source": "google-play"
   }
 }

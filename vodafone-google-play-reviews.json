@@ -1,18 +1,91 @@
 {
   "ratings": {
-    "score": 3.925267,
+    "score": 3.935484,
     "scoreText": "3,9",
-    "totalRatings": 5987,
-    "totalReviews": 2418,
+    "totalRatings": 5997,
+    "totalReviews": 2421,
     "histogram": {
-      "1": 1128,
-      "2": 212,
-      "3": 318,
-      "4": 638,
-      "5": 3685
+      "1": 1127,
+      "2": 193,
+      "3": 322,
+      "4": 644,
+      "5": 3707
     }
   },
   "reviews": [
+    {
+      "id": "a60a3808-f71a-4a0a-8215-a771defad346",
+      "userName": "Lucinka Sandorova",
+      "date": "2026-07-27T19:36:12.929Z",
+      "score": 1,
+      "text": "Poslední dobou neustále potíže s aplikací,nejde se tam ani dostat, přestává mě to bavit už.",
+      "text_normalized": "posledni dobou neustale potize s aplikaci,nejde se tam ani dostat, prestava me to bavit uz.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-28T05:10:49.566Z",
+      "replyText": "Dobrý den, Lucinko,\nplošné potíže s aplikací neevidujeme. Pro přihlášení stačí zadat e-mailovou adresu, alfanumerické heslo a kód z SMSky. Pro zjednodušní si můžete v sekci Účet - Nastavení aplikace aktivovat biometrické přihlášení. Martina",
+      "version": "3.15.0"
+    },
+    {
+      "id": "00629243-a096-42c2-b5b3-abd1b68ff8d8",
+      "userName": "Pavel V.",
+      "date": "2026-07-27T15:56:22.632Z",
+      "score": 1,
+      "text": "většinou se vůbec nenačte",
+      "text_normalized": "vetsinou se vubec nenacte",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-27T16:54:09.611Z",
+      "replyText": "Hezký den, Pavle,\nto mě mrzí 🙁 Zkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby to nepomohlo, napište nám na aplikace@vodafone.cz a my to prověříme. Katka",
+      "version": "3.15.0"
+    },
+    {
+      "id": "3cae3761-fa1f-49db-b819-58dc3268399e",
+      "userName": "Josef Moravec",
+      "date": "2026-07-27T09:40:23.752Z",
+      "score": 5,
+      "text": "Neomezená data na týdenní dovču se hodí.",
+      "text_normalized": "neomezena data na tydenni dovcu se hodi.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-27T09:57:12.248Z",
+      "replyText": "Dobrý den, Josefe,\nděkujeme vám za milé hodnocení 🙂 Jsem ráda, že jste s nabídkou a aplikací spokojený. Viki",
+      "version": "3.15.0"
+    },
+    {
+      "id": "012c88cd-b4ba-4257-a33f-55addc83ce98",
+      "userName": "Patrik Patrik",
+      "date": "2026-07-27T09:37:37.633Z",
+      "score": 1,
+      "text": "Prezentace firmy zní jak jsou dokonalý, ale bohužel jsou to jen sliby a planý řeči. S aplikací stále nějaké problémy. Momentálně při přihlášení černá obrazovka a konec, to je vše, takže i slibovaná letní soutěž? NIC!!! Věrnostní politika k zákazníkům? VÝSMĚCH!!! A komunikace s operátorem nebudu ani komentovat. Nechci být vulgární!",
+      "text_normalized": "prezentace firmy zni jak jsou dokonaly, ale bohuzel jsou to jen sliby a plany reci. s aplikaci stale nejake problemy. momentalne pri prihlaseni cerna obrazovka a konec, to je vse, takze i slibovana letni soutez? nic!!! vernostni politika k zakaznikum? vysmech!!! a komunikace s operatorem nebudu ani komentovat. nechci byt vulgarni!",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-07-27T09:59:29.133Z",
+      "replyText": "Dobrý den, Patriku,\nmrzí mě, pokud máte takovou zkušenost. Aplikaci prosím zkuste přeinstalovat, případně také přepnout z mobilních dat na Wi-Fi nebo naopak. Kdybychom vám mohli s něčím pomoci nebo by uvedené kroky nepomohly, prosím napište nám přes https://tam.je/dotaz. Viki",
+      "version": "3.15.0"
+    },
+    {
+      "id": "ed428ff7-b1a6-4594-8c75-63f301b04eee",
+      "userName": "Bohumira Roskowetzova",
+      "date": "2026-07-27T08:47:13.961Z",
+      "score": 5,
+      "text": "velmi dobré",
+      "text_normalized": "velmi dobre",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-27T09:00:46.495Z",
+      "replyText": "Dobrý den, Bohumiro,\nděkujeme za hodnocení 🙂 Jsem moc ráda, že se vám aplikace Můj Vodafone+ líbí. Viki",
+      "version": "3.12.0"
+    },
     {
       "id": "9d9589df-7b52-4690-9361-1aa5c1d1b339",
       "userName": "stamprdle Becheru",
@@ -32911,8 +32984,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2244,
-    "extractedAt": "2026-07-28T07:41:15.704Z",
+    "totalReviewsExtracted": 2249,
+    "extractedAt": "2026-07-29T07:46:07.073Z",
     "source": "google-play"
   }
 }
