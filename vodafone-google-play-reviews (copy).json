@@ -1,18 +1,82 @@
 {
   "ratings": {
-    "score": 3.935484,
+    "score": 3.9202127,
     "scoreText": "3,9",
-    "totalRatings": 5997,
-    "totalReviews": 2421,
+    "totalRatings": 6014,
+    "totalReviews": 2427,
     "histogram": {
-      "1": 1127,
-      "2": 193,
-      "3": 322,
-      "4": 644,
-      "5": 3707
+      "1": 1161,
+      "2": 191,
+      "3": 318,
+      "4": 628,
+      "5": 3710
     }
   },
   "reviews": [
+    {
+      "id": "3ba84733-9f55-4e7d-a95c-a46da4e4d215",
+      "userName": "Olga Nožičková",
+      "date": "2026-07-28T16:11:36.908Z",
+      "score": 5,
+      "text": "Wodafone je výborný operátor",
+      "text_normalized": "wodafone je vyborny operator",
+      "segments": [
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-07-28T16:31:23.398Z",
+      "replyText": "Pěkný den, Olgo,\nděkujeme vám za hodnocení. Těší mě, že jste s aplikací spokojená 🙂 Lucie",
+      "version": "3.14.1"
+    },
+    {
+      "id": "062fce59-1466-4e33-b0df-b56983cb5324",
+      "userName": "Prezident Hustosti",
+      "date": "2026-07-28T12:42:30.242Z",
+      "score": 1,
+      "text": "POMALA, spousta otravnych reklam, neprehledna - roztristene umisteni nastaveni, nefunguje widget, problemy s prihlasenim, problemy s pamatovanim udaji po aktualizaci.",
+      "text_normalized": "pomala, spousta otravnych reklam, neprehledna - roztristene umisteni nastaveni, nefunguje widget, problemy s prihlasenim, problemy s pamatovanim udaji po aktualizaci.",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-28T13:01:27.153Z",
+      "replyText": "Pěkný den,\nje mi líto, že se vám aplikace nelíbí 🙁 Aplikaci budeme nadále rozvíjet a pevně doufám, že do budoucna s ní budete spokojenější. Lucie",
+      "version": "3.15.0"
+    },
+    {
+      "id": "e41ed913-6a7a-4acd-8def-83cb6f79d81a",
+      "userName": "Jiřì Zlatohlàvek",
+      "date": "2026-07-28T10:48:49.110Z",
+      "score": 3,
+      "text": "Dobrý den.Můžete prosím opravit chybu v aplikaci: Aktuální útrata je tam furt připravujeme,vždy tam byla částka a tetka jen hláška.Neni si pak kde ověřit aktuální útratu a furt volat na operátora mě taky nebaví!!",
+      "text_normalized": "dobry den.muzete prosim opravit chybu v aplikaci: aktualni utrata je tam furt pripravujeme,vzdy tam byla castka a tetka jen hlaska.neni si pak kde overit aktualni utratu a furt volat na operatora me taky nebavi!!",
+      "segments": [
+        "Stabilita",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-07-28T11:01:18.171Z",
+      "replyText": "Pěkný den, Jiří,\nrádi to prověříme konkrétněji. Napište nám prosím podrobnosti přes zabezpečený formulář na https://tam.je/dotaz, abychom se na to mohli podívat 🙂 Lucie",
+      "version": "3.15.0"
+    },
+    {
+      "id": "20bdec76-9495-44bb-b81c-fc4efb759f0d",
+      "userName": "Lukáš Hrdý",
+      "date": "2026-07-28T09:47:26.126Z",
+      "score": 1,
+      "text": "když takový Google pay Google play dobrý pokus špatná apka http Https/Google play mám 3x zjištění otisk face ID číselné heslo aplikace hodnotím mínus 100% vlastně znovu a pořádně a tu Hrůzostrašnou Aplikaci smazat.",
+      "text_normalized": "kdyz takovy google pay google play dobry pokus spatna apka http https/google play mam 3x zjisteni otisk face id ciselne heslo aplikace hodnotim minus 100% vlastne znovu a poradne a tu hruzostrasnou aplikaci smazat.",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-07-28T10:02:15.435Z",
+      "replyText": "Pěkný den, Lukáši,\nje mi líto, pokud máte nějaké potíže s Google Pay 🙁 Rádi to prověříme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie",
+      "version": "3.14.1"
+    },
     {
       "id": "a60a3808-f71a-4a0a-8215-a771defad346",
       "userName": "Lucinka Sandorova",
@@ -32984,8 +33048,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2249,
-    "extractedAt": "2026-07-29T07:46:07.073Z",
+    "totalReviewsExtracted": 2253,
+    "extractedAt": "2026-07-30T07:36:32.462Z",
     "source": "google-play"
   }
 }
