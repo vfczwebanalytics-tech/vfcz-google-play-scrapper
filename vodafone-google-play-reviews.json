@@ -1,18 +1,74 @@
 {
   "ratings": {
-    "score": 3.9222615,
+    "score": 3.9163764,
     "scoreText": "3,9",
-    "totalRatings": 6023,
-    "totalReviews": 2432,
+    "totalRatings": 6031,
+    "totalReviews": 2439,
     "histogram": {
-      "1": 1149,
-      "2": 191,
-      "3": 340,
-      "4": 637,
-      "5": 3703
+      "1": 1155,
+      "2": 189,
+      "3": 345,
+      "4": 650,
+      "5": 3687
     }
   },
   "reviews": [
+    {
+      "id": "8f5d0764-9445-4af7-aca4-dca4f1f0c70e",
+      "userName": "Lucie Havlova",
+      "date": "2026-07-31T06:22:31.524Z",
+      "score": 5,
+      "text": "jsem spoko",
+      "text_normalized": "jsem spoko",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-31T06:41:49.112Z",
+      "replyText": "Hezký den, Lucie, děkujeme za hodnocení 🙂 Vaše spokojenost je pro nás velmi důležitá 🙂 Petra",
+      "version": "3.15.0"
+    },
+    {
+      "id": "a75fba93-5989-4dc0-9016-23f783dbb93b",
+      "userName": "Jana Som",
+      "date": "2026-07-30T19:46:18.765Z",
+      "score": 5,
+      "text": "👍",
+      "text_normalized": "👍",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-31T05:20:29.947Z",
+      "replyText": "Hezký den, Jano, děkujeme za hodnocení 🙂 Těší mě, že se vám aplikace líbí. Petra",
+      "version": "3.15.0"
+    },
+    {
+      "id": "991834e4-bf54-48df-8d25-d52b96262fc0",
+      "userName": "Libuše Kubečková",
+      "date": "2026-07-30T16:18:32.900Z",
+      "score": 5,
+      "text": "jen by mohl být větší výběr telefonů",
+      "text_normalized": "jen by mohl byt vetsi vyber telefonu",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-30T16:42:08.445Z",
+      "replyText": "Hezký den, Libuše, děkujeme za hodnocení 🙂 Vaše spokojenost je pro nás důležitá. Nabídku telefonů obměňujeme, tak věřím, že si také vyberete 🙂 Petra",
+      "version": "3.15.0"
+    },
+    {
+      "id": "bfe5bd16-b174-41fe-95ca-b2a6ae1a226c",
+      "userName": "Šimon Langšádl",
+      "date": "2026-07-30T12:26:47.960Z",
+      "score": 4,
+      "text": "konečně funkční a použitelné, minus jedna ⭐ za slabší svižnost",
+      "text_normalized": "konecne funkcni a pouzitelne, minus jedna ⭐ za slabsi sviznost",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-30T12:54:02.269Z",
+      "replyText": "Hezký den, Šimone, děkujeme za hodnocení 🙂 Těší mě, že jste s aplikací spokojený 🙂 Petra",
+      "version": "3.15.0"
+    },
     {
       "id": "885f12ed-e0b9-4468-a35d-d5c2ec44b53f",
       "userName": "josef pokorny",
@@ -33147,8 +33203,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2260,
-    "extractedAt": "2026-07-31T07:52:48.587Z",
+    "totalReviewsExtracted": 2264,
+    "extractedAt": "2026-08-01T07:29:54.545Z",
     "source": "google-play"
   }
 }

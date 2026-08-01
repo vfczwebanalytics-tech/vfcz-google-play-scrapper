@@ -1,18 +1,117 @@
 {
   "ratings": {
-    "score": 3.9202127,
+    "score": 3.9222615,
     "scoreText": "3,9",
-    "totalRatings": 6014,
-    "totalReviews": 2427,
+    "totalRatings": 6023,
+    "totalReviews": 2432,
     "histogram": {
-      "1": 1161,
+      "1": 1149,
       "2": 191,
-      "3": 318,
-      "4": 628,
-      "5": 3710
+      "3": 340,
+      "4": 637,
+      "5": 3703
     }
   },
   "reviews": [
+    {
+      "id": "885f12ed-e0b9-4468-a35d-d5c2ec44b53f",
+      "userName": "josef pokorny",
+      "date": "2026-07-30T07:34:36.531Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-30T07:40:00.558Z",
+      "replyText": "Hezký den, Josefe,\nděkujeme za kladné hodnocení, jsem ráda, že se vám aplikace líbí 🙂 Zuzana",
+      "version": "3.15.0"
+    },
+    {
+      "id": "00194402-4360-4e9b-81ef-000305506071",
+      "userName": "vlasta navratilova",
+      "date": "2026-07-29T22:38:28.407Z",
+      "score": 5,
+      "text": "vše ok",
+      "text_normalized": "vse ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-30T05:11:33.861Z",
+      "replyText": "Hezké ráno, Vlasto,\ntěší mě, že jste s aplikací spokojená 🙂 Zuzana",
+      "version": "3.15.0"
+    },
+    {
+      "id": "cc21be80-ddf9-4d43-8977-0ba970ffe358",
+      "userName": "Michal Vendrinský",
+      "date": "2026-07-29T19:02:02.502Z",
+      "score": 1,
+      "text": "zadne odměny nejlepe odinstalovat vůbec se na to ani nekoukej budeš zvracet a je to drahé",
+      "text_normalized": "zadne odmeny nejlepe odinstalovat vubec se na to ani nekoukej budes zvracet a je to drahe",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-30T05:10:21.221Z",
+      "replyText": "Hezký den, Michale,\nje mi líto, že se vám aplikace nelíbí 🙁 Odměny pro naše stálé zákazníky nabízíme v sekci Vodafone Happy. Pokud máte konkrétní potíže, ozvěte se nám na linku *77 a rádi se na to s vámi podíváme. Zuzana",
+      "version": "3.15.0"
+    },
+    {
+      "id": "1a582464-a3e4-4e47-bf84-c02d1cc6da3e",
+      "userName": "Frantisek Krizek",
+      "date": "2026-07-29T15:32:46.299Z",
+      "score": 5,
+      "text": "🤪👌",
+      "text_normalized": "🤪👌",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-29T15:35:31.491Z",
+      "replyText": "Dobrý den, Františku,\nděkujeme vám za hodnocení 🙂 Jsem ráda, že vám aplikace vyhovuje. Viki",
+      "version": "3.14.1"
+    },
+    {
+      "id": "adc7160d-94f2-41cb-8505-3667e8183d34",
+      "userName": "Petr Štrunc",
+      "date": "2026-07-29T13:30:37.768Z",
+      "score": 3,
+      "text": "Už asi 2 měsíce nefunguje - Google Pixel 7a. Jinak co se týče Vodafonu, sjednal jsem si tarif za fér cenu ale stejně postupně zdražují že je to opět zase za šílené peníze, takže budu pravděpodobně přecházet jinam a proto mě ta jejich apka už tolik netrápí 👍🏻",
+      "text_normalized": "uz asi 2 mesice nefunguje - google pixel 7a. jinak co se tyce vodafonu, sjednal jsem si tarif za fer cenu ale stejne postupne zdrazuji ze je to opet zase za silene penize, takze budu pravdepodobne prechazet jinam a proto me ta jejich apka uz tolik netrapi 👍🏻",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-07-29T13:41:36.585Z",
+      "replyText": "Dobrý den, Petře,\nmrzí mě potíže s aplikací na Google Pixel 7a. Zkuste prosím aplikaci odinstalovat a znovu nainstalovat. Pokud by problém přetrvával, napište nám přes formulář https://tam.je/dotaz a rádi vše prověříme. Díky za zpětnou vazbu. Viki",
+      "version": "3.15.0"
+    },
+    {
+      "id": "8d88462e-fc05-4458-afd5-1ae158e81f79",
+      "userName": "Jakub Vít",
+      "date": "2026-07-29T10:42:50.432Z",
+      "score": 1,
+      "text": "Aplikace je horší než dům seniorů s Alzheimerem. Neudrží heslo ani týden.",
+      "text_normalized": "aplikace je horsi nez dum senioru s alzheimerem. neudrzi heslo ani tyden.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-07-29T11:04:18.679Z",
+      "replyText": "Pěkný den, Jakube,\ntakové potíže mě mrzí, to by se dít nemělo 🙁 Rádi to prověříme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie\n",
+      "version": "3.14.1"
+    },
+    {
+      "id": "34a65e31-0e9a-44d8-85f1-2d743c5e6815",
+      "userName": "a a",
+      "date": "2026-07-29T09:40:04.990Z",
+      "score": 3,
+      "text": "strašné množství nabídek a reklam A to co člověk potřebuje najít trvá strašně dlouho",
+      "text_normalized": "strasne mnozstvi nabidek a reklam a to co clovek potrebuje najit trva strasne dlouho",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-07-29T10:04:14.804Z",
+      "replyText": "Pěkný den,\nděkujeme vám za zpětnou vazbu, i když pro nás není pozitivní. Budeme se snažit, aby se vám aplikace do budoucna líbila více. Lucie",
+      "version": "3.15.0"
+    },
     {
       "id": "3ba84733-9f55-4e7d-a95c-a46da4e4d215",
       "userName": "Olga Nožičková",
@@ -33048,8 +33147,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2253,
-    "extractedAt": "2026-07-30T07:36:32.462Z",
+    "totalReviewsExtracted": 2260,
+    "extractedAt": "2026-07-31T07:52:48.587Z",
     "source": "google-play"
   }
 }
