@@ -1,18 +1,75 @@
 {
   "ratings": {
-    "score": 3.901384,
+    "score": 3.8752196,
     "scoreText": "3,9",
-    "totalRatings": 6044,
-    "totalReviews": 2444,
+    "totalRatings": 6056,
+    "totalReviews": 2446,
     "histogram": {
-      "1": 1159,
-      "2": 218,
-      "3": 344,
-      "4": 647,
-      "5": 3669
+      "1": 1202,
+      "2": 223,
+      "3": 340,
+      "4": 648,
+      "5": 3639
     }
   },
   "reviews": [
+    {
+      "id": "6718af2e-347d-4f23-b08b-1aac73a8abf3",
+      "userName": "Petr Kostka",
+      "date": "2026-08-01T22:00:52.715Z",
+      "score": 5,
+      "text": "Já jsem spokojený",
+      "text_normalized": "ja jsem spokojeny",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-02T06:38:40.539Z",
+      "replyText": "Dobrý den, Petře,\njsem ráda, že vám aplikace vyhovuje a děkujeme za hezké hodnocení 🙂 Viki",
+      "version": "3.15.0"
+    },
+    {
+      "id": "2001d91a-d9b5-4e34-8f6a-0cf997d8dd12",
+      "userName": "Lubomir Spousta",
+      "date": "2026-08-01T10:54:48.550Z",
+      "score": 1,
+      "text": "nefunguje biometrika, neustale se vraci do vychozi pozice",
+      "text_normalized": "nefunguje biometrika, neustale se vraci do vychozi pozice",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-01T11:20:42.841Z",
+      "replyText": "Dobrý den, Lubomire,\nrádi to prověříme. Zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, abychom to mohli prověřit na konkrétním příkladu. Martina\n",
+      "version": "3.15.0"
+    },
+    {
+      "id": "5c3a7693-cf23-4bcd-ab55-553a765e7aa7",
+      "userName": "Fany Army",
+      "date": "2026-08-01T09:22:31.823Z",
+      "score": 1,
+      "text": "nejhorší a nejsložitější aplikace na světě... :( odejdu od nich",
+      "text_normalized": "nejhorsi a nejslozitejsi aplikace na svete... :( odejdu od nich",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-08-01T09:46:56.601Z",
+      "replyText": "Dobrý den, Fany Army,\nje mi líto, že to tak vidíte 🙁 Zavolejte nám prosím na 800 77 00 77, rádi se s vámi podíváme konkrétně na důvody, proč vám aplikace nevyhovuje. Martina",
+      "version": "3.15.0"
+    },
+    {
+      "id": "84369b21-5975-48cc-aa1f-131b27c90ceb",
+      "userName": "Csaba Ravasz (EdgarWill)",
+      "date": "2026-08-01T07:34:12.750Z",
+      "score": 4,
+      "text": "trochu je pomalá, ale jinak všechno sa dá aktivovat nebo nastavit",
+      "text_normalized": "trochu je pomala, ale jinak vsechno sa da aktivovat nebo nastavit",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-08-01T07:51:14.216Z",
+      "replyText": "Dobrý den, Csabo,\nděkujeme za vaši zpětnou vazbu. Na dalších úpravách a rozvoji aplikace pracujeme. Martina",
+      "version": "3.15.0"
+    },
     {
       "id": "8dd4b152-133f-4cd3-9eda-f492461b1cdf",
       "userName": "Мартин кислота",
@@ -33290,8 +33347,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2270,
-    "extractedAt": "2026-08-02T07:33:07.250Z",
+    "totalReviewsExtracted": 2274,
+    "extractedAt": "2026-08-03T08:33:20.472Z",
     "source": "google-play"
   }
 }
