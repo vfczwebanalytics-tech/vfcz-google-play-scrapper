@@ -1,18 +1,79 @@
 {
   "ratings": {
-    "score": 3.879791,
+    "score": 3.8687391,
     "scoreText": "3,9",
-    "totalRatings": 6060,
-    "totalReviews": 2451,
+    "totalRatings": 6073,
+    "totalReviews": 2460,
     "histogram": {
-      "1": 1192,
-      "2": 221,
-      "3": 347,
-      "4": 653,
-      "5": 3641
+      "1": 1215,
+      "2": 219,
+      "3": 345,
+      "4": 649,
+      "5": 3639
     }
   },
   "reviews": [
+    {
+      "id": "9968f8ab-07e3-4d73-96a4-37ddf926b581",
+      "userName": "Anna R",
+      "date": "2026-08-04T06:32:10.297Z",
+      "score": 1,
+      "text": "neustále problémy s přihlášením-nelze se přihlásit. Nepomohlo ani přeinstalování. Nefunguje to ani na mobilní data, ani na Wifi",
+      "text_normalized": "neustale problemy s prihlasenim-nelze se prihlasit. nepomohlo ani preinstalovani. nefunguje to ani na mobilni data, ani na wifi",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-04T06:31:16.121Z",
+      "replyText": "Dobrý den, Anno,\nto mě mrzí 🙁 Zkuste prosím ještě přepnout z mobilních dat na Wi-Fi nebo naopak. Podrobnosti najdete tady: https://www.vodafone.cz/pece/muj-vodafone/hesla/prihlaseni-muj-vodafone-nefunguje/. Případně nám prosím zašlete informace na aplikace@vodafone.cz. Viki",
+      "version": "3.15.0"
+    },
+    {
+      "id": "b38d13de-c369-473e-a5e0-a4bb98cfe61f",
+      "userName": "Kalman Galambos",
+      "date": "2026-08-03T14:26:22.246Z",
+      "score": 5,
+      "text": "jsem velmi spokojen",
+      "text_normalized": "jsem velmi spokojen",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-03T14:55:47.684Z",
+      "replyText": "Dobrý den, Kalman Galambos,\nděkujeme za hezké hodnocení 🙂 Jsem moc ráda, že vám aplikace vyhovuje. Viki",
+      "version": null
+    },
+    {
+      "id": "de76e66d-faab-4c29-8f49-13aea1e9c31e",
+      "userName": "Adam Kop",
+      "date": "2026-08-03T13:14:46.890Z",
+      "score": 1,
+      "text": "Já už to za to neustálé odhlašování začínám fakt nenávidět! Dělá to léta. napříč zařízeními, verzemi aplikací. Zvlášť pokud máte jako rodina tarify na jednu fakturu, tak je to fakt peklo co jste přidali dvoufaktorové přihlašování. takže když se chce do toho člověk dostat, tak buď musí někoho otravovat, nebo si dát schůzku. chvíli to funguje a další měsíc je to zase odhlášené! katastrofa! Asi proto, abych neviděl, že zase nesedí dohodnutá cena účtovaných tarifů.",
+      "text_normalized": "ja uz to za to neustale odhlasovani zacinam fakt nenavidet! dela to leta. napric zarizenimi, verzemi aplikaci. zvlast pokud mate jako rodina tarify na jednu fakturu, tak je to fakt peklo co jste pridali dvoufaktorove prihlasovani. takze kdyz se chce do toho clovek dostat, tak bud musi nekoho otravovat, nebo si dat schuzku. chvili to funguje a dalsi mesic je to zase odhlasene! katastrofa! asi proto, abych nevidel, ze zase nesedi dohodnuta cena uctovanych tarifu.",
+      "segments": [
+        "Prihlaseni",
+        "Cena",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-03T13:27:13.986Z",
+      "replyText": "Dobrý den, Adame,\nmrzí nás komplikace s přihlašováním. Zkuste prosím aplikaci odinstalovat a znovu nainstalovat, pak si nastavit biometriku. Pokud by potíže přetrvávaly, dejte nám vědět přes formulář: https://tam.je/dotaz. Rádi se na situaci podíváme. Viki",
+      "version": "3.15.0"
+    },
+    {
+      "id": "250b2168-20ae-469e-8408-0bf9495ebfe9",
+      "userName": "Jozef Fojtík",
+      "date": "2026-08-03T12:16:32.382Z",
+      "score": 5,
+      "text": "dělo spokojenost vše funguje jak ma",
+      "text_normalized": "delo spokojenost vse funguje jak ma",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-03T12:24:37.842Z",
+      "replyText": "Hezký den, Jozefe, děkujeme za vaše hodnocení 🙂 Vaše spokojenost je pro nás důležitá 🙂 Petra",
+      "version": "3.15.0"
+    },
     {
       "id": "18aba9b7-8133-49e3-93f5-affce4309e9e",
       "userName": "zdenek burian",
@@ -33376,8 +33437,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2276,
-    "extractedAt": "2026-08-04T07:42:23.134Z",
+    "totalReviewsExtracted": 2280,
+    "extractedAt": "2026-08-05T07:43:17.252Z",
     "source": "google-play"
   }
 }

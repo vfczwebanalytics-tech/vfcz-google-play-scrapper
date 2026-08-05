@@ -1,18 +1,47 @@
 {
   "ratings": {
-    "score": 3.8752196,
+    "score": 3.879791,
     "scoreText": "3,9",
-    "totalRatings": 6056,
-    "totalReviews": 2446,
+    "totalRatings": 6060,
+    "totalReviews": 2451,
     "histogram": {
-      "1": 1202,
-      "2": 223,
-      "3": 340,
-      "4": 648,
-      "5": 3639
+      "1": 1192,
+      "2": 221,
+      "3": 347,
+      "4": 653,
+      "5": 3641
     }
   },
   "reviews": [
+    {
+      "id": "18aba9b7-8133-49e3-93f5-affce4309e9e",
+      "userName": "zdenek burian",
+      "date": "2026-08-03T03:51:21.205Z",
+      "score": 3,
+      "text": "hruza, i hlavni vec jako dobiti kreditu nefunguje",
+      "text_normalized": "hruza, i hlavni vec jako dobiti kreditu nefunguje",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-03T05:26:34.116Z",
+      "replyText": "Hezký den, Zdeňku, děkujeme za hodnocení. Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.15.0"
+    },
+    {
+      "id": "eb67d91a-e87f-44ae-8d07-ec32a8837269",
+      "userName": "Michal Š.",
+      "date": "2026-08-02T11:44:29.701Z",
+      "score": 5,
+      "text": "Po letech se vracím k hodnocení. \"NESKUTEČNÉ ZLEPŠENÍ\" Vše funguje jak má, jen tak dál.",
+      "text_normalized": "po letech se vracim k hodnoceni. \"neskutecne zlepseni\" vse funguje jak ma, jen tak dal.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-02T11:53:53.996Z",
+      "replyText": "Hezký den, Michale,\njsem moc ráda, že se vám aplikace líbí. Děkujeme za hodnocení 🙂 Viki",
+      "version": "3.15.0"
+    },
     {
       "id": "6718af2e-347d-4f23-b08b-1aac73a8abf3",
       "userName": "Petr Kostka",
@@ -33347,8 +33376,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2274,
-    "extractedAt": "2026-08-03T08:33:20.472Z",
+    "totalReviewsExtracted": 2276,
+    "extractedAt": "2026-08-04T07:42:23.134Z",
     "source": "google-play"
   }
 }
