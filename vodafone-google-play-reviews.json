@@ -1,18 +1,132 @@
 {
   "ratings": {
-    "score": 3.8687391,
+    "score": 3.8669002,
     "scoreText": "3,9",
-    "totalRatings": 6073,
-    "totalReviews": 2460,
+    "totalRatings": 6093,
+    "totalReviews": 2468,
     "histogram": {
-      "1": 1215,
-      "2": 219,
-      "3": 345,
-      "4": 649,
-      "5": 3639
+      "1": 1248,
+      "2": 212,
+      "3": 309,
+      "4": 650,
+      "5": 3669
     }
   },
   "reviews": [
+    {
+      "id": "5cccd113-d744-4696-b3e0-01b5f5bcb93c",
+      "userName": "Radka Pospíšil",
+      "date": "2026-08-04T19:30:30.635Z",
+      "score": 5,
+      "text": "spolehlivé služby",
+      "text_normalized": "spolehlive sluzby",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-05T05:28:07.956Z",
+      "replyText": "Hezký den, Radko,\nděkujeme za hodnocení. Jsem ráda, jestli jste s námi spokojená 🙂 Lucie",
+      "version": "3.15.0"
+    },
+    {
+      "id": "8bb80573-36b8-4de0-a786-38cab1303b28",
+      "userName": "Beast",
+      "date": "2026-08-04T15:27:46.190Z",
+      "score": 4,
+      "text": "Jediné, co mi asi vadí, tak že na úvodní stránce sice vidím, kolik dat mi ještě zbývá, ale když chci vidět dokdy, tak se k tomu musím proklikat.",
+      "text_normalized": "jedine, co mi asi vadi, tak ze na uvodni strance sice vidim, kolik dat mi jeste zbyva, ale kdyz chci videt dokdy, tak se k tomu musim proklikat.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-04T16:01:12.925Z",
+      "replyText": "Dobrý den,\nděkujeme za vaši zpětnou vazbu. Aplikaci nadále rozvíjíme a upravujeme, proto je možné, že se změní i tento přehled. Martina",
+      "version": "3.15.0"
+    },
+    {
+      "id": "61371f49-df4b-4128-913b-6b10debba3d7",
+      "userName": "pp Ls",
+      "date": "2026-08-04T15:03:09.831Z",
+      "score": 3,
+      "text": "některé ikony nereagují vůbec, nebo s velkým zpožděním",
+      "text_normalized": "nektere ikony nereaguji vubec, nebo s velkym zpozdenim",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-04T15:29:24.270Z",
+      "replyText": "Dobrý den,\nna to bychom se rádi podívali konkrétně. Zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, prověříme to. Martina\n",
+      "version": null
+    },
+    {
+      "id": "22137f7a-c91f-4ee7-8d68-0b583d86f129",
+      "userName": "Vladimír Böhm",
+      "date": "2026-08-04T14:49:17.941Z",
+      "score": 1,
+      "text": "nelibí",
+      "text_normalized": "nelibi",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-04T14:59:24.902Z",
+      "replyText": "Dobrý den, Vladimíre,\nco konkrétně se vám nelíbí? Zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi se na to s vámi podíváme. Martina\n",
+      "version": "3.15.0"
+    },
+    {
+      "id": "157e2585-5b47-44ba-a967-14d543a24bca",
+      "userName": "V. K.",
+      "date": "2026-08-04T12:45:51.520Z",
+      "score": 1,
+      "text": "Nenačítá se.",
+      "text_normalized": "nenacita se.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-04T13:02:50.489Z",
+      "replyText": "Dobrý den,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Také doporučuji přepnout mezi připojením přes Wi-Fi a přes mobilní data. Kdyby nic z toho nepomohlo, zavolejte nám na 800 77 00 77, rádi se na to podíváme konkrétně. Martina",
+      "version": "3.15.0"
+    },
+    {
+      "id": "0e1ebba1-418a-4d71-8c0a-3e0315214721",
+      "userName": "Branna Branna",
+      "date": "2026-08-04T12:36:31.263Z",
+      "score": 1,
+      "text": "složité, komplikované, nevyhovující a chybí mi praktické dárky jako má např. t mobile",
+      "text_normalized": "slozite, komplikovane, nevyhovujici a chybi mi prakticke darky jako ma napr. t mobile",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-08-04T13:03:26.634Z",
+      "replyText": "Dobrý den, Branno,\nděkujeme za zpětnou vazbu. Aplikaci nadále rozvíjíme a upravujeme, tak třeba s ní budete časem spokojenější. Martina",
+      "version": "3.15.0"
+    },
+    {
+      "id": "4ef813ba-05d4-4bbf-bf52-5e4f63f83f91",
+      "userName": "Richard Rustler",
+      "date": "2026-08-04T10:50:36.530Z",
+      "score": 5,
+      "text": "Spokojenost s aplikací",
+      "text_normalized": "spokojenost s aplikaci",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-04T10:57:42.979Z",
+      "replyText": "Dobrý den, Richarde,\njsem ráda, že se vám aplikace líbí 🙂 Děkujeme za hezké hodnocení. Viki",
+      "version": "3.15.0"
+    },
+    {
+      "id": "5289f474-e5d2-42c9-9902-b113e34a50b3",
+      "userName": "Jan Javůrek",
+      "date": "2026-08-04T07:49:42.322Z",
+      "score": 1,
+      "text": "Hrůza nelze se přihlásit ...pořád hlásí chybu",
+      "text_normalized": "hruza nelze se prihlasit ...porad hlasi chybu",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-04T07:59:23.298Z",
+      "replyText": "Dobrý den, Jane,\nto mě mrzí. Prosím zkuste aplikaci přeinstalovat, taky přepnout z mobilních dat na Wi-Fi nebo naopak. V případě, že využíváte VPN, zkuste ji vypnout. Kdyby to nepomohlo, prosím napište nám podrobnosti na aplikace@vodafone.cz. Viki",
+      "version": "3.15.0"
+    },
     {
       "id": "9968f8ab-07e3-4d73-96a4-37ddf926b581",
       "userName": "Anna R",
@@ -33437,8 +33551,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2280,
-    "extractedAt": "2026-08-05T07:43:17.252Z",
+    "totalReviewsExtracted": 2288,
+    "extractedAt": "2026-08-06T07:42:27.087Z",
     "source": "google-play"
   }
 }
