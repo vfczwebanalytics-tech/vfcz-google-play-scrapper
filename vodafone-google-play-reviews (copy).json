@@ -1,18 +1,118 @@
 {
   "ratings": {
-    "score": 3.8669002,
-    "scoreText": "3,9",
-    "totalRatings": 6093,
-    "totalReviews": 2468,
+    "score": 3.8488576,
+    "scoreText": "3,8",
+    "totalRatings": 6111,
+    "totalReviews": 2474,
     "histogram": {
-      "1": 1248,
-      "2": 212,
-      "3": 309,
-      "4": 650,
-      "5": 3669
+      "1": 1277,
+      "2": 225,
+      "3": 300,
+      "4": 643,
+      "5": 3661
     }
   },
   "reviews": [
+    {
+      "id": "04d7ef50-f20f-47e3-bdfc-874708e55419",
+      "userName": "Karel Svoboda",
+      "date": "2026-08-05T22:09:27.606Z",
+      "score": 1,
+      "text": "Samo se to odhlásí v nejmíň vhodné době.",
+      "text_normalized": "samo se to odhlasi v nejmin vhodne dobe.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-06T05:30:44.182Z",
+      "replyText": "Pěkný den, Karle,\nk odhlášení dochází pouze pro větší aktualizaci, poté se stačí znovu přihlásit a znovu ji nastavit. Veronika",
+      "version": "3.14.1"
+    },
+    {
+      "id": "b664116c-05bb-4b91-b72c-33c5c145835a",
+      "userName": "Jiri Zelinka",
+      "date": "2026-08-05T19:54:55.856Z",
+      "score": 1,
+      "text": "Pořád vidím animované logo, ale aplikace se nespustí.",
+      "text_normalized": "porad vidim animovane logo, ale aplikace se nespusti.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-06T05:28:52.270Z",
+      "replyText": "Hezký den, Jiří,\nmrzí mě, že máte potíže s aplikací 🙁 Doporučuji aplikaci přeinstalovat, věřím, že to pomůže. Pokud by vám ovšem ani po tom nešla spustit, zavolejte nám na linku *77 a rádi to s vámi prověříme. Zuzana",
+      "version": "3.15.0"
+    },
+    {
+      "id": "27c52c89-9f3c-4233-ab5b-74d98590c1c1",
+      "userName": "Michal Trachta",
+      "date": "2026-08-05T17:18:29.548Z",
+      "score": 1,
+      "text": "Zoufalství, vůbec se nespustí. Točí se tam akorát logo VF a nic. Ať jsem na WiFi nebo na mobilních datech. Přeinstalovávat to fakt nebudu, ja tady \"radíte\". Naučte se programovat!",
+      "text_normalized": "zoufalstvi, vubec se nespusti. toci se tam akorat logo vf a nic. at jsem na wifi nebo na mobilnich datech. preinstalovavat to fakt nebudu, ja tady \"radite\". naucte se programovat!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-05T17:34:12.220Z",
+      "replyText": "Pěkný den, Michale,\naplikaci prosím ze svého telefonu odinstalujte, poté telefon vypněte a zapněte a znovu aplikaci nainstalujte. Tím budeme mít jistotu, že máte v telefonu aktuální verzi aplikace. Jestli i přesto budete mít v aplikaci nějaké potíže, pošlete mi prosím podrobnosti na e-mail aplikace@vodafone.cz. Veronika",
+      "version": "3.15.0"
+    },
+    {
+      "id": "92e59a7c-8781-48d2-b578-22b94b345b4a",
+      "userName": "Alex Poborska",
+      "date": "2026-08-05T10:58:03.980Z",
+      "score": 3,
+      "text": "aplikace dobrá,ale přihlášení do aplikace katastrofa,pomalé připojení a když už se přihlásím než se načtou věci co potřebuji šílenost. Ať jsou to výpadky wifi,kdy pak nejde TV a vše kolem tak toto. jsem u Vodafone 18 let ale je to horší a horší",
+      "text_normalized": "aplikace dobra,ale prihlaseni do aplikace katastrofa,pomale pripojeni a kdyz uz se prihlasim nez se nactou veci co potrebuji silenost. at jsou to vypadky wifi,kdy pak nejde tv a vse kolem tak toto. jsem u vodafone 18 let ale je to horsi a horsi",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-05T11:04:34.298Z",
+      "replyText": "Dobrý den, Alex,\nje mi líto, že jste celkově nespokojená 🙁 Jestli potřebujete vyřešit nějakou konkrétní záležitost, zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi vám pomůžeme. Martina\n",
+      "version": "3.15.0"
+    },
+    {
+      "id": "5a65d675-41b8-44eb-8b67-af8335f47280",
+      "userName": "Zdenek Jedlička",
+      "date": "2026-08-05T10:09:26.868Z",
+      "score": 1,
+      "text": "Nemožné přihlášení, hrůza.",
+      "text_normalized": "nemozne prihlaseni, hruza.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-08-05T10:34:33.600Z",
+      "replyText": "Dobrý den Zdenku,\npro přihlášení je třeba zadat e-mailovou adresu, alfanumerické heslo, které jste si nastavil, a kód z SMSky. Pro zjednodušení si můžete poté nastavit biometrické přihlášení, které vám příští přístup do aplikace zrychlí. Martina",
+      "version": "3.15.0"
+    },
+    {
+      "id": "41176abc-dfee-4749-b547-4447bef46570",
+      "userName": "Pavel Štourač",
+      "date": "2026-08-05T09:24:57.129Z",
+      "score": 1,
+      "text": "Achjo, tady už je fakt škoda slov.. aplikace od vydání nebyla ani jednou funkční. ani jednou se mi nepovedlo do aplikace přihlásit. V dnešní době by takovou aplikaci zvládl lépe i programátor začátečník.. neštěstí, bída, zmar",
+      "text_normalized": "achjo, tady uz je fakt skoda slov.. aplikace od vydani nebyla ani jednou funkcni. ani jednou se mi nepovedlo do aplikace prihlasit. v dnesni dobe by takovou aplikaci zvladl lepe i programator zacatecnik.. nestesti, bida, zmar",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-08-05T09:37:12.397Z",
+      "replyText": "Dobrý den, Pavle,\nplošnou a dlouhodobou nefunkčnost aplikace neevidujeme. Zkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby potíže i poté trvaly, zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz, prověříme to na základě konkrétního příkladu. Martina\n",
+      "version": "3.15.0"
+    },
+    {
+      "id": "665318e4-8208-4303-b287-5e89d2369f15",
+      "userName": "Vladislav Souček",
+      "date": "2026-08-05T08:55:36.417Z",
+      "score": 1,
+      "text": "Po poslední aktualizaci dne 4.8.2026. se aplikace přestala načítat.",
+      "text_normalized": "po posledni aktualizaci dne 4.8.2026. se aplikace prestala nacitat.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-05T09:11:13.473Z",
+      "replyText": "Dobrý den, Vladislave,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby ani poté nefungovala, zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, prověříme to. Martina\n",
+      "version": "3.15.0"
+    },
     {
       "id": "5cccd113-d744-4696-b3e0-01b5f5bcb93c",
       "userName": "Radka Pospíšil",
@@ -33551,8 +33651,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2288,
-    "extractedAt": "2026-08-06T07:42:27.087Z",
+    "totalReviewsExtracted": 2295,
+    "extractedAt": "2026-08-07T06:10:29.604Z",
     "source": "google-play"
   }
 }
