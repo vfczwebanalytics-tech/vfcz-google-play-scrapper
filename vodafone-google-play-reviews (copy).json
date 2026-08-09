@@ -1,18 +1,135 @@
 {
   "ratings": {
-    "score": 3.8488576,
+    "score": 3.83218,
     "scoreText": "3,8",
-    "totalRatings": 6111,
-    "totalReviews": 2474,
+    "totalRatings": 6131,
+    "totalReviews": 2479,
     "histogram": {
-      "1": 1277,
-      "2": 225,
-      "3": 300,
-      "4": 643,
-      "5": 3661
+      "1": 1315,
+      "2": 222,
+      "3": 296,
+      "4": 636,
+      "5": 3659
     }
   },
   "reviews": [
+    {
+      "id": "40907f08-0524-4f98-a15d-0243832c0f8a",
+      "userName": "Petr Hošinský",
+      "date": "2026-08-07T05:02:33.345Z",
+      "score": 1,
+      "text": "Dobrý den, proč už není měsíční nabídka data + 10 GB ?",
+      "text_normalized": "dobry den, proc uz neni mesicni nabidka data + 10 gb ?",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-07T05:18:21.188Z",
+      "replyText": "Pěkný den, Petře,\ntakto vám na to nedokážu odpovědět, protože nevím, jaké služby máte aktivní. Napište nám prosím přes https://tam.je/dotaz a rádi se na vše podíváme. Veronika",
+      "version": "3.15.0"
+    },
+    {
+      "id": "52f39a22-4850-496b-bf06-80b611ec86fb",
+      "userName": "Lenka Šálková",
+      "date": "2026-08-07T00:47:49.285Z",
+      "score": 5,
+      "text": "ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-07T05:17:29.470Z",
+      "replyText": "Pěkný den, Lenko,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.15.0"
+    },
+    {
+      "id": "af4e9466-019c-44b8-abda-8c50ca084976",
+      "userName": "Prchal Petr",
+      "date": "2026-08-06T14:11:22.156Z",
+      "score": 5,
+      "text": "velmi spolehlivé.",
+      "text_normalized": "velmi spolehlive.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-06T14:43:45.763Z",
+      "replyText": "Hezký den, Petře, děkujeme za hodnocení 🙂 Vaše spokojenost je pro nás důležitá 🙂 Petra",
+      "version": "3.14.1"
+    },
+    {
+      "id": "051a418d-8e32-41fa-9db3-7fed5294dec6",
+      "userName": "P",
+      "date": "2026-08-06T11:21:55.277Z",
+      "score": 1,
+      "text": "jednou měsíčně jsem v tý aplikaci a vždy se musím přihlašovat znovu a znovu.",
+      "text_normalized": "jednou mesicne jsem v ty aplikaci a vzdy se musim prihlasovat znovu a znovu.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-08-06T12:14:00.740Z",
+      "replyText": "Pěkný den,\nv poslední době proběhlo několik aktualizací, což mohlo způsobit odhlášení z aplikace. Nastavte si prosím biometriku znovu. Veronika",
+      "version": "3.15.0"
+    },
+    {
+      "id": "9fcbd1c1-5eaa-4c60-94f7-8163dfdafaee",
+      "userName": "Antonio Savynets",
+      "date": "2026-08-06T08:12:30.609Z",
+      "score": 1,
+      "text": "Dobrý den, v České republice žijí přibližně 2 miliony cizinců. Odhadem 30–40 % z nich využívá služby Vodafonu. Vaše umělá inteligence však vyžaduje 100% češtinu, což není pro mnoho zákazníků reálné. Netýká se to jen Ukrajinců, ale i desítek dalších národností. Snažil jsem se svůj problém vysvětlit asi desetkrát. Desetkrát jsem volal, ztratil spoustu času i nervů, ale bez výsledku. Nakonec jsem musel uvést nepravdivý důvod hovoru jen proto, abych se vůbec spojil s živým operátorem.",
+      "text_normalized": "dobry den, v ceske republice ziji priblizne 2 miliony cizincu. odhadem 30–40 % z nich vyuziva sluzby vodafonu. vase umela inteligence vsak vyzaduje 100% cestinu, coz neni pro mnoho zakazniku realne. netyka se to jen ukrajincu, ale i desitek dalsich narodnosti. snazil jsem se svuj problem vysvetlit asi desetkrat. desetkrat jsem volal, ztratil spoustu casu i nervu, ale bez vysledku. nakonec jsem musel uvest nepravdivy duvod hovoru jen proto, abych se vubec spojil s zivym operatorem.",
+      "segments": [
+        "Stabilita",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-06T08:37:22.738Z",
+      "replyText": "Pěkný den, Antonio,\nhovořit můžete anglicky, virtuální asistent vás spojí na anglicky hovořícího operátora. Případně nám můžete napsat anglicky přímo z webové samoobsluhy a následně s vámi váš požadavek dořešíme. Veronika",
+      "version": "3.15.0"
+    },
+    {
+      "id": "92b3c20a-5858-4156-92d2-7fcbe2932e09",
+      "userName": "Petra Vrchotová",
+      "date": "2026-08-06T07:34:15.314Z",
+      "score": 4,
+      "text": "ze začátku super, ale poslední tři dny se do apk nelze vůbec dostat, stále hlásí chybu. chybový kód jsem poslala na podporu, ale nic. apk jsem přeinstalovala, nic. Takže nefunkční. Edit: apk už jede, Vodafone podpora se ihned ozvala. Zatím dávám 4hvezdy, pokud pojede bez problémů dál, dám všechny.",
+      "text_normalized": "ze zacatku super, ale posledni tri dny se do apk nelze vubec dostat, stale hlasi chybu. chybovy kod jsem poslala na podporu, ale nic. apk jsem preinstalovala, nic. takze nefunkcni. edit: apk uz jede, vodafone podpora se ihned ozvala. zatim davam 4hvezdy, pokud pojede bez problemu dal, dam vsechny.",
+      "segments": [
+        "Stabilita",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-05T07:32:50.184Z",
+      "replyText": "Dobrý den, Petro,\nzavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi se na to podíváme a pomůžeme vám. Martina\n",
+      "version": "3.15.0"
+    },
+    {
+      "id": "225315ec-ffed-4935-aa05-baa76c1ff359",
+      "userName": "Vít Sykora",
+      "date": "2026-08-06T06:33:56.715Z",
+      "score": 3,
+      "text": "lepší než předchozí ale pořád pomalá dohledat věci je za trest",
+      "text_normalized": "lepsi nez predchozi ale porad pomala dohledat veci je za trest",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-08-06T07:08:01.414Z",
+      "replyText": "Pěkný den, Víte,\nděkujeme za vaše hodnocení a zpětnou vazbu. Pokud budete potřebovat s něčím pomoct, ozvěte se nám přes https://tam.je/dotaz. Veronika",
+      "version": "3.15.0"
+    },
+    {
+      "id": "be0786ba-507e-4239-8ffe-49316c3d16f2",
+      "userName": "Roman Sukdolák",
+      "date": "2026-08-06T06:32:53.134Z",
+      "score": 1,
+      "text": "přeinstaloval jsem aplikaci na novou. nefungovala, teď už ano.Ale jako bonus navýšení tarifu o padesát korun od září? o stovku za dva roky ? Odcházím, děkuji.trapní",
+      "text_normalized": "preinstaloval jsem aplikaci na novou. nefungovala, ted uz ano.ale jako bonus navyseni tarifu o padesat korun od zari? o stovku za dva roky ? odchazim, dekuji.trapni",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-08-06T05:27:57.541Z",
+      "replyText": "Hezký den, Romane,\nje mi líto, že máte potíže s aplikací 🙁 Doporučím ji přeinstalovat, věřím, že to bude v pořádku. Pokud by potíže přervávaly, zavolejte nám na linku *77 a kolegové se s vámi na úpravu tarifu rádi podívají. Zuzana",
+      "version": "3.15.0"
+    },
     {
       "id": "04d7ef50-f20f-47e3-bdfc-874708e55419",
       "userName": "Karel Svoboda",
@@ -33651,8 +33768,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2295,
-    "extractedAt": "2026-08-07T06:10:29.604Z",
+    "totalReviewsExtracted": 2303,
+    "extractedAt": "2026-08-08T05:44:44.985Z",
     "source": "google-play"
   }
 }
