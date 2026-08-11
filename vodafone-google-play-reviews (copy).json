@@ -1,18 +1,62 @@
 {
   "ratings": {
-    "score": 3.8310344,
+    "score": 3.8284228,
     "scoreText": "3,8",
-    "totalRatings": 6145,
-    "totalReviews": 2482,
+    "totalRatings": 6153,
+    "totalReviews": 2483,
     "histogram": {
-      "1": 1323,
-      "2": 222,
-      "3": 296,
-      "4": 624,
-      "5": 3675
+      "1": 1332,
+      "2": 223,
+      "3": 298,
+      "4": 607,
+      "5": 3689
     }
   },
   "reviews": [
+    {
+      "id": "ee62a025-63f6-4cf3-9337-08d3d517a5b1",
+      "userName": "Dominik Hlavatý",
+      "date": "2026-08-09T00:58:56.591Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-09T06:34:22.253Z",
+      "replyText": "Pěkný den, Dominiku,\nděkujeme vám za pozitivní hodnocení. Jsem ráda, že jste spokojený 🙂 Lucie",
+      "version": "3.15.0"
+    },
+    {
+      "id": "0d8501da-2649-46d9-ae09-ffd9e0d7d2ca",
+      "userName": "Adelkamilion",
+      "date": "2026-08-08T10:39:01.172Z",
+      "score": 1,
+      "text": "Nová samoobsluha stojí fakt za h...!! ověřovací kód než dorazí, když dorazí, tak se mezitim stránka shozena na lištu v mobilu se po otevření znovu refreshne zpět na hlavní stránku!!?Tudíž kód už není možné nikam zadat!!Musíš Přidání dalšího tel.cisla by mělo zabrat.max. pět minut! proč se ověřovací kód z SMS rovnou nepropise do aplikace?!?Proč Vodafone samoobsluha nemůže fungovat offline?! Vodafone se velmi zhoršil za ca 20let ... konkurence de facto má ceny podobn",
+      "text_normalized": "nova samoobsluha stoji fakt za h...!! overovaci kod nez dorazi, kdyz dorazi, tak se mezitim stranka shozena na listu v mobilu se po otevreni znovu refreshne zpet na hlavni stranku!!?tudiz kod uz neni mozne nikam zadat!!musis pridani dalsiho tel.cisla by melo zabrat.max. pet minut! proc se overovaci kod z sms rovnou nepropise do aplikace?!?proc vodafone samoobsluha nemuze fungovat offline?! vodafone se velmi zhorsil za ca 20let ... konkurence de facto ma ceny podobn",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-08T10:44:16.954Z",
+      "replyText": "Pěkný den,\nv případě, že si přihlašovací údaje uložíte, aplikace nevyžaduje dvoufázově ověření. Odeslání kódu by také nemělo trvat takto dlouho. Rádi to prověříme podrobněji, když nám napíšete konkrétní příklady včetně screenshotů přes https://tam.je/dotaz. Lucie",
+      "version": null
+    },
+    {
+      "id": "b671d417-aad3-4859-9996-c33e3f040595",
+      "userName": "Patrik ŠEDĚNKA",
+      "date": "2026-08-08T09:17:23.789Z",
+      "score": 1,
+      "text": "Nacpete tam slevy na obskurní výrobky, ale že by jste zrychlili načítání aplikace, když chci zaplatit paušál, to vás nenapadne!!!",
+      "text_normalized": "nacpete tam slevy na obskurni vyrobky, ale ze by jste zrychlili nacitani aplikace, kdyz chci zaplatit pausal, to vas nenapadne!!!",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-08-08T09:43:36.147Z",
+      "replyText": "Pěkný den, Patriku,\nje mi líto, že nejste s aplikací spokojený 🙁 Budeme se snažit, aby se vám do budoucna líbila více. Lucie",
+      "version": null
+    },
     {
       "id": "125cc6ba-767f-4898-81a9-c59bafbacac6",
       "userName": "Stanislav Rudinec",
@@ -33810,8 +33854,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2306,
-    "extractedAt": "2026-08-09T05:49:19.614Z",
+    "totalReviewsExtracted": 2309,
+    "extractedAt": "2026-08-10T06:12:35.945Z",
     "source": "google-play"
   }
 }
