@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 3.8284228,
+    "score": 3.8431034,
     "scoreText": "3,8",
-    "totalRatings": 6153,
-    "totalReviews": 2483,
+    "totalRatings": 6165,
+    "totalReviews": 2492,
     "histogram": {
-      "1": 1332,
-      "2": 223,
-      "3": 298,
-      "4": 607,
-      "5": 3689
+      "1": 1306,
+      "2": 232,
+      "3": 297,
+      "4": 605,
+      "5": 3719
     }
   },
   "reviews": [
+    {
+      "id": "8059a293-5dfc-4867-b821-fb49fe21891e",
+      "userName": "J Horys",
+      "date": "2026-08-09T14:27:40.941Z",
+      "score": 1,
+      "text": "Aplikace se neustále odhlašuje. Pokaždé se musím znovu přihlásit a zadávat kód z SMS. Je to děsně otravné. Nechápu proč se aktivuje biometricke ověření když se stejně musím znovu přihlašovat.",
+      "text_normalized": "aplikace se neustale odhlasuje. pokazde se musim znovu prihlasit a zadavat kod z sms. je to desne otravne. nechapu proc se aktivuje biometricke overeni kdyz se stejne musim znovu prihlasovat.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-08-09T14:49:09.253Z",
+      "replyText": "Pěkný den,\ntakové potíže mě mrzí, to by se dít nemělo 🙁 Zkuste prosím aplikaci přeinstalovat a znovu biometrické přihlášení nastavit. Pokud to nepomůže, napište nám prosím konkrétní příklady přes https://tam.je/dotaz, abychom se na to mohli podívat. Lucie",
+      "version": "3.15.0"
+    },
     {
       "id": "ee62a025-63f6-4cf3-9337-08d3d517a5b1",
       "userName": "Dominik Hlavatý",
@@ -33854,8 +33868,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2309,
-    "extractedAt": "2026-08-10T06:12:35.945Z",
+    "totalReviewsExtracted": 2310,
+    "extractedAt": "2026-08-11T05:55:13.077Z",
     "source": "google-play"
   }
 }
