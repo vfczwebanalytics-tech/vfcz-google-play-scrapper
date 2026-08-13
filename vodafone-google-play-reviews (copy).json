@@ -1,18 +1,121 @@
 {
   "ratings": {
-    "score": 3.8431034,
+    "score": 3.830156,
     "scoreText": "3,8",
-    "totalRatings": 6165,
-    "totalReviews": 2492,
+    "totalRatings": 6195,
+    "totalReviews": 2498,
     "histogram": {
-      "1": 1306,
-      "2": 232,
-      "3": 297,
-      "4": 605,
-      "5": 3719
+      "1": 1298,
+      "2": 235,
+      "3": 353,
+      "4": 632,
+      "5": 3671
     }
   },
   "reviews": [
+    {
+      "id": "cf63a162-d04f-4705-9d77-7c8a1d0be876",
+      "userName": "Hana Ferrara",
+      "date": "2026-08-11T06:17:10.801Z",
+      "score": 4,
+      "text": "spokojenost",
+      "text_normalized": "spokojenost",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-11T06:23:05.132Z",
+      "replyText": "Pěkný den, Hano,\nděkujeme vám za hodnocení. Těší mě, že jste spokojená 🙂 Lucie",
+      "version": "3.15.0"
+    },
+    {
+      "id": "0b56c9a5-0942-47ea-b6fd-16d89956f31b",
+      "userName": "Martin Štefan",
+      "date": "2026-08-10T15:40:04.637Z",
+      "score": 5,
+      "text": "Dobrá aplikace",
+      "text_normalized": "dobra aplikace",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-10T16:37:44.533Z",
+      "replyText": "Dobrý den, Martine,\nděkujeme za zpětnou vazbu a jsem ráda, že jste spokojený 🙂 Katka",
+      "version": "3.15.0"
+    },
+    {
+      "id": "14a7111d-f24a-4e65-899a-2472d24850e8",
+      "userName": "Petr Kodým",
+      "date": "2026-08-10T15:32:50.860Z",
+      "score": 1,
+      "text": "nefunkční",
+      "text_normalized": "nefunkcni",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-10T16:36:46.862Z",
+      "replyText": "Dobrý den, Petře,\nje mi líto, že máte potíže 🙁 Zkuste aplikaci odinstalovat a znovu stáhnout, mohlo by to pomoci. Katka",
+      "version": "3.15.0"
+    },
+    {
+      "id": "bd5271fc-264d-4f47-a722-d3ee608f5b3d",
+      "userName": "Irena Pincová",
+      "date": "2026-08-10T11:03:17.640Z",
+      "score": 1,
+      "text": "ani jednou mi nejde přihlásit",
+      "text_normalized": "ani jednou mi nejde prihlasit",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-10T11:21:05.768Z",
+      "replyText": "Dobrý den, Ireno,\npro přihlášení je třeba zadat e-mailovou adresu, alfanumerické heslo, které jste si nastavila, a kód z SMSky. Pokud se vám přesto přihlášení nedaří, zavolejte nám prosím na 800 77 00 77, rádi se na to s vámi podíváme. Martina",
+      "version": "3.15.0"
+    },
+    {
+      "id": "82bb0cbf-cb65-4e08-8939-9dc8b4d846e4",
+      "userName": "Pavel",
+      "date": "2026-08-10T10:26:45.252Z",
+      "score": 5,
+      "text": "super aplikace,doporučuji",
+      "text_normalized": "super aplikace,doporucuji",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-10T10:53:34.215Z",
+      "replyText": "Dobrý den, Pavle,\ntěší nás, že jste spokojený 🙂 Děkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.15.0"
+    },
+    {
+      "id": "0d991f53-dd8d-4aac-991b-0e50f6215812",
+      "userName": "Pavel C.",
+      "date": "2026-08-10T10:06:16.319Z",
+      "score": 5,
+      "text": "s aplikací jsem byl spokojen, ale od poslední aktualizace se mě nedaří do aplikace přihlásit, po dlouhé době vyskočí chybové hlášení a tím končím. Aplikace byla smazána, telefon vyčištěn a znovu nainstalována. a nic",
+      "text_normalized": "s aplikaci jsem byl spokojen, ale od posledni aktualizace se me nedari do aplikace prihlasit, po dlouhe dobe vyskoci chybove hlaseni a tim koncim. aplikace byla smazana, telefon vycisten a znovu nainstalovana. a nic",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-10T10:22:35.263Z",
+      "replyText": "Dobrý den, Pavle, mrzí mě, že jste se setkal s takovými potížemi 😕 Zkuste prosím ještě přepnout z mobilních dat na Wi-Fi nebo naopak, může jít o bezpečnostní opatření. Pokud využíváte VPN, prosím zkuste ji vypnout. Kdyby to nepomohlo, napište nám přes aplikace@vodafone.cz. Viki",
+      "version": "3.15.0"
+    },
+    {
+      "id": "f6323195-daf3-48f0-bf18-ffd9df582534",
+      "userName": "Radomír Urban",
+      "date": "2026-08-10T09:58:24.216Z",
+      "score": 1,
+      "text": "drive slo v aplikaci zaplatit pouze castku po splatnosti, kdyz clovek zapomnel, dnes to v aplikaci neni mozne.",
+      "text_normalized": "drive slo v aplikaci zaplatit pouze castku po splatnosti, kdyz clovek zapomnel, dnes to v aplikaci neni mozne.",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-10T10:25:20.947Z",
+      "replyText": "Dobrý den, Radomíre,\nmrzí mě vaše nespokojenost. Zobrazujeme vždy celou aktuální dlužnou částku. Aplikaci budeme dál postupně vylepšovat. Věřím tak, že se vám v budoucnu bude líbit víc. Viki",
+      "version": "3.15.0"
+    },
     {
       "id": "8059a293-5dfc-4867-b821-fb49fe21891e",
       "userName": "J Horys",
@@ -33868,8 +33971,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2310,
-    "extractedAt": "2026-08-11T05:55:13.077Z",
+    "totalReviewsExtracted": 2317,
+    "extractedAt": "2026-08-12T06:17:45.127Z",
     "source": "google-play"
   }
 }

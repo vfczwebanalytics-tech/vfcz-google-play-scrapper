@@ -1,18 +1,110 @@
 {
   "ratings": {
-    "score": 3.830156,
+    "score": 3.8062284,
     "scoreText": "3,8",
-    "totalRatings": 6195,
-    "totalReviews": 2498,
+    "totalRatings": 6209,
+    "totalReviews": 2499,
     "histogram": {
-      "1": 1298,
-      "2": 235,
-      "3": 353,
-      "4": 632,
-      "5": 3671
+      "1": 1331,
+      "2": 246,
+      "3": 343,
+      "4": 654,
+      "5": 3630
     }
   },
   "reviews": [
+    {
+      "id": "9ed61f53-e439-486f-a119-92709564386a",
+      "userName": "David Sedláček",
+      "date": "2026-08-12T06:09:16.377Z",
+      "score": 1,
+      "text": "Neustále odhlašuje. Uložená hesla, biometrika. Já už nevím co s tim. Hesla uložená v hlavě nenosím. A ted mám zaplatit a zase musím počkat, až dorazím večer domu a najdu heslo. Tohle mě už taky nebaví. Po těch letech člověk zvážuje přejít jinam.",
+      "text_normalized": "neustale odhlasuje. ulozena hesla, biometrika. ja uz nevim co s tim. hesla ulozena v hlave nenosim. a ted mam zaplatit a zase musim pockat, az dorazim vecer domu a najdu heslo. tohle me uz taky nebavi. po tech letech clovek zvazuje prejit jinam.",
+      "segments": [
+        "Prihlaseni",
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-08-12T06:29:51.106Z",
+      "replyText": "Pěkný den, Davide,\npo větší aktualizaci aplikace dojde k odhlášení. Následně je potřeba se do aplikace přihlásit heslem, poté si stačí biometriku znovu nastavit. Veronika",
+      "version": "3.15.0"
+    },
+    {
+      "id": "496be636-949e-4e61-90ad-84d4d0a6abee",
+      "userName": "Katka Brožková",
+      "date": "2026-08-11T14:28:59.145Z",
+      "score": 1,
+      "text": "nefunguje, nejde přihlásit, nepoužitelné, potřebuji jednou za měsíc zaplatit fakturu za TV a strávím tím odpoledne bez výsledku",
+      "text_normalized": "nefunguje, nejde prihlasit, nepouzitelne, potrebuji jednou za mesic zaplatit fakturu za tv a stravim tim odpoledne bez vysledku",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-11T14:55:24.316Z",
+      "replyText": "Dobrý den, Katko,\nto mě mrzí 🙁 Zkuste prosím aplikaci přeinstalovat, případně přepnout z mobilních dat na Wi-Fi nebo naopak. Pokud využíváte VPN, zkuste ji prosím vypnout. Kdyby to nepomohlo, napište nám prosím na aplikace@vodafone.cz. Viki",
+      "version": "3.15.0"
+    },
+    {
+      "id": "819fb02b-d421-4490-bbe1-ef77c31a1c22",
+      "userName": "K J",
+      "date": "2026-08-11T10:49:15.451Z",
+      "score": 5,
+      "text": "Pro mne skvělé.",
+      "text_normalized": "pro mne skvele.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-11T10:54:04.623Z",
+      "replyText": "Hezký den,\nděkujeme vám za hodnocení. Jsme rádi, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.15.0"
+    },
+    {
+      "id": "8da6fd7e-cef2-478f-9871-d04bd87ccfa7",
+      "userName": "Soblahovský Petr",
+      "date": "2026-08-11T09:17:35.715Z",
+      "score": 1,
+      "text": "Už několik dní nefunguje biometrické přihlášení aplikace načítá a načítá a načítá a nic i jedna hvězda je moc . Ten paskvil je NEFUNKČNÍ !!!",
+      "text_normalized": "uz nekolik dni nefunguje biometricke prihlaseni aplikace nacita a nacita a nacita a nic i jedna hvezda je moc . ten paskvil je nefunkcni !!!",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-11T09:24:18.579Z",
+      "replyText": "Hezký den, Petře,\ntakové potíže mě mrzí 🙁 Zkuste prosím aplikaci přeinstalovat. Pokud by to nepomáhalo, napište nám prosím podrobnosti přes https://tam.je/dotaz, abychom to mohli řešit konkrétněji. Lucie",
+      "version": "3.15.0"
+    },
+    {
+      "id": "58eb665f-1b37-406f-b31a-b119658d6b6d",
+      "userName": "Miroslav Karas",
+      "date": "2026-08-11T08:37:34.283Z",
+      "score": 5,
+      "text": "Vodafon+ u mne pohoda",
+      "text_normalized": "vodafon+ u mne pohoda",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-11T08:53:50.219Z",
+      "replyText": "Hezký den, Miroslave,\nděkujeme za hodnocení, to rádi slyšíme 🙂 Lucie",
+      "version": "3.15.0"
+    },
+    {
+      "id": "67397458-69e4-4bb9-939b-2d6a19ea9939",
+      "userName": "Danuše Kašníková",
+      "date": "2026-08-11T07:35:10.162Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-11T07:53:34.471Z",
+      "replyText": "Pěkný den, Danuše,\nděkujeme za hodnocení. Jsem ráda, že jste spokojená 🙂 Lucie",
+      "version": "3.15.0"
+    },
     {
       "id": "cf63a162-d04f-4705-9d77-7c8a1d0be876",
       "userName": "Hana Ferrara",
@@ -33971,8 +34063,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2317,
-    "extractedAt": "2026-08-12T06:17:45.127Z",
+    "totalReviewsExtracted": 2323,
+    "extractedAt": "2026-08-13T06:19:44.626Z",
     "source": "google-play"
   }
 }
