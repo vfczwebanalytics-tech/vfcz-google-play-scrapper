@@ -1,18 +1,47 @@
 {
   "ratings": {
-    "score": 3.8062284,
+    "score": 3.8208191,
     "scoreText": "3,8",
-    "totalRatings": 6209,
-    "totalReviews": 2499,
+    "totalRatings": 6227,
+    "totalReviews": 2500,
     "histogram": {
-      "1": 1331,
-      "2": 246,
-      "3": 343,
-      "4": 654,
-      "5": 3630
+      "1": 1295,
+      "2": 254,
+      "3": 371,
+      "4": 647,
+      "5": 3655
     }
   },
   "reviews": [
+    {
+      "id": "b369e65e-78bb-4714-bf51-2c3e84598c51",
+      "userName": "Marwiin",
+      "date": "2026-08-12T21:51:00.436Z",
+      "score": 3,
+      "text": "Neuvěřitelně pomalá aplikace. Je to děs a bída.. Je to největší operátor a než se dostanete k nastavení tak se vám snad deset minut točí logo. A druhý den zjistíte že se vám nastavení ani neuloží a strhnou si částku za něco co nechcete",
+      "text_normalized": "neuveritelne pomala aplikace. je to des a bida.. je to nejvetsi operator a nez se dostanete k nastaveni tak se vam snad deset minut toci logo. a druhy den zjistite ze se vam nastaveni ani neulozi a strhnou si castku za neco co nechcete",
+      "segments": [
+        "Vykonnost",
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-08-13T05:03:52.727Z",
+      "replyText": "Pěkný den,\nděkujeme za zpětnou vazbu. Pokud aplikace neběží správně, tak ji prosím odinstalujte, telefon vypněte a zapněte a znovu ji nainstalujte, tím budete mít zároveň jistotu, že máte v telefonu její poslední verzi. Veronika",
+      "version": "3.16.0"
+    },
+    {
+      "id": "c5b05a12-9dfd-4e5a-b4f0-98e08ed9a691",
+      "userName": "Jiri Cada",
+      "date": "2026-08-12T12:33:48.515Z",
+      "score": 5,
+      "text": "už s vámi spolupracuji nějaký rok a myslím že si že že je to oboustranný požitek ❤️.",
+      "text_normalized": "uz s vami spolupracuji nejaky rok a myslim ze si ze ze je to oboustranny pozitek ❤️.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-12T12:58:31.913Z",
+      "replyText": "Hezký den, Jiří,\nděkujeme za hodnocení. Vážíme si, že jste s námi a jste spokojený 🙂 Lucie",
+      "version": "3.15.0"
+    },
     {
       "id": "9ed61f53-e439-486f-a119-92709564386a",
       "userName": "David Sedláček",
@@ -34063,8 +34092,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2323,
-    "extractedAt": "2026-08-13T06:19:44.626Z",
+    "totalReviewsExtracted": 2325,
+    "extractedAt": "2026-08-14T06:17:15.964Z",
     "source": "google-play"
   }
 }

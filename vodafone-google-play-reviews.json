@@ -1,18 +1,34 @@
 {
   "ratings": {
-    "score": 3.8208191,
+    "score": 3.831058,
     "scoreText": "3,8",
-    "totalRatings": 6227,
-    "totalReviews": 2500,
+    "totalRatings": 6235,
+    "totalReviews": 2504,
     "histogram": {
-      "1": 1295,
-      "2": 254,
-      "3": 371,
-      "4": 647,
-      "5": 3655
+      "1": 1276,
+      "2": 255,
+      "3": 372,
+      "4": 670,
+      "5": 3659
     }
   },
   "reviews": [
+    {
+      "id": "bd787b3c-d310-40fb-b38b-7cec878988ab",
+      "userName": "Petr Moravec",
+      "date": "2026-08-13T15:01:34.363Z",
+      "score": 1,
+      "text": "Proč nedošlo ke zrušení původní aplikace Můj Vodafone, když je tato \"nová\"? To je selektivní chování k zákazníkům? Stejně je to jen zkopírovaná stránka z webu vložena do aplikace, takže odrbává Vodafone dál. Aplikace k ničemu, která ukazuje \"Ajaj\" při kliknutí na sekci s přihlášením. 👎 Další dno Vodafone. Vy jste fakt ubozí. Na webu už nic nejde udělat a odkazuje to na tuto \"aplikaci - stránku\". Laciné jak kvalita služeb Vodafonu. Hlavně, že sponzorujete kde koho, na to vás užije. Kde jsme? 🤡",
+      "text_normalized": "proc nedoslo ke zruseni puvodni aplikace muj vodafone, kdyz je tato \"nova\"? to je selektivni chovani k zakaznikum? stejne je to jen zkopirovana stranka z webu vlozena do aplikace, takze odrbava vodafone dal. aplikace k nicemu, ktera ukazuje \"ajaj\" pri kliknuti na sekci s prihlasenim. 👎 dalsi dno vodafone. vy jste fakt ubozi. na webu uz nic nejde udelat a odkazuje to na tuto \"aplikaci - stranku\". lacine jak kvalita sluzeb vodafonu. hlavne, ze sponzorujete kde koho, na to vas uzije. kde jsme? 🤡",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-13T15:33:11.173Z",
+      "replyText": "Zdravím, Petře,\njestli potřebujete pomoc s nějakým konkrétním požadavkem, dejte nám prosím vědět telefonicky na 800 77 00 77 nebo přes https://tam.je/dotaz, rádi se vám budeme věnovat. Martina\n",
+      "version": "3.16.0"
+    },
     {
       "id": "b369e65e-78bb-4714-bf51-2c3e84598c51",
       "userName": "Marwiin",
@@ -34092,8 +34108,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2325,
-    "extractedAt": "2026-08-14T06:17:15.964Z",
+    "totalReviewsExtracted": 2326,
+    "extractedAt": "2026-08-15T05:28:41.586Z",
     "source": "google-play"
   }
 }
