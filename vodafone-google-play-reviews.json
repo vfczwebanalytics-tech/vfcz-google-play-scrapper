@@ -1,18 +1,78 @@
 {
   "ratings": {
-    "score": 3.831058,
+    "score": 3.8307953,
     "scoreText": "3,8",
-    "totalRatings": 6235,
-    "totalReviews": 2504,
+    "totalRatings": 6254,
+    "totalReviews": 2508,
     "histogram": {
-      "1": 1276,
-      "2": 255,
-      "3": 372,
-      "4": 670,
-      "5": 3659
+      "1": 1300,
+      "2": 243,
+      "3": 359,
+      "4": 655,
+      "5": 3692
     }
   },
   "reviews": [
+    {
+      "id": "2c1aee82-46a0-46e7-b87f-e35e4805aef8",
+      "userName": "Šimona Fiřtová",
+      "date": "2026-08-14T22:12:55.230Z",
+      "score": 1,
+      "text": "Strašný. Už několik dní mi aplikace/web nefunguje, padá, zčerná obrazovka apod. Přeinstalovat nepomůže. Nemůžu ovládat svůj účet a peníze mi utíkají. Začínám toho mít dost. Pokud se člověk nedostane kdykoli k ovládání svého účtu, je to začátek konce s tímto operátorem!",
+      "text_normalized": "strasny. uz nekolik dni mi aplikace/web nefunguje, pada, zcerna obrazovka apod. preinstalovat nepomuze. nemuzu ovladat svuj ucet a penize mi utikaji. zacinam toho mit dost. pokud se clovek nedostane kdykoli k ovladani sveho uctu, je to zacatek konce s timto operatorem!",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-15T06:06:32.137Z",
+      "replyText": "Pěkný den, Šimono,\npošlete nám prosím jednotlivé screenshoty a také podrobnosti k celé situaci na e-mailovou adresu aplikace@vodafone.cz. Nezapomeňte uvést i typ vašeho telefonu včetně OS. Veronika",
+      "version": "3.16.0"
+    },
+    {
+      "id": "e4fc103f-0f4a-43ae-8614-e54f94b45f32",
+      "userName": "Monika Vyletová",
+      "date": "2026-08-14T19:00:32.470Z",
+      "score": 5,
+      "text": "bezvadné",
+      "text_normalized": "bezvadne",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-15T06:04:07.957Z",
+      "replyText": "Pěkný den, Moniko,\nděkujeme za hodnocení 🙂 Veronika",
+      "version": "3.16.0"
+    },
+    {
+      "id": "b2adf567-db34-41e6-a5e2-f64335e6d307",
+      "userName": "dana masinova",
+      "date": "2026-08-14T12:55:14.545Z",
+      "score": 5,
+      "text": "jsem velice spokojená 😀",
+      "text_normalized": "jsem velice spokojena 😀",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-14T13:06:24.820Z",
+      "replyText": "Pěkný den, Dano,\njsme moc rádi a děkujeme za zpětnou vazbu a hodnocení 🙂 Veronika",
+      "version": "3.15.0"
+    },
+    {
+      "id": "452e4228-9a96-41cd-845b-5b8ae7a61ad0",
+      "userName": "Hana Dolečková",
+      "date": "2026-08-14T08:03:47.519Z",
+      "score": 1,
+      "text": "Nemam slov a uz ani trpělivost tohle pouzivat. Opet se deset minut toci logo. Minule zas nesel otisk prstu. Předminule mi to nebralo heslo a musela jsem to stejny zadat ručně. To je tak dobre zabezpeceny, ze se tam asi nedostanete ani vy abyste to trochu uzivatelsky vylepsili, jinak tomu nerozumim🤣",
+      "text_normalized": "nemam slov a uz ani trpelivost tohle pouzivat. opet se deset minut toci logo. minule zas nesel otisk prstu. predminule mi to nebralo heslo a musela jsem to stejny zadat rucne. to je tak dobre zabezpeceny, ze se tam asi nedostanete ani vy abyste to trochu uzivatelsky vylepsili, jinak tomu nerozumim🤣",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-08-14T08:45:36.723Z",
+      "replyText": "Dobrý den, Hano,\nje mi líto, že máte takové potíže 🙁 Nejprve zkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby to nepomohlo, napište nám na aplikace@vodafone.cz a my to zkontrolujeme. Katka",
+      "version": "3.16.0"
+    },
     {
       "id": "bd787b3c-d310-40fb-b38b-7cec878988ab",
       "userName": "Petr Moravec",
@@ -34108,8 +34168,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2326,
-    "extractedAt": "2026-08-15T05:28:41.586Z",
+    "totalReviewsExtracted": 2330,
+    "extractedAt": "2026-08-16T05:31:53.075Z",
     "source": "google-play"
   }
 }
