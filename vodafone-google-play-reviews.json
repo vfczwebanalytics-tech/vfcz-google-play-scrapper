@@ -1,18 +1,74 @@
 {
   "ratings": {
-    "score": 3.8407533,
+    "score": 3.8355932,
     "scoreText": "3,8",
-    "totalRatings": 6270,
-    "totalReviews": 2512,
+    "totalRatings": 6276,
+    "totalReviews": 2517,
     "histogram": {
-      "1": 1299,
-      "2": 225,
-      "3": 364,
-      "4": 665,
-      "5": 3713
+      "1": 1307,
+      "2": 223,
+      "3": 372,
+      "4": 658,
+      "5": 3712
     }
   },
   "reviews": [
+    {
+      "id": "0e1f85c8-15c7-4f50-a23b-b7f35b4c5c13",
+      "userName": "Vladimír Bank",
+      "date": "2026-08-17T03:45:33.505Z",
+      "score": 3,
+      "text": "Googl Pay prosím. Zadávání CVC dělám velmi nerad a šachovat s QR kódem mě také nebaví.",
+      "text_normalized": "googl pay prosim. zadavani cvc delam velmi nerad a sachovat s qr kodem me take nebavi.",
+      "segments": [
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-08-17T05:17:27.733Z",
+      "replyText": "Dobrý den, Vladimíre,\naplikace Google Pay podporuje. Tu možnost máte ihned při platbě Vyúčtování, kde si vyberete, jestli chcete platit kartou nebo Google Pay. V případě, že tam tuto variantu nemáte, napište nám prosím přes https://tam.je/dotaz a pošlete screeny, abychom to mohli řešit konkrétněji. Lucie",
+      "version": "3.16.0"
+    },
+    {
+      "id": "3236e9e9-617a-496f-8124-51f132832e2b",
+      "userName": "Josef Tichý",
+      "date": "2026-08-16T19:56:51.940Z",
+      "score": 5,
+      "text": "super aplikace",
+      "text_normalized": "super aplikace",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-17T05:11:33.206Z",
+      "replyText": "Pěkný den, Josefe,\nděkujeme vám za hodnocení. Jsem ráda, že jste s aplikací spokojený 🙂 Lucie",
+      "version": "3.16.0"
+    },
+    {
+      "id": "a38aba55-4249-43b5-9bab-b693b841c6a3",
+      "userName": "Štěpanka Sabová",
+      "date": "2026-08-16T14:43:40.423Z",
+      "score": 5,
+      "text": "vše v pořádku pořiďte si můj Vodafon docela dobrý ceny ji",
+      "text_normalized": "vse v poradku poridte si muj vodafon docela dobry ceny ji",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-17T05:10:36.728Z",
+      "replyText": "Hezký den, Štěpánko,\nděkujeme za vaše milé hodnocení 🙂 Jsme moc rádi, že se vám aplikace Můj Vodafone+ líbí. Viki",
+      "version": "3.16.0"
+    },
+    {
+      "id": "73a0599e-f82f-4f7c-b686-9642fe44c06f",
+      "userName": "Igor Andrejsin",
+      "date": "2026-08-16T07:18:39.355Z",
+      "score": 1,
+      "text": "Error 15 a tím končí. Odinstalace.",
+      "text_normalized": "error 15 a tim konci. odinstalace.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-08-16T07:43:03.773Z",
+      "replyText": "Pěkný den, Igore,\ntato chyba vyskočí při aktivní VPN. VPNku vypněte a přihlaste se znovu. Veronika",
+      "version": "3.16.0"
+    },
     {
       "id": "535ec1f0-4c6f-4d99-8034-c6da73c43b39",
       "userName": "ExallereX",
@@ -34227,8 +34283,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2334,
-    "extractedAt": "2026-08-17T05:38:11.268Z",
+    "totalReviewsExtracted": 2338,
+    "extractedAt": "2026-08-18T05:33:34.559Z",
     "source": "google-play"
   }
 }

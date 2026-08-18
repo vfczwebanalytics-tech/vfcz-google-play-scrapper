@@ -1,18 +1,77 @@
 {
   "ratings": {
-    "score": 3.8307953,
+    "score": 3.8407533,
     "scoreText": "3,8",
-    "totalRatings": 6254,
-    "totalReviews": 2508,
+    "totalRatings": 6270,
+    "totalReviews": 2512,
     "histogram": {
-      "1": 1300,
-      "2": 243,
-      "3": 359,
-      "4": 655,
-      "5": 3692
+      "1": 1299,
+      "2": 225,
+      "3": 364,
+      "4": 665,
+      "5": 3713
     }
   },
   "reviews": [
+    {
+      "id": "535ec1f0-4c6f-4d99-8034-c6da73c43b39",
+      "userName": "ExallereX",
+      "date": "2026-08-15T21:05:16.478Z",
+      "score": 1,
+      "text": "automatické odhlašování, pokud je nutné aplikaci aktualizovat ani to nedá vědět prostě napíše error, pokud už funguje tak trvá načtení přes minutu a velmi nepřehledná, doporučil bych změnit programátora za lépe placeného 🙂‍↕️",
+      "text_normalized": "automaticke odhlasovani, pokud je nutne aplikaci aktualizovat ani to neda vedet proste napise error, pokud uz funguje tak trva nacteni pres minutu a velmi neprehledna, doporucil bych zmenit programatora za lepe placeneho 🙂‍↕️",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-16T06:20:14.859Z",
+      "replyText": "Pěkný den,\npo větší aktualizaci se aplikace odhlásí, následně se stačí svými údaji znovu přihlásit a případně biometriku znovu nastavit. Nicméně přihlašování takto dlouhé není. Aplikaci prosím tedy přeinstalujte, pomůže to. Veronika",
+      "version": null
+    },
+    {
+      "id": "3fc4354e-adc8-4ab7-a1c7-530e36884d89",
+      "userName": "Filip Malat",
+      "date": "2026-08-15T11:55:49.497Z",
+      "score": 1,
+      "text": "Něco tak pomalého a nestabilního se jen tak nevidí. 1 hvězda je moc.",
+      "text_normalized": "neco tak pomaleho a nestabilniho se jen tak nevidi. 1 hvezda je moc.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-15T12:10:08.901Z",
+      "replyText": "Pěkný den, Filipe,\npokud je aplikace pomalá a nestabilní, tak ji prosím odinstalujte, telefon vypněte a zapněte. Následně znovu nainstalujte. Veronika",
+      "version": "3.16.0"
+    },
+    {
+      "id": "4013f903-2e1c-4d0c-91b7-17f2a5874851",
+      "userName": "Tonda Nguyen",
+      "date": "2026-08-15T11:39:01.850Z",
+      "score": 4,
+      "text": "dobrá aplikace, ale občas mám problém s přihlášením , takže problém se serverem.",
+      "text_normalized": "dobra aplikace, ale obcas mam problem s prihlasenim , takze problem se serverem.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-08-15T12:11:38.841Z",
+      "replyText": "Pěkný den, Tondo,\naplikaci prosím přeinstalujte, tím budete mít jistotu, že máte v telefonu její poslední verzi. Pokud i přesto budeme mít potíže s přihlášením, pošlete nám screenshoty na e-mailovou adresu aplikace@vodafone.cz. Veronika",
+      "version": "3.16.0"
+    },
+    {
+      "id": "14e3b322-c1d3-4301-b91b-800d7c6d453f",
+      "userName": "Simona Janečková",
+      "date": "2026-08-15T09:27:13.760Z",
+      "score": 3,
+      "text": "Od té doby co je nová aplikace ,tak mám pořád problémy s připojením do aplikace 🫣",
+      "text_normalized": "od te doby co je nova aplikace ,tak mam porad problemy s pripojenim do aplikace 🫣",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-08-15T09:39:51.850Z",
+      "replyText": "Pěkný den, Simono,\nbudu ráda, když nám k tomu napíšete více podrobností na e-mailovou adresu aplikace@vodafone.cz. Nezapomeňte přiložit i screenshoty. Veronika",
+      "version": "3.16.0"
+    },
     {
       "id": "2c1aee82-46a0-46e7-b87f-e35e4805aef8",
       "userName": "Šimona Fiřtová",
@@ -34168,8 +34227,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2330,
-    "extractedAt": "2026-08-16T05:31:53.075Z",
+    "totalReviewsExtracted": 2334,
+    "extractedAt": "2026-08-17T05:38:11.268Z",
     "source": "google-play"
   }
 }
