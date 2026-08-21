@@ -1,18 +1,62 @@
 {
   "ratings": {
-    "score": 3.8282828,
+    "score": 3.822335,
     "scoreText": "3,8",
-    "totalRatings": 6318,
+    "totalRatings": 6335,
     "totalReviews": 2527,
     "histogram": {
-      "1": 1339,
-      "2": 223,
-      "3": 350,
-      "4": 669,
-      "5": 3733
+      "1": 1328,
+      "2": 234,
+      "3": 374,
+      "4": 685,
+      "5": 3708
     }
   },
   "reviews": [
+    {
+      "id": "5c2fea5f-a893-4a46-8dae-d219488f5951",
+      "userName": "Michal „majky“ G.",
+      "date": "2026-08-19T13:09:21.300Z",
+      "score": 1,
+      "text": "jako katastrofa tohle, zapnu a černá obrazovka, nedá se nic...",
+      "text_normalized": "jako katastrofa tohle, zapnu a cerna obrazovka, neda se nic...",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-19T13:28:32.820Z",
+      "replyText": "Dobrý den, Michale,\nprosím zkuste aplikaci přeinstalovat, případně také přepnout z mobilních dat na Wi-Fi (nebo naopak). V případě, že používáte VPN, zkuste ji prosím vypnout. Kdyby potíže přetrvávaly, prosím zavolejte nám na *77 nebo nám napište přes https://tam.je/dotaz. Viki",
+      "version": "3.16.0"
+    },
+    {
+      "id": "261e3de0-dccd-423c-ace2-40b5cc680f34",
+      "userName": "Pavel",
+      "date": "2026-08-19T12:21:48.836Z",
+      "score": 1,
+      "text": "vyloženě k ničemu. zasekane, padá. ty jejich letní výhry v podobě 2% slevy na podprsenky a další nesmysly k ničemu. teď chtějí ještě zdražovat tarify. otřes a koukám se po jiném operátorovi",
+      "text_normalized": "vylozene k nicemu. zasekane, pada. ty jejich letni vyhry v podobe 2% slevy na podprsenky a dalsi nesmysly k nicemu. ted chteji jeste zdrazovat tarify. otres a koukam se po jinem operatorovi",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-08-19T12:28:11.803Z",
+      "replyText": "Dobrý den, Pavle,\nje mi líto, že jste s Vodafonem celkově nespokojený 🙁 Jestli potřebujete pomoc s vyřešením nějakého konkrétního požadavku, zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz. Martina\n",
+      "version": "3.16.0"
+    },
+    {
+      "id": "3c6990d3-1182-4151-8f6e-0cce069efe63",
+      "userName": "Pavel Pavluš",
+      "date": "2026-08-19T12:11:52.716Z",
+      "score": 2,
+      "text": "za mne hrůza",
+      "text_normalized": "za mne hruza",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-19T12:29:01.506Z",
+      "replyText": "Dobrý den, Pavle,\nděkujeme za zpětnou vazbu. Na dalším rozvoji a doplnění aplikace pracujeme, tak třeba vám čase bude vyhovovat více. Martina",
+      "version": null
+    },
     {
       "id": "f98b0dad-6c6e-443a-aaf2-6c637ce913ba",
       "userName": "Milan Růžička",
@@ -34425,8 +34469,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2348,
-    "extractedAt": "2026-08-20T05:34:56.059Z",
+    "totalReviewsExtracted": 2351,
+    "extractedAt": "2026-08-21T05:36:10.343Z",
     "source": "google-play"
   }
 }

@@ -1,18 +1,89 @@
 {
   "ratings": {
-    "score": 3.8654485,
-    "scoreText": "3,9",
-    "totalRatings": 6296,
-    "totalReviews": 2524,
+    "score": 3.8282828,
+    "scoreText": "3,8",
+    "totalRatings": 6318,
+    "totalReviews": 2527,
     "histogram": {
-      "1": 1275,
-      "2": 218,
-      "3": 355,
+      "1": 1339,
+      "2": 223,
+      "3": 350,
       "4": 669,
-      "5": 3775
+      "5": 3733
     }
   },
   "reviews": [
+    {
+      "id": "f98b0dad-6c6e-443a-aaf2-6c637ce913ba",
+      "userName": "Milan Růžička",
+      "date": "2026-08-19T00:35:44.350Z",
+      "score": 5,
+      "text": "super líbí se mi to je to paráda děkuji vám",
+      "text_normalized": "super libi se mi to je to parada dekuji vam",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-18T12:21:50.585Z",
+      "replyText": "Hezký den, Milane, děkujeme za hodnocení 🙂 Vaše spokojenost je pro nás důležitá 🙂 Petra",
+      "version": "3.16.0"
+    },
+    {
+      "id": "76401dc0-e109-403f-9ecd-8c176dd6c3be",
+      "userName": "Jarda Škury",
+      "date": "2026-08-18T21:30:26.872Z",
+      "score": 1,
+      "text": "Aplikace nereaguje. Hlásí chybobé kódy. ,\"něco se porouchalo\" jejích chatboot stojí za... však víte \"",
+      "text_normalized": "aplikace nereaguje. hlasi chybobe kody. ,\"neco se porouchalo\" jejich chatboot stoji za... vsak vite \"",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-08-19T05:02:55.881Z",
+      "replyText": "Pěkný den, Jardo,\nabychom měli jistotu, že máte v telefonu poslední verzi aplikace, tak ji prosím odinstalujte, telefon vypněte a zapněte a znovu ji nainstalujte. Pokud i poté budete sledovat potíže s přihlášením, pošlete nám prosím screenshoty na e-mailovou adresu aplikace@vodafone.cz. Veronika",
+      "version": "3.16.0"
+    },
+    {
+      "id": "5433a102-76f0-4e5c-be51-ae8a9b1c28c4",
+      "userName": "Radim Karlík",
+      "date": "2026-08-18T12:41:51.952Z",
+      "score": 1,
+      "text": "Stejně hrozná aplikace jako ta předchozí. Pořád něco načítá, furt čumím jen na to kolečko ať je připojení sebelepší.. Pořád dokola někde povoluji cookies jak trubka. A když mi náhodou dojdou data, tak si v týhle appce ani neškrtnu, abych si třeba navýšil limit.. Super když jste venku.",
+      "text_normalized": "stejne hrozna aplikace jako ta predchozi. porad neco nacita, furt cumim jen na to kolecko at je pripojeni sebelepsi.. porad dokola nekde povoluji cookies jak trubka. a kdyz mi nahodou dojdou data, tak si v tyhle appce ani neskrtnu, abych si treba navysil limit.. super kdyz jste venku.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-18T12:55:09.153Z",
+      "replyText": "Hezký den, Radime, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Aplikaci zkuste prosím přeinstalovat, a pokud by to nepomohlo, napište nám na aplikace@vodafone.cz. Pomůžeme vám. Petra\n",
+      "version": "3.16.0"
+    },
+    {
+      "id": "6f910afa-68f4-4fd4-a6f8-ed4f65e84c74",
+      "userName": "Richard Hofman",
+      "date": "2026-08-18T11:29:23.580Z",
+      "score": 5,
+      "text": "Velmi dobře propracovaný systém dobíjení telefonu.",
+      "text_normalized": "velmi dobre propracovany system dobijeni telefonu.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-18T11:50:11.640Z",
+      "replyText": "Dobrý den, Richarde,\ntěší nás, že jste spokojený 🙂 Děkujeme za vaše hodnocení. Martina",
+      "version": "3.16.0"
+    },
+    {
+      "id": "23d0a84b-42d9-4424-8ebb-a5b2a4a78953",
+      "userName": "Uživatel Googlu",
+      "date": "2026-08-18T08:23:51.620Z",
+      "score": 1,
+      "text": "Toto je jediná aplikace v telefonu kde mám pořád dokola problémy s přihlašováním.",
+      "text_normalized": "toto je jedina aplikace v telefonu kde mam porad dokola problemy s prihlasovanim.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-08-18T08:52:26.662Z",
+      "replyText": "Dobrý den,\nmrzí mě, že máte potíže s přihlášením 🙁 Je třeba zadat e-mailovou adresu, alfanumerické heslo a kód z SMSky. Pokud vám po zadání správných údajů přihlášení nefunguje, zavolejte nám prosím na 800 77 00 77, prověříme to. Martina",
+      "version": "3.16.0"
+    },
     {
       "id": "f391688d-4f25-4eb6-aea3-fff43a1280f0",
       "userName": "Jaroslava Součková",
@@ -34354,8 +34425,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2343,
-    "extractedAt": "2026-08-19T05:34:14.888Z",
+    "totalReviewsExtracted": 2348,
+    "extractedAt": "2026-08-20T05:34:56.059Z",
     "source": "google-play"
   }
 }
