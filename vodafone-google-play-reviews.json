@@ -1,18 +1,48 @@
 {
   "ratings": {
-    "score": 3.8341708,
+    "score": 3.8224456,
     "scoreText": "3,8",
-    "totalRatings": 6351,
-    "totalReviews": 2530,
+    "totalRatings": 6361,
+    "totalReviews": 2532,
     "histogram": {
-      "1": 1318,
+      "1": 1341,
       "2": 233,
-      "3": 372,
-      "4": 680,
-      "5": 3744
+      "3": 382,
+      "4": 648,
+      "5": 3750
     }
   },
   "reviews": [
+    {
+      "id": "fc2c9425-38d0-40b5-8991-8eb84255772c",
+      "userName": "Labrada Labrada",
+      "date": "2026-08-21T15:51:00.529Z",
+      "score": 1,
+      "text": "tahle aplikace mě opravdu dokáže přivést k šílenství...",
+      "text_normalized": "tahle aplikace me opravdu dokaze privest k silenstvi...",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-21T16:04:27.758Z",
+      "replyText": "Hezký den, je mi líto, že aplikace nesplnila vaše očekávání 🙁 Budeme ji i nadále vylepšovat, tak pevně věří, že se vám do budoucna bude líbit více. Petra\n",
+      "version": "3.16.0"
+    },
+    {
+      "id": "6f72a387-8187-45fd-94d5-e9bdf0fabf3a",
+      "userName": "Ramis",
+      "date": "2026-08-21T09:06:11.827Z",
+      "score": 1,
+      "text": "Nejde platit faktura přes Gpay.",
+      "text_normalized": "nejde platit faktura pres gpay.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-21T09:32:49.350Z",
+      "replyText": "Pěkný den,\nje mi líto, pokud máte potíže s Google Pay 🙁 Rádi se na to podíváme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie\n",
+      "version": "3.16.0"
+    },
     {
       "id": "f1526f82-e3c1-45e7-ac11-d574feda08e6",
       "userName": "Lisette Zed",
@@ -34483,8 +34513,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2352,
-    "extractedAt": "2026-08-22T05:31:03.789Z",
+    "totalReviewsExtracted": 2354,
+    "extractedAt": "2026-08-23T05:32:54.368Z",
     "source": "google-play"
   }
 }
