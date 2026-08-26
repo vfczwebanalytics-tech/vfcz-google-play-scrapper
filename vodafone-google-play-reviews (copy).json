@@ -1,18 +1,137 @@
 {
   "ratings": {
-    "score": 3.8189368,
+    "score": 3.78,
     "scoreText": "3,8",
-    "totalRatings": 6364,
-    "totalReviews": 2539,
+    "totalRatings": 6380,
+    "totalReviews": 2545,
     "histogram": {
-      "1": 1342,
-      "2": 231,
-      "3": 379,
-      "4": 686,
-      "5": 3720
+      "1": 1413,
+      "2": 232,
+      "3": 382,
+      "4": 658,
+      "5": 3689
     }
   },
   "reviews": [
+    {
+      "id": "6ea7d657-47a3-4eff-a1f1-d9f1acb7b7fa",
+      "userName": "Tomáš Machálek",
+      "date": "2026-08-23T18:42:10.167Z",
+      "score": 1,
+      "text": "Nová aplikace která fungovala jen chvíli Nelze se přihlásit už několikátý den S chybovou hláškou 439424da-2f9d-4fe6-9a9f-22618b86ecba",
+      "text_normalized": "nova aplikace ktera fungovala jen chvili nelze se prihlasit uz nekolikaty den s chybovou hlaskou 439424da-2f9d-4fe6-9a9f-22618b86ecba",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-24T05:28:16.794Z",
+      "replyText": "Dobrý den, Tomáši,\nzkuste aplikaci odinstalovat a stáhnout znovu, mohlo by to pomoci. Kdyby ne, ozvěte se nám prosím na aplikace@vodafone.cz a my všechno zkontrolujeme. Katka",
+      "version": "3.16.0"
+    },
+    {
+      "id": "adfbeb44-86bf-4ca6-b18d-e0211701221b",
+      "userName": "Martin Jankásek",
+      "date": "2026-08-23T18:06:04.214Z",
+      "score": 1,
+      "text": "Něco se nepovedlo! Omlouváme se, ale někde se něco pochroumalo. Abychom chybu co nejrychleji opravilli, napište prosím na naši zákaznickou podporu a uvedte kód chyby níže. Moc děkujeme a příště už to bude lepší. Tohle se poslední dobou stává často.🙄",
+      "text_normalized": "neco se nepovedlo! omlouvame se, ale nekde se neco pochroumalo. abychom chybu co nejrychleji opravilli, napiste prosim na nasi zakaznickou podporu a uvedte kod chyby nize. moc dekujeme a priste uz to bude lepsi. tohle se posledni dobou stava casto.🙄",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-08-24T05:26:23.650Z",
+      "replyText": "Dobrý den, Martine,\nto je mi líto 🙁 V této situaci zkuste prosím aplikaci odinstalovat a stáhnout znovu. Pokud by situace přetrvávala, napište nám prosím více na náš e-mail aplikace@vodafone.cz. Podíváme se na to konkrétně. Katka",
+      "version": "3.16.0"
+    },
+    {
+      "id": "0ac9c201-2085-413b-865f-e6932b5d928f",
+      "userName": "OLDA, SR.",
+      "date": "2026-08-23T14:59:11.676Z",
+      "score": 5,
+      "text": "Dobrá aplikace",
+      "text_normalized": "dobra aplikace",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-24T05:25:00.344Z",
+      "replyText": "Hezký den, OLDO,\nděkujeme za zpětnou vazbu 🙂 Katka",
+      "version": "3.16.0"
+    },
+    {
+      "id": "f71a054d-7d2a-4fef-94c4-d93ae995c230",
+      "userName": "robert povec",
+      "date": "2026-08-23T14:56:54.518Z",
+      "score": 5,
+      "text": "výborní",
+      "text_normalized": "vyborni",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-24T05:28:30.690Z",
+      "replyText": "Hezký den, Roberte,\nděkujeme vám za hodnocení 🙂 Jsme moc rádi, že se vám aplikace líbí. Viki",
+      "version": null
+    },
+    {
+      "id": "39fd3d5c-5922-438a-b7c5-18b38dcb8905",
+      "userName": "Tomáš Záklasník",
+      "date": "2026-08-23T14:46:31.390Z",
+      "score": 1,
+      "text": "Strašná aplikace. Kdykoliv se potřebují přihlásit stále tam je logo a načítá se. Nepřihlásí. Nepomáhá nová instalace nic! Roky stejný problém ani jiný telefon nepomohl. Katastrofa. Nerozumím jak tak velká firma může vydat takový paskvil!",
+      "text_normalized": "strasna aplikace. kdykoliv se potrebuji prihlasit stale tam je logo a nacita se. neprihlasi. nepomaha nova instalace nic! roky stejny problem ani jiny telefon nepomohl. katastrofa. nerozumim jak tak velka firma muze vydat takovy paskvil!",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-08-24T05:30:35.277Z",
+      "replyText": "Dobrý den, Tomáši,\nje mi líto, že máte takové potíže. Prosím zkuste aplikaci odinstalovat, restartovat telefon a nainstalovat ji zpět. Případně také přepněte z mobilních dat na Wi-Fi nebo naopak. Pokud využíváte VPN, prosím zkuste ji vypnout. Kdyby problém přetrvával, můžete nám napsat přes https://tam.je/dotaz. Viki",
+      "version": "3.16.0"
+    },
+    {
+      "id": "58675c2c-c880-4945-a0f9-eaea380a68e4",
+      "userName": "Honek Anka",
+      "date": "2026-08-23T12:15:00.488Z",
+      "score": 1,
+      "text": "nefunguje, chybu ukázalo to, po přihlášení správném se neotevřeli vůbec..",
+      "text_normalized": "nefunguje, chybu ukazalo to, po prihlaseni spravnem se neotevreli vubec..",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-23T12:44:42.679Z",
+      "replyText": "Hezký den, je mi líto, že máte potíže s přihlášením do aplikace 🙁 Zkuste ji prosím přeinstalovat, a pokud by to nepomohlo, napište nám na aplikace@vodafone.cz. Pomůžeme vám. Petra\n",
+      "version": "3.16.0"
+    },
+    {
+      "id": "20a8940f-cae3-4b91-b88c-7e41b854ebc0",
+      "userName": "Radek Zatloukal",
+      "date": "2026-08-23T09:00:27.725Z",
+      "score": 3,
+      "text": "Dobrý den. Využívám balíček ke kartě Komplet a po poslední aktualizaci nevidím v aplikaci bonus navýšení mobilních dat (2 GB). Další věc, ty jakože výhry ve Vodafone Happy jsou mi všechny úplně k ničemu.",
+      "text_normalized": "dobry den. vyuzivam balicek ke karte komplet a po posledni aktualizaci nevidim v aplikaci bonus navyseni mobilnich dat (2 gb). dalsi vec, ty jakoze vyhry ve vodafone happy jsou mi vsechny uplne k nicemu.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-23T09:20:28.706Z",
+      "replyText": "Hezký den, Radku, děkujeme za hodnocení. Pokud máte v aplikaci potíže, napište nám prosím na aplikace@vodafone.cz. Prověříme to. Petra\n",
+      "version": "3.16.0"
+    },
+    {
+      "id": "39516da8-ab6e-4cee-8d0d-82c4359f9913",
+      "userName": "Jan Šimek",
+      "date": "2026-08-23T07:53:55.839Z",
+      "score": 2,
+      "text": "aplikace je pomalá, a podle návodu z SMS nepřehledná a oproti podobným aplikacim zbytečně složitá.",
+      "text_normalized": "aplikace je pomala, a podle navodu z sms neprehledna a oproti podobnym aplikacim zbytecne slozita.",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-08-23T08:14:46.267Z",
+      "replyText": "Hezký den, Jane, mrzí mě, že vám aplikace nevyhovuje 🙁 Na jejím vylepšení stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.16.0"
+    },
     {
       "id": "759899bf-2b9b-433f-a344-8d86e8c0641c",
       "userName": "Mafa Martin",
@@ -34542,8 +34661,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2356,
-    "extractedAt": "2026-08-24T05:41:30.575Z",
+    "totalReviewsExtracted": 2364,
+    "extractedAt": "2026-08-25T05:35:17.956Z",
     "source": "google-play"
   }
 }

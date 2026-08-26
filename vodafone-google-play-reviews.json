@@ -1,18 +1,90 @@
 {
   "ratings": {
-    "score": 3.78,
+    "score": 3.769748,
     "scoreText": "3,8",
-    "totalRatings": 6380,
-    "totalReviews": 2545,
+    "totalRatings": 6386,
+    "totalReviews": 2546,
     "histogram": {
-      "1": 1413,
-      "2": 232,
-      "3": 382,
-      "4": 658,
-      "5": 3689
+      "1": 1437,
+      "2": 236,
+      "3": 375,
+      "4": 643,
+      "5": 3691
     }
   },
   "reviews": [
+    {
+      "id": "d2fd714c-829b-42eb-b6b5-c454f45903b7",
+      "userName": "Lucie Luňáčková",
+      "date": "2026-08-24T14:07:54.900Z",
+      "score": 1,
+      "text": "Aplikace je nefunkční. Pomohlo odinstalovat a nainstalovat. Po pár dnech stejný problém. \"Nebylo možné vyhovět požadavku\" dřív než jsem se vůbec stihla přihlásit - hned po kliknutí na tlačítko Přihlásit se. Moc užitečné v 21. století.",
+      "text_normalized": "aplikace je nefunkcni. pomohlo odinstalovat a nainstalovat. po par dnech stejny problem. \"nebylo mozne vyhovet pozadavku\" driv nez jsem se vubec stihla prihlasit - hned po kliknuti na tlacitko prihlasit se. moc uzitecne v 21. stoleti.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-24T14:16:51.315Z",
+      "replyText": "Pěkný den, Lucie,\ntakové potíže mě mrzí 🙁 Rádi se na to podíváme konkrétněji, když nám napíšete podrobné příklady přes zabezpečený formulář na https://tam.je/dotaz. Lucie\n",
+      "version": "3.16.0"
+    },
+    {
+      "id": "6c732acf-865a-4748-8c5d-deb0fa481109",
+      "userName": "Vladimír Vomacka",
+      "date": "2026-08-24T13:51:16.574Z",
+      "score": 5,
+      "text": "Spokojenost",
+      "text_normalized": "spokojenost",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-24T14:18:00.400Z",
+      "replyText": "Pěkný den, Vladimíre,\nděkujeme za hodnocení aplikace. Těší mě, že jste spokojený 🙂 Lucie",
+      "version": "3.16.0"
+    },
+    {
+      "id": "072388a6-bd2f-45d4-a4a0-8ff395fd555a",
+      "userName": "Lukáš Larva",
+      "date": "2026-08-24T12:36:52.437Z",
+      "score": 5,
+      "text": "Aplikace se nenačte. Kolečko se točí a točí. K čemu mi taková aplikace potom je ?",
+      "text_normalized": "aplikace se nenacte. kolecko se toci a toci. k cemu mi takova aplikace potom je ?",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-24T12:16:25.101Z",
+      "replyText": "Hezký den, Lukáši,\nje mi líto, že máte takovou zkušenost 🙁 Zkuste aplikaci odinstalovat a znovu stáhnout, prosím. Je to taková jednoduchá rada, která může pomoci. Kdyby ne, napište mi nám na https://tam.je/google a my se na tu situaci podíváme... Katka",
+      "version": "3.16.0"
+    },
+    {
+      "id": "018314cf-f8ca-4cc3-b35a-cbc81ede22ae",
+      "userName": "Marcela Slovackova",
+      "date": "2026-08-24T11:18:51.989Z",
+      "score": 5,
+      "text": "výborná dostupnost komunikace",
+      "text_normalized": "vyborna dostupnost komunikace",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-24T12:07:56.567Z",
+      "replyText": "Hezký den, Marcelo,\nděkuji vám za zpětnou vazbu a jsem ráda, že jste s aplikací spokojená 🙂 Katka",
+      "version": "3.15.0"
+    },
+    {
+      "id": "d4e12c69-be34-47c6-bb34-7dede5767d2c",
+      "userName": "luckyfx",
+      "date": "2026-08-24T08:02:16.429Z",
+      "score": 5,
+      "text": "Díky to jsem nevěděl, že je to záměrně, upravuju recenzi.",
+      "text_normalized": "diky to jsem nevedel, ze je to zamerne, upravuju recenzi.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-24T07:58:15.375Z",
+      "replyText": "Dobrý den,\nje mi líto, že vám naše aplikace nevyhovuje 🙁 To, že vás odhlašuje, je žádoucí stav a důvodem je ochrana údaj našich zákazníků. Pro zjednodušení si ale můžete nastavit přihlašování biometrikou 🙂 Katka",
+      "version": null
+    },
     {
       "id": "6ea7d657-47a3-4eff-a1f1-d9f1acb7b7fa",
       "userName": "Tomáš Machálek",
@@ -34661,8 +34733,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2364,
-    "extractedAt": "2026-08-25T05:35:17.956Z",
+    "totalReviewsExtracted": 2369,
+    "extractedAt": "2026-08-26T05:37:49.690Z",
     "source": "google-play"
   }
 }
