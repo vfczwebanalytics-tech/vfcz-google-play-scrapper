@@ -1,18 +1,92 @@
 {
   "ratings": {
-    "score": 3.7687187,
+    "score": 3.7582781,
     "scoreText": "3,8",
-    "totalRatings": 6398,
-    "totalReviews": 2548,
+    "totalRatings": 6407,
+    "totalReviews": 2553,
     "histogram": {
-      "1": 1447,
-      "2": 233,
-      "3": 372,
-      "4": 638,
-      "5": 3703
+      "1": 1452,
+      "2": 243,
+      "3": 371,
+      "4": 667,
+      "5": 3670
     }
   },
   "reviews": [
+    {
+      "id": "25b7d784-a9a5-49c7-9261-2dff029a38eb",
+      "userName": "Jakub Šprla",
+      "date": "2026-08-27T17:02:29.285Z",
+      "score": 1,
+      "text": "nefunkční, neaktualizují se platby, historie nefunkční, přehled ostatních \"chytrých\" kroků nefunkční.. tragedie.",
+      "text_normalized": "nefunkcni, neaktualizuji se platby, historie nefunkcni, prehled ostatnich \"chytrych\" kroku nefunkcni.. tragedie.",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-27T17:29:12.969Z",
+      "replyText": "Hezký den, Jakube,\nje mi líto, pokud vám aplikace nefunguje správně 🙁 Rádi se na to podíváme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie\n",
+      "version": "3.16.0"
+    },
+    {
+      "id": "2e27b847-b1ed-41c7-988a-f649f89e7659",
+      "userName": "Michal M.",
+      "date": "2026-08-27T16:57:13.921Z",
+      "score": 1,
+      "text": "vůbec se tam nedá připojit je to hrozný 😟",
+      "text_normalized": "vubec se tam neda pripojit je to hrozny 😟",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-27T17:29:58.742Z",
+      "replyText": "Hezký den, Michale,\nje mi líto, pokud máte potíže s přihlášením 🙁 Rádi vám s tím pomůžeme, když nám napíšete přes https://tam.je/dotaz nebo zavoláte na 800 77 00 77. Lucie",
+      "version": "3.16.0"
+    },
+    {
+      "id": "d9fa9efd-6a62-4812-8bec-2f110df859e7",
+      "userName": "Ivana Nakládalová",
+      "date": "2026-08-27T11:32:57.938Z",
+      "score": 5,
+      "text": "bylo těžké se sem dostat",
+      "text_normalized": "bylo tezke se sem dostat",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-27T12:05:10.978Z",
+      "replyText": "Hezký den, Ivano,\nje mi líto, pokud jste měla nějaké potíže 😕 Pevně doufám, že nyní to bude v pořádku. Lucie",
+      "version": "3.16.0"
+    },
+    {
+      "id": "d941ba3d-1a98-46a2-b473-d3da3b53db34",
+      "userName": "Michal Demen",
+      "date": "2026-08-27T04:38:57.286Z",
+      "score": 5,
+      "text": "Super, je to přehledný, vše co si může člověk přát:)",
+      "text_normalized": "super, je to prehledny, vse co si muze clovek prat:)",
+      "segments": [
+        "UI",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-27T05:17:49.608Z",
+      "replyText": "Dobrý den, Michale,\nděkujeme za milou recenzi 🙂 Jsme rádi, že se vám aplikace líbí a že v ní najdete vše, co potřebujete. Viki",
+      "version": "3.16.0"
+    },
+    {
+      "id": "d34b757f-d9bb-4a48-9395-a1e1da8edf30",
+      "userName": "Tomáš",
+      "date": "2026-08-26T19:58:04.353Z",
+      "score": 2,
+      "text": "bylo by fajn, kdyby pro ty, co nepoužívají aplikaci každý den, stará aplikace zobrazila \"už nefunguju, nainstaluj si novou\", místo \"nepodařilo se zpracovat váš požadavek\" při kliknutí na cokoli",
+      "text_normalized": "bylo by fajn, kdyby pro ty, co nepouzivaji aplikaci kazdy den, stara aplikace zobrazila \"uz nefunguju, nainstaluj si novou\", misto \"nepodarilo se zpracovat vas pozadavek\" pri kliknuti na cokoli",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-27T05:16:35.548Z",
+      "replyText": "Hezký den, Tomáši,\nděkujeme za zpětnou vazbu. Mrzí nás, pokud pro vás situace nebyla srozumitelná. Doporučujeme mít aplikaci aktualizovanou na nejnovější verzi nebo využít automatické aktualizace. Viki",
+      "version": "3.16.0"
+    },
     {
       "id": "c28fc0a7-ccd9-4aae-8612-06c9baa1d632",
       "userName": "Eva Besedová",
@@ -34804,8 +34878,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2374,
-    "extractedAt": "2026-08-27T16:17:44.222Z",
+    "totalReviewsExtracted": 2379,
+    "extractedAt": "2026-08-28T17:13:11.117Z",
     "source": "google-play"
   }
 }

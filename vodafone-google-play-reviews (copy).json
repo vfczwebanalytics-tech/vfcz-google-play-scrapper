@@ -1,18 +1,89 @@
 {
   "ratings": {
-    "score": 3.769748,
+    "score": 3.7687187,
     "scoreText": "3,8",
-    "totalRatings": 6386,
-    "totalReviews": 2546,
+    "totalRatings": 6398,
+    "totalReviews": 2548,
     "histogram": {
-      "1": 1437,
-      "2": 236,
-      "3": 375,
-      "4": 643,
-      "5": 3691
+      "1": 1447,
+      "2": 233,
+      "3": 372,
+      "4": 638,
+      "5": 3703
     }
   },
   "reviews": [
+    {
+      "id": "c28fc0a7-ccd9-4aae-8612-06c9baa1d632",
+      "userName": "Eva Besedová",
+      "date": "2026-08-26T14:32:06.725Z",
+      "score": 1,
+      "text": "Nenačítá se, nebo to trvá 150 let. Aplikace i OS jsou aktuální (Samsung android 16 / one ui 8.5)",
+      "text_normalized": "nenacita se, nebo to trva 150 let. aplikace i os jsou aktualni (samsung android 16 / one ui 8.5)",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-08-26T14:55:37.364Z",
+      "replyText": "Pěkný den, Evo,\npokud se aplikace nenačítá, tak ji prosím odinstalujte, telefon vypněte a zapněte a znovu ji nainstalujte. Jestli i poté se budou potíže stále projevovat, pošlete nám k tomu víc podrobností na e-mailovou adresu aplikace@vodafone.cz a nezapomeňte přiložit i aktuální screenshoty. Veronika",
+      "version": "3.16.0"
+    },
+    {
+      "id": "9905013f-1225-4c38-8c30-bafd3ce6efbb",
+      "userName": "V. K.",
+      "date": "2026-08-26T12:42:17.254Z",
+      "score": 1,
+      "text": "Nenačítá se ani po reinstalaci. Jen pořád dokola běhá logo.",
+      "text_normalized": "nenacita se ani po reinstalaci. jen porad dokola beha logo.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-26T12:55:04.419Z",
+      "replyText": "Pěkný den,\nmrzí mě, že se potýkáte s potížemi s přihlášením do aplikace. Pošlete nám prosím k tomu víc podrobností na e-mailovou adresu aplikace@vodafone.cz. Nezapomeňte prosím přiložit i screenshoty. Veronika",
+      "version": "3.16.0"
+    },
+    {
+      "id": "9079f0c6-68a0-4a79-9a28-7c6da605b280",
+      "userName": "Markéta Zajíčková",
+      "date": "2026-08-26T11:43:48.530Z",
+      "score": 1,
+      "text": "nefunguje",
+      "text_normalized": "nefunguje",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-26T11:53:16.200Z",
+      "replyText": "Hezký den, Markéto,\nje mi líto, pokud vám aplikace nefunguje 🙁 Zkuste ji prosím přeinstalovat. V případě, že to nepomůže, nám prosím napište podrobnosti přes https://tam.je/dotaz, rádi se tomu budeme věnovat. Lucie\n",
+      "version": "3.16.0"
+    },
+    {
+      "id": "db06aba0-fa9b-4731-b83f-dfbc4b677194",
+      "userName": "Emilia Binkova",
+      "date": "2026-08-25T06:30:38.486Z",
+      "score": 5,
+      "text": "vse Ok",
+      "text_normalized": "vse ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-25T06:48:48.530Z",
+      "replyText": "Hezký den, Emilio,\ntěší mě, že jste s naší aplikací spokojená 🙂 Zuzana",
+      "version": "3.16.0"
+    },
+    {
+      "id": "9d0eb3cd-c77f-41b7-840c-835afee7e058",
+      "userName": "Jiří Beránek",
+      "date": "2026-08-25T06:16:13.925Z",
+      "score": 5,
+      "text": "Jsem spokojený. Kontakty přes telefon mám i ze vzdálenosti 4000 km. Trénuji paměť na kombinačních hrách.",
+      "text_normalized": "jsem spokojeny. kontakty pres telefon mam i ze vzdalenosti 4000 km. trenuji pamet na kombinacnich hrach.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-25T06:22:54.581Z",
+      "replyText": "Hezký den, Jiří,\ntěší mě, že jste s aplikací spokojený 🙂 Zuzana",
+      "version": "3.15.0"
+    },
     {
       "id": "d2fd714c-829b-42eb-b6b5-c454f45903b7",
       "userName": "Lucie Luňáčková",
@@ -34733,8 +34804,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2369,
-    "extractedAt": "2026-08-26T05:37:49.690Z",
+    "totalReviewsExtracted": 2374,
+    "extractedAt": "2026-08-27T16:17:44.222Z",
     "source": "google-play"
   }
 }
