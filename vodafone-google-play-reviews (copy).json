@@ -1,18 +1,47 @@
 {
   "ratings": {
-    "score": 3.7582781,
+    "score": 3.755853,
     "scoreText": "3,8",
-    "totalRatings": 6407,
-    "totalReviews": 2553,
+    "totalRatings": 6418,
+    "totalReviews": 2555,
     "histogram": {
-      "1": 1452,
-      "2": 243,
-      "3": 371,
-      "4": 667,
-      "5": 3670
+      "1": 1480,
+      "2": 236,
+      "3": 343,
+      "4": 665,
+      "5": 3691
     }
   },
   "reviews": [
+    {
+      "id": "a3ac0afa-8079-463b-8bd1-28a95648b064",
+      "userName": "Michal Šimáček",
+      "date": "2026-08-28T10:19:50.125Z",
+      "score": 1,
+      "text": "Po více než půl roce se vývojářů podařilo opravit nemožnost platby přes Google Pay. Gratuluji 🥱",
+      "text_normalized": "po vice nez pul roce se vyvojaru podarilo opravit nemoznost platby pres google pay. gratuluji 🥱",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-28T10:41:22.514Z",
+      "replyText": "Hezký den, Michale, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak postupně přidáváme další funkce - např. Google Pay. Petra",
+      "version": "3.16.1"
+    },
+    {
+      "id": "e484bf63-f183-4192-a360-9f1f2fe7c9d5",
+      "userName": "Halyna Prudska",
+      "date": "2026-08-28T09:35:22.730Z",
+      "score": 5,
+      "text": "Nejlepší poskytovatel služeb",
+      "text_normalized": "nejlepsi poskytovatel sluzeb",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-28T10:01:09.215Z",
+      "replyText": "Hezký den, Halyno, děkujeme za hodnocení a milý komentář 🙂 Vaše spokojenost je pro nás důležitá. Petra",
+      "version": "3.16.0"
+    },
     {
       "id": "25b7d784-a9a5-49c7-9261-2dff029a38eb",
       "userName": "Jakub Šprla",
@@ -34878,8 +34907,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2379,
-    "extractedAt": "2026-08-28T17:13:11.117Z",
+    "totalReviewsExtracted": 2381,
+    "extractedAt": "2026-08-29T11:31:35.987Z",
     "source": "google-play"
   }
 }

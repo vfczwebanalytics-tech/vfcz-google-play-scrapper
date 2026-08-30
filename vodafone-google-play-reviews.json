@@ -1,18 +1,77 @@
 {
   "ratings": {
-    "score": 3.755853,
+    "score": 3.7594728,
     "scoreText": "3,8",
-    "totalRatings": 6418,
-    "totalReviews": 2555,
+    "totalRatings": 6427,
+    "totalReviews": 2559,
     "histogram": {
-      "1": 1480,
-      "2": 236,
-      "3": 343,
-      "4": 665,
-      "5": 3691
+      "1": 1481,
+      "2": 232,
+      "3": 337,
+      "4": 666,
+      "5": 3705
     }
   },
   "reviews": [
+    {
+      "id": "f5a6ccec-a51f-4d88-a529-9d028f35e872",
+      "userName": "Milan Růžička",
+      "date": "2026-08-29T06:23:34.213Z",
+      "score": 5,
+      "text": "je to super aplikace.",
+      "text_normalized": "je to super aplikace.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-29T06:37:37.219Z",
+      "replyText": "Hezký den, Milane,\ntěší mě, že jste s naší aplikací spokojený 🙂 Zuzana",
+      "version": "3.16.1"
+    },
+    {
+      "id": "54305c18-6f7b-4e51-a4a9-164fcccc57c6",
+      "userName": "Karel Vanicek",
+      "date": "2026-08-28T17:41:27.884Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-29T06:36:02.453Z",
+      "replyText": "Hezký den, Karle,\nděkujeme za kladné hodnocení, jsme rádi, že jste spokojený 🙂 Zuzana",
+      "version": "3.16.0"
+    },
+    {
+      "id": "a76cb999-d573-483e-b539-f71ee2498a48",
+      "userName": "Hanka Martinovicova",
+      "date": "2026-08-28T12:36:08.904Z",
+      "score": 5,
+      "text": "Jsem spokojená.",
+      "text_normalized": "jsem spokojena.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-28T13:01:49.863Z",
+      "replyText": "Pěkný den, Hanko,\nděkujeme za hodnocení. Těší mě, že jste spokojená 🙂 Lucie",
+      "version": "3.13.2"
+    },
+    {
+      "id": "4cf2b934-33b5-4b64-8124-387785b894d2",
+      "userName": "Václav",
+      "date": "2026-08-28T11:47:36.756Z",
+      "score": 1,
+      "text": "Velmi často aplikace nefunguje, dnes proběhla aktualizace a zase se nejde přihlásit. Odinstaloval jsem a znovu nainstaloval a výsledek stejný, prý špatné heslo...",
+      "text_normalized": "velmi casto aplikace nefunguje, dnes probehla aktualizace a zase se nejde prihlasit. odinstaloval jsem a znovu nainstaloval a vysledek stejny, pry spatne heslo...",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-28T12:02:42.639Z",
+      "replyText": "Hezký den, Václave, je mi líto, že máte potíže s přihlášením do aplikace Můj Vodafone 🙁 Zkuste také prosím překontrolovat, jestli nemáte heslo uložené mezi uloženými hesly. Pokud byste potřeboval pomoci, napište nám prosím na aplikace@vodafone.cz. Prověříme to. Petra\n",
+      "version": "3.16.1"
+    },
     {
       "id": "a3ac0afa-8079-463b-8bd1-28a95648b064",
       "userName": "Michal Šimáček",
@@ -34907,8 +34966,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2381,
-    "extractedAt": "2026-08-29T11:31:35.987Z",
+    "totalReviewsExtracted": 2385,
+    "extractedAt": "2026-08-30T10:24:03.401Z",
     "source": "google-play"
   }
 }
