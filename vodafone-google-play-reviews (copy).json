@@ -1,18 +1,75 @@
 {
   "ratings": {
-    "score": 3.7594728,
-    "scoreText": "3,8",
-    "totalRatings": 6427,
-    "totalReviews": 2559,
+    "score": 3.740496,
+    "scoreText": "3,7",
+    "totalRatings": 6434,
+    "totalReviews": 2563,
     "histogram": {
-      "1": 1481,
-      "2": 232,
-      "3": 337,
-      "4": 666,
-      "5": 3705
+      "1": 1520,
+      "2": 233,
+      "3": 318,
+      "4": 680,
+      "5": 3679
     }
   },
   "reviews": [
+    {
+      "id": "de6f4233-7760-4091-9fb1-e2057b626eaa",
+      "userName": "Kamil Kolář",
+      "date": "2026-08-30T07:03:38.749Z",
+      "score": 1,
+      "text": "aplikace nikdy nenaběhne a vždycky ji musím ukončit, aby se rozběhla . Doufám, že mi Vodafone nebude radit, že jí mám přeinstalovat.",
+      "text_normalized": "aplikace nikdy nenabehne a vzdycky ji musim ukoncit, aby se rozbehla . doufam, ze mi vodafone nebude radit, ze ji mam preinstalovat.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-30T07:15:25.241Z",
+      "replyText": "Hezký den, Kamile,\nje mi líto, že nejste spokojený 🙁 Doporučuji ověřit, zda používáte nejnovější dostupnou verzi aplikace. Pokud problém přetrvává, dejte nám vědět přes zabezpečený formulář https://tam.je/dotaz. Zuzana",
+      "version": "3.16.1"
+    },
+    {
+      "id": "de94b2bc-133c-4ed0-a5f1-48a315c76d79",
+      "userName": "Toto Joto",
+      "date": "2026-08-30T05:23:14.502Z",
+      "score": 1,
+      "text": "na c moc",
+      "text_normalized": "na c moc",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-30T06:43:07.849Z",
+      "replyText": "Hezký den,\nděkujeme za hodnocení a je mi líto, že nejste spokojený 🙁 Pokud máte konkrétní připomínky, napište nám je na https://tam.je/dotaz a společně se na to podíváme. Zuzana",
+      "version": "3.16.1"
+    },
+    {
+      "id": "75deb8ae-5ea6-443d-a7fc-00cb2e686b20",
+      "userName": "Miroslav Vašek",
+      "date": "2026-08-30T04:34:31.759Z",
+      "score": 5,
+      "text": "ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-30T06:37:41.235Z",
+      "replyText": "Hezký den, Miroslave,\nděkujeme za kladné hodnocení 🙂 Zuzana",
+      "version": "3.16.1"
+    },
+    {
+      "id": "2e831e42-5370-4db0-a36a-db6a5bc13fdd",
+      "userName": "The nolik",
+      "date": "2026-08-29T11:40:40.936Z",
+      "score": 1,
+      "text": "Trash, věčně nefunguje.",
+      "text_normalized": "trash, vecne nefunguje.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-29T12:10:20.100Z",
+      "replyText": "Hezký den,\nje mi líto, že jste nespokojený 🙁 Pokud máte potíže s aplikací Můj Vodafone, zavoleje nám na linku *77 a kolegové s vámi situaci prověří. Zuzana",
+      "version": "3.16.0"
+    },
     {
       "id": "f5a6ccec-a51f-4d88-a529-9d028f35e872",
       "userName": "Milan Růžička",
@@ -34966,8 +35023,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2385,
-    "extractedAt": "2026-08-30T10:24:03.401Z",
+    "totalReviewsExtracted": 2389,
+    "extractedAt": "2026-08-31T11:28:02.394Z",
     "source": "google-play"
   }
 }
