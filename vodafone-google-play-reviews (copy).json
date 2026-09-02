@@ -1,18 +1,75 @@
 {
   "ratings": {
-    "score": 3.740496,
+    "score": 3.7316666,
     "scoreText": "3,7",
-    "totalRatings": 6434,
-    "totalReviews": 2563,
+    "totalRatings": 6441,
+    "totalReviews": 2571,
     "histogram": {
-      "1": 1520,
-      "2": 233,
-      "3": 318,
-      "4": 680,
-      "5": 3679
+      "1": 1544,
+      "2": 236,
+      "3": 300,
+      "4": 675,
+      "5": 3681
     }
   },
   "reviews": [
+    {
+      "id": "a114737e-0d3e-41bd-aac7-839c31f5f6a2",
+      "userName": "T S",
+      "date": "2026-08-31T09:28:03.409Z",
+      "score": 1,
+      "text": "Nefunguje",
+      "text_normalized": "nefunguje",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-31T09:44:30.342Z",
+      "replyText": "Hezký den,\nje mi líto, že vám aplikace nefunguje správně 🙁 Konkrétní informace k potížím, které máte, nám prosím napište na https://tam.je/google. Všechny podněty od zákazníků sbíráme a na vylepšení aplikace stále pracujeme. Katka",
+      "version": null
+    },
+    {
+      "id": "bc334a71-e218-4ae9-85a3-db01abfa4d48",
+      "userName": "Lbr. Vstck.21",
+      "date": "2026-08-31T05:28:21.220Z",
+      "score": 1,
+      "text": "aplikace je absolutní katastrofa a většinu času je nefunkční",
+      "text_normalized": "aplikace je absolutni katastrofa a vetsinu casu je nefunkcni",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-08-31T05:46:07.375Z",
+      "replyText": "Hezký den,\nje mi líto, že vám aplikace nefunguje správně 🙁 Pokud pro nás budete mít konkrétní zpětnou vazbu, budeme za ni rádi, aplikaci se snažíme stále rozvíjet a vylepšovat. Katka\n",
+      "version": null
+    },
+    {
+      "id": "e531cd8b-d935-461d-810d-4dbbc81ae8bc",
+      "userName": "Jan Paloc",
+      "date": "2026-08-30T23:11:42.194Z",
+      "score": 1,
+      "text": "nejhorší aplikace + nejhorší operátor",
+      "text_normalized": "nejhorsi aplikace + nejhorsi operator",
+      "segments": [
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-08-31T05:17:27.336Z",
+      "replyText": "Hezký den, Jane, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.16.1"
+    },
+    {
+      "id": "c835b5e6-28b4-4ed9-9821-35d65a314e51",
+      "userName": "Jan P",
+      "date": "2026-08-30T18:15:47.722Z",
+      "score": 1,
+      "text": "pomalá aplikace",
+      "text_normalized": "pomala aplikace",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-08-31T05:16:29.651Z",
+      "replyText": "Hezký den, Jane, děkujeme za hodnocení. Zkuste aplikaci prosím přeinstalovat, mohlo by to pomoci. Petra",
+      "version": "3.16.1"
+    },
     {
       "id": "de6f4233-7760-4091-9fb1-e2057b626eaa",
       "userName": "Kamil Kolář",
@@ -35023,8 +35080,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2389,
-    "extractedAt": "2026-08-31T11:28:02.394Z",
+    "totalReviewsExtracted": 2393,
+    "extractedAt": "2026-09-01T09:50:41.819Z",
     "source": "google-play"
   }
 }
