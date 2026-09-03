@@ -1,18 +1,134 @@
 {
   "ratings": {
-    "score": 3.7316666,
+    "score": 3.6915584,
     "scoreText": "3,7",
-    "totalRatings": 6441,
-    "totalReviews": 2571,
+    "totalRatings": 6458,
+    "totalReviews": 2578,
     "histogram": {
-      "1": 1544,
-      "2": 236,
-      "3": 300,
-      "4": 675,
-      "5": 3681
+      "1": 1593,
+      "2": 261,
+      "3": 314,
+      "4": 659,
+      "5": 3626
     }
   },
   "reviews": [
+    {
+      "id": "45099426-0d5f-4512-a6be-b06cd12f7460",
+      "userName": "Jiří Dostálek",
+      "date": "2026-09-01T08:05:42.503Z",
+      "score": 2,
+      "text": "Asi po poledni aktualizaci se nedá spustit, jen načítá a nic. Po shozeni ze systému, podruhé občas naběhne",
+      "text_normalized": "asi po poledni aktualizaci se neda spustit, jen nacita a nic. po shozeni ze systemu, podruhe obcas nabehne",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-01T08:22:59.435Z",
+      "replyText": "Dobrý den, Jiří,\nmrzí mě tato situace 🙁 Pokud nepomohla přeinstalace, prosím napište nám přes https://tam.je/dotaz. Můžete připsat také typ telefonu a operační systém + datum a čas pokusu o přihlášení se. Viki",
+      "version": "3.16.1"
+    },
+    {
+      "id": "ea2bc9d5-1bb1-4aa9-aa34-6446eeeef598",
+      "userName": "Gizzel 666",
+      "date": "2026-09-01T07:25:57.137Z",
+      "score": 2,
+      "text": "Aplikace se stále načítá, ale neotevře se.",
+      "text_normalized": "aplikace se stale nacita, ale neotevre se.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-01T07:48:40.908Z",
+      "replyText": "Dobrý den, Gizzel,\nmrzí mě, že jste zaznamenala takové potíže 🙁 Prosím, pokud vám nepomohla přeinstalace, napište nám na https://tam.je/dotaz. Kromě popisu potíží připojte prosím také screen + typ telefonu a operační systém. Prověříme to. Viki",
+      "version": "3.16.1"
+    },
+    {
+      "id": "a4caf3e3-2af3-4e56-886a-664a25b78745",
+      "userName": "Ruzena fenarova",
+      "date": "2026-09-01T06:00:05.131Z",
+      "score": 2,
+      "text": "aplikace se nechce načíst i po tom když jsem to odinstalovávat",
+      "text_normalized": "aplikace se nechce nacist i po tom kdyz jsem to odinstalovavat",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-01T06:18:27.606Z",
+      "replyText": "Dobrý den, Růženo,\nmrzí mě tato situace. Doporučuji vám aplikaci odinstalovat, restartovat telefon a nainstalovat ji znovu. Případně také můžete zkusit přepnout z mobilních dat na Wi-Fi (nebo naopak). V případě, že využíváte VPN, prosím zkuste ji vypnout. Viki",
+      "version": "3.16.1"
+    },
+    {
+      "id": "ca0dc203-4712-4efc-b1ac-bbbae6f2dfcd",
+      "userName": "René Langer",
+      "date": "2026-09-01T04:37:51.399Z",
+      "score": 1,
+      "text": "Aplikaci musím dost často na tvrdo ukončit, jinak nenabíhá a jen roluje do nekonečna úvodní logo.",
+      "text_normalized": "aplikaci musim dost casto na tvrdo ukoncit, jinak nenabiha a jen roluje do nekonecna uvodni logo.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-01T05:35:52.822Z",
+      "replyText": "Dobrý den, René,\nmrzí mě, že jste zaznamenal takové potíže 😕 Ráda bych vám doporučila aplikaci odinstalovat, restartovat zařízení a nainstalovat ji znovu. Tento krok by mohl pomoci. Viki",
+      "version": null
+    },
+    {
+      "id": "107557c1-361a-48f2-9b3e-ef1280b93f03",
+      "userName": "Robert Šváb",
+      "date": "2026-08-31T18:37:23.412Z",
+      "score": 1,
+      "text": "Nepoužitelná aplikace. Než si přečtu heslo z přihlašovací SMS. , tak aplikace mi - \"padne a kolečko se otáčí a otáčí a nic.....\"",
+      "text_normalized": "nepouzitelna aplikace. nez si prectu heslo z prihlasovaci sms. , tak aplikace mi - \"padne a kolecko se otaci a otaci a nic.....\"",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-09-01T05:33:42.211Z",
+      "replyText": "Dobrý den, Roberte,\nje mi líto, že máte takovou zkušenost. Jednorázový ověřovací kód je platný pouze 10 minut 😕 Pokud se pokoušíte jej zadávat do uvedené lhůty a evidujete potíže, prosím, zkuste aplikaci přeinstalovat, to by mohlo pomoci. Viki",
+      "version": null
+    },
+    {
+      "id": "5d102603-19a2-4799-a3a7-da8bcb7d5a2b",
+      "userName": "Jaroslav Voříšek",
+      "date": "2026-08-31T15:50:09.928Z",
+      "score": 1,
+      "text": "Jedna z nejhorších aplikací, věčně nefunguje, jen pouze když se jí chce.",
+      "text_normalized": "jedna z nejhorsich aplikaci, vecne nefunguje, jen pouze kdyz se ji chce.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-08-31T16:13:52.136Z",
+      "replyText": "Dobrý den, Jaroslave,\nje mi líto, že jste s aplikací nespokojený 🙁 Zkuste ji prosím odinstalovat a znovu stáhnout. Kdyby to nepomohlo, zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi to prověříme na základě konkrétního příkladu. Martina\n",
+      "version": "3.16.1"
+    },
+    {
+      "id": "2cce207d-f759-4631-a4db-0f832eaed7bd",
+      "userName": "Jan Vrbický",
+      "date": "2026-08-31T14:25:17.236Z",
+      "score": 3,
+      "text": "Točit kolečkem můžu i bez telefonu, ale jinak supr apka.",
+      "text_normalized": "tocit koleckem muzu i bez telefonu, ale jinak supr apka.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-08-31T14:56:59.872Z",
+      "replyText": "Dobrý den, Jane,\nmrzí mě, že máte potíže s naší aplikací. Zkuste ji prosím odinstalovat a znovu stáhnout, případně přepnout mezi připojením přes Wi-Fi a přes mobilní data. Kdyby to nepomohlo, zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi to prověříme. Martina\n",
+      "version": "3.16.1"
+    },
+    {
+      "id": "06ee7ccf-711c-45ac-a99e-1953bb223c83",
+      "userName": "Daniil Malinousky",
+      "date": "2026-08-31T11:45:26.340Z",
+      "score": 1,
+      "text": "Vodafone je nejhorší mobilní operátor, se kterým jsem kdy měl zkušenost. Nejenže nabízí příšerně pomalý internet za vysoké ceny, ale navíc neustále uvádí zavádějící informace o cenách služeb, účtuje neopodstatněné příplatky za všechno možné, a když požádáte o písemný a podrobný rozpis vyúčtovaných částek, jednoduše přestanou komunikovat a na otázky neodpovídají :/ Přešel jsem k O2 a doporučuji to všem.",
+      "text_normalized": "vodafone je nejhorsi mobilni operator, se kterym jsem kdy mel zkusenost. nejenze nabizi priserne pomaly internet za vysoke ceny, ale navic neustale uvadi zavadejici informace o cenach sluzeb, uctuje neopodstatnene priplatky za vsechno mozne, a kdyz pozadate o pisemny a podrobny rozpis vyuctovanych castek, jednoduse prestanou komunikovat a na otazky neodpovidaji :/ presel jsem k o2 a doporucuji to vsem.",
+      "segments": [
+        "Vykonnost",
+        "Zakaznicka_podpora",
+        "Cena"
+      ],
+      "replyDate": "2026-08-31T12:14:44.274Z",
+      "replyText": "Dobrý den, Daniile,\nje mi líto, že jste s Vodafonem celkově nespokojený 🙁 Jestli potřebujete pomoc s vyřešením nějaké konkrétní záležitosti, napište nám prosím přes https://tam.je/dotaz, rádi vám odpovíme e-mailem nebo zavoláme. Martina\n",
+      "version": "3.14.1"
+    },
     {
       "id": "a114737e-0d3e-41bd-aac7-839c31f5f6a2",
       "userName": "T S",
@@ -35080,8 +35196,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2393,
-    "extractedAt": "2026-09-01T09:50:41.819Z",
+    "totalReviewsExtracted": 2401,
+    "extractedAt": "2026-09-02T09:22:39.658Z",
     "source": "google-play"
   }
 }
