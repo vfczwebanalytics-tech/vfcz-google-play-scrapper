@@ -1,18 +1,123 @@
 {
   "ratings": {
-    "score": 3.6915584,
-    "scoreText": "3,7",
-    "totalRatings": 6458,
-    "totalReviews": 2578,
+    "score": 3.6413224,
+    "scoreText": "3,6",
+    "totalRatings": 6467,
+    "totalReviews": 2586,
     "histogram": {
-      "1": 1593,
-      "2": 261,
-      "3": 314,
-      "4": 659,
-      "5": 3626
+      "1": 1655,
+      "2": 277,
+      "3": 320,
+      "4": 683,
+      "5": 3527
     }
   },
   "reviews": [
+    {
+      "id": "70ad2fb8-4c3e-41d9-9939-841dd8e74617",
+      "userName": "Eliška Rezlerová",
+      "date": "2026-09-02T05:00:51.135Z",
+      "score": 1,
+      "text": "Při každém spuštění je třeba restartovat telefon, jinak se jen načítá a nikdy nespustí.",
+      "text_normalized": "pri kazdem spusteni je treba restartovat telefon, jinak se jen nacita a nikdy nespusti.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-02T05:20:25.487Z",
+      "replyText": "Hezký den, Eliško,\nje mi líto, že máte potíže s aplikací 🙁 Doporučuji aplikaci přeinstalovat na aktuální verzi a pokud by potíže přetrvávaly, zavolejte nám na linku 800 77 00 77 a kolegové se na to s vámi rádi podívají. Zuzana",
+      "version": "3.15.0"
+    },
+    {
+      "id": "cc2b2f35-30e1-4a45-bb4c-17964b358f45",
+      "userName": "Lukáš Šauer",
+      "date": "2026-09-01T19:11:59.590Z",
+      "score": 1,
+      "text": "Pořád stejné problémy i s novou verzí. Aplikace je odpad, pomalá, nepřehledná, často se nedá ani přihlásit. Najděte si prosím konečně normální vývojáře, kteří jsou schopní stvořit užitečný a funkční produkt, toto je utrpení a zmar.",
+      "text_normalized": "porad stejne problemy i s novou verzi. aplikace je odpad, pomala, neprehledna, casto se neda ani prihlasit. najdete si prosim konecne normalni vyvojare, kteri jsou schopni stvorit uzitecny a funkcni produkt, toto je utrpeni a zmar.",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-09-02T05:26:47.256Z",
+      "replyText": "Dobrý den, Lukáši,\nděkuji vám za zpětnou vazbu, i když vidím, že vám aplikace opravdu nevyhovuje 🙁 Všechny podněty od zákazníků sbíráme a na vylepšování aplikace stále pracujeme. Katka",
+      "version": "3.16.1"
+    },
+    {
+      "id": "f6cc5464-96ef-42fd-96ef-a3ab61941bb9",
+      "userName": "David Jansa",
+      "date": "2026-09-01T18:32:21.641Z",
+      "score": 1,
+      "text": "Aplikace se nespustí, jen se točí kolecko. Pritom ta predchozi verze fungovala tak hezky. Ale tohle je přesně Vodafone. Když něco konečně funguje, tak to rozvořou!",
+      "text_normalized": "aplikace se nespusti, jen se toci kolecko. pritom ta predchozi verze fungovala tak hezky. ale tohle je presne vodafone. kdyz neco konecne funguje, tak to rozvorou!",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-02T05:25:41.636Z",
+      "replyText": "Dobrý den, Davide,\nje mi líto, že máte takovou zkušenost 🙁 V tomto případě prosím zkuste aplikaci odinstalovat a znovu stáhnout, mělo by to pomoci. Kdyby ne, napište nám na aplikace@vodafone.cz a budeme vše dále řešit. Katka",
+      "version": "3.16.1"
+    },
+    {
+      "id": "23e2ed65-4a45-423f-9aba-00a71d4453a8",
+      "userName": "Pavel Šnejdrla",
+      "date": "2026-09-01T14:56:50.334Z",
+      "score": 4,
+      "text": "U balíčku s daty a sms k předplacené kartě neukazuje počet dní do konce období na hlavní stránce, ale pokud se k němu aktivoval balíček s neomezenými daty tak to ukazovalo.",
+      "text_normalized": "u balicku s daty a sms k predplacene karte neukazuje pocet dni do konce obdobi na hlavni strance, ale pokud se k nemu aktivoval balicek s neomezenymi daty tak to ukazovalo.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-09-01T15:23:08.863Z",
+      "replyText": "Dobrý den, Pavle,\nje mi líto, že máte nesrovnalosti 🙁 Napište nám prosím na https://tam.je/google a my se na vaši situaci podíváme konkrétně. Katka",
+      "version": "3.16.1"
+    },
+    {
+      "id": "c407f525-0513-4c38-90b2-b74b6aa0eb56",
+      "userName": "Stanislav Plachý",
+      "date": "2026-09-01T14:45:20.834Z",
+      "score": 2,
+      "text": "Hrozně pomalá a nepříliš přehledná aplikace.",
+      "text_normalized": "hrozne pomala a neprilis prehledna aplikace.",
+      "segments": [
+        "Vykonnost",
+        "UI"
+      ],
+      "replyDate": "2026-09-01T14:58:42.303Z",
+      "replyText": "Dobrý den, Stanislave,\nmrzí mě, že vám aplikace nevyhovuje, a přesto děkuji za zpětnou vazbu 🙂 Katka",
+      "version": "3.16.1"
+    },
+    {
+      "id": "1f4b4b35-fbce-4b9e-adef-c08f1f80db3a",
+      "userName": "Dodo Mytys",
+      "date": "2026-09-01T12:40:41.520Z",
+      "score": 1,
+      "text": "problematické přihlašování pro důchodce 🤢",
+      "text_normalized": "problematicke prihlasovani pro duchodce 🤢",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-09-01T13:10:10.339Z",
+      "replyText": "Dobrý den,\nto mě mrzí 🙁 Děkuji vám za zpětnou vazbu, kterou předám dále do firmy. Katka",
+      "version": "3.16.1"
+    },
+    {
+      "id": "db85e9b9-0aae-4d2d-9964-c2f2ed76cd40",
+      "userName": "Misa Zitkova",
+      "date": "2026-09-01T12:38:16.353Z",
+      "score": 1,
+      "text": "Nejde se prihlasit",
+      "text_normalized": "nejde se prihlasit",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-01T13:09:36.897Z",
+      "replyText": "Dobrý den, Miso,\npokud jste se dříve v pořádku přihlásila a teď se vám to se stejnými údaji nedaří, zkuste nejdřív aplikaci odinstalovat a znovu stáhnout. Kdyby to nepomohlo, napište nám na aplikace@vodafone.cz a vyřešíme to 🙂 Katka",
+      "version": "3.16.1"
+    },
     {
       "id": "45099426-0d5f-4512-a6be-b06cd12f7460",
       "userName": "Jiří Dostálek",
@@ -35196,8 +35301,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2401,
-    "extractedAt": "2026-09-02T09:22:39.658Z",
+    "totalReviewsExtracted": 2408,
+    "extractedAt": "2026-09-03T09:32:19.250Z",
     "source": "google-play"
   }
 }
