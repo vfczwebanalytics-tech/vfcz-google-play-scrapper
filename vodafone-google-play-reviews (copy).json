@@ -1,18 +1,151 @@
 {
   "ratings": {
-    "score": 3.6413224,
+    "score": 3.6188924,
     "scoreText": "3,6",
-    "totalRatings": 6467,
-    "totalReviews": 2586,
+    "totalRatings": 6484,
+    "totalReviews": 2590,
     "histogram": {
-      "1": 1655,
-      "2": 277,
-      "3": 320,
-      "4": 683,
-      "5": 3527
+      "1": 1678,
+      "2": 284,
+      "3": 337,
+      "4": 707,
+      "5": 3474
     }
   },
   "reviews": [
+    {
+      "id": "f1784d57-31a3-4a2d-893e-b52ba92ab6e2",
+      "userName": "Pavel Pekař",
+      "date": "2026-09-03T05:05:25.351Z",
+      "score": 1,
+      "text": "věčně nefunguje",
+      "text_normalized": "vecne nefunguje",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-03T05:26:08.760Z",
+      "replyText": "Hezký den, Pavle,\nomlouvám se vám za nepříjemnosti 🙁 Momentálně evidujeme výpadek aplikace a na jeho opravě už usilovně pracujeme. V případě, že byste měl ale s aplikací jiné potíže, rádi to prověříme, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie\n",
+      "version": "3.16.1"
+    },
+    {
+      "id": "623f77ca-1ec1-478a-ac53-974a5c42491f",
+      "userName": "Vackav Krcka",
+      "date": "2026-09-02T22:34:04.176Z",
+      "score": 5,
+      "text": "vse je velmi prehledne a rychle",
+      "text_normalized": "vse je velmi prehledne a rychle",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-09-03T05:22:11.957Z",
+      "replyText": "Pěkný den, Václave,\nděkujeme vám za hodnocení. Těší mě, že jste spokojený 🙂 Lucie",
+      "version": "3.16.1"
+    },
+    {
+      "id": "cf29ed6a-04f7-4705-8a92-1b8e91cc8bb1",
+      "userName": "Uživatel Googlu",
+      "date": "2026-09-02T20:51:07.586Z",
+      "score": 1,
+      "text": "Aplikace nefunguje. Dnes 2.9. zobrazuje, že bude opravená po 18. července 2026?! Potřebuji si zaplatit vyúčtování a podívat se do nastavení 😠😔",
+      "text_normalized": "aplikace nefunguje. dnes 2.9. zobrazuje, ze bude opravena po 18. cervence 2026?! potrebuji si zaplatit vyuctovani a podivat se do nastaveni 😠😔",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-03T05:21:45.216Z",
+      "replyText": "Pěkný den,\nrozumím vám a omlouvám se vám za nepříjemnosti 🙁 Na opravě už usilovně pracujeme. Prozatím můžete využít webovou verzi samoobsluhy Můj Vodafone, kde budete mít také veškeré informace a možnosti nastavení. Lucie",
+      "version": "3.16.1"
+    },
+    {
+      "id": "46b039b9-cd36-4c09-b480-1ee8f4301fea",
+      "userName": "Jarda_K",
+      "date": "2026-09-02T19:54:27.196Z",
+      "score": 1,
+      "text": "Dnes 2.září zcela nefunkční, píše že údržba a že aplikace bude dostupná 18.cervence! Tedy před víc než mesicem! Vodafone, vy stádo neumětelů, táhněte už konečně k čertu!",
+      "text_normalized": "dnes 2.zari zcela nefunkcni, pise ze udrzba a ze aplikace bude dostupna 18.cervence! tedy pred vic nez mesicem! vodafone, vy stado neumetelu, tahnete uz konecne k certu!",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-03T05:20:19.551Z",
+      "replyText": "Hezký den, Jardo,\nomlouvám se vám za komplikace. Usilovně pracujeme na tom, abychom aplikaci opravili. Prosím vás o trpělivost. Lucie",
+      "version": "3.16.1"
+    },
+    {
+      "id": "ff62601c-ca31-411c-bd15-64c3f2043d53",
+      "userName": "Lukas Buchta",
+      "date": "2026-09-02T15:20:48.615Z",
+      "score": 5,
+      "text": "zatím dobrý",
+      "text_normalized": "zatim dobry",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-02T15:52:16.259Z",
+      "replyText": "Hezký den, Lukasi,\njsme rádi, že jste spokojený 🙂 Děkujeme za vaše hodnocení. Martina",
+      "version": "3.16.1"
+    },
+    {
+      "id": "758b7ab9-2af6-4075-b2c6-f1df3fc4271a",
+      "userName": "Petr Slezak",
+      "date": "2026-09-02T14:22:22.651Z",
+      "score": 1,
+      "text": "Opět mi přišla další SMS co vše vyřeším jednoduše přes aplikaci,ale ta opět jen otáčí logem a dělá jako že se načítá. A nic.Takže po stáru přes heslo a SMS. Něco vám tam nefunguje zdá se 🤨 ...",
+      "text_normalized": "opet mi prisla dalsi sms co vse vyresim jednoduse pres aplikaci,ale ta opet jen otaci logem a dela jako ze se nacita. a nic.takze po staru pres heslo a sms. neco vam tam nefunguje zda se 🤨 ...",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-02T14:52:43.593Z",
+      "replyText": "Dobrý den, Petře,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby to nepomohlo, zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi to prověříme na základě konkrétního příkladu. Martina\n",
+      "version": "3.16.1"
+    },
+    {
+      "id": "3d9b79df-78cb-4e40-8cf6-8254d66fc471",
+      "userName": "Zdenka zdenaheimlichova@seznam.cz",
+      "date": "2026-09-02T14:01:02.888Z",
+      "score": 3,
+      "text": "Často se mi stává, že se aplikace nenacítá. Pořád se jen točí.",
+      "text_normalized": "casto se mi stava, ze se aplikace nenacita. porad se jen toci.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-02T14:37:01.432Z",
+      "replyText": "Dobrý den, Zdenko,\nděkujeem za vaši zpětnou vazbu. Zkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby se ani poté správně nenačetla, zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz, prověříme to. Martina\n",
+      "version": "3.16.1"
+    },
+    {
+      "id": "78a5ec14-c3af-4755-b6e6-72a4a6a1e0c1",
+      "userName": "Jaroslava Myslíková",
+      "date": "2026-09-02T12:38:36.654Z",
+      "score": 1,
+      "text": "Po vynuceně aktualizaci nejde spustit. Jen stále načítá a nic. Píší vám to i ostatní a vy nic. Opravte to a nedělejte z lidí tupouny. Je to váš problěm.",
+      "text_normalized": "po vynucene aktualizaci nejde spustit. jen stale nacita a nic. pisi vam to i ostatni a vy nic. opravte to a nedelejte z lidi tupouny. je to vas problem.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-02T12:59:15.379Z",
+      "replyText": "Dobrý den, Jaroslavo,\nnaši zákazníci se do aplikace běžně přihlašují a využívají ji. Pokud vám přihlášení nefunguje, zkuste prosím aplikaci odinstalovat a znovu stáhnout. Také doporučuji přepnout mezi připojením přes Wi-Fi a přes mobilní data. Kdyby to nepomohlo, zavolejte nám prosím na 800 77 00 77. Martina",
+      "version": "3.16.1"
+    },
+    {
+      "id": "9dfe9283-6aba-4349-a4d6-468e0617eba6",
+      "userName": "Tomáš György",
+      "date": "2026-09-02T11:53:14.928Z",
+      "score": 1,
+      "text": "Mám dobíjení kreditu Vodafone a nejde mi načíst aplikace Vodafone",
+      "text_normalized": "mam dobijeni kreditu vodafone a nejde mi nacist aplikace vodafone",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-02T12:30:17.780Z",
+      "replyText": "Hezký den, Tomáši,\nmrzí mě, že máte potíže s aplikací 🙁 Doporučuji v tomto případě aplikaci přeinstalovat, věřím, že to bude v pořádku. Pokud by potíže přetrvávaly, zavolejte nám na linku *77 a kolegové se na to s vámi podívají. Zuzana",
+      "version": "3.16.1"
+    },
     {
       "id": "70ad2fb8-4c3e-41d9-9939-841dd8e74617",
       "userName": "Eliška Rezlerová",
@@ -35301,8 +35434,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2408,
-    "extractedAt": "2026-09-03T09:32:19.250Z",
+    "totalReviewsExtracted": 2417,
+    "extractedAt": "2026-09-04T09:24:31.329Z",
     "source": "google-play"
   }
 }
