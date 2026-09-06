@@ -1,18 +1,62 @@
 {
   "ratings": {
-    "score": 3.6188924,
+    "score": 3.627869,
     "scoreText": "3,6",
-    "totalRatings": 6484,
-    "totalReviews": 2590,
+    "totalRatings": 6498,
+    "totalReviews": 2601,
     "histogram": {
-      "1": 1678,
-      "2": 284,
-      "3": 337,
-      "4": 707,
-      "5": 3474
+      "1": 1682,
+      "2": 266,
+      "3": 340,
+      "4": 702,
+      "5": 3504
     }
   },
   "reviews": [
+    {
+      "id": "94b8a3b9-2e81-4abc-abb3-3d0457e8eaa4",
+      "userName": "Erbyg Pavel",
+      "date": "2026-09-03T21:21:52.979Z",
+      "score": 5,
+      "text": "ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-04T05:28:08.705Z",
+      "replyText": "Pěkný den, Pavle, děkujme za hodnocení 🙂 Těší nás, že jste s aplikací spokojený 🙂 Petra",
+      "version": "3.16.1"
+    },
+    {
+      "id": "2e405504-fc22-426f-9363-ce75634b9bd8",
+      "userName": "Milan Krejsa",
+      "date": "2026-09-03T15:11:02.700Z",
+      "score": 1,
+      "text": "Co aktualizace, to horší pouzitelnost. Zpráva o zvýšení tarifu se načte, ale okamžitě během vteřiny spadne. Přečíst si ji lze pouze po udělání screenshotů. Nezajímá mě tisíc nesmyslů které nechci, ale normální administrace. Aplikace je posledních pár let katastrofa a vlastně je absolutně nejhorší jakou v telefonu mám. Edit : už jsem jí přeinstaloval tolikrát, vlastně to je potřeba po téměř každé aktualizaci, že se raději podívám na pc, než zase ztrácet čas s touhle hrůzou.",
+      "text_normalized": "co aktualizace, to horsi pouzitelnost. zprava o zvyseni tarifu se nacte, ale okamzite behem vteriny spadne. precist si ji lze pouze po udelani screenshotu. nezajima me tisic nesmyslu ktere nechci, ale normalni administrace. aplikace je poslednich par let katastrofa a vlastne je absolutne nejhorsi jakou v telefonu mam. edit : uz jsem ji preinstaloval tolikrat, vlastne to je potreba po temer kazde aktualizaci, ze se radeji podivam na pc, nez zase ztracet cas s touhle hruzou.",
+      "segments": [
+        "UI",
+        "Stabilita"
+      ],
+      "replyDate": "2026-09-03T14:57:27.278Z",
+      "replyText": "Hezký den, Milane,\nmrzí mě, že s aplikací nejste spokojený 🙁 Doporučuji ji přeinstalovat a pokud by potíže trvaly, zavolejte nám na linku *77 a kolegové se na to s vámi podívají. Na aplikaci stále pracujeme a vylepšujeme ji, věřím, že do budoucna se vám bude líbit více. Zuzana",
+      "version": "3.16.1"
+    },
+    {
+      "id": "cc46367c-e274-40d1-9f50-0d7a14d685e5",
+      "userName": "Jakub Dosoudil",
+      "date": "2026-09-03T13:41:52.174Z",
+      "score": 2,
+      "text": "Nejde, vypadává. Tak důležitá věc nemůže přestat fungovat, prosím opravte to!",
+      "text_normalized": "nejde, vypadava. tak dulezita vec nemuze prestat fungovat, prosim opravte to!",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-03T14:02:32.424Z",
+      "replyText": "Hezký den, Jakube, je mi líto, že máte potíže s aplikací 🙁 Doporučuji aplikaci přeinstalovat a pokud by to nepomohlo, zavolejte nám na linku *77 a situaci s vámi prověříme konkrétně. Zuzana",
+      "version": null
+    },
     {
       "id": "f1784d57-31a3-4a2d-893e-b52ba92ab6e2",
       "userName": "Pavel Pekař",
@@ -35434,8 +35478,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2417,
-    "extractedAt": "2026-09-04T09:24:31.329Z",
+    "totalReviewsExtracted": 2420,
+    "extractedAt": "2026-09-05T08:53:08.897Z",
     "source": "google-play"
   }
 }
