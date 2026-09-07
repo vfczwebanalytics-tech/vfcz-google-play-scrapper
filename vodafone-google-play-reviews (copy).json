@@ -1,18 +1,215 @@
 {
   "ratings": {
-    "score": 3.627869,
+    "score": 3.586207,
     "scoreText": "3,6",
-    "totalRatings": 6498,
-    "totalReviews": 2601,
+    "totalRatings": 6521,
+    "totalReviews": 2604,
     "histogram": {
-      "1": 1682,
-      "2": 266,
-      "3": 340,
-      "4": 702,
-      "5": 3504
+      "1": 1744,
+      "2": 267,
+      "3": 352,
+      "4": 727,
+      "5": 3425
     }
   },
   "reviews": [
+    {
+      "id": "020deffd-972f-4570-ae7d-3d220e10509f",
+      "userName": "Václav Krčál",
+      "date": "2026-09-05T08:06:53.759Z",
+      "score": 5,
+      "text": "dobrá aplikace jsem spokojený.🤩",
+      "text_normalized": "dobra aplikace jsem spokojeny.🤩",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-05T08:32:52.100Z",
+      "replyText": "Pěkný den, Václave,\nděkujeme za hodnocení. Těší mě, že jste s aplikací spokojený 🙂 Lucie",
+      "version": "3.16.2"
+    },
+    {
+      "id": "e31daac3-f3c2-41b2-ba6b-ff0fa79cf74d",
+      "userName": "zombie 666",
+      "date": "2026-09-05T01:40:00.686Z",
+      "score": 2,
+      "text": "Už nevím co se to děje, před koncem měsíce aktivována 2x data, žádná potvrzující SMS nepřišla tak proto podruhé, nakonec data na Oskartu přišla ale samozřejmě k 1.9. data pryč.Dnes aktivována data na jiném čísle ale opět asi po půl hodině znovu problém, data se neaktivovala ale tentokrát se zatím ani ktedit nestrhl.Ale už toho začínám mít dost, asi jiného operátora 😡 Ještě bych dodal že v aplikaci se mi zobrazuje volných 1Gb dat ale vůbec nejdou 🤷🏼",
+      "text_normalized": "uz nevim co se to deje, pred koncem mesice aktivovana 2x data, zadna potvrzujici sms neprisla tak proto podruhe, nakonec data na oskartu prisla ale samozrejme k 1.9. data pryc.dnes aktivovana data na jinem cisle ale opet asi po pul hodine znovu problem, data se neaktivovala ale tentokrat se zatim ani ktedit nestrhl.ale uz toho zacinam mit dost, asi jineho operatora 😡 jeste bych dodal ze v aplikaci se mi zobrazuje volnych 1gb dat ale vubec nejdou 🤷🏼",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-09-05T06:21:05.751Z",
+      "replyText": "Hezký den,\nmrzí mě, pokud došlo k nějakým komplikacím 🙁 Rádi se na to podíváme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie",
+      "version": "3.16.2"
+    },
+    {
+      "id": "0644f56f-5c34-4822-93b4-e5b71439b5f4",
+      "userName": "Adolf Větvička",
+      "date": "2026-09-04T18:41:51.231Z",
+      "score": 1,
+      "text": "Ta jedna hvězda je za to že když se mi aplikace náhodou otevře (většinou teda po smazání paměti a restartu telefonu) zvládnu zaplatit vyúčtování. To už neni ani k smíchu je to k pláči.",
+      "text_normalized": "ta jedna hvezda je za to ze kdyz se mi aplikace nahodou otevre (vetsinou teda po smazani pameti a restartu telefonu) zvladnu zaplatit vyuctovani. to uz neni ani k smichu je to k placi.",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-05T06:20:15.892Z",
+      "replyText": "Hezký den, Adolfe,\nje mi líto, pokud máte s aplikací nějaké potíže 🙁 Rádi se tomu budeme věnovat detailněji, když nám napíšete konkrétní příklady přes https://tam.je/dotaz. Lucie\n",
+      "version": "3.16.2"
+    },
+    {
+      "id": "aed9299a-3109-4c4b-8d70-f5b46735a0a0",
+      "userName": "Michael Vašek",
+      "date": "2026-09-04T17:42:56.368Z",
+      "score": 1,
+      "text": "Od rána nefunkční. Po potvrzení otisku se ten váš plamínek jen točí dokola a kolem něj obrysy. Zajímavé že web funguje normálně. A ne - nebudu aplikací znovu instalovat. To bude člověk po každé zpackané aktualizaci muset aplikaci mazat a zase instalovat?",
+      "text_normalized": "od rana nefunkcni. po potvrzeni otisku se ten vas plaminek jen toci dokola a kolem nej obrysy. zajimave ze web funguje normalne. a ne - nebudu aplikaci znovu instalovat. to bude clovek po kazde zpackane aktualizaci muset aplikaci mazat a zase instalovat?",
+      "segments": [
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-04T18:00:09.522Z",
+      "replyText": "Pěkný den, Michaeli,\nje mi líto, že došlo k potížím 🙁 Přeinstalování aplikace ale obvykle skutečně pomáhá a také si potvrdíme, že máte aktuální verzi. Zkuste to prosím a v případě, že by to nepomohlo, napište nám prosím detaily přes https://tam.je/dotaz, rádi se na to podíváme. Lucie\n",
+      "version": "3.16.2"
+    },
+    {
+      "id": "7201c1f8-3d24-4eeb-ad2d-d2f4332bee99",
+      "userName": "Monika Svĕráková",
+      "date": "2026-09-04T17:28:47.000Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-04T18:00:34.861Z",
+      "replyText": "Pěkný den, Moniko,\nděkujeme vám za hodnocení. Těší mě, že jste spokojená 🙂 Lucie",
+      "version": "3.16.1"
+    },
+    {
+      "id": "615e1618-1271-423e-a6eb-5fa8a8f612c0",
+      "userName": "Jakub Vašíček",
+      "date": "2026-09-04T17:24:20.683Z",
+      "score": 1,
+      "text": "jak muze nekdo v dnesni dobe tak vymrvit aplikaci na jednoduchy ukony? neustale to hlasi chybove hlasky o nacteni obsahu, dostupnosti atd. Rychlost a odezva aplikace je tristni. Zbytecne prepinani pri potrebe zmenit neco na uctu. Pixel 10pro. Naprosta hruza",
+      "text_normalized": "jak muze nekdo v dnesni dobe tak vymrvit aplikaci na jednoduchy ukony? neustale to hlasi chybove hlasky o nacteni obsahu, dostupnosti atd. rychlost a odezva aplikace je tristni. zbytecne prepinani pri potrebe zmenit neco na uctu. pixel 10pro. naprosta hruza",
+      "segments": [
+        "Vykonnost",
+        "Stabilita"
+      ],
+      "replyDate": "2026-09-04T17:29:17.935Z",
+      "replyText": "Pěkný den, Jakube,\nje mi líto, pokud vám aplikace nefunguje správně 🙁 Rádi se na to podíváme podrobněji, když nám napíšete konkrétní příklady přes https://tam.je/dotaz. Lucie\n",
+      "version": "3.16.2"
+    },
+    {
+      "id": "efbe8a9f-6e43-41fc-b272-87fba1f67cf7",
+      "userName": "František Dobrota",
+      "date": "2026-09-04T15:58:30.152Z",
+      "score": 1,
+      "text": "Vodafone je pěkný vejlupek, je jim naprosto jedno když má zákazník potíže nedej bože chce mluvit s nadřízeným na zákaznické lince. Prostě vás pošlou do háje.. Není žádná možnost jak si u nich stěžovat.",
+      "text_normalized": "vodafone je pekny vejlupek, je jim naprosto jedno kdyz ma zakaznik potize nedej boze chce mluvit s nadrizenym na zakaznicke lince. proste vas poslou do haje.. neni zadna moznost jak si u nich stezovat.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-04T16:30:24.161Z",
+      "replyText": "Pěkný den, Františku,\nje mi líto, pokud máte nějakou negativní zkušenost 🙁 Můžete nám napsat přes https://tam.je/dotaz, rádi se na vše podíváme. V případě, že budete mít zpětnou vazbu k aplikaci, budeme za ni rádi. Lucie\n",
+      "version": "3.16.2"
+    },
+    {
+      "id": "c0709e72-e933-4b67-b8bc-0362f7e3085a",
+      "userName": "Ivo R",
+      "date": "2026-09-04T15:37:04.905Z",
+      "score": 1,
+      "text": "To je čirá tragedie, věčně nefunkční",
+      "text_normalized": "to je cira tragedie, vecne nefunkcni",
+      "segments": [
+        "Vykonnost",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-04T15:59:04.693Z",
+      "replyText": "Hezký den, Ivo,\nje mi líto, pokud se vám aplikace nelíbí 🙁 V případě, že vám něco nefunguje, rádi to prověříme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie\n",
+      "version": null
+    },
+    {
+      "id": "0a3b3d05-76ab-4c0e-b38d-fb25f3841e28",
+      "userName": "Jan Niklas",
+      "date": "2026-09-04T15:00:45.441Z",
+      "score": 1,
+      "text": "nevím ale mě příjde nepřehledná nic tam nejde najít jenom data a kredit jinak nic je to na nic",
+      "text_normalized": "nevim ale me prijde neprehledna nic tam nejde najit jenom data a kredit jinak nic je to na nic",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-04T15:28:23.588Z",
+      "replyText": "Pěkný den, Jane,\nděkujeme vám za zpětnou vazbu, i když pro nás není pozitivní. Aplikaci dále rozvíjíme a pevně doufám, že do budoucna se vám bude líbit více. Lucie",
+      "version": "3.16.0"
+    },
+    {
+      "id": "aa610085-64e1-464c-87f7-eb0b15b22a45",
+      "userName": "Lukáš Spendla",
+      "date": "2026-09-04T14:37:33.389Z",
+      "score": 1,
+      "text": "při každém přihlášení hláška něco se pokazilo a pak to ukazuje zprávu která tam není. Načítání přechodu jinam trvá věky.",
+      "text_normalized": "pri kazdem prihlaseni hlaska neco se pokazilo a pak to ukazuje zpravu ktera tam neni. nacitani prechodu jinam trva veky.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-04T14:58:44.327Z",
+      "replyText": "Hezký den, Lukáši,\nje mi líto, jestli evidujete nějaké chyby 🙁 Rádi to prověříme konkrétněji, když nám napíšete detaily přes https://tam.je/dotaz. Lucie\n",
+      "version": "3.16.2"
+    },
+    {
+      "id": "633de1a9-a37a-417e-8bdc-d3e80024077c",
+      "userName": "Miroslav jx",
+      "date": "2026-09-04T13:41:02.536Z",
+      "score": 1,
+      "text": "strašný!!! snažím se používat aplikaci,ale pokaždé když chci,tak aktualizace! Pak problém s přihlášením. a aby to nebylo málo nelze provést platbu přes aplikaci. já jsem tedy nespokojen od té doby co je jiná verze Vodafone +. stáří verze jsem neměl tolik problémů",
+      "text_normalized": "strasny!!! snazim se pouzivat aplikaci,ale pokazde kdyz chci,tak aktualizace! pak problem s prihlasenim. a aby to nebylo malo nelze provest platbu pres aplikaci. ja jsem tedy nespokojen od te doby co je jina verze vodafone +. stari verze jsem nemel tolik problemu",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-04T13:58:13.552Z",
+      "replyText": "Pěkný den, Miroslave,\nje mi líto, pokud máte tyto potíže 🙁 Rádi to prověříme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie\n",
+      "version": "3.16.1"
+    },
+    {
+      "id": "7ff76ec2-9451-4373-9869-444a12cfcd6c",
+      "userName": "Patrik ŠEDĚNKA",
+      "date": "2026-09-04T11:48:33.676Z",
+      "score": 1,
+      "text": "přihlašování nadvakrát, doba načtení katastrofální, happy vodafone, místo mazlíčci, dostanu slevu na kosmetiku. Není, apk jsem přeinstaloval 2× chyba bude na Vaši straně, stačí číst recenze!",
+      "text_normalized": "prihlasovani nadvakrat, doba nacteni katastrofalni, happy vodafone, misto mazlicci, dostanu slevu na kosmetiku. neni, apk jsem preinstaloval 2× chyba bude na vasi strane, staci cist recenze!",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-04T11:33:32.600Z",
+      "replyText": "Hezký den, Patriku,\nje mi líto, že s aplikací nejste spokojený 🙁 Doporučuji aplikaci přeinstalovat, věřím, že to bude v pořádku. Pokud by potíže trvaly, zavolejte nám na zákaznickou linku *77 a s kolegy situaci prověříte. Zuzana",
+      "version": null
+    },
+    {
+      "id": "565e1e09-af0e-4e35-913d-b8bda42ec66e",
+      "userName": "Petr Burda",
+      "date": "2026-09-04T11:33:46.711Z",
+      "score": 5,
+      "text": "Super 😁",
+      "text_normalized": "super 😁",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-04T12:09:13.579Z",
+      "replyText": "Hezký den, Petře,\nděkujeme za kladné hodnocení aplikace 🙂 Zuzana",
+      "version": "3.16.1"
+    },
     {
       "id": "94b8a3b9-2e81-4abc-abb3-3d0457e8eaa4",
       "userName": "Erbyg Pavel",
@@ -35478,8 +35675,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2420,
-    "extractedAt": "2026-09-05T08:53:08.897Z",
+    "totalReviewsExtracted": 2433,
+    "extractedAt": "2026-09-06T09:13:04.855Z",
     "source": "google-play"
   }
 }

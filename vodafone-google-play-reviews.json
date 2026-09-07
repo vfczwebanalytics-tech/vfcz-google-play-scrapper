@@ -1,18 +1,60 @@
 {
   "ratings": {
-    "score": 3.586207,
+    "score": 3.5772357,
     "scoreText": "3,6",
-    "totalRatings": 6521,
-    "totalReviews": 2604,
+    "totalRatings": 6528,
+    "totalReviews": 2611,
     "histogram": {
-      "1": 1744,
-      "2": 267,
-      "3": 352,
-      "4": 727,
-      "5": 3425
+      "1": 1761,
+      "2": 254,
+      "3": 360,
+      "4": 753,
+      "5": 3396
     }
   },
   "reviews": [
+    {
+      "id": "088692a0-335e-473b-93bb-d60a0f1c3d7b",
+      "userName": "Tomáš Matura",
+      "date": "2026-09-06T07:04:26.983Z",
+      "score": 1,
+      "text": "přihlásí mě, ale max mě to pustí zažádat o tarif. takze aplikace k ničemu, kdyz si v ní nemohu nic aktivovat jako zákazník bez Tarifu",
+      "text_normalized": "prihlasi me, ale max me to pusti zazadat o tarif. takze aplikace k nicemu, kdyz si v ni nemohu nic aktivovat jako zakaznik bez tarifu",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-09-06T07:38:30.870Z",
+      "replyText": "Pěkný den, Tomáši,\nděkujeme vám za zpětnou vazbu, i když pro nás není pozitivní. Aplikaci postupně rozvíjíme a další funkce přidáváme. Pevně doufám, že do budoucna s ní budete spokojenější. Lucie",
+      "version": "3.16.2"
+    },
+    {
+      "id": "503a202c-9c6d-4506-acf7-1cd7fd28502f",
+      "userName": "Renata Ducarová",
+      "date": "2026-09-05T11:15:12.911Z",
+      "score": 5,
+      "text": "Prosím,chci odejít z O2 k vám.Jak to udělat?",
+      "text_normalized": "prosim,chci odejit z o2 k vam.jak to udelat?",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-05T11:31:21.696Z",
+      "replyText": "Pěkný den, Renato,\ntěší mě, že zvažujete přechod k nám. Napište nám prosím na e-mail socialmediacz@vodafone.com, rádi se s vámi na všem domluvíme 🙂 Lucie\n",
+      "version": "3.16.1"
+    },
+    {
+      "id": "b64c9d78-721a-4e07-b4fd-328c7d2a52a7",
+      "userName": "Hubert Rohner",
+      "date": "2026-09-05T09:34:34.361Z",
+      "score": 5,
+      "text": "je praktická a mám o všem přehled.",
+      "text_normalized": "je prakticka a mam o vsem prehled.",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-09-05T10:01:04.552Z",
+      "replyText": "Pěkný den, Huberte,\nděkujeme za hodnocení aplikace. Jsem ráda, že se vám líbí 🙂 Lucie",
+      "version": "3.16.1"
+    },
     {
       "id": "020deffd-972f-4570-ae7d-3d220e10509f",
       "userName": "Václav Krčál",
@@ -35675,8 +35717,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2433,
-    "extractedAt": "2026-09-06T09:13:04.855Z",
+    "totalReviewsExtracted": 2436,
+    "extractedAt": "2026-09-07T10:01:33.087Z",
     "source": "google-play"
   }
 }
