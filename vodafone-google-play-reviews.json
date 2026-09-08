@@ -1,18 +1,77 @@
 {
   "ratings": {
-    "score": 3.5772357,
+    "score": 3.5602605,
     "scoreText": "3,6",
-    "totalRatings": 6528,
-    "totalReviews": 2611,
+    "totalRatings": 6537,
+    "totalReviews": 2618,
     "histogram": {
-      "1": 1761,
-      "2": 254,
-      "3": 360,
-      "4": 753,
-      "5": 3396
+      "1": 1787,
+      "2": 255,
+      "3": 372,
+      "4": 744,
+      "5": 3374
     }
   },
   "reviews": [
+    {
+      "id": "9115b387-b395-4176-8848-5c0516840f4b",
+      "userName": "Dominik Harag",
+      "date": "2026-09-07T07:12:29.722Z",
+      "score": 1,
+      "text": "Aplikace po pár vteřinách zamrzne, takže je k ničemu",
+      "text_normalized": "aplikace po par vterinach zamrzne, takze je k nicemu",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-07T07:52:33.921Z",
+      "replyText": "Dobrý den, Dominiku,\nmrzí mě, že máte takovou zkušenost. Zkuste prosím aplikaci odinstalovat a znovu stáhnout. Pokud se tato chyba bude i pak opakovat, zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi to prověříme. Martina\n",
+      "version": "3.16.2"
+    },
+    {
+      "id": "284f018c-1d0d-4f3a-96f7-b4b269bc8184",
+      "userName": "Stanislav Brejak",
+      "date": "2026-09-07T06:57:13.260Z",
+      "score": 3,
+      "text": "Aplikace po přihlášení se nenačte hlásí chybu a opakovat, napodruhé se načte. Nejde otevřít přečtené zprávy, respektive se otevřou pak ihned spadnou hlásí chybu opakovat později. Nevím co si po tím vývojář představuje, protože tento stav trvá minimálně od poloviny srpna. Zkuste s tím něco udělat. Tyto drobnosti zbytečně kazí vcelku dobrý dojem z toho co aplikace umí.",
+      "text_normalized": "aplikace po prihlaseni se nenacte hlasi chybu a opakovat, napodruhe se nacte. nejde otevrit prectene zpravy, respektive se otevrou pak ihned spadnou hlasi chybu opakovat pozdeji. nevim co si po tim vyvojar predstavuje, protoze tento stav trva minimalne od poloviny srpna. zkuste s tim neco udelat. tyto drobnosti zbytecne kazi vcelku dobry dojem z toho co aplikace umi.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-07T07:12:31.282Z",
+      "replyText": "Dobrý den, Stanislave,\nzavolejte nám prosím na 800 77 00 77 nebo napište přes kontaktní formulář na https://tam.je/dotaz. Rádi to prověříme na základě konkrétního příkladu. Martina\n",
+      "version": "3.16.2"
+    },
+    {
+      "id": "7e0fc448-1987-4e39-afe9-98f42948f879",
+      "userName": "Jana Kučerová",
+      "date": "2026-09-06T17:45:31.170Z",
+      "score": 5,
+      "text": "je to vynikající",
+      "text_normalized": "je to vynikajici",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-07T05:17:28.327Z",
+      "replyText": "Pěkný den, Jano,\nděkujeme vám za hodnocení. Těší mě, že jste s aplikací spokojená 🙂 Lucie",
+      "version": "3.16.1"
+    },
+    {
+      "id": "934cf5ab-efae-4419-b07c-cf199b79e3c7",
+      "userName": "Wolfoni Wolfoni",
+      "date": "2026-09-06T15:24:31.180Z",
+      "score": 1,
+      "text": "Úplně stupidní zabezpečení tak, že nejde nainstalovat",
+      "text_normalized": "uplne stupidni zabezpeceni tak, ze nejde nainstalovat",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-07T05:18:08.213Z",
+      "replyText": "Dobrý den, Wolfoni,\nzavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi tuto záležitost prověříme na základě konkrétního příkladu. Martina\n",
+      "version": null
+    },
     {
       "id": "088692a0-335e-473b-93bb-d60a0f1c3d7b",
       "userName": "Tomáš Matura",
@@ -35717,8 +35776,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2436,
-    "extractedAt": "2026-09-07T10:01:33.087Z",
+    "totalReviewsExtracted": 2440,
+    "extractedAt": "2026-09-08T09:26:51.677Z",
     "source": "google-play"
   }
 }
