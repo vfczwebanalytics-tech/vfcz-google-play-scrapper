@@ -1,18 +1,78 @@
 {
   "ratings": {
-    "score": 3.5508885,
+    "score": 3.553772,
     "scoreText": "3,6",
-    "totalRatings": 6556,
-    "totalReviews": 2622,
+    "totalRatings": 6570,
+    "totalReviews": 2627,
     "histogram": {
-      "1": 1799,
-      "2": 264,
-      "3": 380,
-      "4": 740,
-      "5": 3367
+      "1": 1792,
+      "2": 262,
+      "3": 378,
+      "4": 780,
+      "5": 3352
     }
   },
   "reviews": [
+    {
+      "id": "b9c6801a-f26b-4bdf-8aef-13c1fab3eef1",
+      "userName": "Jiří Pavlíček",
+      "date": "2026-09-08T20:24:04.352Z",
+      "score": 1,
+      "text": "Hrůza a ostuda, že přední poskytovatel mobilní sítě vypustí do světa aplikaci, kde se člověk skoro není schopen přihlásit (na několik pokusů, přičemž pokaždé se tváří že jste přihlášeni, přitom vyžaduje přihlášení po každé další akci). A jakékoli zobrazení aktivních služeb předchází čekání v řádu minut s logem načítání dat, s občasným odlogovanim uživatele. Na to nemám nervy. Proč nejde dát 0 hvězd?",
+      "text_normalized": "hruza a ostuda, ze predni poskytovatel mobilni site vypusti do sveta aplikaci, kde se clovek skoro neni schopen prihlasit (na nekolik pokusu, pricemz pokazde se tvari ze jste prihlaseni, pritom vyzaduje prihlaseni po kazde dalsi akci). a jakekoli zobrazeni aktivnich sluzeb predchazi cekani v radu minut s logem nacitani dat, s obcasnym odlogovanim uzivatele. na to nemam nervy. proc nejde dat 0 hvezd?",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Cena"
+      ],
+      "replyDate": "2026-09-09T05:20:54.830Z",
+      "replyText": "Dobrý den, Jiří,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Pak se přihlaste s vaším e-mailem, alfanumerickým heslem a kódem z SMSky. Další přihlášení už by po vás aplikace během pohybu v ní neměla vyžadovat. Pokud se to přesto stane, zavolejte nám na 800 77 00 77, rádi to prověříme. Martina",
+      "version": "3.16.2"
+    },
+    {
+      "id": "0fdabacd-0f3e-4fd5-acb7-b2d0877cf02c",
+      "userName": "Michal Horvath",
+      "date": "2026-09-08T15:06:23.458Z",
+      "score": 4,
+      "text": "Je to opravdu zajímavý",
+      "text_normalized": "je to opravdu zajimavy",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-08T15:17:34.824Z",
+      "replyText": "Hezký den, Michale,\nděkujeme za kladné hodnocení a jsem ráda, že se vám aplikace líbí a zdá se vám \"zajímavá\" 🙂 Zuzana",
+      "version": "3.16.2"
+    },
+    {
+      "id": "6b72e19d-605e-4c55-a8db-de890a4c9c31",
+      "userName": "Milk3n",
+      "date": "2026-09-08T11:21:42.269Z",
+      "score": 3,
+      "text": "Rozbitá biometrie a hláška \"Něco se nepovedlo\". Kdyby šlo jen o náhlou nefunkčnost biometrie, která před pár měsíci fungovala...aplikace ale není schopná si pamatovat přihl. údaje ani po zaškrnutí políčka! EDIT: Dobrý den, Petro, a díky za odpověď. Moje recenze se však vztahuje k právě vydané aktualizaci... biometrie je tedy stále nefunkční...",
+      "text_normalized": "rozbita biometrie a hlaska \"neco se nepovedlo\". kdyby slo jen o nahlou nefunkcnost biometrie, ktera pred par mesici fungovala...aplikace ale neni schopna si pamatovat prihl. udaje ani po zaskrnuti policka! edit: dobry den, petro, a diky za odpoved. moje recenze se vsak vztahuje k prave vydane aktualizaci... biometrie je tedy stale nefunkcni...",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-08T07:29:18.118Z",
+      "replyText": "Hezký den, Milk3n, při poslední aktualizaci aplikace jsme upravovali souvislosti s přihlášením, proto mohlo dojít k odpojení biometrického přihlášení. Omlouvám se za komplikace. Zkuste si ho prosím nastavit znovu. Petra",
+      "version": "3.16.2"
+    },
+    {
+      "id": "99d4f2d0-0432-47de-b60d-0d725f1a7181",
+      "userName": "Tomáš Mísař",
+      "date": "2026-09-08T09:34:55.906Z",
+      "score": 1,
+      "text": "Upravení ceny za tarif poslali pouze do mobilní aplikace, kde se po rozkliknutí zpráva nedá zobrazit. Budu řešit právní náležitosti, zda mohou něco takového udělat a případně podám podnět na ČOI. Hlavně, že do SMS posílají reklamy, ale neinformují o takto důležitých věcech.",
+      "text_normalized": "upraveni ceny za tarif poslali pouze do mobilni aplikace, kde se po rozkliknuti zprava neda zobrazit. budu resit pravni nalezitosti, zda mohou neco takoveho udelat a pripadne podam podnet na coi. hlavne, ze do sms posilaji reklamy, ale neinformuji o takto dulezitych vecech.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-09-08T09:51:13.824Z",
+      "replyText": "Hezký den, Tomáši, je mi líto, že jste nespokojený 🙁 Zákazníky jsme informovali také zákonnou formou ve Vyúčtování alespoň měsíc dopředu. Petra",
+      "version": "3.16.2"
+    },
     {
       "id": "4576eae0-f283-454a-8b6d-8b87a8893c20",
       "userName": "Ondřej Klaban",
@@ -35880,8 +35940,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2447,
-    "extractedAt": "2026-09-09T09:28:23.366Z",
+    "totalReviewsExtracted": 2451,
+    "extractedAt": "2026-09-10T09:27:19.071Z",
     "source": "google-play"
   }
 }
