@@ -1,18 +1,89 @@
 {
   "ratings": {
-    "score": 3.553772,
+    "score": 3.5616884,
     "scoreText": "3,6",
-    "totalRatings": 6570,
-    "totalReviews": 2627,
+    "totalRatings": 6583,
+    "totalReviews": 2631,
     "histogram": {
-      "1": 1792,
-      "2": 262,
-      "3": 378,
-      "4": 780,
-      "5": 3352
+      "1": 1783,
+      "2": 255,
+      "3": 384,
+      "4": 789,
+      "5": 3365
     }
   },
   "reviews": [
+    {
+      "id": "2d6c0cb9-ce49-4a3e-962f-86f2e7ecbef6",
+      "userName": "David Tisar",
+      "date": "2026-09-10T01:04:01.477Z",
+      "score": 5,
+      "text": "bomba,víc dát zdarma nebo za nižší ceny.",
+      "text_normalized": "bomba,vic dat zdarma nebo za nizsi ceny.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-10T05:26:55.250Z",
+      "replyText": "Hezký den, Davide,\nděkujeme za hodnocení. Jsem ráda, pokud jste spokojený 🙂 Lucie",
+      "version": null
+    },
+    {
+      "id": "23c1c874-7ae2-44f7-a7ce-01289bcd0503",
+      "userName": "jan baloun",
+      "date": "2026-09-09T19:48:01.660Z",
+      "score": 5,
+      "text": "Je lepší než ta původní",
+      "text_normalized": "je lepsi nez ta puvodni",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-10T05:26:02.852Z",
+      "replyText": "Pěkný den, Jane,\nděkujeme za hodnocení. Těší mě, že se vám aplikace líbí 🙂 Lucie",
+      "version": "3.16.2"
+    },
+    {
+      "id": "69038670-c3c0-46e4-ae86-be5507f03dab",
+      "userName": "Jan Novak",
+      "date": "2026-09-09T17:51:36.461Z",
+      "score": 5,
+      "text": "100% Spokojenost Dekuji",
+      "text_normalized": "100% spokojenost dekuji",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-10T05:23:56.309Z",
+      "replyText": "Pěkný den, Jane,\nděkujeme vám za hodnocení. Těší mě, že jste spokojený 🙂 Lucie",
+      "version": "3.16.2"
+    },
+    {
+      "id": "7085c0b9-13cd-45dc-b483-e510ac275197",
+      "userName": "Jaromír Petrnousek",
+      "date": "2026-09-09T13:40:32.277Z",
+      "score": 5,
+      "text": "vyhovuje",
+      "text_normalized": "vyhovuje",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-09T13:50:20.904Z",
+      "replyText": "Hezký den, Jaromíre,\nděkujeme vám za pozitivní hodnocení aplikace 🙂 Jsme moc rádi, že se vám líbí. Viki",
+      "version": "3.16.2"
+    },
+    {
+      "id": "3582b02c-282f-4652-bd40-3a0914025092",
+      "userName": "Simona Mazurková",
+      "date": "2026-09-09T10:24:39.979Z",
+      "score": 2,
+      "text": "bohužel nefunguje. tarif sice jde platit přes aplikaci ale co se týká Vodafone Happy tak na cokoliv kliknu, hodí to chybu: ouha objevila se nějaká chyba. Dělali jsme, co se dalo, ale tudy cesta nevede. Naši technici se podívají, co se rozbilo. Takže soutěže jsou tam nejspíše pouze na okrasu. neustále to chce aktualizace. A ani po restartování telefonu a odinstalování a následně znovu nainstalování aplikace stále nic nefunguje.",
+      "text_normalized": "bohuzel nefunguje. tarif sice jde platit pres aplikaci ale co se tyka vodafone happy tak na cokoliv kliknu, hodi to chybu: ouha objevila se nejaka chyba. delali jsme, co se dalo, ale tudy cesta nevede. nasi technici se podivaji, co se rozbilo. takze souteze jsou tam nejspise pouze na okrasu. neustale to chce aktualizace. a ani po restartovani telefonu a odinstalovani a nasledne znovu nainstalovani aplikace stale nic nefunguje.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-09T11:00:09.584Z",
+      "replyText": "Dobrý den, Simono,\nděkuji vám za zpětnou vazbu. Toto by se stávat nemělo 🙁 Zkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby to nepomohlo, napište nám prosím přes formulář https://tam.je/google a my vše prověříme. Katka",
+      "version": "3.16.2"
+    },
     {
       "id": "b9c6801a-f26b-4bdf-8aef-13c1fab3eef1",
       "userName": "Jiří Pavlíček",
@@ -35940,8 +36011,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2451,
-    "extractedAt": "2026-09-10T09:27:19.071Z",
+    "totalReviewsExtracted": 2456,
+    "extractedAt": "2026-09-11T09:25:48.582Z",
     "source": "google-play"
   }
 }
