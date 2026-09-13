@@ -1,18 +1,63 @@
 {
   "ratings": {
-    "score": 3.5716586,
+    "score": 3.5970874,
     "scoreText": "3,6",
-    "totalRatings": 6599,
-    "totalReviews": 2634,
+    "totalRatings": 6614,
+    "totalReviews": 2639,
     "histogram": {
-      "1": 1773,
-      "2": 254,
-      "3": 371,
-      "4": 817,
-      "5": 3378
+      "1": 1722,
+      "2": 256,
+      "3": 385,
+      "4": 844,
+      "5": 3403
     }
   },
   "reviews": [
+    {
+      "id": "0f66e47c-0634-47df-9906-62c030bafe32",
+      "userName": "Radek Bělka",
+      "date": "2026-09-11T13:52:17.882Z",
+      "score": 3,
+      "text": "Nikdy, opakuji nikdy, se appka nepřihlásí napoprvé! Vždy až napodruhé, napoprvé je nekonečná načítací smyčka, appku je potřeba shodit a spustit znovu. Jinak vše funguje.",
+      "text_normalized": "nikdy, opakuji nikdy, se appka neprihlasi napoprve! vzdy az napodruhe, napoprve je nekonecna nacitaci smycka, appku je potreba shodit a spustit znovu. jinak vse funguje.",
+      "segments": [
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-11T14:05:41.820Z",
+      "replyText": "Dobrý den, Radku,\nmrzí mě, že máte takovou zkušenost. Zkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby to nepomohlo, zavolejte nám prosím na 800 77 00 77, rádi to prověříme na základě konkrétního příkladu. Martina",
+      "version": "3.16.2"
+    },
+    {
+      "id": "4dbcea1d-e834-4bb0-9018-417f621b089c",
+      "userName": "Matyáš Jouza",
+      "date": "2026-09-11T11:08:39.109Z",
+      "score": 1,
+      "text": "Po zaplacení kartou v aplikaci se strhne částka z účtu. ALE aplikace řekne že nastala chyba a pořád chce zaplatit...",
+      "text_normalized": "po zaplaceni kartou v aplikaci se strhne castka z uctu. ale aplikace rekne ze nastala chyba a porad chce zaplatit...",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-09-11T11:29:38.905Z",
+      "replyText": "Hezký den, Matyáši,\nmrzí mě, že máte potíže s platbou v aplikaci 🙁 Platba kartou v aplikaci se ukáže až po přičtení platby na váš zákaznický účet, teprve poté ji uvidíte v aplikaci Můj Vodafone+. Zavolejte nám na linku *77 a vše s vámi rádi prověříme. Zuzana",
+      "version": "3.16.2"
+    },
+    {
+      "id": "0968192d-ee1a-4eeb-9551-9b4ba90dcb06",
+      "userName": "Pavel Mašek",
+      "date": "2026-09-11T09:51:47.120Z",
+      "score": 2,
+      "text": "prosím, prosím, moc prosím, dejte tam možnost trvalého přihlášení, na svoje nebezpečí, na svoje riziko, ať tam jako uživatel musím všechno odsouhlasit že jsem si vědom veškerých nebezpečenství pokud budu mít uložený heslo ale pro lásku boží nechte tam to heslo uložený, vždy tě to úplně šílený, každých pár dní se mi aplikace odhlásí a musím pořád vyplňovat heslo, jenže to heslo musí být tak bezpečný, že musí obsahovat x písmen, x čísel, speciální znaky, krev jednorožce. a je to fakt utrpení",
+      "text_normalized": "prosim, prosim, moc prosim, dejte tam moznost trvaleho prihlaseni, na svoje nebezpeci, na svoje riziko, at tam jako uzivatel musim vsechno odsouhlasit ze jsem si vedom veskerych nebezpecenstvi pokud budu mit ulozeny heslo ale pro lasku bozi nechte tam to heslo ulozeny, vzdy te to uplne sileny, kazdych par dni se mi aplikace odhlasi a musim porad vyplnovat heslo, jenze to heslo musi byt tak bezpecny, ze musi obsahovat x pismen, x cisel, specialni znaky, krev jednorozce. a je to fakt utrpeni",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-11T10:21:07.570Z",
+      "replyText": "Hezký den, Pavle, v aplikaci si můžete nastavit biometrické přihlášení. Návod najdete na https://www.vodafone.cz/pece/muj-vodafone/prihlasovani-e-mailem/dvoufazove-prihlaseni-muj-vodafone/. Trvalé přihlášení bohužel neplánujeme. Petra",
+      "version": "3.16.2"
+    },
     {
       "id": "578e04b6-667f-4280-8459-d0b55b65f92a",
       "userName": "Josef Tobolik",
@@ -36083,8 +36128,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2461,
-    "extractedAt": "2026-09-12T09:07:39.236Z",
+    "totalReviewsExtracted": 2464,
+    "extractedAt": "2026-09-13T10:04:46.645Z",
     "source": "google-play"
   }
 }
