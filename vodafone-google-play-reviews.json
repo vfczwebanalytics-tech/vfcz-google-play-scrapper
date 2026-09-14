@@ -1,18 +1,74 @@
 {
   "ratings": {
-    "score": 3.5970874,
+    "score": 3.5751212,
     "scoreText": "3,6",
-    "totalRatings": 6614,
-    "totalReviews": 2639,
+    "totalRatings": 6623,
+    "totalReviews": 2640,
     "histogram": {
-      "1": 1722,
-      "2": 256,
-      "3": 385,
+      "1": 1765,
+      "2": 267,
+      "3": 363,
       "4": 844,
-      "5": 3403
+      "5": 3380
     }
   },
   "reviews": [
+    {
+      "id": "58cb1159-b54c-4d9a-ae09-0046a955c6ef",
+      "userName": "To je muj ucet Nezapomen",
+      "date": "2026-09-13T09:54:06.467Z",
+      "score": 1,
+      "text": "horší aplikaci jsem nezažil asi kurník od vás odejdu",
+      "text_normalized": "horsi aplikaci jsem nezazil asi kurnik od vas odejdu",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-13T10:04:24.765Z",
+      "replyText": "Dobrý den,\nje mi líto, že vám aplikace nevyhovuje 🙁 Na jejím dalším rozvoji a úpravách pracujeme, tak třeba s ní budete časem spokojenější. Martina",
+      "version": "3.17.0"
+    },
+    {
+      "id": "34a8c7fc-9635-47df-9526-10fe6216c73b",
+      "userName": "Josef Musil",
+      "date": "2026-09-12T18:53:06.396Z",
+      "score": 1,
+      "text": "Dotěrné aktualizace, nic přes appku nevyřešíte.",
+      "text_normalized": "doterne aktualizace, nic pres appku nevyresite.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-13T06:37:22.701Z",
+      "replyText": "Dobrý den, Josefe,\nděkujeme za vaši zpětnou vazbu. Napište nám prosím přes https://tam.je/dotaz, co konkrétně se vám v aplikaci nepodařilo vyřešit. Rádi se na to s vámi podíváme. Martina",
+      "version": "3.16.2"
+    },
+    {
+      "id": "2e14d82a-dcc5-4fc4-86fc-a0136f5d0381",
+      "userName": "Michal Savič",
+      "date": "2026-09-12T18:00:22.378Z",
+      "score": 1,
+      "text": "Mínus 5 hvězdiček je to hrozný.",
+      "text_normalized": "minus 5 hvezdicek je to hrozny.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-13T06:36:38.480Z",
+      "replyText": "Dobrý den, Michale,\nje mi líto, že vám aplikace nevyhovuje. Na jejím dalším rozvoji a úpravách pracujeme, tak třeba s ní budete časem spokojenější. Martina",
+      "version": "3.16.2"
+    },
+    {
+      "id": "ff9a3fba-3904-4c25-93e5-22df9fe98f83",
+      "userName": "Martin Brejcha",
+      "date": "2026-09-12T15:19:35.635Z",
+      "score": 2,
+      "text": "hlavně reklama ale funkčnost pokulhává má to být primárně nástroj pro správu ne pro prodej, chtělo by to jiného operátora treba francouzský Orange po zkušenostech ze zahraničí Moldavsko.po příchodu by velká trojka mohla zavřít krám 3eur=500minut+15GB na 15dni+bonusy zdarma minuty a GB dat za 3eur funkční telefon na měsíc!",
+      "text_normalized": "hlavne reklama ale funkcnost pokulhava ma to byt primarne nastroj pro spravu ne pro prodej, chtelo by to jineho operatora treba francouzsky orange po zkusenostech ze zahranici moldavsko.po prichodu by velka trojka mohla zavrit kram 3eur=500minut+15gb na 15dni+bonusy zdarma minuty a gb dat za 3eur funkcni telefon na mesic!",
+      "segments": [
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-09-13T06:36:00.904Z",
+      "replyText": "Dobrý den, Martine,\nděkujeme za zpětnou vazbu. Aplikace umožňuje správu služeb, přístup k Vyúčtování a další základní funkce. Pokud vám chybí něco konkrétního, napište nám prosím přes https://tam.je/dotaz, rádi se na to s vámi podíváme. Martina",
+      "version": "3.17.0"
+    },
     {
       "id": "0f66e47c-0634-47df-9906-62c030bafe32",
       "userName": "Radek Bělka",
@@ -36128,8 +36184,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2464,
-    "extractedAt": "2026-09-13T10:04:46.645Z",
+    "totalReviewsExtracted": 2468,
+    "extractedAt": "2026-09-14T10:26:58.645Z",
     "source": "google-play"
   }
 }
