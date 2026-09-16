@@ -1,18 +1,60 @@
 {
   "ratings": {
-    "score": 3.5751212,
+    "score": 3.5880451,
     "scoreText": "3,6",
-    "totalRatings": 6623,
-    "totalReviews": 2640,
+    "totalRatings": 6630,
+    "totalReviews": 2642,
     "histogram": {
-      "1": 1765,
-      "2": 267,
+      "1": 1745,
+      "2": 277,
       "3": 363,
-      "4": 844,
-      "5": 3380
+      "4": 813,
+      "5": 3427
     }
   },
   "reviews": [
+    {
+      "id": "e74c4da5-ab0a-40e9-a044-a5f4b5572de1",
+      "userName": "the bystander",
+      "date": "2026-09-14T08:57:27.768Z",
+      "score": 3,
+      "text": "Já v podstatě pokaždé když se jdu přihlásit jsem nucen použít email a heslo (možná 80% je způsobeno tím, že jste provedli \"aktualizaci\" a bez updatu je to prostě NO GO) Když mě pak po přihlášení vyzvete, abych začal používat biometrii, nevím jestli se mám smát nebo plakat .. Já bych opravdu moc rád .. a častěji než 2 ze 100 Mimochodem, právě tenhle fíčr mi vaší appku tak znechutil, že do ni chodím jen když je to opravdu nutné .. možná další vaše \"bezpečnostní pojistka\" .. kdo ví..",
+      "text_normalized": "ja v podstate pokazde kdyz se jdu prihlasit jsem nucen pouzit email a heslo (mozna 80% je zpusobeno tim, ze jste provedli \"aktualizaci\" a bez updatu je to proste no go) kdyz me pak po prihlaseni vyzvete, abych zacal pouzivat biometrii, nevim jestli se mam smat nebo plakat .. ja bych opravdu moc rad .. a casteji nez 2 ze 100 mimochodem, prave tenhle ficr mi vasi appku tak znechutil, ze do ni chodim jen kdyz je to opravdu nutne .. mozna dalsi vase \"bezpecnostni pojistka\" .. kdo vi..",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-09-14T09:10:43.654Z",
+      "replyText": "Hezký den,\nděkujeme za zpětnou vazbu. Biometrické přihlášení zanikne po odinstalaci a nové instalaci aplikace. Pokud biometrii nepoužíváte, zůstanete přihlášen až 30 dní nebo do ručního odhlášení. Viki",
+      "version": "3.17.0"
+    },
+    {
+      "id": "f36f6668-93ea-4b6c-87d4-da04da3788fc",
+      "userName": "Roman Mezera",
+      "date": "2026-09-13T16:13:16.206Z",
+      "score": 5,
+      "text": "ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-14T05:28:08.926Z",
+      "replyText": "Dobrý den, Romane,\njsem moc ráda, že jste s aplikací Můj Vodafone+ spokojený 🙂 Děkujeme za kladné hodnocení. Viki",
+      "version": "3.17.0"
+    },
+    {
+      "id": "dc271d08-7c91-4233-aaf7-29d47b485185",
+      "userName": "Milda57",
+      "date": "2026-09-13T14:24:50.388Z",
+      "score": 5,
+      "text": "jsem spokojený zákazník.",
+      "text_normalized": "jsem spokojeny zakaznik.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-13T14:34:49.140Z",
+      "replyText": "Dobrý den, Mildo,\nděkujeme za vaše hodnocení, jsme moc rádi, že jste spokojený 🙂 Martina",
+      "version": "3.17.0"
+    },
     {
       "id": "58cb1159-b54c-4d9a-ae09-0046a955c6ef",
       "userName": "To je muj ucet Nezapomen",
@@ -36184,8 +36226,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2468,
-    "extractedAt": "2026-09-14T10:26:58.645Z",
+    "totalReviewsExtracted": 2471,
+    "extractedAt": "2026-09-15T09:52:12.638Z",
     "source": "google-play"
   }
 }
