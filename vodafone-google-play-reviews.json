@@ -1,18 +1,48 @@
 {
   "ratings": {
-    "score": 3.5974236,
+    "score": 3.6174603,
     "scoreText": "3,6",
-    "totalRatings": 6647,
-    "totalReviews": 2644,
+    "totalRatings": 6655,
+    "totalReviews": 2650,
     "histogram": {
-      "1": 1744,
-      "2": 267,
-      "3": 363,
-      "4": 813,
-      "5": 3456
+      "1": 1720,
+      "2": 263,
+      "3": 358,
+      "4": 802,
+      "5": 3506
     }
   },
   "reviews": [
+    {
+      "id": "c0d371dc-0080-4705-9b7e-cd296f3283ab",
+      "userName": "Miloslava Zoubková",
+      "date": "2026-09-16T08:05:50.742Z",
+      "score": 5,
+      "text": "jednoduchá",
+      "text_normalized": "jednoducha",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-16T08:16:21.446Z",
+      "replyText": "Pěkný den, Miloslavo,\nděkujeme za zpětnou vazbu a hodnocení 🙂 Veronika",
+      "version": "3.17.0"
+    },
+    {
+      "id": "91f5c000-a312-426f-8404-f849251a689f",
+      "userName": "Spirael CZ",
+      "date": "2026-09-16T00:37:25.490Z",
+      "score": 1,
+      "text": "roky pomalá, roky problémy s přihlašováním... pořád dokola...👎",
+      "text_normalized": "roky pomala, roky problemy s prihlasovanim... porad dokola...👎",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-09-16T05:17:55.984Z",
+      "replyText": "Pěkný den,\naplikaci prosím odinstalujte, telefon vypněte a zapněte a znovu nainstalujte. Pokud i nadále budete mít potíže, pošlete nám screenshoty a více podrobností přes https://tam.je/dotaz. Veronika\n\n",
+      "version": "3.16.1"
+    },
     {
       "id": "ee11acd3-e9cb-4ddc-b275-30274e2c5c67",
       "userName": "david ulbrich",
@@ -36255,8 +36285,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2473,
-    "extractedAt": "2026-09-16T09:46:13.241Z",
+    "totalReviewsExtracted": 2475,
+    "extractedAt": "2026-09-17T09:53:46.213Z",
     "source": "google-play"
   }
 }

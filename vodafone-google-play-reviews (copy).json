@@ -1,18 +1,47 @@
 {
   "ratings": {
-    "score": 3.5880451,
+    "score": 3.5974236,
     "scoreText": "3,6",
-    "totalRatings": 6630,
-    "totalReviews": 2642,
+    "totalRatings": 6647,
+    "totalReviews": 2644,
     "histogram": {
-      "1": 1745,
-      "2": 277,
+      "1": 1744,
+      "2": 267,
       "3": 363,
       "4": 813,
-      "5": 3427
+      "5": 3456
     }
   },
   "reviews": [
+    {
+      "id": "ee11acd3-e9cb-4ddc-b275-30274e2c5c67",
+      "userName": "david ulbrich",
+      "date": "2026-09-14T14:42:14.716Z",
+      "score": 2,
+      "text": "po poslední aktualizaci se nemohu přihlásit. Vždy to selže.. cca druhý týden co bych chtěl, ale nemůžu 🫠 perfektní, děkuju 🫶",
+      "text_normalized": "po posledni aktualizaci se nemohu prihlasit. vzdy to selze.. cca druhy tyden co bych chtel, ale nemuzu 🫠 perfektni, dekuju 🫶",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-14T15:10:02.840Z",
+      "replyText": "Pěkný den, Davide,\nv pátek jsme vydali novou aktualizaci, stávající prosím tedy z telefonu odinstalujte a znovu nainstalujte. Tím budete mít jistotu, že máte v telefonu její poslední verzi. Pokud i přesto budete mít s aplikací potíže, pošlete nám k tomu screenshoty a více podrobností přes https://tam.je/dotaz. Veronika",
+      "version": "3.17.0"
+    },
+    {
+      "id": "5ad1ea21-482d-45b6-8534-254c1bc42286",
+      "userName": "Jan Matoška",
+      "date": "2026-09-14T12:11:57.475Z",
+      "score": 1,
+      "text": "Tvrdíte, že v nové aplikaci Vodafone TV zůstaly všechny funkce, ale není to pravda! Zmizela možnost poslat k přehrávání pořady z telefonu na TV, stejně tak zmizel v telefonu jejich ovladač. Kdy je vrátíte?",
+      "text_normalized": "tvrdite, ze v nove aplikaci vodafone tv zustaly vsechny funkce, ale neni to pravda! zmizela moznost poslat k prehravani porady z telefonu na tv, stejne tak zmizel v telefonu jejich ovladac. kdy je vratite?",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-14T12:55:25.343Z",
+      "replyText": "Pěkný den, Jane,\nděkujeme za zpětnou vazbu. Funkce Chromecast / AirPlay umožňuje zrcadlit obraz z mobilní aplikace ve vaší chytré televizi, která tuto funkci podporuje. Více popisujeme na stránce: https://www.vodafone.cz/pece/televize/vodafone-tv/televize-aplikace/. Veronika",
+      "version": "3.14.1"
+    },
     {
       "id": "e74c4da5-ab0a-40e9-a044-a5f4b5572de1",
       "userName": "the bystander",
@@ -36226,8 +36255,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2471,
-    "extractedAt": "2026-09-15T09:52:12.638Z",
+    "totalReviewsExtracted": 2473,
+    "extractedAt": "2026-09-16T09:46:13.241Z",
     "source": "google-play"
   }
 }
