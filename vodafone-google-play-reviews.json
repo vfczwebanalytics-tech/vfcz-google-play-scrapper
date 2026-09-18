@@ -1,18 +1,102 @@
 {
   "ratings": {
-    "score": 3.6174603,
+    "score": 3.612342,
     "scoreText": "3,6",
-    "totalRatings": 6655,
-    "totalReviews": 2650,
+    "totalRatings": 6670,
+    "totalReviews": 2649,
     "histogram": {
-      "1": 1720,
-      "2": 263,
+      "1": 1730,
+      "2": 273,
       "3": 358,
-      "4": 802,
-      "5": 3506
+      "4": 790,
+      "5": 3513
     }
   },
   "reviews": [
+    {
+      "id": "daeca1d0-fead-49cd-b9c1-c94efdb01c71",
+      "userName": "Mirka Prášková",
+      "date": "2026-09-17T08:52:50.537Z",
+      "score": 5,
+      "text": "Velice přehledné",
+      "text_normalized": "velice prehledne",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-09-17T09:19:44.630Z",
+      "replyText": "Dobrý den, Mirko,\nděkujeme vám za hodnocení 🙂 Martina",
+      "version": "3.17.0"
+    },
+    {
+      "id": "4f1071b7-d6e8-474d-8386-56f5673c7f4b",
+      "userName": "Julie Bělohlávková",
+      "date": "2026-09-17T08:12:10.791Z",
+      "score": 5,
+      "text": "super Happy",
+      "text_normalized": "super happy",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-17T08:18:24.434Z",
+      "replyText": "Hezký den, Julie,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.17.0"
+    },
+    {
+      "id": "585e8ba7-036a-4b7d-82cc-e91dad1a1369",
+      "userName": "Lenka Švecová",
+      "date": "2026-09-17T07:30:49.433Z",
+      "score": 5,
+      "text": "přehledná app a rychlá",
+      "text_normalized": "prehledna app a rychla",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-09-17T08:02:24.938Z",
+      "replyText": "Dobrý den, Lenko,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.17.0"
+    },
+    {
+      "id": "22ce1726-1c55-4aab-b89c-be36e7c50b50",
+      "userName": "Pavel Majer",
+      "date": "2026-09-16T18:38:17.761Z",
+      "score": 1,
+      "text": "Aplikace je stejně nomohoucí jako vaše poskytované služby, teď už k vaší konkurenci opravdu musím",
+      "text_normalized": "aplikace je stejne nomohouci jako vase poskytovane sluzby, ted uz k vasi konkurenci opravdu musim",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-17T05:24:20.581Z",
+      "replyText": "Dobrý den, Pavle,\njestli máte nějaké potíže s našimi službami, dejte nám prosím vědět, o co se jedná, na 800 77 00 77 nebo přes https://tam.je/dotaz. Rádi vše prověříme a pomůžeme vám. Martina\n",
+      "version": "3.17.0"
+    },
+    {
+      "id": "cab8e3d6-2c14-45fa-a786-2195d44a7030",
+      "userName": "Frantisek Dostal",
+      "date": "2026-09-16T14:55:01.312Z",
+      "score": 1,
+      "text": "katastrofa nelze se dostat na konečně vyúčtování po zrušení internetu a pevné linky. hlavně že poslat vyúčtování o zaplacení to vijou kde poslat jak mail tak tel. číslo.",
+      "text_normalized": "katastrofa nelze se dostat na konecne vyuctovani po zruseni internetu a pevne linky. hlavne ze poslat vyuctovani o zaplaceni to vijou kde poslat jak mail tak tel. cislo.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-16T15:25:10.827Z",
+      "replyText": "Dobrý den, Františku,\npo zrušení služeb je možné ještě 6 měsíců využívat webovou samoobsluhu na https://www.vodafone.cz/muj/prihlaseni, kde také najdete Vyúčtování a můžete provést platbu. Martina\n",
+      "version": "3.17.0"
+    },
+    {
+      "id": "6a0f2768-830f-4086-a54a-4d7e3cb8d98e",
+      "userName": "Jaroslav Kolyks",
+      "date": "2026-09-16T11:18:41.887Z",
+      "score": 1,
+      "text": "Aplikace na nic, jen přesměruje do prohlížeče.",
+      "text_normalized": "aplikace na nic, jen presmeruje do prohlizece.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-16T11:47:34.990Z",
+      "replyText": "Pěkný den, Jaroslave,\nzáleží na tom, co přesně potřebujete v aplikaci nastavit. Veronika",
+      "version": "3.17.0"
+    },
     {
       "id": "c0d371dc-0080-4705-9b7e-cd296f3283ab",
       "userName": "Miloslava Zoubková",
@@ -36285,8 +36369,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2475,
-    "extractedAt": "2026-09-17T09:53:46.213Z",
+    "totalReviewsExtracted": 2481,
+    "extractedAt": "2026-09-18T09:29:55.798Z",
     "source": "google-play"
   }
 }
