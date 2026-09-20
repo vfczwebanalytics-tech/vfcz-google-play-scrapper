@@ -1,18 +1,62 @@
 {
   "ratings": {
-    "score": 3.616242,
+    "score": 3.6200943,
     "scoreText": "3,6",
-    "totalRatings": 6680,
-    "totalReviews": 2652,
+    "totalRatings": 6689,
+    "totalReviews": 2655,
     "histogram": {
-      "1": 1722,
-      "2": 275,
-      "3": 361,
-      "4": 797,
-      "5": 3520
+      "1": 1710,
+      "2": 283,
+      "3": 366,
+      "4": 798,
+      "5": 3527
     }
   },
   "reviews": [
+    {
+      "id": "963d92d2-dc61-4c50-aa03-4673b527eb0a",
+      "userName": "Jiří Hodis",
+      "date": "2026-09-18T18:16:56.349Z",
+      "score": 5,
+      "text": "Vše funguje jak má, přehledné a jednoduché.",
+      "text_normalized": "vse funguje jak ma, prehledne a jednoduche.",
+      "segments": [
+        "UI",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-19T06:15:33.328Z",
+      "replyText": "Hezký den, Jiří, děkujeme za hodnocení 🙂 Vaše spokojenost je pro nás důležitá. Petra",
+      "version": "3.17.0"
+    },
+    {
+      "id": "63eb59ad-7bef-4592-bfde-c0aa9566bd92",
+      "userName": "Kuba Riedel (Kuba)",
+      "date": "2026-09-18T16:06:26.508Z",
+      "score": 2,
+      "text": "Téměř pokaždě nějaká část aplikace nefunguje....",
+      "text_normalized": "temer pokazde nejaka cast aplikace nefunguje....",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-18T17:40:48.346Z",
+      "replyText": "Dobrý den, Kubo,\nto mě mrzí 🙁 Zkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby to nepomohlo, napište nám do formuláře na https://tam.je/google a my vše detailně prověříme. Katka",
+      "version": "3.17.0"
+    },
+    {
+      "id": "916b0900-e24a-4f49-a54d-55ad652ea517",
+      "userName": "David Lešiga",
+      "date": "2026-09-18T13:57:12.733Z",
+      "score": 1,
+      "text": "Po letech používání musím říct, že to je nejhorší aplikace, co mám v mobilu. Používám jen na zaplacení a za těch pár minut mě dokáže solidně vytočit ta polofunkčnost...",
+      "text_normalized": "po letech pouzivani musim rict, ze to je nejhorsi aplikace, co mam v mobilu. pouzivam jen na zaplaceni a za tech par minut me dokaze solidne vytocit ta polofunkcnost...",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-18T14:41:57.700Z",
+      "replyText": "Dobrý den, Davide,\nmrzí mě, že nejste spokojený s naší aplikaci, ale i tak vám děkuji za zpětnou vazbu. Když pro nás budete mít konkrétní zpětnou vazbu, napište nám na https://tam.je/google, budeme rádi. Katka",
+      "version": "3.17.0"
+    },
     {
       "id": "5c1be53d-ffad-47e0-aac9-6bbc2d96a72d",
       "userName": "Petr Hofmann",
@@ -36383,8 +36427,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2482,
-    "extractedAt": "2026-09-19T09:17:55.111Z",
+    "totalReviewsExtracted": 2485,
+    "extractedAt": "2026-09-20T09:39:46.845Z",
     "source": "google-play"
   }
 }
