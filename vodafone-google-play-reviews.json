@@ -1,18 +1,75 @@
 {
   "ratings": {
-    "score": 3.6363637,
+    "score": 3.632238,
     "scoreText": "3,6",
-    "totalRatings": 6701,
-    "totalReviews": 2659,
+    "totalRatings": 6711,
+    "totalReviews": 2661,
     "histogram": {
-      "1": 1676,
-      "2": 287,
-      "3": 362,
-      "4": 833,
-      "5": 3537
+      "1": 1689,
+      "2": 283,
+      "3": 366,
+      "4": 829,
+      "5": 3538
     }
   },
   "reviews": [
+    {
+      "id": "9eca11e3-8b00-4803-b956-db44454c7e37",
+      "userName": "Elizabeth Isakidu",
+      "date": "2026-09-21T03:03:58.173Z",
+      "score": 1,
+      "text": "Dobrý den,nemohu se prosím dostat do aplikace",
+      "text_normalized": "dobry den,nemohu se prosim dostat do aplikace",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-21T05:19:41.685Z",
+      "replyText": "Hezký den,\nje mi líto, že máte potíže 🙁 Pokud se vám zobrazuje nějaká chyba, zkuste prosím aplikaci přeinstalovat. Pak se přihlásíte svým e-mailem a heslem. V případě, že by se vám to nedařilo, napište nám přes https://tam.je/dotaz, abychom se na to mohli podívat konkrétněji. Lucie",
+      "version": "3.17.0"
+    },
+    {
+      "id": "d126cf68-5531-4d4e-8efd-2555550dc37a",
+      "userName": "Markéta",
+      "date": "2026-09-20T17:44:33.976Z",
+      "score": 3,
+      "text": "Vidim na hlavni strane svou utratu, ale kdyz chci zmenit nastaveni, treba vypnout tu otravnou hlasku o volani do jine site, tak mi to ukaze jen prazdnou stranku. U nastaveni roamingu to same. Takze vlastne v aplikaci nemohu zmenit nic. A to jsem spravce i pro dalsi cisla, ktera mam pod sebou 🫣",
+      "text_normalized": "vidim na hlavni strane svou utratu, ale kdyz chci zmenit nastaveni, treba vypnout tu otravnou hlasku o volani do jine site, tak mi to ukaze jen prazdnou stranku. u nastaveni roamingu to same. takze vlastne v aplikaci nemohu zmenit nic. a to jsem spravce i pro dalsi cisla, ktera mam pod sebou 🫣",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-21T05:18:38.176Z",
+      "replyText": "Pěkný den, Markéto,\nto je mi líto 🙁 Zkuste prosím aplikaci přeinstalovat. Pokud by to nepomohlo, rádi to prověříme, když nám napíšete podrobnosti přes https://tam.je/dotaz, odkud to můžeme řešit konkrétněji. Lucie",
+      "version": "3.17.0"
+    },
+    {
+      "id": "68a4b207-8b9c-4170-94d5-15b3bf94fb56",
+      "userName": "Pavel",
+      "date": "2026-09-20T15:43:55.245Z",
+      "score": 1,
+      "text": "prostě nefunguje. udělejte to znovu a poradně prosím.",
+      "text_normalized": "proste nefunguje. udelejte to znovu a poradne prosim.",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-21T05:17:39.612Z",
+      "replyText": "Hezký den, Pavle,\nje mi líto, pokud máte nějaké potíže 🙁 Zkuste ji prosím přeinstalovat. V případě, že vám to nepomůže, napište nám podrobnosti přes https://tam.je/dotaz, abychom to mohli řešit konkrétněji. Lucie",
+      "version": "3.17.0"
+    },
+    {
+      "id": "15bfb01b-f8cf-4d74-9512-ac9878a9efee",
+      "userName": "Jan CHRAMOSTA",
+      "date": "2026-09-20T13:38:25.737Z",
+      "score": 1,
+      "text": "nelze se připojit",
+      "text_normalized": "nelze se pripojit",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-20T14:02:27.370Z",
+      "replyText": "Hezký den, Jane, je mi líto, že máte potíže s přihlášením 🙁 Zkuste aplikaci prosím přeinstalovat, změnit heslo, a pokud by to nepomohlo, napište nám na aplikace@vodafone.cz. Pomůžeme vám. Petra\n",
+      "version": "3.17.0"
+    },
     {
       "id": "fa23eb9f-2f1c-4f9d-a3db-b47e6e51bca0",
       "userName": "Paul",
@@ -36471,8 +36528,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2488,
-    "extractedAt": "2026-09-21T10:31:59.669Z",
+    "totalReviewsExtracted": 2492,
+    "extractedAt": "2026-09-22T09:43:46.360Z",
     "source": "google-play"
   }
 }

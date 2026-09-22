@@ -1,18 +1,62 @@
 {
   "ratings": {
-    "score": 3.6200943,
+    "score": 3.6363637,
     "scoreText": "3,6",
-    "totalRatings": 6689,
-    "totalReviews": 2655,
+    "totalRatings": 6701,
+    "totalReviews": 2659,
     "histogram": {
-      "1": 1710,
-      "2": 283,
-      "3": 366,
-      "4": 798,
-      "5": 3527
+      "1": 1676,
+      "2": 287,
+      "3": 362,
+      "4": 833,
+      "5": 3537
     }
   },
   "reviews": [
+    {
+      "id": "fa23eb9f-2f1c-4f9d-a3db-b47e6e51bca0",
+      "userName": "Paul",
+      "date": "2026-09-20T08:09:11.845Z",
+      "score": 1,
+      "text": "Uz nas to nebavi,nehorázně!Neustale brutalne zdrazuji nase tarify ale nevidime zadny zmeny k lepsimu!Spatny signal,vsechno v tarifu stejny.Jaky zmeny delate?Zrdazovani!Kdyby aspon vodafone zrychlil internet lidem a ne jen hrabat penize.Od vodafonu jsme jeste jako nic neviděli jen zdrazeni.Ceska Republika ma nejdrazsi tarify vsech dob.Nejlepsi je lidi uplne vysát.Za takovou cenu muze jit k jinemu operatorovi za lepsi tarify,kde je lepsi signal a i kdyz zdrazuji tak ale lepsi signal atd.",
+      "text_normalized": "uz nas to nebavi,nehorazne!neustale brutalne zdrazuji nase tarify ale nevidime zadny zmeny k lepsimu!spatny signal,vsechno v tarifu stejny.jaky zmeny delate?zrdazovani!kdyby aspon vodafone zrychlil internet lidem a ne jen hrabat penize.od vodafonu jsme jeste jako nic nevideli jen zdrazeni.ceska republika ma nejdrazsi tarify vsech dob.nejlepsi je lidi uplne vysat.za takovou cenu muze jit k jinemu operatorovi za lepsi tarify,kde je lepsi signal a i kdyz zdrazuji tak ale lepsi signal atd.",
+      "segments": [
+        "Zakaznicka_podpora",
+        "Cena"
+      ],
+      "replyDate": "2026-09-20T08:31:34.695Z",
+      "replyText": "Hezký den, Paule, je mi líto, že jste nespokojený 🙁 Zavolejte nám prosím na 800 77 00 77 neb nám napište přes zabezpečený formulář https://tam.je/dotaz. Věřím, že pro vás najdeme řešení, které vám bude vyhovovat. Petra\n",
+      "version": "3.17.0"
+    },
+    {
+      "id": "8b69d943-3290-49d7-b4fc-8a95801ae618",
+      "userName": "Gustav Bláha",
+      "date": "2026-09-20T07:18:29.257Z",
+      "score": 5,
+      "text": "Vše funguje jak má. Po delší době jsem spokojen. Též super balíčky k předpl.kartám, tím Vodafone mile překvapil. Jen tak dál. *****👍",
+      "text_normalized": "vse funguje jak ma. po delsi dobe jsem spokojen. tez super balicky k predpl.kartam, tim vodafone mile prekvapil. jen tak dal. *****👍",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-20T07:31:24.100Z",
+      "replyText": "Hezký den, Gustave, děkujeme za hodnocení. Velmi nás těší, že jste spokojený 🙂 Petra",
+      "version": "3.17.0"
+    },
+    {
+      "id": "9611999e-a49d-4e3d-a3a6-d28bc09c83df",
+      "userName": "Jiřina Gajerová",
+      "date": "2026-09-20T06:52:01.180Z",
+      "score": 5,
+      "text": "jsem velice spokojená už spousty let",
+      "text_normalized": "jsem velice spokojena uz spousty let",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-20T07:04:49.392Z",
+      "replyText": "Hezký den, Jiřino, děkujeme za milé hodnocení 🙂 Vaše spokojenost je pro nás důležitá 🙂 Petra",
+      "version": "3.17.0"
+    },
     {
       "id": "963d92d2-dc61-4c50-aa03-4673b527eb0a",
       "userName": "Jiří Hodis",
@@ -36427,8 +36471,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2485,
-    "extractedAt": "2026-09-20T09:39:46.845Z",
+    "totalReviewsExtracted": 2488,
+    "extractedAt": "2026-09-21T10:31:59.669Z",
     "source": "google-play"
   }
 }
