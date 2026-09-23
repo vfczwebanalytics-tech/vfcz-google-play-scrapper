@@ -1,18 +1,76 @@
 {
   "ratings": {
-    "score": 3.632238,
+    "score": 3.6386688,
     "scoreText": "3,6",
-    "totalRatings": 6711,
-    "totalReviews": 2661,
+    "totalRatings": 6723,
+    "totalReviews": 2663,
     "histogram": {
-      "1": 1689,
-      "2": 283,
-      "3": 366,
-      "4": 829,
-      "5": 3538
+      "1": 1682,
+      "2": 287,
+      "3": 361,
+      "4": 830,
+      "5": 3557
     }
   },
   "reviews": [
+    {
+      "id": "cb74d2b2-6e36-44b6-91c0-b97ff783b89d",
+      "userName": "Ondra Douba",
+      "date": "2026-09-21T15:33:42.734Z",
+      "score": 1,
+      "text": "appka trochu odfláknutá, ne? Text mi pokračuje mimo rámečky někam mimo displej, ale posunout nejde...",
+      "text_normalized": "appka trochu odflaknuta, ne? text mi pokracuje mimo ramecky nekam mimo displej, ale posunout nejde...",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-21T15:38:12.614Z",
+      "replyText": "Dobrý den, Ondro,\nmrzí mě vaše nespokojenost. Pokud vám zobrazení nefunguje správně, můžete nám zaslat podrobnosti a screen přes https://tam.je/dotaz. Rádi to necháme prověřit. Viki",
+      "version": "3.17.0"
+    },
+    {
+      "id": "fb57e10e-90bd-456a-baea-031f1602e8ec",
+      "userName": "Anina",
+      "date": "2026-09-21T15:03:53.167Z",
+      "score": 2,
+      "text": "po aktualizaci vám to dost blbne",
+      "text_normalized": "po aktualizaci vam to dost blbne",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-21T15:39:07.549Z",
+      "replyText": "Dobrý den, Anino,\nje mi líto, pokud jste zaznamenala potíže. Ráda bych vám případně doporučila aplikaci odinstalovat, restartovat telefon a nainstalovat zpět. Viki",
+      "version": "3.17.0"
+    },
+    {
+      "id": "bc51e375-77da-4fff-87ef-3bf7cd6acab9",
+      "userName": "Pavel Ježek",
+      "date": "2026-09-21T12:45:03.407Z",
+      "score": 1,
+      "text": "Měl jsem k internetu TV Start a ta nyní končí, takže jsem přinucen akceptovat Vodafone TV, ale poskytovatel mne zahltil velkým množstvím informací (asi 3 různá přihlášení,k tomu vždy jednorázové kódy s 10' platností a odkazy na různé adresy), až jsem se v tom ztratil. Znechutilo mne to a jsem rád, že mi ještě 10 dní jde ta původní. Potřebuju, aby mně někdo tím pralesem informací provedl.",
+      "text_normalized": "mel jsem k internetu tv start a ta nyni konci, takze jsem prinucen akceptovat vodafone tv, ale poskytovatel mne zahltil velkym mnozstvim informaci (asi 3 ruzna prihlaseni,k tomu vzdy jednorazove kody s 10' platnosti a odkazy na ruzne adresy), az jsem se v tom ztratil. znechutilo mne to a jsem rad, ze mi jeste 10 dni jde ta puvodni. potrebuju, aby mne nekdo tim pralesem informaci provedl.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-09-21T13:10:14.322Z",
+      "replyText": "Dobrý den, Pavle,\nmrzí mě vaše nespokojenost. Do Můj Vodafone se můžete přihlásit e-mailem a alfanumerickým heslem, následně vám ještě přijde jednorázový kód formou SMSky. Můžete nám zavolat na 800 77 00 77, rádi se s vámi na vše podíváme. Viki",
+      "version": "3.17.0"
+    },
+    {
+      "id": "ab68dc39-1395-4162-bf5b-1817ba4f45c9",
+      "userName": "Kristýna Pecková",
+      "date": "2026-09-21T12:02:30.928Z",
+      "score": 1,
+      "text": "aplikace katastrofální, když pominu, že se skoro vždycky musím znovu přihlašovat, i když dám zapamatovat, neustále hlásí chyby, načítá neskutečně pomalu nebo stránku vůbec nenacte. přes stránky v pohodě, ale tohle se fakt nepovedlo.",
+      "text_normalized": "aplikace katastrofalni, kdyz pominu, ze se skoro vzdycky musim znovu prihlasovat, i kdyz dam zapamatovat, neustale hlasi chyby, nacita neskutecne pomalu nebo stranku vubec nenacte. pres stranky v pohode, ale tohle se fakt nepovedlo.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-09-21T12:11:52.550Z",
+      "replyText": "Dobrý den, Kristýno, mrzí mě vaše nespokojenosti 🙁 Pokud evidujete potíže, doporučuji aplikaci odinstalovat, restartovat telefon a nainstalovat zpět. To by mohlo pomoci. Pak si můžete nastavit biometriku. Pokud ji nepoužijete, zůstanete v aplikaci přihlášená, dokud se ručně neodhlásíte, maximálně ale 30 dnů. Viki",
+      "version": "3.17.0"
+    },
     {
       "id": "9eca11e3-8b00-4803-b956-db44454c7e37",
       "userName": "Elizabeth Isakidu",
@@ -36528,8 +36586,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2492,
-    "extractedAt": "2026-09-22T09:43:46.360Z",
+    "totalReviewsExtracted": 2496,
+    "extractedAt": "2026-09-23T09:49:25.085Z",
     "source": "google-play"
   }
 }
