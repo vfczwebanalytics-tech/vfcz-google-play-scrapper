@@ -1,18 +1,50 @@
 {
   "ratings": {
-    "score": 3.6473355,
-    "scoreText": "3,6",
-    "totalRatings": 6729,
-    "totalReviews": 2665,
+    "score": 3.6539683,
+    "scoreText": "3,7",
+    "totalRatings": 6738,
+    "totalReviews": 2667,
     "histogram": {
-      "1": 1666,
-      "2": 284,
-      "3": 369,
-      "4": 843,
-      "5": 3564
+      "1": 1646,
+      "2": 288,
+      "3": 373,
+      "4": 865,
+      "5": 3560
     }
   },
   "reviews": [
+    {
+      "id": "cc7c171b-a3c2-463f-be0b-736f79aac300",
+      "userName": "Lucie Kurejová",
+      "date": "2026-09-24T06:15:26.793Z",
+      "score": 1,
+      "text": "vůbec se nejde přihlásit apka úplně k ničemu dřív to šlo hrůza no",
+      "text_normalized": "vubec se nejde prihlasit apka uplne k nicemu driv to slo hruza no",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-24T06:51:28.737Z",
+      "replyText": "Hezký den, Lucie, mrzí mě, že máte potíže s přihlášením 🙁 Zkuste prosím aplikaci přeinstalovat, a pokud by potíže přetrvávaly, napište nám na aplikace@vodafone.cz. Rádi vám pomůžeme. Petra\n",
+      "version": "3.17.0"
+    },
+    {
+      "id": "0cb3d852-2417-48c8-bac8-825bbedccdc0",
+      "userName": "Petr Bobek",
+      "date": "2026-09-23T18:16:32.586Z",
+      "score": 1,
+      "text": "nemužu se přihlasit na můj učet, hlasí kod chyby.",
+      "text_normalized": "nemuzu se prihlasit na muj ucet, hlasi kod chyby.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-09-24T05:03:22.883Z",
+      "replyText": "Hezký den, Petře, je mi líto, že máte potíže s přihlášením 🙁 Zkuste prosím aplikaci přeinstalovat, mohlo by to pomoci. Pokud by potíže přetrvávaly, napište nám na aplikace@vodafone.cz. Pomůžeme vám. Petra\n",
+      "version": "3.17.0"
+    },
     {
       "id": "8bd316f2-658d-4f9d-9c6f-2ee71e98edae",
       "userName": "Bohumil Plicka",
@@ -36615,8 +36647,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2498,
-    "extractedAt": "2026-09-24T09:46:40.178Z",
+    "totalReviewsExtracted": 2500,
+    "extractedAt": "2026-09-25T10:04:26.725Z",
     "source": "google-play"
   }
 }

@@ -1,18 +1,47 @@
 {
   "ratings": {
-    "score": 3.6386688,
+    "score": 3.6473355,
     "scoreText": "3,6",
-    "totalRatings": 6723,
-    "totalReviews": 2663,
+    "totalRatings": 6729,
+    "totalReviews": 2665,
     "histogram": {
-      "1": 1682,
-      "2": 287,
-      "3": 361,
-      "4": 830,
-      "5": 3557
+      "1": 1666,
+      "2": 284,
+      "3": 369,
+      "4": 843,
+      "5": 3564
     }
   },
   "reviews": [
+    {
+      "id": "8bd316f2-658d-4f9d-9c6f-2ee71e98edae",
+      "userName": "Bohumil Plicka",
+      "date": "2026-09-22T19:35:14.897Z",
+      "score": 4,
+      "text": "dobrá aplikace. jsem s Vodafonem spokojený👌",
+      "text_normalized": "dobra aplikace. jsem s vodafonem spokojeny👌",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-23T05:00:53.500Z",
+      "replyText": "Hezký den, Bohumile, děkujeme za hodnocení 🙂 Vaše spokojenost je pro nás důležitá 🙂 Petra",
+      "version": "3.17.0"
+    },
+    {
+      "id": "4f597648-7397-4739-8514-20a4b423243c",
+      "userName": "Johana Kubíčková Černá",
+      "date": "2026-09-22T11:51:12.360Z",
+      "score": 3,
+      "text": "Aplilace je velmi pomalá, před tím jsem měla pocit, že t mobile aplukace má mouchy, ale toto je mnohem horší. Pomalé načítání, jen nastavení roamingu znamená dlouhou anabázi, kdy člověk čeká na načtení stránky, aby nakonec hodila chybu. Mám dítě v cizině a nechci opravdu zdlouhavě řešit takovou banalitu. Doufám ve zlepšení.",
+      "text_normalized": "aplilace je velmi pomala, pred tim jsem mela pocit, ze t mobile aplukace ma mouchy, ale toto je mnohem horsi. pomale nacitani, jen nastaveni roamingu znamena dlouhou anabazi, kdy clovek ceka na nacteni stranky, aby nakonec hodila chybu. mam dite v cizine a nechci opravdu zdlouhave resit takovou banalitu. doufam ve zlepseni.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita"
+      ],
+      "replyDate": "2026-09-22T12:09:32.214Z",
+      "replyText": "Dobrý den, Johano,\nděkujeme za zpětnou vazbu. Jestli potřebujete pomoc s provedením nějaké změny, napište nám prosím přes https://tam.je/dotaz, rádi se na to s vámi podíváme. Martina\n",
+      "version": "3.17.0"
+    },
     {
       "id": "cb74d2b2-6e36-44b6-91c0-b97ff783b89d",
       "userName": "Ondra Douba",
@@ -36586,8 +36615,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2496,
-    "extractedAt": "2026-09-23T09:49:25.085Z",
+    "totalReviewsExtracted": 2498,
+    "extractedAt": "2026-09-24T09:46:40.178Z",
     "source": "google-play"
   }
 }
