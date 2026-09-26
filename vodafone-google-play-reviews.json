@@ -1,18 +1,48 @@
 {
   "ratings": {
-    "score": 3.6539683,
+    "score": 3.6582677,
     "scoreText": "3,7",
-    "totalRatings": 6738,
-    "totalReviews": 2667,
+    "totalRatings": 6743,
+    "totalReviews": 2671,
     "histogram": {
-      "1": 1646,
-      "2": 288,
-      "3": 373,
-      "4": 865,
-      "5": 3560
+      "1": 1645,
+      "2": 286,
+      "3": 371,
+      "4": 859,
+      "5": 3578
     }
   },
   "reviews": [
+    {
+      "id": "aa791e86-fd96-49e5-8256-3cd8a48f2099",
+      "userName": "Michal Sterba",
+      "date": "2026-09-25T05:52:10.679Z",
+      "score": 1,
+      "text": "naprostá tragédie...multifaktor prostě nefunguje, takže se nenaloguješ",
+      "text_normalized": "naprosta tragedie...multifaktor proste nefunguje, takze se nenalogujes",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-25T06:26:05.351Z",
+      "replyText": "Hezký den, Michale,\nje mi líto, že máte s přihlášením potíže 🙁 Doporučuji aplikaci přeinstalovat, věřím, že poté se v pořádku přihlásíte. Pokud by potíže přetrvávaly, zavolejte nám na linku *77 a kolegové se na to s vámi rádi podívají. Zuzana",
+      "version": "3.17.0"
+    },
+    {
+      "id": "e1bb4110-9725-41ea-9f4c-a3fbd7918c72",
+      "userName": "Peleška Koblihová",
+      "date": "2026-09-24T13:42:06.740Z",
+      "score": 5,
+      "text": "petlice aplikace spoustu nabídek a dárků pro zákazníky ❤️",
+      "text_normalized": "petlice aplikace spoustu nabidek a darku pro zakazniky ❤️",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-24T13:46:08.492Z",
+      "replyText": "Pěkný den,\nděkujeme za hodnocení. Těší mě, že se vám dárky a aplikace líbí 🙂 Lucie",
+      "version": "3.17.0"
+    },
     {
       "id": "cc7c171b-a3c2-463f-be0b-736f79aac300",
       "userName": "Lucie Kurejová",
@@ -36647,8 +36677,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2500,
-    "extractedAt": "2026-09-25T10:04:26.725Z",
+    "totalReviewsExtracted": 2502,
+    "extractedAt": "2026-09-26T09:45:34.237Z",
     "source": "google-play"
   }
 }
