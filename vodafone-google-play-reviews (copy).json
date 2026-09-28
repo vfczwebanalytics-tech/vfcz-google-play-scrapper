@@ -1,18 +1,91 @@
 {
   "ratings": {
-    "score": 3.6582677,
-    "scoreText": "3,7",
-    "totalRatings": 6743,
-    "totalReviews": 2671,
+    "score": 3.6375198,
+    "scoreText": "3,6",
+    "totalRatings": 6752,
+    "totalReviews": 2672,
     "histogram": {
-      "1": 1645,
-      "2": 286,
-      "3": 371,
-      "4": 859,
-      "5": 3578
+      "1": 1663,
+      "2": 300,
+      "3": 375,
+      "4": 890,
+      "5": 3520
     }
   },
   "reviews": [
+    {
+      "id": "4066c7e9-b104-4ace-a9b8-b7aea144a311",
+      "userName": "Jindra Kořán",
+      "date": "2026-09-25T16:53:29.854Z",
+      "score": 5,
+      "text": "Jsem spokojen apka přehledná 👍",
+      "text_normalized": "jsem spokojen apka prehledna 👍",
+      "segments": [
+        "UI",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-25T17:21:37.412Z",
+      "replyText": "Pěkný den, Jindro,\nděkujeme za hodnocení a zpětnou vazbu 🙂 Veronika",
+      "version": "3.17.0"
+    },
+    {
+      "id": "f6334a01-9d1b-4c2b-a3d3-e8e6349a47dd",
+      "userName": "Marek Rašovský",
+      "date": "2026-09-25T16:37:06.942Z",
+      "score": 2,
+      "text": "Aplikace je pomalá, vše v ní trvá a v obchodě je to ještě horší",
+      "text_normalized": "aplikace je pomala, vse v ni trva a v obchode je to jeste horsi",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-09-25T16:52:15.596Z",
+      "replyText": "Pěkný den, Marku,\nděkujeme za zpětnou vazbu, v případě e-shopu vás aplikace přesměruje do samoobsluhy. Pokud vám připadá aplikace pomalá, aplikaci přeinstalujte. Veronika",
+      "version": "3.17.0"
+    },
+    {
+      "id": "42c5ee08-d1ed-483f-a7ec-ca0df98e7915",
+      "userName": "Martin Torac",
+      "date": "2026-09-25T15:27:57.836Z",
+      "score": 5,
+      "text": "Super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-25T15:51:08.581Z",
+      "replyText": "Pěkný den, Martine,\nděkujeme za hodnocení 🙂 Veronika",
+      "version": "3.17.0"
+    },
+    {
+      "id": "aaabea04-c73a-4374-a660-718681dc1b75",
+      "userName": "Radek Kaňák",
+      "date": "2026-09-25T12:13:30.522Z",
+      "score": 4,
+      "text": "Velmi často vypadává signál na TV, píše, že jsme odpojeni, pak zase, že jsme připojeni. Bývá to kolem 19-20 hod.",
+      "text_normalized": "velmi casto vypadava signal na tv, pise, ze jsme odpojeni, pak zase, ze jsme pripojeni. byva to kolem 19-20 hod.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-09-25T12:26:36.253Z",
+      "replyText": "Hezký den, Radku,\nje mi líto, že máte potíže s Vodafone TV 🙁 Doporučuji restartovat modem a také set-top box k vaší Vodafone TV, případně odinstalovat aplikaci Vodafone TV. V případě potíží nám zavolejte na linku *77 a kolegové se na to s vámi podívají.",
+      "version": "3.14.1"
+    },
+    {
+      "id": "7de95470-b591-4759-9495-aef581485003",
+      "userName": "Lucie Bínová",
+      "date": "2026-09-25T11:51:47.800Z",
+      "score": 1,
+      "text": "První den u Vodafonu! V apce jsem se nedostala ani přes přihlášení! Vůbec nefunguje😠.",
+      "text_normalized": "prvni den u vodafonu! v apce jsem se nedostala ani pres prihlaseni! vubec nefunguje😠.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-25T12:29:25.907Z",
+      "replyText": "Hezký den, Lucie,\nje mi líto, že jste nespokojená 🙁 Při pořízení služeb od nás dostanete e-mail s registračním odkazem, díky kterému si přístup založíte. Více informací, jak postupovat uvádíme na tomto odkazu https://www.vodafone.cz/pece/muj-vodafone/prihlasovani-e-mailem/aktivace-prihlasovani-emailem/. Zuzana",
+      "version": "3.17.0"
+    },
     {
       "id": "aa791e86-fd96-49e5-8256-3cd8a48f2099",
       "userName": "Michal Sterba",
@@ -36677,8 +36750,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2502,
-    "extractedAt": "2026-09-26T09:45:34.237Z",
+    "totalReviewsExtracted": 2507,
+    "extractedAt": "2026-09-27T10:25:49.580Z",
     "source": "google-play"
   }
 }
