@@ -1,18 +1,90 @@
 {
   "ratings": {
-    "score": 3.630745,
-    "scoreText": "3,6",
-    "totalRatings": 6765,
-    "totalReviews": 2681,
+    "score": 3.6563945,
+    "scoreText": "3,7",
+    "totalRatings": 6784,
+    "totalReviews": 2686,
     "histogram": {
-      "1": 1682,
-      "2": 288,
-      "3": 374,
-      "4": 911,
-      "5": 3504
+      "1": 1661,
+      "2": 282,
+      "3": 364,
+      "4": 887,
+      "5": 3585
     }
   },
   "reviews": [
+    {
+      "id": "2965ec43-4ca8-47ed-a8ae-24466bc03d82",
+      "userName": "Karel Moc",
+      "date": "2026-09-29T10:55:30.910Z",
+      "score": 5,
+      "text": "Super!",
+      "text_normalized": "super!",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-29T11:07:04.673Z",
+      "replyText": "Pěkný den, Karle,\nděkujeme za hodnocení 🙂 Veronika",
+      "version": "3.18.0"
+    },
+    {
+      "id": "30f4da75-0bc3-4747-8f62-f7debab920f2",
+      "userName": "Lukáš Novák",
+      "date": "2026-09-28T19:46:04.162Z",
+      "score": 5,
+      "text": "ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-29T05:02:51.260Z",
+      "replyText": "Pěkný den, Lukáši,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.18.0"
+    },
+    {
+      "id": "71fb567c-5e2e-4f90-8e1e-370d2a3c1488",
+      "userName": "Zbyněk Hradil",
+      "date": "2026-09-28T19:31:48.314Z",
+      "score": 1,
+      "text": "jako vždy hrůza a nenajdu tam co potřebuji",
+      "text_normalized": "jako vzdy hruza a nenajdu tam co potrebuji",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-29T05:02:24.183Z",
+      "replyText": "Pěkný den, Zbyňku,\nnapište nám prosím k tomu více podrobností a také i screenshoty přes https://tam.je/dotaz, abychom vám mohli pomoct. Veronika",
+      "version": "3.18.0"
+    },
+    {
+      "id": "827e56d9-906e-43e2-851c-a30306c1b843",
+      "userName": "Jana Jindrová",
+      "date": "2026-09-28T18:54:58.633Z",
+      "score": 5,
+      "text": "někdy nesrozumitelné",
+      "text_normalized": "nekdy nesrozumitelne",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-29T05:01:20.359Z",
+      "replyText": "Pěkný den, Jano,\nděkujeme za zpětnou vazbu. Pokud máte nějaké konkrétní nesrovnalosti v aplikaci, neváhejte nám napsat přes https://tam.je/dotaz, rádi to s vámi prověříme. Veronika",
+      "version": "3.9.0"
+    },
+    {
+      "id": "df478249-2cdf-4aee-9668-fed65c450d14",
+      "userName": "Rene Vachtarcik",
+      "date": "2026-09-28T18:17:50.646Z",
+      "score": 1,
+      "text": "aplikace nefunguje ani po aktualizaci buď vyhodit ajťaka nebo vyměnit operátora je to opravdu ostuda! Takhle dělat já v práci mám dávno padáka",
+      "text_normalized": "aplikace nefunguje ani po aktualizaci bud vyhodit ajtaka nebo vymenit operatora je to opravdu ostuda! takhle delat ja v praci mam davno padaka",
+      "segments": [
+        "Stabilita",
+        "Zakaznicka_podpora",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-29T05:00:11.712Z",
+      "replyText": "Pěkný den, Rene,\nmrzí mě, že máte s aplikací potíže a nefunguje vám 🙁 Napište nám prosím k tomu více podrobností a zašlete screenshoty na e-mailovou adresu aplikace@vodafone.cz, abychom vám mohli pomoct. Veronika",
+      "version": "3.18.0"
+    },
     {
       "id": "7e287f62-d0ed-4abd-ab17-8c40a0d24d05",
       "userName": "Miroslav Sebera",
@@ -36823,8 +36895,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2512,
-    "extractedAt": "2026-09-29T11:12:32.660Z",
+    "totalReviewsExtracted": 2517,
+    "extractedAt": "2026-09-30T11:00:55.953Z",
     "source": "google-play"
   }
 }

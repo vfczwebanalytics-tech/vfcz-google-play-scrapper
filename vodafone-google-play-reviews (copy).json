@@ -1,18 +1,77 @@
 {
   "ratings": {
-    "score": 3.6344936,
+    "score": 3.630745,
     "scoreText": "3,6",
-    "totalRatings": 6757,
-    "totalReviews": 2676,
+    "totalRatings": 6765,
+    "totalReviews": 2681,
     "histogram": {
-      "1": 1667,
-      "2": 298,
-      "3": 373,
-      "4": 907,
-      "5": 3506
+      "1": 1682,
+      "2": 288,
+      "3": 374,
+      "4": 911,
+      "5": 3504
     }
   },
   "reviews": [
+    {
+      "id": "7e287f62-d0ed-4abd-ab17-8c40a0d24d05",
+      "userName": "Miroslav Sebera",
+      "date": "2026-09-28T09:24:41.965Z",
+      "score": 1,
+      "text": "Jedná hvězda za barevné provedení jinak totálně nanic vyznat se v appce nebo něco najít trvá a vrátit se o krok zpět tak vás to posune na začátek a nejhorší něco hledat v službách tak ten náběh je fakt něco",
+      "text_normalized": "jedna hvezda za barevne provedeni jinak totalne nanic vyznat se v appce nebo neco najit trva a vratit se o krok zpet tak vas to posune na zacatek a nejhorsi neco hledat v sluzbach tak ten nabeh je fakt neco",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-28T09:32:19.274Z",
+      "replyText": "Hezký den, Miroslave, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.17.0"
+    },
+    {
+      "id": "7776a890-c5dc-44ec-ad1e-e63341d2f505",
+      "userName": "Míša U.",
+      "date": "2026-09-27T20:15:09.906Z",
+      "score": 1,
+      "text": "Hrozně špatná aplikace, nic nefunguje, strhává peníze ale balíček to zákazníkovi nedá a pak mu to strhne samo peníze za balíček jiný. Absolutně nepřehledné, nesrozumitelné.",
+      "text_normalized": "hrozne spatna aplikace, nic nefunguje, strhava penize ale balicek to zakaznikovi neda a pak mu to strhne samo penize za balicek jiny. absolutne neprehledne, nesrozumitelne.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-28T06:12:23.782Z",
+      "replyText": "Hezký den, Míšo, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme , tak pevně věřím, že se vám do budoucna bude líbit více. Pokud byste potřebovala pomoci s nastavením balíčků, napište nám přes https://tam.je/dotaz. Na vše se s vámi podíváme konkrétněji. Petra\n",
+      "version": "3.17.0"
+    },
+    {
+      "id": "e27e0e0f-a49a-4c09-8a3d-8b35ef66e97e",
+      "userName": "Pechaty Petr Praha",
+      "date": "2026-09-27T19:03:51.369Z",
+      "score": 5,
+      "text": "je super a přehledná.",
+      "text_normalized": "je super a prehledna.",
+      "segments": [
+        "UI",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-28T06:10:05.190Z",
+      "replyText": "Hezký den, Petře, děkujeme za hodnocení 🙂 Těší nás, že jste s aplikací spokojený 🙂 Petra",
+      "version": "3.17.0"
+    },
+    {
+      "id": "59e273ec-aac8-4a59-a6c7-d712d80d0ac7",
+      "userName": "Stanislav Pavlik",
+      "date": "2026-09-27T14:22:50.930Z",
+      "score": 5,
+      "text": "vše přehledně",
+      "text_normalized": "vse prehledne",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-09-27T14:36:11.390Z",
+      "replyText": "Dobrý den, Stanislave,\nděkuji vám za zpětnou vazbu a jsem ráda, že vám aplikace vyhovuje 🙂 Katka",
+      "version": "3.17.0"
+    },
     {
       "id": "000ad6e3-1b25-45eb-8811-691248f732bc",
       "userName": "Uživatel Googlu",
@@ -36764,8 +36823,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2508,
-    "extractedAt": "2026-09-28T11:33:29.358Z",
+    "totalReviewsExtracted": 2512,
+    "extractedAt": "2026-09-29T11:12:32.660Z",
     "source": "google-play"
   }
 }
