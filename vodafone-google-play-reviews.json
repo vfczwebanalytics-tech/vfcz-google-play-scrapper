@@ -1,18 +1,76 @@
 {
   "ratings": {
-    "score": 3.6563945,
+    "score": 3.6722054,
     "scoreText": "3,7",
-    "totalRatings": 6784,
-    "totalReviews": 2686,
+    "totalRatings": 6796,
+    "totalReviews": 2691,
     "histogram": {
-      "1": 1661,
-      "2": 282,
-      "3": 364,
-      "4": 887,
-      "5": 3585
+      "1": 1641,
+      "2": 276,
+      "3": 358,
+      "4": 902,
+      "5": 3613
     }
   },
   "reviews": [
+    {
+      "id": "09b50e27-7bdb-4e6d-b6d7-2c510bf3708b",
+      "userName": "Miroslav Mašek",
+      "date": "2026-09-30T08:05:20.776Z",
+      "score": 5,
+      "text": "Dobrá volba",
+      "text_normalized": "dobra volba",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-30T08:10:23.400Z",
+      "replyText": "Hezký den, Miroslave, děkujeme za vaše hodnocení 🙂 Těší mě, že jste s aplikací spokojený 🙂 Petra",
+      "version": "3.16.2"
+    },
+    {
+      "id": "3d7e5ad0-1dd1-4cc2-b476-ebaaa0f55e6c",
+      "userName": "robert kumsta",
+      "date": "2026-09-29T16:04:51.463Z",
+      "score": 4,
+      "text": "Celkem dobrá aplikace chvíli ze začátku jsem měl problémy s přihlášením ale dopadlo to dobře mohu jen doporučit tuto appku",
+      "text_normalized": "celkem dobra aplikace chvili ze zacatku jsem mel problemy s prihlasenim ale dopadlo to dobre mohu jen doporucit tuto appku",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-09-29T16:06:35.411Z",
+      "replyText": "Hezký den, Roberte, jsem ráda, že se vám aplikace líbí 🙂 Vaše spokojenost je pro nás důležitá 🙂 Petra",
+      "version": "3.17.0"
+    },
+    {
+      "id": "23f866e9-305d-44ba-ac33-a0899982d5a7",
+      "userName": "Eva Růžičková",
+      "date": "2026-09-29T14:37:13.489Z",
+      "score": 5,
+      "text": "přehlednost, design - super",
+      "text_normalized": "prehlednost, design - super",
+      "segments": [
+        "UI",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-09-29T15:06:24.977Z",
+      "replyText": "Hezký den, Evo, děkujeme za vaše hodnocení. Velmi nás těší, že jste s aplikací spokojená 🙂 Petra",
+      "version": "3.18.0"
+    },
+    {
+      "id": "8c4c3738-10ca-42ce-b064-dfffe0907729",
+      "userName": "Verča Vlková",
+      "date": "2026-09-29T14:10:19.902Z",
+      "score": 1,
+      "text": "vynucuje aktualizaci, takže když potřebujete rychle něco vyřídit / ověřit a zrovna je čas na aktualizaci, máte smůlu, protože vás appka nikam nepustí...",
+      "text_normalized": "vynucuje aktualizaci, takze kdyz potrebujete rychle neco vyridit / overit a zrovna je cas na aktualizaci, mate smulu, protoze vas appka nikam nepusti...",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-09-29T14:46:31.305Z",
+      "replyText": "Hezký den, Verčo, děkujeme za hodnocení, i když pro nás není pozitivní :-( Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Po některé aktualizaci, která je potřeba po fungování aplikace, je aktualizace aplikace opravdu vyžadována ihned. Petra",
+      "version": "3.16.1"
+    },
     {
       "id": "2965ec43-4ca8-47ed-a8ae-24466bc03d82",
       "userName": "Karel Moc",
@@ -36895,8 +36953,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2517,
-    "extractedAt": "2026-09-30T11:00:55.953Z",
+    "totalReviewsExtracted": 2521,
+    "extractedAt": "2026-10-01T11:27:33.586Z",
     "source": "google-play"
   }
 }
