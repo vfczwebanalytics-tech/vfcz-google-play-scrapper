@@ -1,18 +1,96 @@
 {
   "ratings": {
-    "score": 3.6722054,
+    "score": 3.6562986,
     "scoreText": "3,7",
-    "totalRatings": 6796,
-    "totalReviews": 2691,
+    "totalRatings": 6805,
+    "totalReviews": 2692,
     "histogram": {
-      "1": 1641,
-      "2": 276,
-      "3": 358,
-      "4": 902,
-      "5": 3613
+      "1": 1682,
+      "2": 296,
+      "3": 306,
+      "4": 909,
+      "5": 3608
     }
   },
   "reviews": [
+    {
+      "id": "596e16be-9b22-4fe7-9c28-c18c51d53891",
+      "userName": "Ivana Šornová",
+      "date": "2026-10-01T10:40:29.385Z",
+      "score": 1,
+      "text": "nefunguje přihlášení.",
+      "text_normalized": "nefunguje prihlaseni.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-01T10:45:32.827Z",
+      "replyText": "Pěkný den, Ivano,\nplošné potíže s přihlášením nemáme. Pokud se vám to nedaří, napište nám na e-mailovou adresu aplikace@vodafone.cz podrobnosti a také screenshoty. Veronika",
+      "version": "3.18.0"
+    },
+    {
+      "id": "8d603553-3a76-455d-8cd1-bf07178afeac",
+      "userName": "Jiří Pochmann",
+      "date": "2026-10-01T08:10:30.660Z",
+      "score": 5,
+      "text": "Přehledná fungující aplikace",
+      "text_normalized": "prehledna fungujici aplikace",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-10-01T10:00:36.159Z",
+      "replyText": "Pěkný den, Jiří,\nděkujeme za zpětnou vazbu a hodnocení 🙂 Veronika",
+      "version": "3.18.0"
+    },
+    {
+      "id": "72160756-da36-4abd-9207-3f24949b08a1",
+      "userName": "Petr Kulhavý",
+      "date": "2026-10-01T07:48:52.401Z",
+      "score": 1,
+      "text": "Přešel jsem k Vodafonu. Vždy jsem měl O2 kvůli dostupnosti internetu na chatě. Aplikace můj Vodafon je neskutečný nefunkční paskvil. Škoda mluvit. 👎🏻",
+      "text_normalized": "presel jsem k vodafonu. vzdy jsem mel o2 kvuli dostupnosti internetu na chate. aplikace muj vodafon je neskutecny nefunkcni paskvil. skoda mluvit. 👎🏻",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-01T10:01:19.983Z",
+      "replyText": "Pěkný den, Petře,\nděkujeme za zpětnou vazbu, ze které však nevyplynulo, co se stalo. Napište nám prosím k tomu podrobnosti přes https://tam.je/dotaz a rádi se na vše podíváme. Veronika",
+      "version": "3.18.0"
+    },
+    {
+      "id": "affc7a18-e620-426b-ace1-cce31770a213",
+      "userName": "Anna Dosedělová",
+      "date": "2026-10-01T05:28:50.927Z",
+      "score": 2,
+      "text": "Chtěla jsem se přihlásit, kvůli platbě a absolutně nic nefunguje.Pořad píše, že jsou špatné přihlašovací údaje.Zmenila jsem tedy heslo,a nefunguje dál.",
+      "text_normalized": "chtela jsem se prihlasit, kvuli platbe a absolutne nic nefunguje.porad pise, ze jsou spatne prihlasovaci udaje.zmenila jsem tedy heslo,a nefunguje dal.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-01T09:57:54.934Z",
+      "replyText": "Pěkný den, Anno,\npřihlašujete se svou e-mailovou adresou a správným heslem? Napište nám prosím na e-mailovou adresu aplikace@vodafone.cz podrobnosti a také screenshoty. Veronika",
+      "version": "3.18.0"
+    },
+    {
+      "id": "437122bc-34bd-4ce8-b500-3601e20023fb",
+      "userName": "Michal Mařík",
+      "date": "2026-10-01T05:19:17.778Z",
+      "score": 1,
+      "text": "Horší aplikaci jsem ještě neměl. Absolutně pomalá, navíc po aktualizaci nefunkční. Musím přejít k jinému operátorovi, protože víc jak měsíc se nemohu přihlásit.. Sbohem Vodafone",
+      "text_normalized": "horsi aplikaci jsem jeste nemel. absolutne pomala, navic po aktualizaci nefunkcni. musim prejit k jinemu operatorovi, protoze vic jak mesic se nemohu prihlasit.. sbohem vodafone",
+      "segments": [
+        "Vykonnost",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-01T10:00:16.230Z",
+      "replyText": "Pěkný den, Michale,\naplikaci prosím z telefonu odinstalujte, telefon vypněte a zapněte a znovu nainstalujte, tím budete mít jistotu, že máte v telefonu její poslední verzi. Pokud i poté budete v aplikaci sledovat nějaké potíže, napište nám přes https://tam.je/dotaz. Veronika",
+      "version": "3.18.0"
+    },
     {
       "id": "09b50e27-7bdb-4e6d-b6d7-2c510bf3708b",
       "userName": "Miroslav Mašek",
@@ -36953,8 +37031,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2521,
-    "extractedAt": "2026-10-01T11:27:33.586Z",
+    "totalReviewsExtracted": 2526,
+    "extractedAt": "2026-10-02T10:57:42.155Z",
     "source": "google-play"
   }
 }
