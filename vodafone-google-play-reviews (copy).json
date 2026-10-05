@@ -1,18 +1,63 @@
 {
   "ratings": {
-    "score": 3.6620796,
-    "scoreText": "3,7",
-    "totalRatings": 6815,
-    "totalReviews": 2695,
+    "score": 3.6477988,
+    "scoreText": "3,6",
+    "totalRatings": 6820,
+    "totalReviews": 2697,
     "histogram": {
-      "1": 1676,
-      "2": 290,
-      "3": 312,
-      "4": 906,
-      "5": 3625
+      "1": 1704,
+      "2": 288,
+      "3": 320,
+      "4": 889,
+      "5": 3613
     }
   },
   "reviews": [
+    {
+      "id": "a5053cb1-e246-4868-9d85-6711ccc49012",
+      "userName": "Jiří Sinecký",
+      "date": "2026-10-03T09:49:28.637Z",
+      "score": 1,
+      "text": "Do aplikace která mě odhlásila se zaboha nemůžu znova přihlásit už 5 den, vždy když kliknu přihlásit aplikace spadne. Odinstalování a znova nainstalovaní to udělá znova a spadne. poraďte co s tím prosím.",
+      "text_normalized": "do aplikace ktera me odhlasila se zaboha nemuzu znova prihlasit uz 5 den, vzdy kdyz kliknu prihlasit aplikace spadne. odinstalovani a znova nainstalovani to udela znova a spadne. poradte co s tim prosim.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-03T10:31:54.577Z",
+      "replyText": "Hezký den, Jiří,\ntakové potíže mě mrzí 🙁 V případě, že nepomohlo přeinstalování aplikace, napište nám prosím přes https://tam.je/dotaz, abychom to mohli řešit konkrétněji. Lucie",
+      "version": "3.18.1"
+    },
+    {
+      "id": "47b385da-f43c-44ab-9b0a-bb836b332966",
+      "userName": "Tomáš Šústek",
+      "date": "2026-10-02T12:45:56.364Z",
+      "score": 1,
+      "text": "komplikované přihlašování, pokud udaje zapomenete, prijde vam nejprve kod do mailu, ale abyste jej precetli, musite odejit z aplikace a po zadání kódu uz tento neplatí. Pokud se vam tohle podari s mailem, následuje SMS, kde se cely proces opakuje, když odejdete z aplilace, ať si přečtěte kod, tak po opětovném otevreni jste na uplnem zacatku, a kody jiz neplatí. Nepoužitelné.",
+      "text_normalized": "komplikovane prihlasovani, pokud udaje zapomenete, prijde vam nejprve kod do mailu, ale abyste jej precetli, musite odejit z aplikace a po zadani kodu uz tento neplati. pokud se vam tohle podari s mailem, nasleduje sms, kde se cely proces opakuje, kdyz odejdete z aplilace, at si prectete kod, tak po opetovnem otevreni jste na uplnem zacatku, a kody jiz neplati. nepouzitelne.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-10-02T12:48:13.556Z",
+      "replyText": "Hezký den, Tomáši, je mi líto, že nejste s aplikací spokojený 🙁 Na jejím vylepšení stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.18.1"
+    },
+    {
+      "id": "f9fd89aa-b9e3-4bca-bcf8-301314820e61",
+      "userName": "Tomáš Procházka",
+      "date": "2026-10-02T12:36:55.804Z",
+      "score": 1,
+      "text": "Aplikace ve třech z deseti případů nefunguje 🔥🤙💯🚨🔛🔝",
+      "text_normalized": "aplikace ve trech z deseti pripadu nefunguje 🔥🤙💯🚨🔛🔝",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-02T12:49:49.170Z",
+      "replyText": "Hezký den, Tomáši, mrzí mě, že máte potíže s aplikací 🙁 Napište nám prosím podrobnosti přes zabezpečený formulář https://tam.je/dotaz. Na vše se s vámi podíváme konkrétněji. Petra\n",
+      "version": "3.18.0"
+    },
     {
       "id": "d264f55a-a4de-49ea-aa11-33f52d28037d",
       "userName": "Mirda Vokoun",
@@ -37045,8 +37090,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2527,
-    "extractedAt": "2026-10-03T10:17:03.976Z",
+    "totalReviewsExtracted": 2530,
+    "extractedAt": "2026-10-04T11:01:06.871Z",
     "source": "google-play"
   }
 }
