@@ -1,18 +1,46 @@
 {
   "ratings": {
-    "score": 3.6477988,
-    "scoreText": "3,6",
-    "totalRatings": 6820,
+    "score": 3.6537268,
+    "scoreText": "3,7",
+    "totalRatings": 6826,
     "totalReviews": 2697,
     "histogram": {
-      "1": 1704,
-      "2": 288,
-      "3": 320,
-      "4": 889,
+      "1": 1695,
+      "2": 285,
+      "3": 317,
+      "4": 910,
       "5": 3613
     }
   },
   "reviews": [
+    {
+      "id": "6d32683e-d385-4848-b863-d7a4c6d08763",
+      "userName": "Aleš Ešpandr",
+      "date": "2026-10-04T10:02:56.859Z",
+      "score": 4,
+      "text": "Aplikace má hodně pomalejší odezvu a načítání.",
+      "text_normalized": "aplikace ma hodne pomalejsi odezvu a nacitani.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-04T11:02:23.126Z",
+      "replyText": "Pěkný den, Aleši,\nje mi líto, že aplikace nenaplňuje vaše očekávání 🙁 Budeme se snažit, abyste byl do budoucna spokojenější. Lucie",
+      "version": "3.18.1"
+    },
+    {
+      "id": "43f4588c-366c-4584-87d0-760602bf23df",
+      "userName": "Lucie Langhansová",
+      "date": "2026-10-04T01:13:31.130Z",
+      "score": 5,
+      "text": "👍",
+      "text_normalized": "👍",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-04T06:26:50.728Z",
+      "replyText": "Pěkný den, Lucie,\nděkujeme vám za hodnocení. Jsem ráda, pokud se vám aplikace líbí 🙂 Lucie",
+      "version": null
+    },
     {
       "id": "a5053cb1-e246-4868-9d85-6711ccc49012",
       "userName": "Jiří Sinecký",
@@ -37090,8 +37118,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2530,
-    "extractedAt": "2026-10-04T11:01:06.871Z",
+    "totalReviewsExtracted": 2532,
+    "extractedAt": "2026-10-05T12:08:28.948Z",
     "source": "google-play"
   }
 }
