@@ -1,18 +1,48 @@
 {
   "ratings": {
-    "score": 3.6537268,
+    "score": 3.657321,
     "scoreText": "3,7",
-    "totalRatings": 6826,
-    "totalReviews": 2697,
+    "totalRatings": 6840,
+    "totalReviews": 2704,
     "histogram": {
-      "1": 1695,
-      "2": 285,
-      "3": 317,
-      "4": 910,
-      "5": 3613
+      "1": 1693,
+      "2": 287,
+      "3": 318,
+      "4": 905,
+      "5": 3632
     }
   },
   "reviews": [
+    {
+      "id": "314fe426-f90e-4774-b202-58c5c47f786f",
+      "userName": "Adam Fajt",
+      "date": "2026-10-04T18:15:02.952Z",
+      "score": 2,
+      "text": "Jsem u tohoto operátora nově a musím říct, že tato aplikace je oproti té původní lepší ,ale pořád špatná. 1. Webové rozhraní u detailnějších nastavení, které se špatně načítá. 2. Vodafone Happy = budeme vám posílat reklamy v SMS jako na začátku století, protože něco za něco. 3. aplikace vás občas odhlásí 4. když si aktivujete/bloknete něco například sms premium, tak nějakou dobu nemůžete pokračovat v nastavování dalších věcí (toto je problém i webu)",
+      "text_normalized": "jsem u tohoto operatora nove a musim rict, ze tato aplikace je oproti te puvodni lepsi ,ale porad spatna. 1. webove rozhrani u detailnejsich nastaveni, ktere se spatne nacita. 2. vodafone happy = budeme vam posilat reklamy v sms jako na zacatku stoleti, protoze neco za neco. 3. aplikace vas obcas odhlasi 4. kdyz si aktivujete/bloknete neco napriklad sms premium, tak nejakou dobu nemuzete pokracovat v nastavovani dalsich veci (toto je problem i webu)",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-10-05T05:38:47.620Z",
+      "replyText": "Hezký den, Adame, těší mě, že vám aplikace přijde lepší 🙂 Ve VF Happy získáte výhody a nabídky také od našich partnerů, proto zasíláme informace o akcích. Pokud provedete změnu nastavení, je potřeba vyčkat na zpracování. Jakmile systém požadavek dokončí, můžete pokračovat v nastavení dalších služeb. Zuzana",
+      "version": "3.18.1"
+    },
+    {
+      "id": "24f8473c-e4ed-4420-ac89-7f0089367c54",
+      "userName": "Pavel Bartosik",
+      "date": "2026-10-04T16:14:16.547Z",
+      "score": 1,
+      "text": "neustále zasekané",
+      "text_normalized": "neustale zasekane",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-10-05T05:28:46.654Z",
+      "replyText": "Hezký den, Pavle,\nje mi líto, že jste nespokojený 🙁 Doporučuji aplikaci přeinstalovat, věřím, že poté bude fungovat v pořádku. Pokud by potíže trvaly, zavolejte nám na linku *77 a kolegové to s vámi prověří. Zuzana",
+      "version": "3.18.0"
+    },
     {
       "id": "6d32683e-d385-4848-b863-d7a4c6d08763",
       "userName": "Aleš Ešpandr",
@@ -37118,8 +37148,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2532,
-    "extractedAt": "2026-10-05T12:08:28.948Z",
+    "totalReviewsExtracted": 2534,
+    "extractedAt": "2026-10-06T11:52:20.109Z",
     "source": "google-play"
   }
 }

@@ -1,18 +1,109 @@
 {
   "ratings": {
-    "score": 3.657321,
+    "score": 3.6547987,
     "scoreText": "3,7",
-    "totalRatings": 6840,
-    "totalReviews": 2704,
+    "totalRatings": 6857,
+    "totalReviews": 2706,
     "histogram": {
-      "1": 1693,
-      "2": 287,
-      "3": 318,
-      "4": 905,
-      "5": 3632
+      "1": 1718,
+      "2": 286,
+      "3": 297,
+      "4": 891,
+      "5": 3661
     }
   },
   "reviews": [
+    {
+      "id": "60e005f3-7e95-4671-b9db-9a67e915d69f",
+      "userName": "Lukas Poznar",
+      "date": "2026-10-06T10:18:25.802Z",
+      "score": 1,
+      "text": "V aktualni verzi app provedu prihlaseni jako staly zakaznik. Potvrdim vsechny pristupy, i sms kod a biometrii a ono me to otevre anonymni ucet, kde o me neni ani stopa? To je celkem smutny vysledek. Restarty an8 preinstalovani nepomohly. Mam rarif.",
+      "text_normalized": "v aktualni verzi app provedu prihlaseni jako staly zakaznik. potvrdim vsechny pristupy, i sms kod a biometrii a ono me to otevre anonymni ucet, kde o me neni ani stopa? to je celkem smutny vysledek. restarty an8 preinstalovani nepomohly. mam rarif.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-06T07:03:07.181Z",
+      "replyText": "Pěkný den, Lukáši,\nv tomto případě se pravděpodobně jedná o předplacenou kartu. Případně nám k tomu víc napište přes https://tam.je/dotaz a rádi se na vše podíváme. Veronika",
+      "version": "3.18.1"
+    },
+    {
+      "id": "9a874843-41c0-4d67-a7bc-217cfd9668c9",
+      "userName": "Renca Kuzelikova",
+      "date": "2026-10-06T09:20:24.991Z",
+      "score": 1,
+      "text": "Dobrý den. Přihlásit se do této aplikace je bohužel nadlidský výkon.",
+      "text_normalized": "dobry den. prihlasit se do teto aplikace je bohuzel nadlidsky vykon.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-10-06T09:34:19.633Z",
+      "replyText": "Pěkný den, Renčo,\nje mi líto, pokud máte potíže s přihlášením do aplikace 🙁 Rádi se na to s vámi podíváme konkrétněji, když nám zavoláte na 800 77 00 77 nebo napíšete přes https://tam.je/dotaz. Lucie",
+      "version": "3.7.0"
+    },
+    {
+      "id": "b45d0db5-53c3-4a98-9c76-fa019bbec5f1",
+      "userName": "veronika durickova",
+      "date": "2026-10-06T07:19:24.844Z",
+      "score": 2,
+      "text": "Když ji nemusím otvírat, vyhnu se jí. Sotva překonám všechna povinná x-fázová ověření všeho, vyskočí na mě úplně hloupý Toby, který na všechno odpovídá „nevím“, ale nelze se ho zbavit, protože vyskakuje odevšad, a nakonec se místo tam, kde jsem chtěla být, ocitnu na vyskakovací stránce, že můžu něco „oslavit“, asi mimořádným strakatým designem nebo vyhrát žertovné brýle, nevím, nechci nic slavit a prchám.",
+      "text_normalized": "kdyz ji nemusim otvirat, vyhnu se ji. sotva prekonam vsechna povinna x-fazova overeni vseho, vyskoci na me uplne hloupy toby, ktery na vsechno odpovida „nevim“, ale nelze se ho zbavit, protoze vyskakuje odevsad, a nakonec se misto tam, kde jsem chtela byt, ocitnu na vyskakovaci strance, ze muzu neco „oslavit“, asi mimoradnym strakatym designem nebo vyhrat zertovne bryle, nevim, nechci nic slavit a prcham.",
+      "segments": [
+        "UI",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-06T07:34:56.882Z",
+      "replyText": "Pěkný den, Veroniko,\nděkujeme za zpětnou vazbu. Budu ráda, když nám pošlete konkrétní případ situace, kterou jste v aplikaci potřebovala řešit. Ideálně pošlete screenshoty přes https://tam.je/dotaz a rádi se na vše podíváme. Veronika",
+      "version": "3.18.1"
+    },
+    {
+      "id": "7c861b38-a15e-4fda-b1e9-6ba48bb95657",
+      "userName": "Jarda Musilu",
+      "date": "2026-10-05T19:40:50.429Z",
+      "score": 1,
+      "text": "příliš mnoho změn běžte zpátky aplikace je hrozná",
+      "text_normalized": "prilis mnoho zmen bezte zpatky aplikace je hrozna",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-06T05:13:46.570Z",
+      "replyText": "Pěkný den, Jardo,\nje mi líto, že vám aplikace nevyhovuje, v poslední době nedošlo k její výrazní úpravě. Veronika",
+      "version": null
+    },
+    {
+      "id": "70305450-ca1c-43ef-93f0-739829e1b55f",
+      "userName": "Miroslav Sopek",
+      "date": "2026-10-05T18:11:49.533Z",
+      "score": 5,
+      "text": "Ok.",
+      "text_normalized": "ok.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-06T05:06:35.620Z",
+      "replyText": "Pěkný den, Miroslave,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.18.1"
+    },
+    {
+      "id": "54b76d50-94d7-45bd-85b8-f8baf2d3a1ad",
+      "userName": "Ja Vlk",
+      "date": "2026-10-05T18:03:21.470Z",
+      "score": 1,
+      "text": "silena aplikace vubec tam ic nefunguje chci udelat zmenu tarifu a ani odeslat to nejde zas jak kokot musim volat na operatora aby to udelal kdyz ta apka je neschopna hruza des. hlavne mi neradte ze ji mam odinstalovat a nainstalovat znova i tak to nejde spis si priznejte ze jste neschopny udelat apku ktera bude fungovat pak spis nechapu proc vubec existuje kdyz stejne musim volat operatora",
+      "text_normalized": "silena aplikace vubec tam ic nefunguje chci udelat zmenu tarifu a ani odeslat to nejde zas jak kokot musim volat na operatora aby to udelal kdyz ta apka je neschopna hruza des. hlavne mi neradte ze ji mam odinstalovat a nainstalovat znova i tak to nejde spis si priznejte ze jste neschopny udelat apku ktera bude fungovat pak spis nechapu proc vubec existuje kdyz stejne musim volat operatora",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-06T05:13:03.572Z",
+      "replyText": "Pěkný den,\nděkujeme za zpětnou vazbu, některé změny v aplikaci nejde provést, pokud došlo k nějaké konkrétní situaci, pošlete nám prosím screenshot přes https://tam.je/dotaz, rádi to prověříme. Veronika",
+      "version": "3.18.1"
+    },
     {
       "id": "314fe426-f90e-4774-b202-58c5c47f786f",
       "userName": "Adam Fajt",
@@ -37148,8 +37239,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2534,
-    "extractedAt": "2026-10-06T11:52:20.109Z",
+    "totalReviewsExtracted": 2540,
+    "extractedAt": "2026-10-07T11:37:24.428Z",
     "source": "google-play"
   }
 }
