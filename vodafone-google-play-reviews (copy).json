@@ -1,18 +1,62 @@
 {
   "ratings": {
-    "score": 3.652648,
-    "scoreText": "3,7",
-    "totalRatings": 6872,
-    "totalReviews": 2708,
+    "score": 3.645866,
+    "scoreText": "3,6",
+    "totalRatings": 6880,
+    "totalReviews": 2711,
     "histogram": {
-      "1": 1711,
-      "2": 288,
-      "3": 320,
-      "4": 898,
-      "5": 3649
+      "1": 1716,
+      "2": 300,
+      "3": 321,
+      "4": 901,
+      "5": 3638
     }
   },
   "reviews": [
+    {
+      "id": "6ee71f54-95c2-407c-97f2-f59249a35ea7",
+      "userName": "Jan Vajčner",
+      "date": "2026-10-09T08:51:03.787Z",
+      "score": 1,
+      "text": "to je odporná aplikace!!! kam po poslední aktualizaci zmizelo možnost zaplatit kartou. ve vyúčtování už to není!!! a můžete vašim nadřízeným id..... vysvětlit, že se najdou lidé, co mají raději rezervu dopředu \"předplaceno\" pro případy jiných neodkladných výdajů?",
+      "text_normalized": "to je odporna aplikace!!! kam po posledni aktualizaci zmizelo moznost zaplatit kartou. ve vyuctovani uz to neni!!! a muzete vasim nadrizenym id..... vysvetlit, ze se najdou lide, co maji radeji rezervu dopredu \"predplaceno\" pro pripady jinych neodkladnych vydaju?",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-08T05:25:42.201Z",
+      "replyText": "Dobrý den, Jane,\ntuto možnost stále najdete v sekci Vyúčtování > Zaplatit. Je potřeba rozkliknout konkrétní vyúčtování, u kterého chcete platbu provést. Pokud však máte všechna Vyúčtování již uhrazená, možnost platby se nezobrazuje. Viki",
+      "version": "3.18.1"
+    },
+    {
+      "id": "35004130-c6ee-43ba-9c41-e6c28a149726",
+      "userName": "Petr Jozifek",
+      "date": "2026-10-09T06:56:05.799Z",
+      "score": 5,
+      "text": "Co na to říct lepší než T-mobile a 02 tam je to samej kokot.I když kokot mají své lidi všude 🤣přeji hezky zbytek dne",
+      "text_normalized": "co na to rict lepsi nez t-mobile a 02 tam je to samej kokot.i kdyz kokot maji sve lidi vsude 🤣preji hezky zbytek dne",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-09T07:14:00.839Z",
+      "replyText": "Hezký den, Petře,\nděkujeme za kladné hodnocení a jsme rádi, že jste spokojený s našimi službami 🙂 Zuzana",
+      "version": "3.18.1"
+    },
+    {
+      "id": "78df2855-41ba-4e20-8e94-0733388e706d",
+      "userName": "Zbyněk Bábík",
+      "date": "2026-10-08T14:49:52.786Z",
+      "score": 1,
+      "text": "Shnilé jak vandrák v červenci!!!",
+      "text_normalized": "shnile jak vandrak v cervenci!!!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-08T15:21:43.878Z",
+      "replyText": "Pěkný den, Zbyňku,\ndíky za zpětnou vazbu. Pokud máte nějaké konkrétní potíže s aplikací, pošlete nám prosím k tomu podrobnosti přes https://tam.je/dotaz a rádi se na vše podíváme. Veronika",
+      "version": "3.18.1"
+    },
     {
       "id": "31bff67b-4d94-4b72-8552-fa96b8de812a",
       "userName": "Tomáš Kačmář",
@@ -37285,8 +37329,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2543,
-    "extractedAt": "2026-10-09T11:43:59.125Z",
+    "totalReviewsExtracted": 2546,
+    "extractedAt": "2026-10-10T11:02:01.620Z",
     "source": "google-play"
   }
 }
