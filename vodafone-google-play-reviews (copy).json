@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 3.6511629,
+    "score": 3.661562,
     "scoreText": "3,7",
-    "totalRatings": 6893,
-    "totalReviews": 2710,
+    "totalRatings": 6902,
+    "totalReviews": 2714,
     "histogram": {
-      "1": 1698,
-      "2": 309,
-      "3": 330,
-      "4": 907,
-      "5": 3643
+      "1": 1679,
+      "2": 305,
+      "3": 347,
+      "4": 897,
+      "5": 3666
     }
   },
   "reviews": [
+    {
+      "id": "2c51e378-3e3b-422c-990d-da8daff4e7ce",
+      "userName": "Zdeněk Ulč",
+      "date": "2026-10-11T11:45:24.684Z",
+      "score": 3,
+      "text": "není možné dostat se na Vodafone Happy, zavádějící informace, nefunkční",
+      "text_normalized": "neni mozne dostat se na vodafone happy, zavadejici informace, nefunkcni",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-11T12:02:24.407Z",
+      "replyText": "Dobrý den, Zdeňku,\nsekce Happy je dostupná hned z úvodní stránky po přihlášení. Pokud vám nefunguje, zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi to prověříme na základě konkrétního příkladu. Martina\n",
+      "version": "3.18.1"
+    },
     {
       "id": "452905d9-fdf1-4ef4-afbf-b67552946c68",
       "userName": "Vladimír Svoboda",
@@ -37371,8 +37385,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2549,
-    "extractedAt": "2026-10-11T11:19:08.513Z",
+    "totalReviewsExtracted": 2550,
+    "extractedAt": "2026-10-12T12:54:15.929Z",
     "source": "google-play"
   }
 }
