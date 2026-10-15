@@ -1,18 +1,62 @@
 {
   "ratings": {
-    "score": 3.6616085,
+    "score": 3.667697,
     "scoreText": "3,7",
-    "totalRatings": 6931,
-    "totalReviews": 2717,
+    "totalRatings": 6935,
+    "totalReviews": 2719,
     "histogram": {
-      "1": 1692,
-      "2": 304,
-      "3": 335,
-      "4": 914,
-      "5": 3680
+      "1": 1681,
+      "2": 299,
+      "3": 342,
+      "4": 920,
+      "5": 3687
     }
   },
   "reviews": [
+    {
+      "id": "af8b2503-d375-49dc-9ab1-a7fcd31447ec",
+      "userName": "Test 1",
+      "date": "2026-10-14T02:36:59.400Z",
+      "score": 5,
+      "text": "super",
+      "text_normalized": "super",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-14T05:13:18.393Z",
+      "replyText": "Pěkný den,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.19.0"
+    },
+    {
+      "id": "7276ff3c-a051-4c32-8c6c-f71b0972c800",
+      "userName": "Vlastimil „Víťa“ Pokorný",
+      "date": "2026-10-13T19:44:22.569Z",
+      "score": 1,
+      "text": "nefunguje Google pay, protože Vodafone musí zase proti proudu používat WebView místo přesměrování do prohlížeče. standardní amatérismus Vodafone",
+      "text_normalized": "nefunguje google pay, protoze vodafone musi zase proti proudu pouzivat webview misto presmerovani do prohlizece. standardni amaterismus vodafone",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-14T05:12:04.129Z",
+      "replyText": "Pěkný den, Vlastimile,\nděkujeme za zpětnou vazbu, nicméně podpora Google Pay už funguje 🙂 Veronika",
+      "version": "3.19.0"
+    },
+    {
+      "id": "cf2b1eae-8a30-4c10-911b-0329f7e82f3c",
+      "userName": "Michal Štádler",
+      "date": "2026-10-13T16:16:51.611Z",
+      "score": 5,
+      "text": "😉",
+      "text_normalized": "😉",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-13T16:29:07.141Z",
+      "replyText": "Pěkný den, Michale,\nděkujeme vám za hodnocení 🙂 Lucie",
+      "version": "3.19.0"
+    },
     {
       "id": "145599f6-3a29-4658-929f-0cce0b54bb90",
       "userName": "Michal K.",
@@ -37413,8 +37457,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2552,
-    "extractedAt": "2026-10-14T09:59:22.638Z",
+    "totalReviewsExtracted": 2555,
+    "extractedAt": "2026-10-15T09:41:07.895Z",
     "source": "google-play"
   }
 }
