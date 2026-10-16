@@ -1,18 +1,79 @@
 {
   "ratings": {
-    "score": 3.667697,
+    "score": 3.6907692,
     "scoreText": "3,7",
-    "totalRatings": 6935,
-    "totalReviews": 2719,
+    "totalRatings": 6953,
+    "totalReviews": 2720,
     "histogram": {
-      "1": 1681,
-      "2": 299,
-      "3": 342,
-      "4": 920,
-      "5": 3687
+      "1": 1667,
+      "2": 288,
+      "3": 330,
+      "4": 898,
+      "5": 3765
     }
   },
   "reviews": [
+    {
+      "id": "a81c9a90-fef1-4983-8c08-6358db9d96a4",
+      "userName": "Viktor",
+      "date": "2026-10-15T06:45:04.992Z",
+      "score": 1,
+      "text": "Aplikace je bohužel velmi nepovedená a nepřehledná. Přes připojení Starlink vůbec nefunguje, což je problém. Navíc v ní chybí přehledná historie přijatých plateb, takže uživatel nemá možnost jednoduše zjistit, kdy a jaké platby byly zaúčtovány. Celkově je aplikace nepřehledná, špatně navržená a nenabízí ani základní funkce v podobě, kterou bych od aplikace tak velkého operátora očekával. Vodafone by měl zapracovat na funkčnosti, přehlednosti a uživatelském komfortu.",
+      "text_normalized": "aplikace je bohuzel velmi nepovedena a neprehledna. pres pripojeni starlink vubec nefunguje, coz je problem. navic v ni chybi prehledna historie prijatych plateb, takze uzivatel nema moznost jednoduse zjistit, kdy a jake platby byly zauctovany. celkove je aplikace neprehledna, spatne navrzena a nenabizi ani zakladni funkce v podobe, kterou bych od aplikace tak velkeho operatora ocekaval. vodafone by mel zapracovat na funkcnosti, prehlednosti a uzivatelskem komfortu.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-15T07:09:17.114Z",
+      "replyText": "Dobrý den, Viktore,\nděkujeme za zpětnou vazbu. Mrzí nás, že vás aplikace zklamala. Historii přijatých plateb najdete v samoobsluze Můj Vodafone na webu v sekci Vyúčtování. Na zlepšování aplikace průběžně pracujeme a děkujeme za Vaše postřehy. Viki",
+      "version": "3.19.0"
+    },
+    {
+      "id": "c3b31190-9495-43c1-8d64-669696e0bb07",
+      "userName": "Miroslav Létal",
+      "date": "2026-10-14T19:43:05.556Z",
+      "score": 1,
+      "text": "dobrý den, mám dotaz,kam zmizela domluvená sazba s operátorem.",
+      "text_normalized": "dobry den, mam dotaz,kam zmizela domluvena sazba s operatorem.",
+      "segments": [
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-10-15T05:35:20.560Z",
+      "replyText": "Dobrý den, Miroslave,\nkvůli ochraně údajů nemůžeme touto cestou řešit konkrétní požadavky. Prosím zavolejte nám na 800 77 00 77 nebo nám napište přes https://tam.je/dotaz. Rádi se na to s vámi podíváme. Viki",
+      "version": "3.18.1"
+    },
+    {
+      "id": "17fa3824-1ca6-4886-8736-4da6b7d7ae0b",
+      "userName": "Miloslav Šumský",
+      "date": "2026-10-14T15:23:19.270Z",
+      "score": 4,
+      "text": "Dobrý spokojený.",
+      "text_normalized": "dobry spokojeny.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-14T15:32:38.871Z",
+      "replyText": "Hezký den, Miloslave,\nděkujeme vám za hodnocení 🙂 Martina",
+      "version": "3.19.0"
+    },
+    {
+      "id": "6ea1bf1e-7831-4304-a342-781d17796756",
+      "userName": "Bartecek Jiri",
+      "date": "2026-10-14T10:39:20.476Z",
+      "score": 5,
+      "text": "Myslím, že jednička na našem trhu mezi operátory.🤗👍✊",
+      "text_normalized": "myslim, ze jednicka na nasem trhu mezi operatory.🤗👍✊",
+      "segments": [
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-10-14T11:02:31.550Z",
+      "replyText": "Pěkný den, Jiří,\nděkujeme za krásnou zpětnou vazbu 🙂 Jsem ráda, že jste s námi spokojený 🙂 Veronika",
+      "version": "3.19.0"
+    },
     {
       "id": "af8b2503-d375-49dc-9ab1-a7fcd31447ec",
       "userName": "Test 1",
@@ -37457,8 +37518,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2555,
-    "extractedAt": "2026-10-15T09:41:07.895Z",
+    "totalReviewsExtracted": 2559,
+    "extractedAt": "2026-10-16T09:34:59.255Z",
     "source": "google-play"
   }
 }
