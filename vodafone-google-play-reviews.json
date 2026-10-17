@@ -1,18 +1,32 @@
 {
   "ratings": {
-    "score": 3.6907692,
+    "score": 3.7075758,
     "scoreText": "3,7",
-    "totalRatings": 6953,
-    "totalReviews": 2720,
+    "totalRatings": 6965,
+    "totalReviews": 2724,
     "histogram": {
-      "1": 1667,
-      "2": 288,
-      "3": 330,
-      "4": 898,
-      "5": 3765
+      "1": 1645,
+      "2": 284,
+      "3": 326,
+      "4": 907,
+      "5": 3798
     }
   },
   "reviews": [
+    {
+      "id": "8cec904d-85fd-4e48-85e9-3bd1c487c32c",
+      "userName": "Slavomir Rychnavsky",
+      "date": "2026-10-15T20:15:57.915Z",
+      "score": 5,
+      "text": "Spokojenost",
+      "text_normalized": "spokojenost",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-16T05:12:11.191Z",
+      "replyText": "Pěkný den, Slavomire,\nto jsme moc ráda a děkujeme za hodnocení a zpětnou vazbu 🙂 Veronika",
+      "version": null
+    },
     {
       "id": "a81c9a90-fef1-4983-8c08-6358db9d96a4",
       "userName": "Viktor",
@@ -37518,8 +37532,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2559,
-    "extractedAt": "2026-10-16T09:34:59.255Z",
+    "totalReviewsExtracted": 2560,
+    "extractedAt": "2026-10-17T09:05:47.494Z",
     "source": "google-play"
   }
 }
