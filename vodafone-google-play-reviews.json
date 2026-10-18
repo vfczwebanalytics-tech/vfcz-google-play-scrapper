@@ -1,18 +1,93 @@
 {
   "ratings": {
-    "score": 3.7075758,
+    "score": 3.7102103,
     "scoreText": "3,7",
-    "totalRatings": 6965,
-    "totalReviews": 2724,
+    "totalRatings": 6972,
+    "totalReviews": 2729,
     "histogram": {
-      "1": 1645,
-      "2": 284,
-      "3": 326,
-      "4": 907,
-      "5": 3798
+      "1": 1642,
+      "2": 282,
+      "3": 333,
+      "4": 899,
+      "5": 3809
     }
   },
   "reviews": [
+    {
+      "id": "fc9f9008-d4d9-444c-8bf9-388bf77c2f96",
+      "userName": "Peter Víva",
+      "date": "2026-10-17T08:32:08.125Z",
+      "score": 1,
+      "text": "apka k ničemu, nedá se do ní přihlásit! Hlásí to dokola chybu a nejsou schopni to opravit!",
+      "text_normalized": "apka k nicemu, neda se do ni prihlasit! hlasi to dokola chybu a nejsou schopni to opravit!",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-17T08:44:27.240Z",
+      "replyText": "Hezký den, Petere, je mi líto, že máte potíže s přihlášením 🙁 Zkuste aplikaci prosím přeinstalovat, a pokud by to nepomohlo, napište nám podrobnosti přes zabezpečený formulář https://tam.je/dotaz. Pomůžeme vám. Petra\n",
+      "version": "3.19.0"
+    },
+    {
+      "id": "fd8852d8-f737-4ed6-af41-5de8b317195a",
+      "userName": "Uživatel Googlu",
+      "date": "2026-10-16T23:10:32.867Z",
+      "score": 1,
+      "text": "I když jsem aplikaci odinstaloval a nainstaloval znovu jak radíte tak me to pořád dokola při přihlášení nabízí ztažení aplikace, jestli jste za tuto verzi aplikace dostali výplatu tak ajy jste ji měli vrátit, mě v práci taky za zmetky neplatí!!!!!!! Dvacet minut života v háji kvůli blbosti jiných...,",
+      "text_normalized": "i kdyz jsem aplikaci odinstaloval a nainstaloval znovu jak radite tak me to porad dokola pri prihlaseni nabizi ztazeni aplikace, jestli jste za tuto verzi aplikace dostali vyplatu tak ajy jste ji meli vratit, me v praci taky za zmetky neplati!!!!!!! dvacet minut zivota v haji kvuli blbosti jinych...,",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-10-17T06:23:49.317Z",
+      "replyText": "Hezký den, je mi líto, že máte potíže s přihlášením do aplikace 🙁 Napište nám prosím podrobnosti na aplikace@vodafone.cz. Prověříme to. Petra\n",
+      "version": null
+    },
+    {
+      "id": "3ca0188e-8095-4cda-ba6c-fa506f4044c5",
+      "userName": "Milan Duhaj Pešta",
+      "date": "2026-10-16T15:35:12.503Z",
+      "score": 5,
+      "text": "Jsem velmi spokojený s Vodafone.cz",
+      "text_normalized": "jsem velmi spokojeny s vodafone.cz",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-16T15:41:37.384Z",
+      "replyText": "Dobrý den, Milane,\nděkujeme vám za milé hodnocení 🙂 Budeme se snažit dál 🍀 Viki",
+      "version": "3.19.0"
+    },
+    {
+      "id": "b14f27ab-81dd-4873-b9a6-4b3c7d67ca83",
+      "userName": "Jan Richter",
+      "date": "2026-10-16T14:12:29.462Z",
+      "score": 3,
+      "text": "Aplikace nic moc. Nepřehledná a chybí jakýkoliv widget, třeba pro sledování aktuální útraty a zbývajících dat.",
+      "text_normalized": "aplikace nic moc. neprehledna a chybi jakykoliv widget, treba pro sledovani aktualni utraty a zbyvajicich dat.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-16T14:43:01.454Z",
+      "replyText": "Dobrý den, Jane,\nděkujeme za zpětnou vazbu. Mrzí nás, že vám aplikace nepřipadá přehledná. Widgety teď nepodporuje, ale na jejím dalším vylepšování průběžně pracujeme a věříme, že vám budoucí aktualizace přinesou lepší uživatelský zážitek 🙂 Viki",
+      "version": "3.19.0"
+    },
+    {
+      "id": "07f31b7b-3ffd-433c-ae6a-16fe5f10daf7",
+      "userName": "Luboš Kotačka",
+      "date": "2026-10-16T11:35:27.633Z",
+      "score": 1,
+      "text": "Nelze se přihlásit, zadám e-mail, heslo, přijde kód na mobil a zadáním kódu se vrátim na přihlašocací stránku... a stále dokola... Nakonec pomohlo aplikaci odinstalovat a znovu nainstslovat.",
+      "text_normalized": "nelze se prihlasit, zadam e-mail, heslo, prijde kod na mobil a zadanim kodu se vratim na prihlasocaci stranku... a stale dokola... nakonec pomohlo aplikaci odinstalovat a znovu nainstslovat.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-16T11:13:32.500Z",
+      "replyText": "Pěkný den, Luboši,\nděkujeme za zpětnou vazbu. Zkuste prosím aplikaci odinstalovat, telefon vypnout a zapnout a znovu naistalovat. Tím budeme mít jistotu, že máte aktuální verzi aplikace. Pokud bude i potom situace stejná, pošlete nám prosím jednotlivé screenshoty postupu na aplikace@vodafone.cz, abychom vám mohli pomoct. Veronika",
+      "version": "3.19.0"
+    },
     {
       "id": "8cec904d-85fd-4e48-85e9-3bd1c487c32c",
       "userName": "Slavomir Rychnavsky",
@@ -37532,8 +37607,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2560,
-    "extractedAt": "2026-10-17T09:05:47.494Z",
+    "totalReviewsExtracted": 2565,
+    "extractedAt": "2026-10-18T09:23:53.785Z",
     "source": "google-play"
   }
 }
