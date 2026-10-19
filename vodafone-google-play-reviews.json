@@ -1,18 +1,106 @@
 {
   "ratings": {
-    "score": 3.7102103,
+    "score": 3.7069488,
     "scoreText": "3,7",
-    "totalRatings": 6972,
-    "totalReviews": 2729,
+    "totalRatings": 6988,
+    "totalReviews": 2731,
     "histogram": {
-      "1": 1642,
-      "2": 282,
-      "3": 333,
-      "4": 899,
-      "5": 3809
+      "1": 1657,
+      "2": 284,
+      "3": 337,
+      "4": 875,
+      "5": 3831
     }
   },
   "reviews": [
+    {
+      "id": "43941048-ff67-4706-b4fe-08a413cd50f1",
+      "userName": "Tomáš Rousek (TRousek)",
+      "date": "2026-10-18T08:42:14.286Z",
+      "score": 4,
+      "text": "aplikace je dobra, jen dost casto meni umisteni funkci v ramci aplikace, chapu marketing aby si zakaznik musel.prolest nove nabidky ale obcas to otravne",
+      "text_normalized": "aplikace je dobra, jen dost casto meni umisteni funkci v ramci aplikace, chapu marketing aby si zakaznik musel.prolest nove nabidky ale obcas to otravne",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-18T09:58:20.171Z",
+      "replyText": "Hezký den, Tomáši, děkujeme za vaše hodnocení 🙂 Těší nás, že jste s aplikací spokojený. Petra",
+      "version": "3.19.0"
+    },
+    {
+      "id": "42815465-df67-44fd-b8e3-1a676da0ace5",
+      "userName": "Petr sehnalik",
+      "date": "2026-10-18T07:50:03.990Z",
+      "score": 1,
+      "text": "nelze se přihlásit pořád dokola",
+      "text_normalized": "nelze se prihlasit porad dokola",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-18T09:33:45.395Z",
+      "replyText": "Hezký den, Petře, je mi líto, že máte potíže s přihlášením 🙁 Zkuste prosím aplikaci přeinstalovat. Pokud by to nepomohlo, napište nám prosím na aplikace@vodafone.cz. Pomůžeme vám. Petra\n",
+      "version": "3.19.0"
+    },
+    {
+      "id": "77cc136e-499e-4f25-b3bb-b58c3e3f7a04",
+      "userName": "Libor Veselý",
+      "date": "2026-10-18T06:18:04.719Z",
+      "score": 3,
+      "text": "aplikace bejvávala mnohem přehlednější načítala se rychleji. Je to čím dál horší.",
+      "text_normalized": "aplikace bejvavala mnohem prehlednejsi nacitala se rychleji. je to cim dal horsi.",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-10-18T09:31:53.601Z",
+      "replyText": "Hezký den, Libore, děkujeme za vaše hodnocení. Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.19.0"
+    },
+    {
+      "id": "ac66816f-e2d5-46aa-8603-cb6cd0c4b127",
+      "userName": "Slavomir Ruzbarsky",
+      "date": "2026-10-17T17:00:03.463Z",
+      "score": 5,
+      "text": "luxus vynikající ok",
+      "text_normalized": "luxus vynikajici ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-18T09:12:35.550Z",
+      "replyText": "Hezký den, Slavomíre, děkujeme za vaše hodnocení. Vaše spokojenost je pro nás důležitá :-) Petra",
+      "version": "3.19.0"
+    },
+    {
+      "id": "a694fda3-a747-4c56-beda-a36b2e894799",
+      "userName": "Paul",
+      "date": "2026-10-17T15:31:48.477Z",
+      "score": 1,
+      "text": "Neustale zdražení ale zadny poradny signal,uplne vsechno predrazeny.Jaky zlepseni sluzeb?Zadny!Platil jsem 1497 kc ted?Platime 1974 a to vyuzivame jen tel cislo a internet,Rychlost internetu? katastrofa a to mame 250mb a ani ta rychlost neodpovida a jsme si nic nemenili,porad jen ten stejnej tarif.To jsme dopadli v ČR.Vykladat ze zdokonalujete sit to si nekdo muze vyklada špačkum.Uz toho mame doslova dost a na zacatku jsem platil 870 kc ted je ta cena pres 1000 kc a zadna zmena.",
+      "text_normalized": "neustale zdrazeni ale zadny poradny signal,uplne vsechno predrazeny.jaky zlepseni sluzeb?zadny!platil jsem 1497 kc ted?platime 1974 a to vyuzivame jen tel cislo a internet,rychlost internetu? katastrofa a to mame 250mb a ani ta rychlost neodpovida a jsme si nic nemenili,porad jen ten stejnej tarif.to jsme dopadli v cr.vykladat ze zdokonalujete sit to si nekdo muze vyklada spackum.uz toho mame doslova dost a na zacatku jsem platil 870 kc ted je ta cena pres 1000 kc a zadna zmena.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Cena"
+      ],
+      "replyDate": "2026-10-18T09:08:21.251Z",
+      "replyText": "Hezký den, Paule, je mi líto, že jste nespokojený 🙁 Napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Rádi se s vámi na optimalizaci služeb podíváme. Petra\n",
+      "version": "3.19.0"
+    },
+    {
+      "id": "7f052453-151c-41ae-ac68-2bb9374ea631",
+      "userName": "Jiří Drlík",
+      "date": "2026-10-17T15:20:35.728Z",
+      "score": 1,
+      "text": "Zmizela možnost zaplatit vyúčtování kartou, přímo v aplikaci.",
+      "text_normalized": "zmizela moznost zaplatit vyuctovani kartou, primo v aplikaci.",
+      "segments": [
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-18T09:11:31.810Z",
+      "replyText": "Hezký den, Jiří, možnost platby kartou v aplikaci Můj Vodafone je stále možná. Zkuste ji prosím přeinstalovat, mohlo by to pomoci. Pokud ji v aplikaci nemáte, napište nám prosím přes zabezpečený formulář https://tam.je/dotaz. Prověříme to. Petra\n",
+      "version": "3.19.0"
+    },
     {
       "id": "fc9f9008-d4d9-444c-8bf9-388bf77c2f96",
       "userName": "Peter Víva",
@@ -37607,8 +37695,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2565,
-    "extractedAt": "2026-10-18T09:23:53.785Z",
+    "totalReviewsExtracted": 2571,
+    "extractedAt": "2026-10-19T10:36:29.689Z",
     "source": "google-play"
   }
 }
