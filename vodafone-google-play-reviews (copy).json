@@ -1,18 +1,35 @@
 {
   "ratings": {
-    "score": 3.7069488,
+    "score": 3.6937213,
     "scoreText": "3,7",
-    "totalRatings": 6988,
-    "totalReviews": 2731,
+    "totalRatings": 6992,
+    "totalReviews": 2735,
     "histogram": {
-      "1": 1657,
-      "2": 284,
-      "3": 337,
-      "4": 875,
-      "5": 3831
+      "1": 1669,
+      "2": 288,
+      "3": 342,
+      "4": 898,
+      "5": 3789
     }
   },
   "reviews": [
+    {
+      "id": "44c85c44-5413-496e-ab5e-a0e154a48f67",
+      "userName": "Robert Baloun",
+      "date": "2026-10-18T12:44:51.505Z",
+      "score": 1,
+      "text": "To jako vážně, že budu každý měsíc instalovat znovu. Vždyť chci jen zaplatit předražený účet. K ničemu jinému ta apka není když nefunguje.",
+      "text_normalized": "to jako vazne, ze budu kazdy mesic instalovat znovu. vzdyt chci jen zaplatit predrazeny ucet. k nicemu jinemu ta apka neni kdyz nefunguje.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-18T12:55:10.756Z",
+      "replyText": "Hezký den, Roberte, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že s ní budete do budoucna spokojenější. Petra",
+      "version": "3.19.0"
+    },
     {
       "id": "43941048-ff67-4706-b4fe-08a413cd50f1",
       "userName": "Tomáš Rousek (TRousek)",
@@ -37695,8 +37712,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2571,
-    "extractedAt": "2026-10-19T10:36:29.689Z",
+    "totalReviewsExtracted": 2572,
+    "extractedAt": "2026-10-20T09:53:37.837Z",
     "source": "google-play"
   }
 }
