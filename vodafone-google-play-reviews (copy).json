@@ -1,18 +1,47 @@
 {
   "ratings": {
-    "score": 3.6980274,
+    "score": 3.719325,
     "scoreText": "3,7",
-    "totalRatings": 7001,
-    "totalReviews": 2737,
+    "totalRatings": 7007,
+    "totalReviews": 2739,
     "histogram": {
-      "1": 1678,
-      "2": 286,
-      "3": 339,
-      "4": 859,
-      "5": 3834
+      "1": 1643,
+      "2": 279,
+      "3": 343,
+      "4": 869,
+      "5": 3868
     }
   },
   "reviews": [
+    {
+      "id": "49255632-f29a-4b04-9064-88fbc38ebac7",
+      "userName": "patrik ambrož",
+      "date": "2026-10-20T19:59:40.692Z",
+      "score": 5,
+      "text": "👍",
+      "text_normalized": "👍",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-21T05:22:10.950Z",
+      "replyText": "Hezký den, Patriku,\ntěší nás, že jste s našimi službami spokojený 🙂 Zuzana",
+      "version": "3.19.0"
+    },
+    {
+      "id": "995c5ab6-61c1-4162-bb67-7467b6acadbf",
+      "userName": "Michal Nazarevič",
+      "date": "2026-10-20T11:38:28.617Z",
+      "score": 4,
+      "text": "Od čtvrtka se mi nedaří přihlásit a aplikace vám padá!",
+      "text_normalized": "od ctvrtka se mi nedari prihlasit a aplikace vam pada!",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-10-20T12:00:03.583Z",
+      "replyText": "Hezký den, Michale, je mi líto, že máte potíže s přihlášením 🙁 Zkuste aplikaci prosím přeinstalovat, a pokud by to nepomohlo, napište nám podrobnosti přes zabezpečený formulář https://tam.je/dotaz. Prověříme to. Petra\n",
+      "version": "3.19.0"
+    },
     {
       "id": "72d8f32d-e957-45dd-be47-531b18f0c314",
       "userName": "Bolek Vladimír",
@@ -37771,8 +37800,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2576,
-    "extractedAt": "2026-10-21T09:54:28.493Z",
+    "totalReviewsExtracted": 2578,
+    "extractedAt": "2026-10-22T09:54:59.607Z",
     "source": "google-play"
   }
 }
