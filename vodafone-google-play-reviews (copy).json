@@ -1,18 +1,48 @@
 {
   "ratings": {
-    "score": 3.719325,
+    "score": 3.7186081,
     "scoreText": "3,7",
-    "totalRatings": 7007,
-    "totalReviews": 2739,
+    "totalRatings": 7017,
+    "totalReviews": 2743,
     "histogram": {
-      "1": 1643,
-      "2": 279,
-      "3": 343,
-      "4": 869,
-      "5": 3868
+      "1": 1655,
+      "2": 275,
+      "3": 339,
+      "4": 859,
+      "5": 3884
     }
   },
   "reviews": [
+    {
+      "id": "c7113625-f23b-4dd5-b0b6-b89b77be2e99",
+      "userName": "Vladimír Barša",
+      "date": "2026-10-22T04:59:27.135Z",
+      "score": 1,
+      "text": "Aplikace k ničemu. Jediné co jde je zaplatit. Chceš navýšit internet na maximum? No máš Smolíka. Dlaždice s čerpáním internetu s možností navýšení z aplikace zmizela. A ta rádoby chytrá AI nápověda opakuje dokolečka jak máš na tuto neexistující dlaždici kliknout a navýšit si rychlost 🙈🙈🙈",
+      "text_normalized": "aplikace k nicemu. jedine co jde je zaplatit. chces navysit internet na maximum? no mas smolika. dlazdice s cerpanim internetu s moznosti navyseni z aplikace zmizela. a ta radoby chytra ai napoveda opakuje dokolecka jak mas na tuto neexistujici dlazdici kliknout a navysit si rychlost 🙈🙈🙈",
+      "segments": [
+        "Vykonnost",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-22T05:08:49.533Z",
+      "replyText": "Dobrý den, Vladimíre,\nje mi líto, že máte tyto potíže 🙁 Možnost Zrychlení na maximum ale v aplikaci je. V případě, že máte potíže, rádi to prověříme konkrétněji, když nám napíšete podrobné příklady přes https://tam.je/dotaz. Lucie\n",
+      "version": "3.19.0"
+    },
+    {
+      "id": "e8f1d1a6-1b48-4490-8b24-950da31f0f69",
+      "userName": "Kateřina",
+      "date": "2026-10-21T16:10:02.412Z",
+      "score": 1,
+      "text": "Neskutečně zbytečná aplikace 🫩",
+      "text_normalized": "neskutecne zbytecna aplikace 🫩",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-21T16:31:05.440Z",
+      "replyText": "Pěkný den, Kateřino,\nje mi líto, pokud se vám aplikace nelíbí 🙁 Budeme rádi, pokud budete mít konkrétnější zpětnou vazbu ke zlepšení. Lucie",
+      "version": null
+    },
     {
       "id": "49255632-f29a-4b04-9064-88fbc38ebac7",
       "userName": "patrik ambrož",
@@ -37800,8 +37830,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2578,
-    "extractedAt": "2026-10-22T09:54:59.607Z",
+    "totalReviewsExtracted": 2580,
+    "extractedAt": "2026-10-23T09:49:19.012Z",
     "source": "google-play"
   }
 }
