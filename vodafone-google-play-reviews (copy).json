@@ -1,18 +1,48 @@
 {
   "ratings": {
-    "score": 3.7186081,
+    "score": 3.7108066,
     "scoreText": "3,7",
-    "totalRatings": 7017,
-    "totalReviews": 2743,
+    "totalRatings": 7023,
+    "totalReviews": 2751,
     "histogram": {
-      "1": 1655,
-      "2": 275,
-      "3": 339,
-      "4": 859,
-      "5": 3884
+      "1": 1667,
+      "2": 277,
+      "3": 341,
+      "4": 865,
+      "5": 3869
     }
   },
   "reviews": [
+    {
+      "id": "a1fe7d37-22ff-41d8-bdc9-64e518ce13dd",
+      "userName": "Jaroslava Skybová",
+      "date": "2026-10-22T17:02:57.119Z",
+      "score": 1,
+      "text": "Naprosto nepoužitelná aplikace. Spotřebuji zbytek kreditu, SIM vyhodím a koupím si Tmobile.",
+      "text_normalized": "naprosto nepouzitelna aplikace. spotrebuji zbytek kreditu, sim vyhodim a koupim si tmobile.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-22T17:05:58.545Z",
+      "replyText": "Dobrý den, Jaroslavo,\nje mi líto, že vám aplikace nevyhovuje 🙁 Budeme rádi, když nám napíšete přes https://tam.je/dotaz, co konkrétně vám v aplikaci nefunguje nebo co se vám nedaří v aplikaci provést. Martina\n",
+      "version": null
+    },
+    {
+      "id": "7e439b19-29c1-4732-8c98-96807b1aac26",
+      "userName": "Katka Slaná",
+      "date": "2026-10-22T11:37:24.419Z",
+      "score": 1,
+      "text": "Nejhorší mobilní data. Aby v bytě v centru Brna se internet neustále sekal a padal to jsem fakt nezažila. A že mám k dispozici v appce nějaké \"boostr\" 5x do měsíce? Tak ten absolutně nefunguje taky. update: jde to zrychlit ale reálně se nic nestane.",
+      "text_normalized": "nejhorsi mobilni data. aby v byte v centru brna se internet neustale sekal a padal to jsem fakt nezazila. a ze mam k dispozici v appce nejake \"boostr\" 5x do mesice? tak ten absolutne nefunguje taky. update: jde to zrychlit ale realne se nic nestane.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-22T11:36:27.935Z",
+      "replyText": "Pěkný den, Katko,\nmrzí mě, že se potýkáte s potížemi se službami 🙁 Spojte se prosím s technickou podporou přes linku 800 77 00 77, kolegové vám s tímto pomohou. Pokud se vám nedaří aktivovat si zrychlení u vašeho čísla, pošlete nám prosím screenshoty přes https://tam.je/dotaz, rádi to prověříme. Veronika",
+      "version": "3.19.0"
+    },
     {
       "id": "c7113625-f23b-4dd5-b0b6-b89b77be2e99",
       "userName": "Vladimír Barša",
@@ -37830,8 +37860,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2580,
-    "extractedAt": "2026-10-23T09:49:19.012Z",
+    "totalReviewsExtracted": 2582,
+    "extractedAt": "2026-10-24T09:21:21.593Z",
     "source": "google-play"
   }
 }

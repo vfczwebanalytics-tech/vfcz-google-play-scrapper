@@ -1,18 +1,130 @@
 {
   "ratings": {
-    "score": 3.7108066,
+    "score": 3.7065053,
     "scoreText": "3,7",
-    "totalRatings": 7023,
+    "totalRatings": 7034,
     "totalReviews": 2751,
     "histogram": {
-      "1": 1667,
-      "2": 277,
-      "3": 341,
-      "4": 865,
-      "5": 3869
+      "1": 1680,
+      "2": 275,
+      "3": 340,
+      "4": 861,
+      "5": 3872
     }
   },
   "reviews": [
+    {
+      "id": "72023f3a-866f-43b1-9610-0555a4776e06",
+      "userName": "FA Life",
+      "date": "2026-10-24T08:59:15.630Z",
+      "score": 1,
+      "text": "vypadává mi to když chci zadat adresu",
+      "text_normalized": "vypadava mi to kdyz chci zadat adresu",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-10-24T09:12:20.795Z",
+      "replyText": "Pěkný den,\nděkujeme za zpětnou vazbu. Pošlete nám prosím k tomu podrobnosti včetně screenshotů na e-mailovou adresu aplikace@vodafone.cz. Veronika",
+      "version": null
+    },
+    {
+      "id": "cf5528d0-2bce-4c67-84bb-484d72591e31",
+      "userName": "Martin Zdeněk",
+      "date": "2026-10-24T08:39:38.388Z",
+      "score": 5,
+      "text": "Ok",
+      "text_normalized": "ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-19T15:16:10.604Z",
+      "replyText": "Hezký den, Martine,\nděkujeme za hodnocení 🙂 Katka",
+      "version": "3.19.0"
+    },
+    {
+      "id": "95ef4a0d-e4b2-4257-9d0d-cd4bfd78daed",
+      "userName": "Robert Povec",
+      "date": "2026-10-24T03:47:01.966Z",
+      "score": 5,
+      "text": "vynikající",
+      "text_normalized": "vynikajici",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-24T06:29:13.827Z",
+      "replyText": "Pěkný den, Roberte,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.19.0"
+    },
+    {
+      "id": "971ee4f5-3880-41ae-a25e-906caf9f4a6b",
+      "userName": "Radek Lahoda",
+      "date": "2026-10-23T20:14:29.479Z",
+      "score": 5,
+      "text": "no bomba 🫶💯👍",
+      "text_normalized": "no bomba 🫶💯👍",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-24T06:26:53.674Z",
+      "replyText": "Pěkný den, Radku,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": null
+    },
+    {
+      "id": "26625dab-838d-42b7-af1a-67c2ffe6e4e7",
+      "userName": "Vladimír Klieščík",
+      "date": "2026-10-23T19:34:06.577Z",
+      "score": 5,
+      "text": "Dobrá aplikace",
+      "text_normalized": "dobra aplikace",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-24T06:26:32.112Z",
+      "replyText": "Pěkný den, Vladimíre,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.19.0"
+    },
+    {
+      "id": "22ca629b-e2ac-454f-9799-48b746a4a872",
+      "userName": "Já Cojavim",
+      "date": "2026-10-23T15:38:29.797Z",
+      "score": 1,
+      "text": "strasne, po kazde aktualizaci se musim prihlasit a obnovit heslo. nyni pri kazdem zadani znaku mi zmizi klavesnice a kdyz se propracuji k novemu heslu tak jej nebere, tudiz tato aplikace je pro me uplne zbytecna, hlavne ze jste zase zdrazili tarify. ani odinstovani a opetovne nainstalovani nepomohlo",
+      "text_normalized": "strasne, po kazde aktualizaci se musim prihlasit a obnovit heslo. nyni pri kazdem zadani znaku mi zmizi klavesnice a kdyz se propracuji k novemu heslu tak jej nebere, tudiz tato aplikace je pro me uplne zbytecna, hlavne ze jste zase zdrazili tarify. ani odinstovani a opetovne nainstalovani nepomohlo",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-10-23T15:40:55.971Z",
+      "replyText": "Pěkný den,\nděkujeme za zpětnou vazbu, nicméně není potřeba heslo obnovovat po každé aktualizaci. Údaje stačí zadat a poté si nastavit znovu biometriku. Veronika",
+      "version": null
+    },
+    {
+      "id": "3eec44d7-2963-4d9c-8c15-b0b86d8505a3",
+      "userName": "Alena Soukupová",
+      "date": "2026-10-23T15:33:39.655Z",
+      "score": 5,
+      "text": "👍",
+      "text_normalized": "👍",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-23T15:41:20.869Z",
+      "replyText": "Pěkný den, Aleno,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.18.0"
+    },
+    {
+      "id": "06f56447-7975-4b21-8799-c2389380b1c1",
+      "userName": "Jan Tůma",
+      "date": "2026-10-23T12:06:00.685Z",
+      "score": 1,
+      "text": "aplikace je mi k ničemu, nemůžu si aktivovat neomezené data na den, objeví se pokaždé bílá stránka a pak se to zasekne, restart telefonu jsem zkoušel a pořád stejné",
+      "text_normalized": "aplikace je mi k nicemu, nemuzu si aktivovat neomezene data na den, objevi se pokazde bila stranka a pak se to zasekne, restart telefonu jsem zkousel a porad stejne",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-23T12:10:49.840Z",
+      "replyText": "Pěkný den, Jane,\nto mě mrzí 🙁 Pošlete nám prosím screenshoty a další podrobnosti přes https://tam.je/dotaz, ať to můžeme řešit k vašemu účtu, o plošné potíže se nejedná. Doporučím vám také aplikace odinstalovat a nainstalovat znovu, abychom měli jistotu, že máte v telefonu její poslední verzi. Veronika",
+      "version": "3.19.0"
+    },
     {
       "id": "a1fe7d37-22ff-41d8-bdc9-64e518ce13dd",
       "userName": "Jaroslava Skybová",
@@ -37860,8 +37972,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2582,
-    "extractedAt": "2026-10-24T09:21:21.593Z",
+    "totalReviewsExtracted": 2590,
+    "extractedAt": "2026-10-25T09:38:39.903Z",
     "source": "google-play"
   }
 }
