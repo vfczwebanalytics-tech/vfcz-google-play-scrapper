@@ -1,18 +1,69 @@
 {
   "ratings": {
-    "score": 3.7065053,
+    "score": 3.7016742,
     "scoreText": "3,7",
-    "totalRatings": 7034,
-    "totalReviews": 2751,
+    "totalRatings": 7039,
+    "totalReviews": 2754,
     "histogram": {
-      "1": 1680,
-      "2": 275,
-      "3": 340,
-      "4": 861,
-      "5": 3872
+      "1": 1670,
+      "2": 267,
+      "3": 396,
+      "4": 856,
+      "5": 3845
     }
   },
   "reviews": [
+    {
+      "id": "a63ba9fe-239d-4de6-aca1-a24d03aa70c3",
+      "userName": "Pajinka107 Havlickova",
+      "date": "2026-10-25T10:36:52.570Z",
+      "score": 3,
+      "text": "proc nejde platit v aplikaci vždycky to šlo a naraz to tam ani neni",
+      "text_normalized": "proc nejde platit v aplikaci vzdycky to slo a naraz to tam ani neni",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-25T10:47:57.343Z",
+      "replyText": "Pěkný den, Pajinko,\nmožnost platby v aplikaci zůstala i nadále. Není však možné zaplatit kartou v situaci, kdy máte Vyúčtování uhrazené. Veronika",
+      "version": "3.19.0"
+    },
+    {
+      "id": "6db5a6f4-136a-4c82-93da-d4d4d92efc7f",
+      "userName": "Roman Hošek",
+      "date": "2026-10-24T19:03:57.192Z",
+      "score": 1,
+      "text": "Nejde se přihlásit, bez nake chyby po zadání kodu z sms jde zpět na přihlášení. Aplikace jinak nepřehledná a šíleně pomalá, funkční responzivni web by udelal větší službu.",
+      "text_normalized": "nejde se prihlasit, bez nake chyby po zadani kodu z sms jde zpet na prihlaseni. aplikace jinak neprehledna a silene pomala, funkcni responzivni web by udelal vetsi sluzbu.",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-25T07:28:49.601Z",
+      "replyText": "Pěkný den, Romane,\naplikaci prosím odinstalujte a znovu nainstalujte, tím budeme mít jistotu, že máte její poslední verzi. Pokud i nadále budete mít potíže s přihlášením, pošlete nám prosím screenshot a další podrobnosti na e-mail aplikace@vodafone.cz. Veronika",
+      "version": "3.19.0"
+    },
+    {
+      "id": "a57e35cc-b4e7-4ba4-81d9-b77978f9a3b5",
+      "userName": "Vilem Ch",
+      "date": "2026-10-24T11:51:37.677Z",
+      "score": 3,
+      "text": "prijde vam smska co vse nova apka neumi, ale ze se do ni nelze prihlasit, pomalu pokazde zapomene vase prihlasovaci udaje tak nejde se prihlasit prstem ale musite prepisovat kody a vzpominat na hesla. No nic moc, spis noc nez moc. @Veroniko, dekuji vam za odpoved, nicmene zafungovala az odinstalace a znovu instalace. Co jsem poslal plati, jako uzivatel ktery se jednou za cas prihlasi nechci stale zadavat hesla a overeni, preinstalace a podobne. zvedam na 3x uz aspon funguje, zvedani rychlosti.",
+      "text_normalized": "prijde vam smska co vse nova apka neumi, ale ze se do ni nelze prihlasit, pomalu pokazde zapomene vase prihlasovaci udaje tak nejde se prihlasit prstem ale musite prepisovat kody a vzpominat na hesla. no nic moc, spis noc nez moc. @veroniko, dekuji vam za odpoved, nicmene zafungovala az odinstalace a znovu instalace. co jsem poslal plati, jako uzivatel ktery se jednou za cas prihlasi nechci stale zadavat hesla a overeni, preinstalace a podobne. zvedam na 3x uz aspon funguje, zvedani rychlosti.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-24T11:15:28.782Z",
+      "replyText": "Pěkný den, Vileme,\npouze po některých aktualizacích je potřeba se do aplikace přihlásit údaji, poté stačí znovu zakliknout znovu biometriku. Veronika",
+      "version": "3.19.0"
+    },
     {
       "id": "72023f3a-866f-43b1-9610-0555a4776e06",
       "userName": "FA Life",
@@ -37972,8 +38023,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2590,
-    "extractedAt": "2026-10-25T09:38:39.903Z",
+    "totalReviewsExtracted": 2593,
+    "extractedAt": "2026-10-26T10:51:51.061Z",
     "source": "google-play"
   }
 }
