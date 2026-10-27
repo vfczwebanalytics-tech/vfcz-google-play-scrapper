@@ -1,18 +1,65 @@
 {
   "ratings": {
-    "score": 3.7016742,
+    "score": 3.6863637,
     "scoreText": "3,7",
-    "totalRatings": 7039,
-    "totalReviews": 2754,
+    "totalRatings": 7042,
+    "totalReviews": 2759,
     "histogram": {
-      "1": 1670,
-      "2": 267,
-      "3": 396,
-      "4": 856,
-      "5": 3845
+      "1": 1696,
+      "2": 266,
+      "3": 404,
+      "4": 853,
+      "5": 3818
     }
   },
   "reviews": [
+    {
+      "id": "33136445-cd7b-471a-b2ac-5137c2277f37",
+      "userName": "Kamil Kudláček",
+      "date": "2026-10-26T08:21:20.809Z",
+      "score": 1,
+      "text": "Skoro kazdy mesic je potřeba se zmovu prihlasit heslem a 2fa, takze biometrie k nicemu. A dnes, kdyz chci zaplatit, nnejde ani to. 3x jsem zadal heslo, pote kod z sms, a skoci to zpet na prihlaseni. Opravdu je takovy problem mit funkcni způsob platby za sluzby?",
+      "text_normalized": "skoro kazdy mesic je potreba se zmovu prihlasit heslem a 2fa, takze biometrie k nicemu. a dnes, kdyz chci zaplatit, nnejde ani to. 3x jsem zadal heslo, pote kod z sms, a skoci to zpet na prihlaseni. opravdu je takovy problem mit funkcni zpusob platby za sluzby?",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-26T08:52:59.287Z",
+      "replyText": "Hezký den, Kamile, je mi líto, že máte potíže s přihlášením 🙁 Zkuste aplikaci prosím přeinstalovat, a pokud by to nepomohlo, napište nám na aplikace@vodafone.cz. Pomůžeme vám. Platnost biometrického přihlášení je 30 dnů. Petra\n",
+      "version": "3.19.0"
+    },
+    {
+      "id": "ef18ca96-3328-43d4-9262-4bab5e113f70",
+      "userName": "Robert Poledník",
+      "date": "2026-10-26T04:40:56.167Z",
+      "score": 1,
+      "text": "Strašně složité se přihlásit. Pořád to háže někam jinak, obrovské problémy.",
+      "text_normalized": "strasne slozite se prihlasit. porad to haze nekam jinak, obrovske problemy.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-10-26T06:16:48.844Z",
+      "replyText": "Pěkný den, Roberte,\naplikaci prosím odinstalujte a znovu nainstalujte. Přihlašujete se pouze e-mailovou adresou a vlastním heslem, přijde vám kód v rámci dvoufázového ověření, následně si můžete nastavit biometriku, pak nebudete muset údaje zadávat. Veronika",
+      "version": null
+    },
+    {
+      "id": "725c6921-01c3-4eee-bea6-d6505ccb64dd",
+      "userName": "Petr Dušek",
+      "date": "2026-10-25T14:52:20.576Z",
+      "score": 1,
+      "text": "To je zase výtvor, hlavně, že nabízí platbu pomocí Google pay a pokaždé to vyhodí chybu.",
+      "text_normalized": "to je zase vytvor, hlavne, ze nabizi platbu pomoci google pay a pokazde to vyhodi chybu.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani"
+      ],
+      "replyDate": "2026-10-25T15:20:10.966Z",
+      "replyText": "Pěkný den, Petře,\nděkujeme za zpětnou vazbu. Aplikaci prosím odinstalujte a znovu nainstalujte, abychom měli jistotou, že máte v telefonu poslední verzi. Pokud i poté budete mít s platbou on-line potíže, pošlete nám podrobnosti a screenshot přes https://tam.je/dotaz, ať to můžeme řešit k vašemu účtu. Veronika",
+      "version": "3.19.0"
+    },
     {
       "id": "a63ba9fe-239d-4de6-aca1-a24d03aa70c3",
       "userName": "Pajinka107 Havlickova",
@@ -38023,8 +38070,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2593,
-    "extractedAt": "2026-10-26T10:51:51.061Z",
+    "totalReviewsExtracted": 2596,
+    "extractedAt": "2026-10-27T10:16:53.054Z",
     "source": "google-play"
   }
 }
