@@ -1,18 +1,95 @@
 {
   "ratings": {
-    "score": 3.6863637,
+    "score": 3.6822288,
     "scoreText": "3,7",
-    "totalRatings": 7042,
-    "totalReviews": 2759,
+    "totalRatings": 7058,
+    "totalReviews": 2765,
     "histogram": {
-      "1": 1696,
-      "2": 266,
-      "3": 404,
-      "4": 853,
-      "5": 3818
+      "1": 1721,
+      "2": 265,
+      "3": 403,
+      "4": 807,
+      "5": 3858
     }
   },
   "reviews": [
+    {
+      "id": "b9808f07-9795-4089-9086-54ce49484fa7",
+      "userName": "Pavel Brozek",
+      "date": "2026-10-27T10:17:37.479Z",
+      "score": 2,
+      "text": "Fakt mimo...",
+      "text_normalized": "fakt mimo...",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-27T10:24:35.983Z",
+      "replyText": "Dobrý den, Pavle,\nje mi líto, že vám aplikace nevyhovuje 🙁 Na jejím dalším vývoji a úpravách pracujeme, tak třeba s ní budete časem spokojenější. Martina",
+      "version": "3.19.0"
+    },
+    {
+      "id": "2b13eef3-06e8-402d-9927-43420c888813",
+      "userName": "Miloš Zbořil",
+      "date": "2026-10-27T08:31:43.256Z",
+      "score": 1,
+      "text": "Hrozná aplikace jako celý Vodafone. Když se potřebuji přihlásit, nereaguje na heslo a vždy si vynutí nové heslo. To přijde mailem a mezitím se aplikace vždy sekne, takže musíte zadat znovu a takto se to mnohokrát opakuje, než se to povede. Ostatní služby, hlavně televize také tragické, naprosto omezená základní nabídka, chtějí vypadat levně, ale v základu nic není a si musíte dokupovat, což pak vyjde mnohem dráž než kvalitní a o něco dražší základ konkurence. Hrůza!!!",
+      "text_normalized": "hrozna aplikace jako cely vodafone. kdyz se potrebuji prihlasit, nereaguje na heslo a vzdy si vynuti nove heslo. to prijde mailem a mezitim se aplikace vzdy sekne, takze musite zadat znovu a takto se to mnohokrat opakuje, nez se to povede. ostatni sluzby, hlavne televize take tragicke, naprosto omezena zakladni nabidka, chteji vypadat levne, ale v zakladu nic neni a si musite dokupovat, coz pak vyjde mnohem draz nez kvalitni a o neco drazsi zaklad konkurence. hruza!!!",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Cena"
+      ],
+      "replyDate": "2026-10-27T09:02:38.853Z",
+      "replyText": "Dobrý den, Miloši,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby to nepomohlo, zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz, prověříme to. Co se týče Vodafone TV, v základním balíčku je přes 100 programů, prima+ PREMIUM i videotéka. Martina",
+      "version": "3.19.0"
+    },
+    {
+      "id": "b55e0ad5-f496-4ea2-9b47-6dcb25d7f16b",
+      "userName": "Vojtěch Matějka",
+      "date": "2026-10-26T19:01:29.465Z",
+      "score": 1,
+      "text": "Ze nefunguje biometrie jsem si zvyknul, ale abych musel aplikaci petkrat restartovat, nez se uraci misto cerny obrazovky me pustit k prihlaseni, to uz je moc tvl.",
+      "text_normalized": "ze nefunguje biometrie jsem si zvyknul, ale abych musel aplikaci petkrat restartovat, nez se uraci misto cerny obrazovky me pustit k prihlaseni, to uz je moc tvl.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-27T06:11:38.238Z",
+      "replyText": "Dobrý den, Vojtěchu,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby to nepomohlo, zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi to prověříme na základě konkrétního příkladu. Martina",
+      "version": "3.19.0"
+    },
+    {
+      "id": "a0940304-38db-4e04-a560-a2d772ad7793",
+      "userName": "Správce Havířova",
+      "date": "2026-10-26T18:32:40.160Z",
+      "score": 5,
+      "text": "moc dobrý služby když ztratím sim tak ji zablokují a odblokuji",
+      "text_normalized": "moc dobry sluzby kdyz ztratim sim tak ji zablokuji a odblokuji",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-27T06:10:30.794Z",
+      "replyText": "Dobrý den,\nděkujeme za vaše hodnocení, jsme moc rádi, že jste spokojený 🙂 Martina",
+      "version": null
+    },
+    {
+      "id": "0678693b-1940-4b63-b206-bd6e344df5fd",
+      "userName": "Václav Bína",
+      "date": "2026-10-26T13:15:38.452Z",
+      "score": 1,
+      "text": "Nefunguje. Pokaždé problem s přihlášením. Ani biometricke nefunguje",
+      "text_normalized": "nefunguje. pokazde problem s prihlasenim. ani biometricke nefunguje",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-26T12:52:50.185Z",
+      "replyText": "Hezký den, Václave, je mi líto, že máte potíže s přihlášením 🙁 V aplikaci si můžete nastavit biometrické přihlášení. Více podrobností najdete na https://www.vodafone.cz/pece/muj-vodafone/aplikace-muj-vodafone/aplikace-muj-vodafone-plus/. Petra",
+      "version": "3.19.0"
+    },
     {
       "id": "33136445-cd7b-471a-b2ac-5137c2277f37",
       "userName": "Kamil Kudláček",
@@ -38070,8 +38147,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2596,
-    "extractedAt": "2026-10-27T10:16:53.054Z",
+    "totalReviewsExtracted": 2601,
+    "extractedAt": "2026-10-28T11:08:58.732Z",
     "source": "google-play"
   }
 }
