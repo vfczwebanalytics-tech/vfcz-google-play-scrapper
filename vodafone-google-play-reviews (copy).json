@@ -1,18 +1,78 @@
 {
   "ratings": {
-    "score": 3.6822288,
+    "score": 3.689864,
     "scoreText": "3,7",
-    "totalRatings": 7058,
-    "totalReviews": 2765,
+    "totalRatings": 7073,
+    "totalReviews": 2772,
     "histogram": {
-      "1": 1721,
-      "2": 265,
-      "3": 403,
-      "4": 807,
-      "5": 3858
+      "1": 1700,
+      "2": 278,
+      "3": 405,
+      "4": 812,
+      "5": 3872
     }
   },
   "reviews": [
+    {
+      "id": "d40c5827-f13c-486a-9a3c-5b061a4b244b",
+      "userName": "Standa Č.",
+      "date": "2026-10-28T09:44:33.457Z",
+      "score": 1,
+      "text": "tato aplikace stojí za ho*no!! Bojuju s ní dlouhodobě! Chvíli funguje, pak se do ní nejste schopni přihlásit a operátor stále dokola zasílá přihlašovací kódy přes které se stejně neprihlasite. Nemám sílu stále dokola něco řešit s podporou a s největší pravděpodobností převedou veškeré služby k jinému operátorovi. Já rozhodně nedoporucuji!",
+      "text_normalized": "tato aplikace stoji za ho*no!! bojuju s ni dlouhodobe! chvili funguje, pak se do ni nejste schopni prihlasit a operator stale dokola zasila prihlasovaci kody pres ktere se stejne neprihlasite. nemam silu stale dokola neco resit s podporou a s nejvetsi pravdepodobnosti prevedou veskere sluzby k jinemu operatorovi. ja rozhodne nedoporucuji!",
+      "segments": [
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-28T10:06:16.899Z",
+      "replyText": "Hezký den, Stando, je mi líto, že máte potíže s přihlášením 🙁 Zkuste aplikaci prosím přeinstalovat. Pokud by to nepomohlo, napište nám prosím podrobnosti na aplikace@vodafone.cz. Pomůžeme vám. Petra",
+      "version": "3.20.0"
+    },
+    {
+      "id": "80473615-fa49-4ed6-9b26-e330c00a1733",
+      "userName": "Stanislav Skotnica",
+      "date": "2026-10-27T14:46:38.934Z",
+      "score": 1,
+      "text": "ty vaše falešné otravné soutěže a plno otravných SMS soutěže a vyhraješ slevu z predraženého obchodu kde to vše vyjde levněji!!!!!",
+      "text_normalized": "ty vase falesne otravne souteze a plno otravnych sms souteze a vyhrajes slevu z predrazeneho obchodu kde to vse vyjde levneji!!!!!",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-10-27T14:57:15.936Z",
+      "replyText": "Hezký den, Stanislave, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Slevy v aplikaci průběžně obměňuje, tak pevně věřím, že vás do budoucna některá zaujme 🙂 Petra",
+      "version": "3.19.0"
+    },
+    {
+      "id": "b5e7379d-0aa7-4202-9b40-44444f7b216e",
+      "userName": "Blanka Sipova",
+      "date": "2026-10-27T12:37:52.461Z",
+      "score": 2,
+      "text": "seká se, padá jinak by byla přehledná",
+      "text_normalized": "seka se, pada jinak by byla prehledna",
+      "segments": [
+        "Vykonnost",
+        "UI",
+        "Stabilita"
+      ],
+      "replyDate": "2026-10-27T12:54:59.799Z",
+      "replyText": "Dobrý den, Blanko,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Také doporučuji přepnout mezi připojením přes Wi-Fi a přes mobilní data. Kdyby tyto kroky nepomohly, zavolejte nám na 800 77 00 77 nebo napište přes https://tam.je/dotaz. Martina\n",
+      "version": "3.19.0"
+    },
+    {
+      "id": "ad867d7c-47a2-4a73-8d6e-92d3f5b6f1a9",
+      "userName": "Vladimír Novotný",
+      "date": "2026-10-27T11:21:36.282Z",
+      "score": 1,
+      "text": "po aktualizaci nelze otevřít, zadané vše dobře včetně kódu",
+      "text_normalized": "po aktualizaci nelze otevrit, zadane vse dobre vcetne kodu",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-27T11:27:39.722Z",
+      "replyText": "Hezký den, Vladimíre, je mi líto, že máte potíže s přihlášením 🙁 Zkuste aplikaci prosím přeinstalovat. Mohlo by to pomoci. Pokud by potíže přetrvávaly, napište nám prosím na aplikace@vodafone.cz. Pomůžeme vám. Petra\n",
+      "version": "3.19.0"
+    },
     {
       "id": "b9808f07-9795-4089-9086-54ce49484fa7",
       "userName": "Pavel Brozek",
@@ -38147,8 +38207,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2601,
-    "extractedAt": "2026-10-28T11:08:58.732Z",
+    "totalReviewsExtracted": 2605,
+    "extractedAt": "2026-10-29T11:22:18.864Z",
     "source": "google-play"
   }
 }
