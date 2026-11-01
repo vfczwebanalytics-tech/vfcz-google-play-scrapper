@@ -1,18 +1,46 @@
 {
   "ratings": {
-    "score": 3.6840537,
+    "score": 3.6891892,
     "scoreText": "3,7",
-    "totalRatings": 7083,
-    "totalReviews": 2775,
+    "totalRatings": 7092,
+    "totalReviews": 2780,
     "histogram": {
-      "1": 1719,
-      "2": 273,
-      "3": 400,
-      "4": 812,
-      "5": 3873
+      "1": 1713,
+      "2": 265,
+      "3": 403,
+      "4": 829,
+      "5": 3875
     }
   },
   "reviews": [
+    {
+      "id": "eabb2eed-3ead-4229-acde-20952385ed94",
+      "userName": "Havocking92",
+      "date": "2026-10-30T06:48:42.808Z",
+      "score": 1,
+      "text": "Nelze načíst historii čerpání. \"Něco se pokazilo\" je jediné, co to pokažde napíše. Hrůza.",
+      "text_normalized": "nelze nacist historii cerpani. \"neco se pokazilo\" je jedine, co to pokazde napise. hruza.",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-30T07:05:57.908Z",
+      "replyText": "Pěkný den,\nhistorie čerpání kreditu, pokud myslíte tuto možnost, je pouze ve webové samoobsluze. Veronika",
+      "version": "3.20.0"
+    },
+    {
+      "id": "07a4518f-1fe9-45ce-9a14-459586d27edc",
+      "userName": "jan antony",
+      "date": "2026-10-29T13:31:56.777Z",
+      "score": 5,
+      "text": "je dobrý rychlý.",
+      "text_normalized": "je dobry rychly.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-29T14:04:39.575Z",
+      "replyText": "Pěkný den, Jane,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.19.0"
+    },
     {
       "id": "7154e1cb-0be5-417b-9457-5c741437e6ed",
       "userName": "Michael Korb",
@@ -38311,8 +38339,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2612,
-    "extractedAt": "2026-10-30T11:14:31.132Z",
+    "totalReviewsExtracted": 2614,
+    "extractedAt": "2026-10-31T10:47:40.031Z",
     "source": "google-play"
   }
 }
