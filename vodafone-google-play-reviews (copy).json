@@ -1,18 +1,108 @@
 {
   "ratings": {
-    "score": 3.6891892,
+    "score": 3.686186,
     "scoreText": "3,7",
-    "totalRatings": 7092,
-    "totalReviews": 2780,
+    "totalRatings": 7102,
+    "totalReviews": 2781,
     "histogram": {
-      "1": 1713,
-      "2": 265,
-      "3": 403,
-      "4": 829,
-      "5": 3875
+      "1": 1727,
+      "2": 266,
+      "3": 394,
+      "4": 830,
+      "5": 3881
     }
   },
   "reviews": [
+    {
+      "id": "8a4effb2-dd91-41f8-8417-53a1d95aa300",
+      "userName": "Ivo R.",
+      "date": "2026-10-31T11:27:43.842Z",
+      "score": 1,
+      "text": "Po přihlášení už zase nic, nefunguje a nepomáhá ani přeinstalování",
+      "text_normalized": "po prihlaseni uz zase nic, nefunguje a nepomaha ani preinstalovani",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-10-31T11:52:21.926Z",
+      "replyText": "Hezký den, Ivo,\nto mě mrzí 🙁 Pokud se vám přihlášení stále nedaří, napište nám prosím na aplikace@vodafone.cz a vyřešíme to. Katka",
+      "version": "3.20.0"
+    },
+    {
+      "id": "2d758622-a474-486a-ab28-a55a28005a2c",
+      "userName": "Martin Míček",
+      "date": "2026-10-31T07:59:41.263Z",
+      "score": 1,
+      "text": "Otřesná a pomalá aplikace",
+      "text_normalized": "otresna a pomala aplikace",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-10-31T08:23:11.936Z",
+      "replyText": "Dobrý den, Martine,\nděkujeme za hodnocení a komentář, i když pro nás není pozitivní. Na vylepšování aplikace stále pracujeme, takže věřím, že vaše zkušenost bude v budoucnu lepší 🙂 Katka",
+      "version": "3.20.0"
+    },
+    {
+      "id": "c5e1c55b-216a-4450-a816-6fa5f6d1cc78",
+      "userName": "Simon Konewka",
+      "date": "2026-10-30T20:09:36.997Z",
+      "score": 1,
+      "text": "Neuvěřitelná aplikace, vyřizování na pobočkách, technický problémy, v podstatě nemám možnost mít přehled o svém účtu a přihlásit se tam. Na pobočce jsem byl, tam to taky nikdo nevyřešil. Předali to na centrálu. Po týdnu mi přišel mail, že můj účet byl zrušen. Teď když si ho chci vbytvořit, tak mi to píše, že se moje číslo už používá. Neskutečná nekonečná retardace a neschopnost tahle aplikace a společnost.",
+      "text_normalized": "neuveritelna aplikace, vyrizovani na pobockach, technicky problemy, v podstate nemam moznost mit prehled o svem uctu a prihlasit se tam. na pobocce jsem byl, tam to taky nikdo nevyresil. predali to na centralu. po tydnu mi prisel mail, ze muj ucet byl zrusen. ted kdyz si ho chci vbytvorit, tak mi to pise, ze se moje cislo uz pouziva. neskutecna nekonecna retardace a neschopnost tahle aplikace a spolecnost.",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-31T07:47:38.544Z",
+      "replyText": "Dobrý den, Simone,\nje mi líto, že nejste spokojený 🙁 Prosím pošlete nám vaše dotazy přes aplikace@vodafone.cz, rádi vám odpovíme e-mailem nebo zavoláme. Katka",
+      "version": "3.16.1"
+    },
+    {
+      "id": "3146bd9e-e390-4d58-bb3f-27f52d919039",
+      "userName": "Pavel Bajo",
+      "date": "2026-10-30T18:48:20.209Z",
+      "score": 1,
+      "text": "Komplikovaná a nepoužitelná aplikace, po půlhodině trápení bez výsledku to vzdávám. Věřím že konkurence na tom bude lépe. Jelikož mám toto číslo jako datové sekundární, po uplynutí platnosti balíčku, přecházíme ke konkurenci a už nikdy více!!!",
+      "text_normalized": "komplikovana a nepouzitelna aplikace, po pulhodine trapeni bez vysledku to vzdavam. verim ze konkurence na tom bude lepe. jelikoz mam toto cislo jako datove sekundarni, po uplynuti platnosti balicku, prechazime ke konkurenci a uz nikdy vice!!!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-10-31T07:34:41.296Z",
+      "replyText": "Dobrý den, Pavle,\nmrzí mě, že nejste s aplikací spokojený 🙁 Do aplikace se přihlásíte e-mailem a vlastním alfanumerickým heslem, poté SMS kódem. Katka",
+      "version": "3.20.0"
+    },
+    {
+      "id": "6336f4a1-90f3-4df6-8b1f-8a55575e8e47",
+      "userName": "Martin Dědičík",
+      "date": "2026-10-30T18:46:43.651Z",
+      "score": 1,
+      "text": "Nelze se přihlásit do aplikace. Po vyplnění přihlašovacích údajů a ověření se vrátí zpět na přihlašovací údaje. A pořád dokola...",
+      "text_normalized": "nelze se prihlasit do aplikace. po vyplneni prihlasovacich udaju a overeni se vrati zpet na prihlasovaci udaje. a porad dokola...",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-10-31T07:39:42.200Z",
+      "replyText": "Dobrý den, Martine,\nto je mi líto 🙁 Zkuste prosím aplikaci odinstalovat a znovu stáhnout, mohlo by to pomoci. Kdyby ne, napište nám prosím na aplikace@vodafone.cz a podíváme se na to. Katka",
+      "version": "3.20.0"
+    },
+    {
+      "id": "80e1127e-714d-4b93-a661-0b822c137a13",
+      "userName": "Petr Pavelka",
+      "date": "2026-10-30T15:07:55.652Z",
+      "score": 1,
+      "text": "Hrozně zasekané no hrůza",
+      "text_normalized": "hrozne zasekane no hruza",
+      "segments": [
+        "Vykonnost"
+      ],
+      "replyDate": "2026-10-30T15:42:02.283Z",
+      "replyText": "Dobrý den, Petře,\nmrzí mě, že máte s aplikací takovou zkušenost. Zkuste ji prosím odinstalovat, restartovat telefon a následně ji znovu nainstalovat. Také doporučujeme ověřit, zda máte nainstalovanou nejnovější verzi aplikace i operačního systému. Viki",
+      "version": "3.20.0"
+    },
     {
       "id": "eabb2eed-3ead-4229-acde-20952385ed94",
       "userName": "Havocking92",
@@ -38339,8 +38429,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2614,
-    "extractedAt": "2026-10-31T10:47:40.031Z",
+    "totalReviewsExtracted": 2620,
+    "extractedAt": "2026-11-01T11:44:41.484Z",
     "source": "google-play"
   }
 }
