@@ -1,18 +1,48 @@
 {
   "ratings": {
-    "score": 3.694815,
+    "score": 3.719457,
     "scoreText": "3,7",
-    "totalRatings": 7111,
-    "totalReviews": 2783,
+    "totalRatings": 7115,
+    "totalReviews": 2786,
     "histogram": {
-      "1": 1716,
-      "2": 263,
-      "3": 389,
-      "4": 841,
-      "5": 3897
+      "1": 1684,
+      "2": 245,
+      "3": 396,
+      "4": 836,
+      "5": 3948
     }
   },
   "reviews": [
+    {
+      "id": "f51b08ee-c51c-4890-bbdd-6effff051cb7",
+      "userName": "Anna Sura",
+      "date": "2026-11-02T10:53:43.512Z",
+      "score": 5,
+      "text": "spokojenost na 💯%",
+      "text_normalized": "spokojenost na 💯%",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-02T11:18:06.548Z",
+      "replyText": "Hezký den, Anno, děkujeme za vaše milé hodnocení 🙂 Vaše spokojenost je pro nás důležitá. Petra",
+      "version": "3.20.0"
+    },
+    {
+      "id": "ce7e6d58-3fc3-4508-a052-9c18904ce48c",
+      "userName": "Milan Kaštánek",
+      "date": "2026-11-01T14:44:33.746Z",
+      "score": 1,
+      "text": "nefunguje opět přihlášení!!!!",
+      "text_normalized": "nefunguje opet prihlaseni!!!!",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-01T15:27:21.463Z",
+      "replyText": "Dobrý den, Milane,\nje mi líto, že máte potíže 🙁 Nemám tu hlášený žádný plošný výpadek. Pokud vám tedy nefunguje přihlášení, zkuste prosím aplikaci odinstalovat a znovu stáhnout. Mělo by to pomoci. Katka",
+      "version": "3.20.0"
+    },
     {
       "id": "8a4effb2-dd91-41f8-8417-53a1d95aa300",
       "userName": "Ivo R.",
@@ -38429,8 +38459,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2620,
-    "extractedAt": "2026-11-02T13:15:09.599Z",
+    "totalReviewsExtracted": 2622,
+    "extractedAt": "2026-11-03T12:40:54.040Z",
     "source": "google-play"
   }
 }
