@@ -1,18 +1,64 @@
 {
   "ratings": {
-    "score": 3.719457,
+    "score": 3.7127976,
     "scoreText": "3,7",
-    "totalRatings": 7115,
-    "totalReviews": 2786,
+    "totalRatings": 7124,
+    "totalReviews": 2789,
     "histogram": {
-      "1": 1684,
-      "2": 245,
-      "3": 396,
-      "4": 836,
-      "5": 3948
+      "1": 1705,
+      "2": 243,
+      "3": 391,
+      "4": 826,
+      "5": 3953
     }
   },
   "reviews": [
+    {
+      "id": "47e17aa0-8e89-4ae5-9fac-8120ff2b2e08",
+      "userName": "Standa",
+      "date": "2026-11-03T08:38:36.112Z",
+      "score": 1,
+      "text": "Nejde se přihlásit. Pořád dokola.",
+      "text_normalized": "nejde se prihlasit. porad dokola.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-03T08:56:38.517Z",
+      "replyText": "Hezký den, Stando,\nje mi líto, že máte potíže 🙁 Zkuste v telefonu vyžádat zastavení aplikace, případně vymazat paměť. Kdyby to nepomohli, doporučuji aplikaci odinstalovat a znovu stáhnout. To by mělo pomoci 🙂 Katka",
+      "version": "3.21.0"
+    },
+    {
+      "id": "fbc948ee-bb81-491b-95c0-53a80da3fbaf",
+      "userName": "Martin Mašek",
+      "date": "2026-11-02T19:43:51.620Z",
+      "score": 1,
+      "text": "Stále dokola přihlášení. když to všechno vyplním, tak se obrazovka vrátí na přihlášení.Nic jiného nejde. kdyby to šlo tak bych ještě s hvězdičkama do mínusu.",
+      "text_normalized": "stale dokola prihlaseni. kdyz to vsechno vyplnim, tak se obrazovka vrati na prihlaseni.nic jineho nejde. kdyby to slo tak bych jeste s hvezdickama do minusu.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-03T06:56:24.774Z",
+      "replyText": "Dobrý den, Martine,\nto mě mrzí 🙁 Zkuste prosím aplikaci odinstalovat a znovu stáhnout, mohlo by to pomoci. Pokud ne, napište nám prosím na aplikace@vodafone.cz a společně se na to podíváme :) Katka",
+      "version": "3.21.0"
+    },
+    {
+      "id": "c1fb6d5c-46c4-4489-80dd-b229c42fb07f",
+      "userName": "Marcel Konečný",
+      "date": "2026-11-02T19:18:06.943Z",
+      "score": 5,
+      "text": "Odinstalování nepomůže. V úložišti aplikace smazat paměť a data, znovu se přihlásit, vše nastavit a jede.",
+      "text_normalized": "odinstalovani nepomuze. v ulozisti aplikace smazat pamet a data, znovu se prihlasit, vse nastavit a jede.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-11-03T06:57:22.123Z",
+      "replyText": "Hezký den, Marceli,\nděkuji vám za hodnocení a jsem ráda, že aplikace už funguje dobře 🙂 Katka",
+      "version": "3.21.0"
+    },
     {
       "id": "f51b08ee-c51c-4890-bbdd-6effff051cb7",
       "userName": "Anna Sura",
@@ -38459,8 +38505,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2622,
-    "extractedAt": "2026-11-03T12:40:54.040Z",
+    "totalReviewsExtracted": 2625,
+    "extractedAt": "2026-11-04T12:50:50.928Z",
     "source": "google-play"
   }
 }
