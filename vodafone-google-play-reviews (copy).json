@@ -1,18 +1,60 @@
 {
   "ratings": {
-    "score": 3.7127976,
+    "score": 3.6894503,
     "scoreText": "3,7",
     "totalRatings": 7124,
-    "totalReviews": 2789,
+    "totalReviews": 2800,
     "histogram": {
-      "1": 1705,
-      "2": 243,
-      "3": 391,
-      "4": 826,
-      "5": 3953
+      "1": 1745,
+      "2": 242,
+      "3": 390,
+      "4": 835,
+      "5": 3905
     }
   },
   "reviews": [
+    {
+      "id": "aad223ce-6e4a-4336-bf1c-208c228020e5",
+      "userName": "Anna Golova",
+      "date": "2026-11-04T11:57:57.524Z",
+      "score": 1,
+      "text": "posledni dva tydny se neda do aplikace prihlasit.Porad se prihlasuji dokola.",
+      "text_normalized": "posledni dva tydny se neda do aplikace prihlasit.porad se prihlasuji dokola.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-11-04T12:28:23.745Z",
+      "replyText": "Dobrý den, Anno,\nplošný výpadek přihlašování neevidujeme. Zkuste prosím aplikaci odinstalovat a znovu stáhnout. Pokud se ani potom nebudete moct přihlásit, zavolejte nám prosím na 800 77 00 77, rádi to prověříme. Martina",
+      "version": "3.21.0"
+    },
+    {
+      "id": "249f4d99-0baa-4f9d-b3e4-8cbda8b8082d",
+      "userName": "Jiří Divok",
+      "date": "2026-11-04T07:53:31.949Z",
+      "score": 1,
+      "text": "Hrozny to je děs",
+      "text_normalized": "hrozny to je des",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-04T07:55:19.849Z",
+      "replyText": "Dobrý den, Jiří,\nje mi líto, že vám aplikace nevyhovuje 🙁 Pokud vám v aplikaci něco nefunguje nebo máte jiné potíže, zavolejte nám prosím na 800 77 00 77, rádi se na to s vámi podíváme. Martina",
+      "version": "3.21.0"
+    },
+    {
+      "id": "953f8437-0786-4af8-a42d-7d98f59672f9",
+      "userName": "Pavel Uhlíř",
+      "date": "2026-11-03T18:39:56.774Z",
+      "score": 1,
+      "text": "Od Vodafone rychle pryč. Otřesný jednání. A AI asistent v aplikaci je úplně k ničemu.",
+      "text_normalized": "od vodafone rychle pryc. otresny jednani. a ai asistent v aplikaci je uplne k nicemu.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-03T18:54:49.179Z",
+      "replyText": "Dobrý den, Pavle,\nje mi líto, že jste s Vodafonem nespokojený 🙁 Jestli potřebujete pomoc s vyřešením nějaké konkrétní záležitosti, zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz. Martina\n",
+      "version": "3.19.0"
+    },
     {
       "id": "47e17aa0-8e89-4ae5-9fac-8120ff2b2e08",
       "userName": "Standa",
@@ -38505,8 +38547,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2625,
-    "extractedAt": "2026-11-04T12:50:50.928Z",
+    "totalReviewsExtracted": 2628,
+    "extractedAt": "2026-11-05T12:59:06.116Z",
     "source": "google-play"
   }
 }

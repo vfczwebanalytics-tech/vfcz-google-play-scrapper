@@ -1,18 +1,137 @@
 {
   "ratings": {
-    "score": 3.6894503,
+    "score": 3.6964285,
     "scoreText": "3,7",
-    "totalRatings": 7124,
-    "totalReviews": 2800,
+    "totalRatings": 7141,
+    "totalReviews": 2808,
     "histogram": {
-      "1": 1745,
-      "2": 242,
-      "3": 390,
-      "4": 835,
-      "5": 3905
+      "1": 1742,
+      "2": 243,
+      "3": 392,
+      "4": 817,
+      "5": 3942
     }
   },
   "reviews": [
+    {
+      "id": "4d9a42cb-3b09-4ca8-a5c9-1eea2d109d35",
+      "userName": "Josef Sadílek",
+      "date": "2026-11-05T11:25:21.149Z",
+      "score": 1,
+      "text": "Hrůza! Neustálé problémy s přihlášením. Biometrické přihlášení nefunguje, přihlášení heslem a následně SMS kódem vrátí zpět na přihlašovací stránku. Proč to dělat jednoduše, když to může Vodafone dělat složitě, že? Toto má být přední poskytovatel komunikačních technologií?",
+      "text_normalized": "hruza! neustale problemy s prihlasenim. biometricke prihlaseni nefunguje, prihlaseni heslem a nasledne sms kodem vrati zpet na prihlasovaci stranku. proc to delat jednoduse, kdyz to muze vodafone delat slozite, ze? toto ma byt predni poskytovatel komunikacnich technologii?",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-05T11:30:25.729Z",
+      "replyText": "Dobrý den, Josefe,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdybyste se ani poté nemohl přihlásit, zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi to prověříme na základě konkrétního příkladu. Martina\n",
+      "version": "3.21.0"
+    },
+    {
+      "id": "2533d872-ce1c-4342-900c-b57d03a9378d",
+      "userName": "Karin",
+      "date": "2026-11-05T08:02:19.536Z",
+      "score": 1,
+      "text": "aplikace totálně ne funkční u Vodafonu jsem 10 let a nikdy s tím ne byl takový problém jako poslední dobou chytni jak tágo prej zkuste odinstalovat to vůbec ne zabere!! spíš je to ještě horší jen bílý obraz ani ta přihlašovací obrazovka už...🤬😡 člověk aby furt lízal na kamennou prodejnu místo toho aby si co potřebuje udělal v klidu doma přes aplikaci 👎",
+      "text_normalized": "aplikace totalne ne funkcni u vodafonu jsem 10 let a nikdy s tim ne byl takovy problem jako posledni dobou chytni jak tago prej zkuste odinstalovat to vubec ne zabere!! spis je to jeste horsi jen bily obraz ani ta prihlasovaci obrazovka uz...🤬😡 clovek aby furt lizal na kamennou prodejnu misto toho aby si co potrebuje udelal v klidu doma pres aplikaci 👎",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-11-05T08:37:58.316Z",
+      "replyText": "Pěkný den, Karin,\npřeinstalování aplikace zajistí to, že budete mít v telefonu její poslední verzi. Pokud se potýkáte s potížemi, pošlete nám prosím podrobnosti a screenshoty na e-mailovou adresu aplikace@vodafone.cz. Veronika",
+      "version": "3.21.0"
+    },
+    {
+      "id": "ac2d6c05-e204-4c3c-b624-6485f98567a8",
+      "userName": "Lenka Dbalá",
+      "date": "2026-11-05T06:31:31.600Z",
+      "score": 3,
+      "text": "aplikace neuvadí přesně částky které jsou skutečně (po slevách) účtovány",
+      "text_normalized": "aplikace neuvadi presne castky ktere jsou skutecne (po slevach) uctovany",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-05T06:59:30.769Z",
+      "replyText": "Dobrý den, Lenko,\nna to bychom se rádi podívali konkrétně. Zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, co přesně vám v aplikaci nesouhlasí, prověříme to. Martina\n",
+      "version": "3.21.0"
+    },
+    {
+      "id": "152db049-2691-488e-a443-b6b892b34c9c",
+      "userName": "Jan Procházka",
+      "date": "2026-11-05T03:18:06.440Z",
+      "score": 1,
+      "text": "Ta aplikace je hotová katastrofa i ta jedna hvězda je hodně.",
+      "text_normalized": "ta aplikace je hotova katastrofa i ta jedna hvezda je hodne.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-05T06:16:56.371Z",
+      "replyText": "Dobrý den, Jane,\nje mi líto, že vám aplikace nevyhovuje 🙁 Pokud vám v ní nefunguje něco konkrétního, dejte nám prosím vědět na 800 77 00 77 nebo přes https://tam.je/dotaz. Martina",
+      "version": null
+    },
+    {
+      "id": "d79004f4-0fd4-4f73-9b55-63c89f27cf3b",
+      "userName": "Josef Sekyrka",
+      "date": "2026-11-04T21:30:38.675Z",
+      "score": 5,
+      "text": "Aplikace splňuje očekávané. Co by se dalo zlepšit - něco jistě, ale momentálně žádný nápad.",
+      "text_normalized": "aplikace splnuje ocekavane. co by se dalo zlepsit - neco jiste, ale momentalne zadny napad.",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-11-05T06:16:19.592Z",
+      "replyText": "Dobrý den, Josefe,\nděkujeme za vaše hodnocení 🙂 Martina",
+      "version": "3.21.0"
+    },
+    {
+      "id": "e45fbcb3-c475-430a-92b2-48a47c200fb9",
+      "userName": "Daniel Dvořák",
+      "date": "2026-11-04T16:15:56.977Z",
+      "score": 1,
+      "text": "Pokaždé když chci stáhnout vyúčtování, tak se objeví chyba. Aplikace je nespolehlivá jako do této doby všechny aplikace od Vodafonu, od webu až po aplikaci v internetové televizi, která je extrémně pomalá a neovladatelná. Asi je dnes problém dělat věci pořádně.",
+      "text_normalized": "pokazde kdyz chci stahnout vyuctovani, tak se objevi chyba. aplikace je nespolehliva jako do teto doby vsechny aplikace od vodafonu, od webu az po aplikaci v internetove televizi, ktera je extremne pomala a neovladatelna. asi je dnes problem delat veci poradne.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita"
+      ],
+      "replyDate": "2026-11-04T16:33:13.498Z",
+      "replyText": "Pěkný den, Danieli,\npokud vyskakuje chyba při stažení Vyúčtování, pošlete nám prosím screenshot přes https://tam.je/dotaz, rádi to prověříme. Veronika",
+      "version": "3.21.0"
+    },
+    {
+      "id": "a9b236e5-413d-4f4b-8aa3-5416f70d4043",
+      "userName": "Luboš Tuhý",
+      "date": "2026-11-04T15:25:09.757Z",
+      "score": 1,
+      "text": "Aplikace k ničemu. Biometrické přihlášení nefunguje. Ani pomocí emailu a hesla s oveřovacím kódem přihlášení nefunguje.",
+      "text_normalized": "aplikace k nicemu. biometricke prihlaseni nefunguje. ani pomoci emailu a hesla s overovacim kodem prihlaseni nefunguje.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-04T15:56:21.403Z",
+      "replyText": "Pěkný den, Luboši,\npo některých aktualizacích je potřeba se do aplikace přihlásit údaji, poté si stačí znovu biometriku nastavit. Veronika",
+      "version": "3.21.0"
+    },
+    {
+      "id": "def98977-1c7a-414e-84e0-4dd2b6dfd3f7",
+      "userName": "Sabina Cihlarova",
+      "date": "2026-11-04T15:17:40.346Z",
+      "score": 2,
+      "text": "Nelze se mi tam přihlásit, zkouším to už asi měsíc a nic. Zadám přihlašovací jméno a heslo poté mi přijde SMS kód, ten zadám a pak mě to vrátí zpátky na přihlašovací údaje. Předtím bylo vše v pořádku. Prosím o opravu",
+      "text_normalized": "nelze se mi tam prihlasit, zkousim to uz asi mesic a nic. zadam prihlasovaci jmeno a heslo pote mi prijde sms kod, ten zadam a pak me to vrati zpatky na prihlasovaci udaje. predtim bylo vse v poradku. prosim o opravu",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-04T15:27:58.500Z",
+      "replyText": "Pěkný den, Sabino,\naplikaci prosím z telefonu odinstalujte a znovu nainstalujte. Tím budeme mít jistotu, že máte v telefonu poslední verzi aplikace. Pokud budou potíže trvat i poté, tak nám prosím pošlete screenshot a další podrobnosti na e-mail aplikace@vodafone.cz. Veronika",
+      "version": "3.21.0"
+    },
     {
       "id": "aad223ce-6e4a-4336-bf1c-208c228020e5",
       "userName": "Anna Golova",
@@ -38547,8 +38666,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2628,
-    "extractedAt": "2026-11-05T12:59:06.116Z",
+    "totalReviewsExtracted": 2636,
+    "extractedAt": "2026-11-06T12:46:45.704Z",
     "source": "google-play"
   }
 }
