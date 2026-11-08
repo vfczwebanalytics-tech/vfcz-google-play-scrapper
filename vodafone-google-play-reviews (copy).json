@@ -1,18 +1,136 @@
 {
   "ratings": {
-    "score": 3.6964285,
+    "score": 3.6903703,
     "scoreText": "3,7",
-    "totalRatings": 7141,
-    "totalReviews": 2808,
+    "totalRatings": 7157,
+    "totalReviews": 2813,
     "histogram": {
-      "1": 1742,
+      "1": 1769,
       "2": 243,
-      "3": 392,
-      "4": 817,
-      "5": 3942
+      "3": 381,
+      "4": 794,
+      "5": 3964
     }
   },
   "reviews": [
+    {
+      "id": "66fecee3-9cf0-4b3e-8c58-785abf203ee5",
+      "userName": "Lukáš Schejbal",
+      "date": "2026-11-06T08:28:12.728Z",
+      "score": 1,
+      "text": "dlouhodobě nefunkční, úprava... nepomáhá nic",
+      "text_normalized": "dlouhodobe nefunkcni, uprava... nepomaha nic",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-06T06:38:38.129Z",
+      "replyText": "Dobrý den, Lukáši,\nje mi líto, pokud máte s aplikací potíže 🙁 Žádný plošný výpadek ale teď neevidujeme, proto bych vám ráda doporučila ji zkusit odinstalovat, restartovat telefon a nainstalovat ji zpět. Kdyby to nepomohlo, napište nám prosím na aplikace@vodafone.cz. Viki",
+      "version": "3.21.0"
+    },
+    {
+      "id": "f7979e7c-5811-4f44-827a-fe79dbe5e212",
+      "userName": "Vladislav Hřebejk",
+      "date": "2026-11-06T08:02:47.639Z",
+      "score": 5,
+      "text": "Do teď to nějakým způsobem šlo, ale teď se nemůžu přihlásit vždycky mě to po zadání SMS kódu hodí zpátky na přihlášení. Takže používám internet. Tak přeinstalace zafungovala.",
+      "text_normalized": "do ted to nejakym zpusobem slo, ale ted se nemuzu prihlasit vzdycky me to po zadani sms kodu hodi zpatky na prihlaseni. takze pouzivam internet. tak preinstalace zafungovala.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-06T06:41:02.996Z",
+      "replyText": "Dobrý den, Vladislave,\nmrzí mě, že máte s přihlášením takové potíže. Zkuste prosím aplikaci odinstalovat, restartovat telefon a následně ji znovu nainstalovat. Pokud by problém přetrvával, napište nám prosím na aplikace@vodafone.cz. Viki",
+      "version": "3.21.0"
+    },
+    {
+      "id": "72c01f3a-1c6b-43a9-bcbd-987b7651d433",
+      "userName": "Sandokan",
+      "date": "2026-11-06T07:34:59.987Z",
+      "score": 5,
+      "text": "vše ok",
+      "text_normalized": "vse ok",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-06T06:36:31.943Z",
+      "replyText": "Dobrý den, Sandokane,\npodle vašeho popisu nemáte přiřazený zákaznický účet pod e-mailové přihlášení, proto údaje nevidíte. Napište nám prosím na aplikace@vodafone.cz a kromě popisu potíží prosím připojte také telefonní číslo a 1. a 3. pozici z číselného administrátorského hesla. Rádi vám pomůžeme. Viki\n",
+      "version": "3.21.0"
+    },
+    {
+      "id": "9d4956f4-cc29-4343-acda-7e71deeca496",
+      "userName": "Jan Slechan",
+      "date": "2026-11-05T20:10:45.785Z",
+      "score": 1,
+      "text": "strašná apka, velice často nedostupná zacyklené přihlašování a nikdo s tím nic nedělá",
+      "text_normalized": "strasna apka, velice casto nedostupna zacyklene prihlasovani a nikdo s tim nic nedela",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-11-06T06:33:50.352Z",
+      "replyText": "Dobrý den, Jane,\ndíky za zpětnou vazbu. Mrzí nás, že aplikace nesplňuje vaše očekávání a že jste se setkal s potížemi při přihlašování. Doporučuji zkusit přeinstalaci, případně přepnout z mobilních dat na Wi-Fi nebo naopak. Viki",
+      "version": "3.21.0"
+    },
+    {
+      "id": "07044e77-22ae-4ec5-ba99-9733bb3c97e9",
+      "userName": "Miroslava Brauerova",
+      "date": "2026-11-05T18:34:14.314Z",
+      "score": 1,
+      "text": "Čím dál horší aplikace. Nelze vybrat částka dobijeni, pouze 400 děs hnus",
+      "text_normalized": "cim dal horsi aplikace. nelze vybrat castka dobijeni, pouze 400 des hnus",
+      "segments": [
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-05T18:33:28.865Z",
+      "replyText": "Dobrý den, Miroslavo,\nmrzí mě vaše nespokojenost. Přes aplikaci Můj Vodafone+ si můžete dobít kredit od 200 Kč - platební kartou či přes Apple Pay nebo Google Pay. Viki",
+      "version": null
+    },
+    {
+      "id": "b8f569f5-9873-434d-a3b1-6051608cd10b",
+      "userName": "Tomáš Flegr",
+      "date": "2026-11-05T16:05:43.666Z",
+      "score": 1,
+      "text": "Po aktualizaci velký špatný. Jen se do ní přihlásit je úkol na x minut. Furt se točí to logo a nic, pak se chytí a zase logo a nic. Odinstalace a zpětná instalace nepomahá. Už 3 měsíce cca vše dělám jen přes prohlížeč.",
+      "text_normalized": "po aktualizaci velky spatny. jen se do ni prihlasit je ukol na x minut. furt se toci to logo a nic, pak se chyti a zase logo a nic. odinstalace a zpetna instalace nepomaha. uz 3 mesice cca vse delam jen pres prohlizec.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-11-05T16:37:26.683Z",
+      "replyText": "Dobrý den, Tomáši,\nráda bych vám doporučila tuto stránku: https://www.vodafone.cz/pece/muj-vodafone/hesla/prihlaseni-muj-vodafone-nefunguje/. Kdyby vám uvedené kroky nepomohly, napište nám prosím podrobnosti přes https://tam.je/dotaz. Viki",
+      "version": "3.4.1"
+    },
+    {
+      "id": "2dff875f-4cd9-47c8-a8cf-57ea780c661f",
+      "userName": "Petr Šraier",
+      "date": "2026-11-05T15:06:38.484Z",
+      "score": 2,
+      "text": "1) Google Pixel 9a, Android 17: nejde se přihlásit mailem a heslem, možná by ale šlo přes mobilní data. Funguje přihlášení foťákem přes QR kód na webu. 2) Samsung Galaxy Note 9, Android 10: nejde se přihlásit mailem a heslem. Bohužel nefunguje ani přihlášení foťákem přes QR kód na webu. Nakonec fungovalo přihlášení mailem a heslem, ale pozor, POUZE PŘES MOBILNÍ DATA!!! 😡😡😡 Pokud přihlášení přes WiFi nefunguje (jsem teď doma), očekával bych, že na to aplikace upozorní dopředu.🙄",
+      "text_normalized": "1) google pixel 9a, android 17: nejde se prihlasit mailem a heslem, mozna by ale slo pres mobilni data. funguje prihlaseni fotakem pres qr kod na webu. 2) samsung galaxy note 9, android 10: nejde se prihlasit mailem a heslem. bohuzel nefunguje ani prihlaseni fotakem pres qr kod na webu. nakonec fungovalo prihlaseni mailem a heslem, ale pozor, pouze pres mobilni data!!! 😡😡😡 pokud prihlaseni pres wifi nefunguje (jsem ted doma), ocekaval bych, ze na to aplikace upozorni dopredu.🙄",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Platba_a_vyuctovani",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": null,
+      "replyText": null,
+      "version": "3.21.0"
+    },
+    {
+      "id": "078f1aa0-6d5b-4a4c-917e-bf6cf8761593",
+      "userName": "Roman Wilder",
+      "date": "2026-11-05T13:59:42.669Z",
+      "score": 1,
+      "text": "Po pár měsících jsem zkusil znovu nainstalovat. Výborná aplikace. Právě mě přesvědčovala, že moje přihlašovací údaje neexistují nebo jsou chybné. Zvláštní, když se s nimi přes web normálně přihlásím. Stejný problém jsem měl před pár měsíci, nepoužívám VPN, dělá to přes data i WiFi. Vážně má ve Vodafonu někdo pocit, že peníze utracené za její vývoj, nebyly vyhozené z okna? Takže opět odinstalovat a budu používat web. Díky Vodafone",
+      "text_normalized": "po par mesicich jsem zkusil znovu nainstalovat. vyborna aplikace. prave me presvedcovala, ze moje prihlasovaci udaje neexistuji nebo jsou chybne. zvlastni, kdyz se s nimi pres web normalne prihlasim. stejny problem jsem mel pred par mesici, nepouzivam vpn, dela to pres data i wifi. vazne ma ve vodafonu nekdo pocit, ze penize utracene za jeji vyvoj, nebyly vyhozene z okna? takze opet odinstalovat a budu pouzivat web. diky vodafone",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-11-05T14:31:47.490Z",
+      "replyText": "Dobrý den, Romane,\nrádi to prověříme, můžete nám napsat přes tento formulář https://tam.je/dotaz. Kromě popisu potíží prosím připojte také verzi aplikace, typ telefonu, operační systém a screen chyby. Viki",
+      "version": null
+    },
     {
       "id": "4d9a42cb-3b09-4ca8-a5c9-1eea2d109d35",
       "userName": "Josef Sadílek",
@@ -38666,8 +38784,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2636,
-    "extractedAt": "2026-11-06T12:46:45.704Z",
+    "totalReviewsExtracted": 2644,
+    "extractedAt": "2026-11-07T11:35:06.712Z",
     "source": "google-play"
   }
 }

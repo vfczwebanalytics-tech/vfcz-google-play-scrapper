@@ -1,18 +1,106 @@
 {
   "ratings": {
-    "score": 3.6903703,
+    "score": 3.6860466,
     "scoreText": "3,7",
-    "totalRatings": 7157,
-    "totalReviews": 2813,
+    "totalRatings": 7170,
+    "totalReviews": 2821,
     "histogram": {
-      "1": 1769,
-      "2": 243,
-      "3": 381,
-      "4": 794,
-      "5": 3964
+      "1": 1770,
+      "2": 259,
+      "3": 385,
+      "4": 781,
+      "5": 3969
     }
   },
   "reviews": [
+    {
+      "id": "5a166602-1b1a-424a-838c-32547ff72b70",
+      "userName": "Martin Sněhota",
+      "date": "2026-11-07T11:37:56.569Z",
+      "score": 2,
+      "text": "Porad se odhlašuje. A přihlášení jako takové funguje podle větru. Takže poslední dobou je apka úplně k .....",
+      "text_normalized": "porad se odhlasuje. a prihlaseni jako takove funguje podle vetru. takze posledni dobou je apka uplne k .....",
+      "segments": [
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-07T12:28:23.482Z",
+      "replyText": "Hezký den, Martine,\nje mi líto, že máte potíže s přihlášením 🙁 Zkuste aplikaci přeinstalovat, věřím, že to bude v pořádku. Pokud by potíže přetrvávaly, zavolejte nám na linku *77 a kolegové se na to s vámi podívají. Zuzana",
+      "version": "3.21.0"
+    },
+    {
+      "id": "461a07cb-328c-4722-a980-9a0be1d9e48a",
+      "userName": "Josef Šebek",
+      "date": "2026-11-07T02:47:44.500Z",
+      "score": 5,
+      "text": "Dobrý den,co se týká Vodafonu ,já jsem spokojený",
+      "text_normalized": "dobry den,co se tyka vodafonu ,ja jsem spokojeny",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-07T07:24:02.557Z",
+      "replyText": "Hezký den, Josefe,\nděkujeme za kladné hodnocení, jsme rádi, že vám aplikace vyhovuje 🙂 Zuzana",
+      "version": "3.16.2"
+    },
+    {
+      "id": "eee9e0ed-9d32-425f-91aa-ab86300ab414",
+      "userName": "Michaela Svobodová",
+      "date": "2026-11-06T20:21:49.150Z",
+      "score": 1,
+      "text": "nejde se vubec prihlasit i kdyz sem zmenila heslo. i jsem odinstalovala a opet nic. uz to delam 2 dny..byla jsem i na pobocce ale bohuzel jsem tam dostavala skoleni a nabidku produktu misto pomoci. za me tragedie",
+      "text_normalized": "nejde se vubec prihlasit i kdyz sem zmenila heslo. i jsem odinstalovala a opet nic. uz to delam 2 dny..byla jsem i na pobocce ale bohuzel jsem tam dostavala skoleni a nabidku produktu misto pomoci. za me tragedie",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-07T07:23:29.576Z",
+      "replyText": "Hezký den, Michaelo,\nje mi líto, že máte potíže s přihlášením do aplikace 🙁 Pokud jste ji odinstalovala a nepomohlo to, zavolejte nám na linku *77 a společně s kolegy situaci prověříme. Zuzana",
+      "version": "3.21.0"
+    },
+    {
+      "id": "a1daf0c5-9561-4d48-b78c-a00a541fad08",
+      "userName": "Zdeněk Prokop",
+      "date": "2026-11-06T19:14:56.276Z",
+      "score": 1,
+      "text": "Nejhorší aplikace, se kterou jsem se setkal!!! K zbliti, tím končí veškerá má spolupráce s Vodafonem, čau.",
+      "text_normalized": "nejhorsi aplikace, se kterou jsem se setkal!!! k zbliti, tim konci veskera ma spoluprace s vodafonem, cau.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-07T07:22:42.292Z",
+      "replyText": "Hezký den, Zdeňku,\nje mi líto, že nejste s aplikací spokojený 🙁 Zavolejte nám na linku *77 a nebo nám napište přes zabezpečený formulář https://tam.je/dotaz a rádi se s vámi na služby podíváme. Zuzana",
+      "version": "3.21.0"
+    },
+    {
+      "id": "89e64dc4-d4fe-41cf-8daa-47b058980fc7",
+      "userName": "Petr Peroutka",
+      "date": "2026-11-06T15:13:15.634Z",
+      "score": 1,
+      "text": "Otřesná aplikace, která průměrna 2x měsíčne zresetuje přihlašovací údale a zruší nastavené biometrické ověření.",
+      "text_normalized": "otresna aplikace, ktera prumerna 2x mesicne zresetuje prihlasovaci udale a zrusi nastavene biometricke overeni.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-11-06T15:37:11.518Z",
+      "replyText": "Hezký den, Petře,\nje mi líto, že nejste s aplikací spokojený 🙁 Doporučuji ji přeinstalovat, věřím, že poté bude vše v pořádku fungovat. Zuzana",
+      "version": "3.21.0"
+    },
+    {
+      "id": "ddacfa29-854e-4b6f-b812-a19f851eed00",
+      "userName": "Miluše Branke",
+      "date": "2026-11-06T12:07:56.848Z",
+      "score": 2,
+      "text": "Po aktualizaci mne to stále hází zpět na přihlašovací stránku. Heslo i změneno a stále se nedaří do appky přihlásit.",
+      "text_normalized": "po aktualizaci mne to stale hazi zpet na prihlasovaci stranku. heslo i zmeneno a stale se nedari do appky prihlasit.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-11-06T12:39:22.570Z",
+      "replyText": "Dobrý den, Miluše,\nje mi líto, že máte potíže s přihlášením 🙁 Prosím zkuste aplikaci přeinstalovat a také restartovat telefon. Případně také přepněte z mobilních dat na Wi-Fi nebo naopak. Tyto kroky by měly pomoci. Viki",
+      "version": "3.21.0"
+    },
     {
       "id": "66fecee3-9cf0-4b3e-8c58-785abf203ee5",
       "userName": "Lukáš Schejbal",
@@ -38784,8 +38872,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2644,
-    "extractedAt": "2026-11-07T11:35:06.712Z",
+    "totalReviewsExtracted": 2650,
+    "extractedAt": "2026-11-08T11:47:11.504Z",
     "source": "google-play"
   }
 }
