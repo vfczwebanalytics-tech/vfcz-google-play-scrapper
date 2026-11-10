@@ -1,18 +1,61 @@
 {
   "ratings": {
-    "score": 3.6691394,
+    "score": 3.6573117,
     "scoreText": "3,7",
-    "totalRatings": 7180,
-    "totalReviews": 2825,
+    "totalRatings": 7183,
+    "totalReviews": 2827,
     "histogram": {
-      "1": 1799,
-      "2": 276,
-      "3": 372,
-      "4": 777,
-      "5": 3951
+      "1": 1824,
+      "2": 275,
+      "3": 370,
+      "4": 773,
+      "5": 3936
     }
   },
   "reviews": [
+    {
+      "id": "8bb076fb-f1b2-46e8-add2-1717f5b5111f",
+      "userName": "Petr Šlachta",
+      "date": "2026-11-09T12:47:17.890Z",
+      "score": 1,
+      "text": "Nelze se přihlásit.",
+      "text_normalized": "nelze se prihlasit.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-09T13:15:26.724Z",
+      "replyText": "Dobrý den, Petře,\nmrzí mě, že máte potíže s přihlášením. Zkuste prosím aplikaci odinstalovat a znovu stáhnout. Pak se přihlaste s vaším e-mailem, alfanumerickým heslem a kódem z SMSky. Kdyby přeinstalování nepomohlo, zavolejte nám prosím na 800 77 00 77, prověříme to. Martina",
+      "version": "3.21.0"
+    },
+    {
+      "id": "1aab2257-3111-4908-8402-6eb986019b53",
+      "userName": "Tomáš Brandejský",
+      "date": "2026-11-09T09:43:34.145Z",
+      "score": 1,
+      "text": "Příšerně pomalé, nepřehledné, haldy reklam, k ničemu.",
+      "text_normalized": "priserne pomale, neprehledne, haldy reklam, k nicemu.",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-11-09T10:18:01.353Z",
+      "replyText": "Pěkný den, Tomáši,\npokud je aplikace pomalá, tak ji prosím odinstalujte, telefon vypněte a zapněte a znovu nainstalujte. Tím budete mít jistotu, že máte v telefonu její poslední verzi, dále také záleží na tom, jaké změny se pokoušíte zadat, protože v některých případech odkazuje do webové samoobsluhy. Veronika",
+      "version": null
+    },
+    {
+      "id": "a2011689-ccb5-49a9-8f1c-43f7c54e7930",
+      "userName": "Pavel Novák",
+      "date": "2026-11-08T20:35:55.228Z",
+      "score": 5,
+      "text": "Dobrá aplikace.",
+      "text_normalized": "dobra aplikace.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-09T06:26:14.989Z",
+      "replyText": "Dobrý den, Pavle,\nděkujeme za milé hodnocení 🙂 Jsem moc ráda, že se vám aplikace Můj Vodafone+ líbí. Viki",
+      "version": "3.21.0"
+    },
     {
       "id": "50f2dcee-d21a-4f55-8ccf-2e1de24cdfff",
       "userName": "Milan Vesely",
@@ -38966,8 +39009,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2656,
-    "extractedAt": "2026-11-09T13:42:14.403Z",
+    "totalReviewsExtracted": 2659,
+    "extractedAt": "2026-11-10T13:20:16.400Z",
     "source": "google-play"
   }
 }

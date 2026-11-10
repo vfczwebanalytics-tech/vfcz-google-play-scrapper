@@ -1,18 +1,112 @@
 {
   "ratings": {
-    "score": 3.6860466,
+    "score": 3.6691394,
     "scoreText": "3,7",
-    "totalRatings": 7170,
-    "totalReviews": 2821,
+    "totalRatings": 7180,
+    "totalReviews": 2825,
     "histogram": {
-      "1": 1770,
-      "2": 259,
-      "3": 385,
-      "4": 781,
-      "5": 3969
+      "1": 1799,
+      "2": 276,
+      "3": 372,
+      "4": 777,
+      "5": 3951
     }
   },
   "reviews": [
+    {
+      "id": "50f2dcee-d21a-4f55-8ccf-2e1de24cdfff",
+      "userName": "Milan Vesely",
+      "date": "2026-11-08T13:26:08.826Z",
+      "score": 1,
+      "text": "Asi nejpomalejší aplikace a to dlouhodobě, co v telefonu mám, ani na PC to není o moc lepší, ale alespoň tam lze služby nějak přenastavit. V aplikaci si po přihlášení lze prohlédnout pouze úvodní stránku s přehledem využívaných služeb. V případě snahy si něco přenastavit, třeba zrychlení dat na den na maximum, se aplikace sekne a zobrazí se pouze bílá plocha a tím to skončí. Dle recenzí nejsem jediný, kdo má s aplikací problémy. Po doporučeném přeinstalování aplikace se nelze přihlásit vůbec.👍",
+      "text_normalized": "asi nejpomalejsi aplikace a to dlouhodobe, co v telefonu mam, ani na pc to neni o moc lepsi, ale alespon tam lze sluzby nejak prenastavit. v aplikaci si po prihlaseni lze prohlednout pouze uvodni stranku s prehledem vyuzivanych sluzeb. v pripade snahy si neco prenastavit, treba zrychleni dat na den na maximum, se aplikace sekne a zobrazi se pouze bila plocha a tim to skonci. dle recenzi nejsem jediny, kdo ma s aplikaci problemy. po doporucenem preinstalovani aplikace se nelze prihlasit vubec.👍",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-08T06:53:23.982Z",
+      "replyText": "Hezký den, Milane,\nje mi líto, že máte potíže s aplikací 🙁 Doporučuji ji přeinstalovat, věřím, že to pomůže. Pokud by potíže trvaly, zavolejte nám na linku *77 a kolegové to s vámi prověří. Zuzana",
+      "version": "3.21.0"
+    },
+    {
+      "id": "d7b4728e-26ed-4a3d-bbf8-21d92b91f6de",
+      "userName": "Zdenek Behounek",
+      "date": "2026-11-07T20:27:17.900Z",
+      "score": 1,
+      "text": "Nejhorší aplikace mezi operátory. Nefunguje mi přihlášení již čtrnáct dní. A i když to bylo funkční, tak zase zlobilo něco jiného. Ať si najmou programátory, kteří dělali aplikace pro O2 nebo Poda. Jejich aplikace fungují bez problémů.",
+      "text_normalized": "nejhorsi aplikace mezi operatory. nefunguje mi prihlaseni jiz ctrnact dni. a i kdyz to bylo funkcni, tak zase zlobilo neco jineho. at si najmou programatory, kteri delali aplikace pro o2 nebo poda. jejich aplikace funguji bez problemu.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-08T06:55:07.297Z",
+      "replyText": "Hezký den, Zdenku,\nje mi líto, že jste nespokojený s aplikací 🙁 Zkuste aplikaci Můj Vodafone+ přeinstalovat, věřím, že poté bude v pořádku funkční. Pokud by i nadále potíže přetrvávaly, zavolejte nám na linku *77 a kolegové to s vámi prověří. Zuzana",
+      "version": "3.21.0"
+    },
+    {
+      "id": "5b26185c-ebee-40a2-bfbf-0fe267759a60",
+      "userName": "Jiří BOUBÍN",
+      "date": "2026-11-07T18:48:55.541Z",
+      "score": 1,
+      "text": "Nemohu se přihlásit. po zadání přihlašovacích údajů mi přijde potvrzovací kód, ten zadám, ale nepřihlásí mě to. Aplikaci jsem odinstaloval, nainstaloval znovu, ale problém zůstal. počkám ještě měsíc. pak definitivní odinstalace.",
+      "text_normalized": "nemohu se prihlasit. po zadani prihlasovacich udaju mi prijde potvrzovaci kod, ten zadam, ale neprihlasi me to. aplikaci jsem odinstaloval, nainstaloval znovu, ale problem zustal. pockam jeste mesic. pak definitivni odinstalace.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-11-08T06:43:05.840Z",
+      "replyText": "Hezký den, Jiří,\nje mi líto, že máte potíže 🙁 Pokud nepomohlo přeinstalování aplikace, budeme se na to potřebovat podívat konkrétně. Zavolejte nám na linku *77 a vše prověříme. Zuzana",
+      "version": "3.21.0"
+    },
+    {
+      "id": "eb07af93-3efb-45b2-9dd9-fc9670941740",
+      "userName": "Tom Eisenkolb",
+      "date": "2026-11-07T15:53:23.778Z",
+      "score": 1,
+      "text": "Dnes 7.11. je aplikace nefunkční. Při pokusu o přihlášení stále háže na původní stránku. Celý den pokusy o přihlášení jsou neúspěšné. Hrůza. Doplním - Smazána cache, data, odinstalace, instalace z obchodu, pokus o přihlášení nejúspěšné. Smazána data a cache. Znovu nejúspěšný pokus. Konečná. Na lince mi s tím nepomůžou. A oblíbená hláška nakonec - ANO, 2x jsem restartoval telefon.",
+      "text_normalized": "dnes 7.11. je aplikace nefunkcni. pri pokusu o prihlaseni stale haze na puvodni stranku. cely den pokusy o prihlaseni jsou neuspesne. hruza. doplnim - smazana cache, data, odinstalace, instalace z obchodu, pokus o prihlaseni nejuspesne. smazana data a cache. znovu nejuspesny pokus. konecna. na lince mi s tim nepomuzou. a oblibena hlaska nakonec - ano, 2x jsem restartoval telefon.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-07T15:08:38.940Z",
+      "replyText": "Hezký den, Tome,\nje mi líto, že máte potíže s aplikací 🙁 Doporučuji aplikaci přeinstalovat, věřím, že to bude v pořádku. Aplikaci v funguje. Pokud by potíže trvaly, zavolejte nám na linku *77 a kolegové to s vámi prověří. Zuzana",
+      "version": "3.21.0"
+    },
+    {
+      "id": "aacca543-dda3-4829-b5a1-ed6efb71ecc7",
+      "userName": "Blani St",
+      "date": "2026-11-07T15:28:43.163Z",
+      "score": 2,
+      "text": "Pomalá aplikace, která neustále a opakovaně vyžaduje potvrzení cookies. Problém se zapínáním zrychlení u 2 telefonních čísel.",
+      "text_normalized": "pomala aplikace, ktera neustale a opakovane vyzaduje potvrzeni cookies. problem se zapinanim zrychleni u 2 telefonnich cisel.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita"
+      ],
+      "replyDate": "2026-11-07T15:44:05.920Z",
+      "replyText": "Hezký den, Blani,\nje mi líto, že nejste s aplikací spokojená 🙁 Doporučuji v tomto případě aplikaci přeinstalovat, věřím, že to bude v pořádku. Pokud by potíže trvaly, zavolejte nám na linku *77 a situaci prověříme. Zuzana",
+      "version": null
+    },
+    {
+      "id": "bb166005-4700-4906-b27b-157b553af5ea",
+      "userName": "Martin Hloušek",
+      "date": "2026-11-07T15:10:33.247Z",
+      "score": 1,
+      "text": "Po aktualizaci se nelze přihlásit. Po zadání kódu z SMS to hází zpět na přihlašovací stránku. Hrozný...prosím o opravu",
+      "text_normalized": "po aktualizaci se nelze prihlasit. po zadani kodu z sms to hazi zpet na prihlasovaci stranku. hrozny...prosim o opravu",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-07T15:45:08.225Z",
+      "replyText": "Hezký den, Martine,\nmrzí mě, že máte potíže s přihlášením 🙁 Aplikaci zkuste přeinstalovat, věřím, že to bude v pořádku. Pokud by potíže přetrvávaly, zavolejte nám na linku *77 a kolegové to s vámi prověří. Zuzana",
+      "version": "3.21.0"
+    },
     {
       "id": "5a166602-1b1a-424a-838c-32547ff72b70",
       "userName": "Martin Sněhota",
@@ -38872,8 +38966,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2650,
-    "extractedAt": "2026-11-08T11:47:11.504Z",
+    "totalReviewsExtracted": 2656,
+    "extractedAt": "2026-11-09T13:42:14.403Z",
     "source": "google-play"
   }
 }
