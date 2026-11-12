@@ -1,18 +1,94 @@
 {
   "ratings": {
-    "score": 3.6573117,
+    "score": 3.6656716,
     "scoreText": "3,7",
-    "totalRatings": 7183,
-    "totalReviews": 2827,
+    "totalRatings": 7195,
+    "totalReviews": 2829,
     "histogram": {
-      "1": 1824,
-      "2": 275,
-      "3": 370,
-      "4": 773,
-      "5": 3936
+      "1": 1814,
+      "2": 279,
+      "3": 364,
+      "4": 772,
+      "5": 3961
     }
   },
   "reviews": [
+    {
+      "id": "0f8acf97-9b79-4001-9f4d-fef1bd388cc4",
+      "userName": "Tomáš Schön",
+      "date": "2026-11-10T05:28:47.532Z",
+      "score": 1,
+      "text": "Chtěl jsem apku vyzkoušet. Po instalaci 3 pokusy o přihlášení. Vždy přestala reagovat. Gratuluji, snad si vzpomenu až opět uvidím reklamu na spokojenou rodinu u Vodafone.",
+      "text_normalized": "chtel jsem apku vyzkouset. po instalaci 3 pokusy o prihlaseni. vzdy prestala reagovat. gratuluji, snad si vzpomenu az opet uvidim reklamu na spokojenou rodinu u vodafone.",
+      "segments": [
+        "UI",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-10T06:16:03.204Z",
+      "replyText": "Hezký den, Tomáši,\ntakové potíže mě mrzí 🙁 Zkuste prosím aplikaci přeinstalovat. V případě, že by to nepomohlo, napište nám podrobnosti přes https://tam.je/dotaz, rádi se na to podíváme konkrétněji. Lucie",
+      "version": "3.21.0"
+    },
+    {
+      "id": "9f37a31f-fcf0-495d-9227-4d35c7f3a660",
+      "userName": "Jan Vajčner",
+      "date": "2026-11-09T19:48:41.594Z",
+      "score": 1,
+      "text": "je to velmi odporná aplikace. kde najdu pod jednotlivých čísly volání do zahraničí ve staré aplikaci to bylo vždy vidět. je to nejhorší aplikace kterou mám v telefonu a hodně uvažuji o odchodu od Vodafonu",
+      "text_normalized": "je to velmi odporna aplikace. kde najdu pod jednotlivych cisly volani do zahranici ve stare aplikaci to bylo vzdy videt. je to nejhorsi aplikace kterou mam v telefonu a hodne uvazuji o odchodu od vodafonu",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-10T06:15:20.187Z",
+      "replyText": "Pěkný den, Jane,\nje mi líto, že jste nespokojený 🙁 Podrobný výpis najdete ve Vyúčtování, které si v aplikaci můžete stáhnout. Lucie",
+      "version": "3.21.0"
+    },
+    {
+      "id": "f286d2af-3295-4d40-8f0a-fb19a1c08e50",
+      "userName": "Super Vladys",
+      "date": "2026-11-09T19:38:05.525Z",
+      "score": 1,
+      "text": "Nejde se prihlasit to je opravdu uz nedustojne",
+      "text_normalized": "nejde se prihlasit to je opravdu uz nedustojne",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-10T06:14:31.970Z",
+      "replyText": "Pěkný den,\nje mi líto, že máte potíže s přihlášením 🙁 Zkuste prosím aplikaci přeinstalovat. Pokud by to nepomohlo, napište nám prosím podrobnosti přes https://tam.je/dotaz, rádi se na to podíváme konkrétněji. Lucie",
+      "version": "3.21.0"
+    },
+    {
+      "id": "99b9cd0b-ba08-46c0-9ecd-21876f2e12d4",
+      "userName": "Veru Jarešová",
+      "date": "2026-11-09T15:39:26.521Z",
+      "score": 5,
+      "text": "Posledních pár dní se do aplikace nelze přihlásit. Po zadání emailu, hesla a ověřovacího kódu, vás to hodí zpět na začátek a chce to znovu zadat email a heslo. Děkuji za odpověď, pomohlo to, už funguje jak má.",
+      "text_normalized": "poslednich par dni se do aplikace nelze prihlasit. po zadani emailu, hesla a overovaciho kodu, vas to hodi zpet na zacatek a chce to znovu zadat email a heslo. dekuji za odpoved, pomohlo to, uz funguje jak ma.",
+      "segments": [
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-09T11:18:27.237Z",
+      "replyText": "Pěkný den, Veru,\naplikaci prosím odinstalujte, telefon vypněte a zapněte a znovu ji nainstalujte. Tím budete mít jistotu, že máte v telefonu její poslední verzi. Pokud budou i poté potíže přetrvávat, pošlete nám prosím k tomu více podrobností a také screenshoty na e-mail aplikace@vodafone.cz. Veronika",
+      "version": "3.21.0"
+    },
+    {
+      "id": "bbbee27f-a605-4ac9-adf6-e67686aee2a4",
+      "userName": "Jaroslav Bajer",
+      "date": "2026-11-09T15:29:07.400Z",
+      "score": 5,
+      "text": "Dělá to co má a dělá to dobře jsem spokojen",
+      "text_normalized": "dela to co ma a dela to dobre jsem spokojen",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-09T15:46:02.808Z",
+      "replyText": "Hezký den, Jaroslave,\ntěší nás, že jste s aplikací spokojený 🙂 Děkujeme za vaše hodnocení. Martina",
+      "version": "3.21.0"
+    },
     {
       "id": "8bb076fb-f1b2-46e8-add2-1717f5b5111f",
       "userName": "Petr Šlachta",
@@ -39009,8 +39085,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2659,
-    "extractedAt": "2026-11-10T13:20:16.400Z",
+    "totalReviewsExtracted": 2664,
+    "extractedAt": "2026-11-11T12:31:07.645Z",
     "source": "google-play"
   }
 }
