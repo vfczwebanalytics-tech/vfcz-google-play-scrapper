@@ -1,18 +1,46 @@
 {
   "ratings": {
-    "score": 3.6656716,
+    "score": 3.68,
     "scoreText": "3,7",
-    "totalRatings": 7195,
-    "totalReviews": 2829,
+    "totalRatings": 7200,
+    "totalReviews": 2833,
     "histogram": {
-      "1": 1814,
-      "2": 279,
-      "3": 364,
-      "4": 772,
-      "5": 3961
+      "1": 1791,
+      "2": 276,
+      "3": 361,
+      "4": 778,
+      "5": 3989
     }
   },
   "reviews": [
+    {
+      "id": "53f64e5e-c433-434e-952f-5d679e2cabb0",
+      "userName": "Claudia Mráčková",
+      "date": "2026-11-11T11:07:42.427Z",
+      "score": 5,
+      "text": "výborná aplikace",
+      "text_normalized": "vyborna aplikace",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-11T11:34:31.523Z",
+      "replyText": "Hezký den, Claudio,\nděkujeme za hodnocení a zpětnou vazbu 🙂 Katka",
+      "version": "3.21.0"
+    },
+    {
+      "id": "7be702f6-3568-441d-bd97-75b59d000983",
+      "userName": "Epic Gamer",
+      "date": "2026-11-11T05:54:18.398Z",
+      "score": 1,
+      "text": "nepoužitelné, nic nenastavíte, pomalé rozhodně přejdu ke konkurenci, hrozný ceny.",
+      "text_normalized": "nepouzitelne, nic nenastavite, pomale rozhodne prejdu ke konkurenci, hrozny ceny.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-11T06:23:55.685Z",
+      "replyText": "Dobrý den,\nmrzí mě, že vám aplikace nevyhovuje 🙁 Pokud pro nás budete mít konkrétní zpětnou vazbu, budeme za ni rádi, aplikaci se snažíme stále rozvíjet a vylepšovat. Katka",
+      "version": "3.21.1"
+    },
     {
       "id": "0f8acf97-9b79-4001-9f4d-fef1bd388cc4",
       "userName": "Tomáš Schön",
@@ -39085,8 +39113,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2664,
-    "extractedAt": "2026-11-11T12:31:07.645Z",
+    "totalReviewsExtracted": 2666,
+    "extractedAt": "2026-11-12T13:36:30.436Z",
     "source": "google-play"
   }
 }
