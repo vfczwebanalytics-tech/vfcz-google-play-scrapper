@@ -1,18 +1,106 @@
 {
   "ratings": {
-    "score": 3.68,
+    "score": 3.6849113,
     "scoreText": "3,7",
-    "totalRatings": 7200,
-    "totalReviews": 2833,
+    "totalRatings": 7216,
+    "totalReviews": 2838,
     "histogram": {
-      "1": 1791,
-      "2": 276,
-      "3": 361,
-      "4": 778,
-      "5": 3989
+      "1": 1793,
+      "2": 287,
+      "3": 341,
+      "4": 768,
+      "5": 4023
     }
   },
   "reviews": [
+    {
+      "id": "d76e7111-ee1b-4ad8-8451-dfbd236165f0",
+      "userName": "Jaromír Poulík",
+      "date": "2026-11-12T10:51:08.431Z",
+      "score": 1,
+      "text": "Tolik obstrukcí a prokliků, než se něco dovím. JP",
+      "text_normalized": "tolik obstrukci a prokliku, nez se neco dovim. jp",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-12T10:58:33.171Z",
+      "replyText": "Dobrý den, Jaromíre,\nje mi líto, že vám aplikace nevyhovuje. Na dalších vylepšeních průběžně pracujeme. Věřím tak, že se vám v budoucnu bude líbit víc. Viki",
+      "version": null
+    },
+    {
+      "id": "c86f517f-50dd-4e4c-b8e6-65958061493b",
+      "userName": "Kouskovic muhehe",
+      "date": "2026-11-12T10:29:34.714Z",
+      "score": 1,
+      "text": "Hrozná aplikace. Před aktualizací to ještě bylo jakž takž použitelné, ale po aktualizaci na novou verzi (listopad 2026) se nelze přihlásit. Ověřovací SMS přijde, ale aplikace se vrátí zpět na nové přihlášení. A rady typu \"Mrzí nás, že jste nespokojeni, zkuste aplikaci přeinstalovat\", si laskavě nechte.Evidentně to nepomohlo nikomu přede mnou. Jediná možnost je od vás definitivně odejít. Pokrytí je taky naprostá tragedie. V blízkém okolí Rakovníka (třeba 300m za cedulí konec obce) bez signalu...",
+      "text_normalized": "hrozna aplikace. pred aktualizaci to jeste bylo jakz takz pouzitelne, ale po aktualizaci na novou verzi (listopad 2026) se nelze prihlasit. overovaci sms prijde, ale aplikace se vrati zpet na nove prihlaseni. a rady typu \"mrzi nas, ze jste nespokojeni, zkuste aplikaci preinstalovat\", si laskave nechte.evidentne to nepomohlo nikomu prede mnou. jedina moznost je od vas definitivne odejit. pokryti je taky naprosta tragedie. v blizkem okoli rakovnika (treba 300m za ceduli konec obce) bez signalu...",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": null,
+      "replyText": null,
+      "version": "3.21.0"
+    },
+    {
+      "id": "3f3fe12d-630b-42c5-b6b9-929bcca12987",
+      "userName": "Jirka Kouba",
+      "date": "2026-11-12T07:37:37.764Z",
+      "score": 2,
+      "text": "Na aplikaci od poskytovatele telefonních služeb, je tahle aplikace naprosto tragická. Jediné, co můžu pochválit je, že většinou funguje placení.",
+      "text_normalized": "na aplikaci od poskytovatele telefonnich sluzeb, je tahle aplikace naprosto tragicka. jedine, co muzu pochvalit je, ze vetsinou funguje placeni.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-12T07:59:01.107Z",
+      "replyText": "Dobrý den, Jirko,\nje mi líto, že aplikace nesplnila vaše očekávání 🙁 Průběžně ji vylepšujeme, věřím tak, že se vám v budoucnu bude líbit víc. Viki",
+      "version": "3.21.1"
+    },
+    {
+      "id": "0a994bb5-b77a-4111-9bd8-064867a880b7",
+      "userName": "Petr laušer",
+      "date": "2026-11-12T07:34:26.216Z",
+      "score": 5,
+      "text": "Zdravim ,byl jsem zakaznikem Tmobile,též 02 .byl jsem tam nespokojen.Přešel jsem k Vodafonu ,a spokojen jsem až na pár drobnosťí.Které Vodafon vyřešil k mé spokojenosťi.",
+      "text_normalized": "zdravim ,byl jsem zakaznikem tmobile,tez 02 .byl jsem tam nespokojen.presel jsem k vodafonu ,a spokojen jsem az na par drobnosti.ktere vodafon vyresil k me spokojenosti.",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-12T08:02:28.229Z",
+      "replyText": "Dobrý den, Petře,\nděkujeme vám za milou zpětnou vazbu 🙂 Jsem ráda, že vám naše služby vyhovují, budeme se snažit dál. Viki",
+      "version": null
+    },
+    {
+      "id": "c0e46237-75e0-448b-a7ac-3627dd7b3627",
+      "userName": "Ivan Klaus",
+      "date": "2026-11-11T23:43:02.650Z",
+      "score": 5,
+      "text": "Spokojený",
+      "text_normalized": "spokojeny",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-12T06:26:43.736Z",
+      "replyText": "Pěkný den, Ivane,\nděkujeme za vaše hodnocení 🙂 Veronika",
+      "version": "3.21.1"
+    },
+    {
+      "id": "04026bf0-68db-4d39-815e-383c0cbdc6ce",
+      "userName": "Martin Vaniš",
+      "date": "2026-11-11T17:34:55.811Z",
+      "score": 2,
+      "text": "Špatný. Objevují se mi nenačtené stránky. Úvodní obrazovka ok. Ale když chci podrobnosti, zůstává bílá obrazovka s křížkem v rohu. Dával jsem tomu čas. WiFi i Data. Chtěl jsem využít Data na Max. nic si nezapnu. 😏",
+      "text_normalized": "spatny. objevuji se mi nenactene stranky. uvodni obrazovka ok. ale kdyz chci podrobnosti, zustava bila obrazovka s krizkem v rohu. daval jsem tomu cas. wifi i data. chtel jsem vyuzit data na max. nic si nezapnu. 😏",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-11T17:54:45.100Z",
+      "replyText": "Pěkný den, Marine,\nmrzí mě, že máte s aplikací potíže, podle popisu není patrné, co se stalo. Nyní ji prosím odinstalujte a znovu nainstalujte, pokud se situace nezmění, pošlete nám prosím screenshoty a více podrobností na e-mail aplikace@vodafone.cz. Veronika",
+      "version": "3.21.1"
+    },
     {
       "id": "53f64e5e-c433-434e-952f-5d679e2cabb0",
       "userName": "Claudia Mráčková",
@@ -39113,8 +39201,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2666,
-    "extractedAt": "2026-11-12T13:36:30.436Z",
+    "totalReviewsExtracted": 2672,
+    "extractedAt": "2026-11-13T12:55:34.557Z",
     "source": "google-play"
   }
 }
