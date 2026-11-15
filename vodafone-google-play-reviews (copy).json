@@ -1,18 +1,49 @@
 {
   "ratings": {
-    "score": 3.6849113,
+    "score": 3.680352,
     "scoreText": "3,7",
-    "totalRatings": 7216,
-    "totalReviews": 2838,
+    "totalRatings": 7220,
+    "totalReviews": 2840,
     "histogram": {
-      "1": 1793,
-      "2": 287,
-      "3": 341,
-      "4": 768,
-      "5": 4023
+      "1": 1809,
+      "2": 285,
+      "3": 338,
+      "4": 751,
+      "5": 4033
     }
   },
   "reviews": [
+    {
+      "id": "0b97bc1b-32b4-4d0c-9b23-a7da39a3da49",
+      "userName": "Miroslav Hos",
+      "date": "2026-11-13T07:15:55.969Z",
+      "score": 1,
+      "text": "nejde se přihlásit.Děkuji,už to funguje.",
+      "text_normalized": "nejde se prihlasit.dekuji,uz to funguje.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-13T06:25:45.986Z",
+      "replyText": "Dobrý den, Miroslave,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Pak se přihlaste s vaším e-mailem, alfanumerickým heslem a kódem z SMSky. Pokud se vám to ani po přeinstalování aplikace nepodaří, zavolejte nám na 800 77 00 77, prověříme to. Martina",
+      "version": "3.21.1"
+    },
+    {
+      "id": "7c7883f9-efdf-4da3-ab5a-308b044a5492",
+      "userName": "Martin Hartig",
+      "date": "2026-11-12T22:15:23.795Z",
+      "score": 1,
+      "text": "Až se půjde přihlásit z telefonu, změním hodnocení. Postup mail + heslo + SMS kód a vrátí mě to zpět na přihlašovací stránku?",
+      "text_normalized": "az se pujde prihlasit z telefonu, zmenim hodnoceni. postup mail + heslo + sms kod a vrati me to zpet na prihlasovaci stranku?",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-11-13T06:31:23.250Z",
+      "replyText": "Dobrý den, Martine,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdybyste se ani poté nemohl přihlásit, zavolejte nám prosím na 800 77 00 77, rádi to prověříme na základě konkrétního příkladu. Martina",
+      "version": "3.20.0"
+    },
     {
       "id": "d76e7111-ee1b-4ad8-8451-dfbd236165f0",
       "userName": "Jaromír Poulík",
@@ -39201,8 +39232,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2672,
-    "extractedAt": "2026-11-13T12:55:34.557Z",
+    "totalReviewsExtracted": 2674,
+    "extractedAt": "2026-11-14T11:58:55.216Z",
     "source": "google-play"
   }
 }
