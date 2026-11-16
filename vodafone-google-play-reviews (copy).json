@@ -1,18 +1,74 @@
 {
   "ratings": {
-    "score": 3.680352,
+    "score": 3.704579,
     "scoreText": "3,7",
-    "totalRatings": 7220,
-    "totalReviews": 2840,
+    "totalRatings": 7230,
+    "totalReviews": 2841,
     "histogram": {
-      "1": 1809,
-      "2": 285,
-      "3": 338,
-      "4": 751,
-      "5": 4033
+      "1": 1761,
+      "2": 298,
+      "3": 341,
+      "4": 736,
+      "5": 4089
     }
   },
   "reviews": [
+    {
+      "id": "3d1d92a2-4502-4c6c-b0fe-fea5fce242c9",
+      "userName": "Miroslaw Debiec (Mirafiori)",
+      "date": "2026-11-14T11:58:28.926Z",
+      "score": 1,
+      "text": "jedna z nejpomalejsich aplikaci co znam,je jedno jestli jste pripojeni pres wifi ,nebo data v mobilu!",
+      "text_normalized": "jedna z nejpomalejsich aplikaci co znam,je jedno jestli jste pripojeni pres wifi ,nebo data v mobilu!",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-14T12:05:17.352Z",
+      "replyText": "Dobrý den, Miroslawe,\nmrzí mě vaše nespokojenost. Na dalších vylepšeních aplikace průběžně pracujeme a věřím tak, že se vám v budoucnu bude líbit víc. Viki",
+      "version": "3.21.1"
+    },
+    {
+      "id": "afcc9adc-327d-4bc4-a1e6-edffb473b07d",
+      "userName": "Petr Nadvornik",
+      "date": "2026-11-14T11:41:28.778Z",
+      "score": 3,
+      "text": "aplikace neustále vyžaduje ruční zadávání přihlašovacích údajů. Automatické přihlašování pomocí otisku nefunfuje. Po zavření aplikace se odhlásí, další spuštění vyžaduje ruční přihlášení. Atd pořád dokola.",
+      "text_normalized": "aplikace neustale vyzaduje rucni zadavani prihlasovacich udaju. automaticke prihlasovani pomoci otisku nefunfuje. po zavreni aplikace se odhlasi, dalsi spusteni vyzaduje rucni prihlaseni. atd porad dokola.",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-11-14T12:09:03.588Z",
+      "replyText": "Dobrý den, Petře,\nděkujeme za hodnocení a zpětnou vazbu. Mrzí mě, že vám opakované přihlašování komplikuje práci s aplikací. Na jejím dalším vylepšování průběžně pracujeme a nové úpravy budeme přidávat v budoucích aktualizacích. Věřím, že se bude vaše zkušenost s aplikací postupně zlepšovat. Viki",
+      "version": "3.21.1"
+    },
+    {
+      "id": "ea1733d3-a305-4a7b-ba96-bb2eae5a2794",
+      "userName": "Mila BAREŠ",
+      "date": "2026-11-14T10:28:08.860Z",
+      "score": 5,
+      "text": "JSEM SPOKOJEN",
+      "text_normalized": "jsem spokojen",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-14T10:36:01.666Z",
+      "replyText": "Dobrý den, Milo,\nděkujeme za hezké hodnocení 🙂 Jsme moc rádi, že se vám aplikace líbí. Viki",
+      "version": "3.18.1"
+    },
+    {
+      "id": "57c608cd-9656-4bc8-9cf8-f97369b455dc",
+      "userName": "Jan Palanek",
+      "date": "2026-11-13T20:09:18.522Z",
+      "score": 4,
+      "text": "Co ještě postrádám je přejmenování připojených zařízení.",
+      "text_normalized": "co jeste postradam je prejmenovani pripojenych zarizeni.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": null,
+      "replyText": null,
+      "version": "3.21.1"
+    },
     {
       "id": "0b97bc1b-32b4-4d0c-9b23-a7da39a3da49",
       "userName": "Miroslav Hos",
@@ -39232,8 +39288,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2674,
-    "extractedAt": "2026-11-14T11:58:55.216Z",
+    "totalReviewsExtracted": 2678,
+    "extractedAt": "2026-11-15T12:34:09.256Z",
     "source": "google-play"
   }
 }
