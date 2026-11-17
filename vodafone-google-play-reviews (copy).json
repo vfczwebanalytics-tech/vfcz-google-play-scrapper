@@ -1,18 +1,34 @@
 {
   "ratings": {
-    "score": 3.704579,
+    "score": 3.7025037,
     "scoreText": "3,7",
-    "totalRatings": 7230,
-    "totalReviews": 2841,
+    "totalRatings": 7243,
+    "totalReviews": 2844,
     "histogram": {
-      "1": 1761,
-      "2": 298,
+      "1": 1781,
+      "2": 287,
       "3": 341,
-      "4": 736,
-      "5": 4089
+      "4": 724,
+      "5": 4106
     }
   },
   "reviews": [
+    {
+      "id": "c42397ae-fe4f-47d2-a3be-b88106a322fe",
+      "userName": "Projekt Darkside",
+      "date": "2026-11-14T17:31:17.604Z",
+      "score": 1,
+      "text": "Za chvíli VDF skončí v propadlišti dějin. letos se jim povedlo porušit zákon a lidem změnit bez dovolení tarify. Ta jaho aplikace je taky výsměch, ilegálně pošlou vydírací zprávu jen do aplikace a ta vás neustále odhlašuje, do nedávna byla dokonce nefunkční a informace o potřebě nainstalovat jinou, byla jen uvnitř té nefunkční. Neustále vydírací hovory o tom, že zruší VIP DOŽIVOTNÍ tarif a dají nám dražší! skončili jste, schytáte to od telekomunikačního, hromadné žaloby a obchodní inspekce.",
+      "text_normalized": "za chvili vdf skonci v propadlisti dejin. letos se jim povedlo porusit zakon a lidem zmenit bez dovoleni tarify. ta jaho aplikace je taky vysmech, ilegalne poslou vydiraci zpravu jen do aplikace a ta vas neustale odhlasuje, do nedavna byla dokonce nefunkcni a informace o potrebe nainstalovat jinou, byla jen uvnitr te nefunkcni. neustale vydiraci hovory o tom, ze zrusi vip dozivotni tarif a daji nam drazsi! skoncili jste, schytate to od telekomunikacniho, hromadne zaloby a obchodni inspekce.",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce",
+        "Cena"
+      ],
+      "replyDate": "2026-11-15T07:30:07.613Z",
+      "replyText": "Dobrý den,\nmrzí nás, že jste s našimi službami i aplikací nespokojený 🙁 O změnách cen a podmínek služeb zákazníky vždy informujeme zákonnou formou. Děkujeme také za zpětnou vazbu k aplikaci, kterou průběžně vylepšujeme. Věříme, že její používání pro vás bude do budoucna pohodlnější a spolehlivější. Viki",
+      "version": "3.21.1"
+    },
     {
       "id": "3d1d92a2-4502-4c6c-b0fe-fea5fce242c9",
       "userName": "Miroslaw Debiec (Mirafiori)",
@@ -39288,8 +39304,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2678,
-    "extractedAt": "2026-11-15T12:34:09.256Z",
+    "totalReviewsExtracted": 2679,
+    "extractedAt": "2026-11-16T13:26:28.337Z",
     "source": "google-play"
   }
 }
