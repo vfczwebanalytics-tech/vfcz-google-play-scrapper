@@ -1,18 +1,64 @@
 {
   "ratings": {
-    "score": 3.7025037,
+    "score": 3.7144928,
     "scoreText": "3,7",
-    "totalRatings": 7243,
+    "totalRatings": 7251,
     "totalReviews": 2844,
     "histogram": {
-      "1": 1781,
-      "2": 287,
-      "3": 341,
-      "4": 724,
-      "5": 4106
+      "1": 1765,
+      "2": 283,
+      "3": 346,
+      "4": 713,
+      "5": 4140
     }
   },
   "reviews": [
+    {
+      "id": "17fd9435-68bd-462c-8d17-65857ab18b54",
+      "userName": "Jan HUDEC, Ing.",
+      "date": "2026-11-16T12:41:16.781Z",
+      "score": 5,
+      "text": "dobré služby, dobré pokrytí, slušné jednání, doporučuji",
+      "text_normalized": "dobre sluzby, dobre pokryti, slusne jednani, doporucuji",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-16T13:12:42.984Z",
+      "replyText": "Pěkný den, Jane,\nděkuji vám za zpětnou vazbu a hodnocení 🙂 Velmi si toho vážíme a těší nás to 🙂 Veronika",
+      "version": "3.21.1"
+    },
+    {
+      "id": "cd21e95f-5c2a-4d5c-b029-68738ba4b29c",
+      "userName": "Jan Kamarád",
+      "date": "2026-11-16T10:52:17.854Z",
+      "score": 1,
+      "text": "Mezi operátory jednoznačně nejhorší aplikace. Vyúčtování v nesouladu - dřív přijde emailem, nelze se přihlásit, ukazuje nepřečtené zprávy, po rozkliknutí zpráv ale píše, že tam žádné nejsou a to ani přečtené, nejde se přihlásit - točí se kolečko... Děs, běs, hrůza...",
+      "text_normalized": "mezi operatory jednoznacne nejhorsi aplikace. vyuctovani v nesouladu - driv prijde emailem, nelze se prihlasit, ukazuje neprectene zpravy, po rozkliknuti zprav ale pise, ze tam zadne nejsou a to ani prectene, nejde se prihlasit - toci se kolecko... des, bes, hruza...",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-16T11:13:50.660Z",
+      "replyText": "Dobrý den, Jane,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdyby i poté potíže přetrvávaly, zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi to prověříme na základě konkrétního příkladu. Martina\n",
+      "version": "3.21.1"
+    },
+    {
+      "id": "1b37ebed-e5dd-47fd-ad60-4f19aed9d669",
+      "userName": "Soňa",
+      "date": "2026-11-15T17:50:09.270Z",
+      "score": 1,
+      "text": "neni intuitivní,špatně se v ni orientuje",
+      "text_normalized": "neni intuitivni,spatne se v ni orientuje",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-16T06:18:12.120Z",
+      "replyText": "Pěkný den, Soňo,\nje mi líto, že vám aplikace nevyhovuje a děkujeme za zpětnou vazbu. Veronika",
+      "version": "3.19.0"
+    },
     {
       "id": "c42397ae-fe4f-47d2-a3be-b88106a322fe",
       "userName": "Projekt Darkside",
@@ -39304,8 +39350,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2679,
-    "extractedAt": "2026-11-16T13:26:28.337Z",
+    "totalReviewsExtracted": 2682,
+    "extractedAt": "2026-11-17T14:12:04.874Z",
     "source": "google-play"
   }
 }
