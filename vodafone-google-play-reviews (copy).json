@@ -1,18 +1,49 @@
 {
   "ratings": {
-    "score": 3.7144928,
+    "score": 3.696165,
     "scoreText": "3,7",
-    "totalRatings": 7251,
-    "totalReviews": 2844,
+    "totalRatings": 7258,
+    "totalReviews": 2847,
     "histogram": {
-      "1": 1765,
-      "2": 283,
-      "3": 346,
-      "4": 713,
-      "5": 4140
+      "1": 1798,
+      "2": 288,
+      "3": 353,
+      "4": 695,
+      "5": 4120
     }
   },
   "reviews": [
+    {
+      "id": "76f48087-8257-4d99-8c35-5e9dd25a949f",
+      "userName": "Tereza Garbulinská",
+      "date": "2026-11-17T07:51:45.726Z",
+      "score": 1,
+      "text": "Po rozkliku se objeví chyba. Skoro jako u všeho. Na infolince mi pan řekl, že sám ví, že je aplikace strašná. Kolik nás je co už jsou u vás léta? A co jste kdy udělali? Za tyhle služby (nefunkční) se nestydíte pobrat peníze. Každý měsíc mám odpor vám cokoliv zaplatit. Jediná výhoda, že jde spojit Netflix s vyúčtováním. Při první příležitosti se obrátím na nového operátora s žádostí o převod. Ne, nebudu 100x denně aplikaci instalovat a mazat.",
+      "text_normalized": "po rozkliku se objevi chyba. skoro jako u vseho. na infolince mi pan rekl, ze sam vi, ze je aplikace strasna. kolik nas je co uz jsou u vas leta? a co jste kdy udelali? za tyhle sluzby (nefunkcni) se nestydite pobrat penize. kazdy mesic mam odpor vam cokoliv zaplatit. jedina vyhoda, ze jde spojit netflix s vyuctovanim. pri prvni prilezitosti se obratim na noveho operatora s zadosti o prevod. ne, nebudu 100x denne aplikaci instalovat a mazat.",
+      "segments": [
+        "Stabilita",
+        "Platba_a_vyuctovani",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-17T08:22:04.589Z",
+      "replyText": "Dobrý den, Terezo,\nplošné potíže s aplikací neevidujeme. Pokud vám nefunguje nějaká konkrétní sekce, napište nám prosím přes https://tam.je/dotaz a uveďte konkrétní příklad, rádi to prověříme. Martina",
+      "version": "3.21.1"
+    },
+    {
+      "id": "2e632d17-e86a-4a48-bbed-5e17b6caaf13",
+      "userName": "Frantisek Bartos",
+      "date": "2026-11-16T19:37:48.671Z",
+      "score": 1,
+      "text": "nic moc",
+      "text_normalized": "nic moc",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-17T07:24:04.403Z",
+      "replyText": "Dobrý den, Františku,\nje mi líto, že vám aplikace nevyhovuje. Na jejím dalším rozvoji a úpravách pracujeme, tak třeba s ní budete časem spokojenější. Martina",
+      "version": null
+    },
     {
       "id": "17fd9435-68bd-462c-8d17-65857ab18b54",
       "userName": "Jan HUDEC, Ing.",
@@ -39350,8 +39381,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2682,
-    "extractedAt": "2026-11-17T14:12:04.874Z",
+    "totalReviewsExtracted": 2684,
+    "extractedAt": "2026-11-18T13:43:29.495Z",
     "source": "google-play"
   }
 }
