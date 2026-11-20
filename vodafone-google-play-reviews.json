@@ -1,18 +1,77 @@
 {
   "ratings": {
-    "score": 3.6995647,
+    "score": 3.6992805,
     "scoreText": "3,7",
-    "totalRatings": 7267,
-    "totalReviews": 2849,
+    "totalRatings": 7274,
+    "totalReviews": 2852,
     "histogram": {
-      "1": 1802,
-      "2": 284,
-      "3": 347,
-      "4": 684,
-      "5": 4144
+      "1": 1810,
+      "2": 282,
+      "3": 344,
+      "4": 680,
+      "5": 4154
     }
   },
   "reviews": [
+    {
+      "id": "310cff74-b6ae-4798-9f77-aec302b42ba2",
+      "userName": "Uživatel Googlu",
+      "date": "2026-11-19T13:53:03.540Z",
+      "score": 1,
+      "text": "pomalé, nic nefunguje, informace, které hledám, tam nejsou, a navíc podvodné nabídky a samozřejmě mě vodafone nutí tu aplikaci používat",
+      "text_normalized": "pomale, nic nefunguje, informace, ktere hledam, tam nejsou, a navic podvodne nabidky a samozrejme me vodafone nuti tu aplikaci pouzivat",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-19T14:24:59.336Z",
+      "replyText": "Pěkný den,\nděkujeme za zpětnou vazbu, budu ráda, když nám zašlete na e-mailovou adresu aplikace@vodafone.cz screenshoty, a to i včetně podvodných nabídek, které zmiňujete. Veronika",
+      "version": "3.21.1"
+    },
+    {
+      "id": "6a20eee1-c53c-447a-ab6e-90f765fa11e5",
+      "userName": "MARTIN NEMEC",
+      "date": "2026-11-19T13:44:10.886Z",
+      "score": 1,
+      "text": "nejhorši aplikace na světě, stále problémy, nedáse věčně přihlásit, pořád nějaké ověřování a většinu času nefunguje. je to hnus.",
+      "text_normalized": "nejhorsi aplikace na svete, stale problemy, nedase vecne prihlasit, porad nejake overovani a vetsinu casu nefunguje. je to hnus.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-19T13:55:55.165Z",
+      "replyText": "Pěkný den, Martine,\nmrzí mě, že máte potíže s přihlášením. Zkontrolujte si prosím, zda máte v telefonu aktuální verzi aplikace, ideálně ji přeinstalujte a poté nám pošlete screenshoty na e-mail aplikace@vodafone.cz, abychom vám mohli pomoct konkrétně. O plošné potíže se nejedná. Veronika",
+      "version": "3.16.2"
+    },
+    {
+      "id": "21c1a59a-8970-4998-ac44-6d856820347a",
+      "userName": "Pavel Panák",
+      "date": "2026-11-18T16:21:20.155Z",
+      "score": 1,
+      "text": "změnit tarif- neřešitelný problém",
+      "text_normalized": "zmenit tarif- neresitelny problem",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-11-18T16:53:41.817Z",
+      "replyText": "Hezký den, Pavle,\nje mi líto, že máte potíže se změnou tarifu 🙁 Zavolejte nám na linku *77 a kolegové vám rádi se změnou tarifu pomohou. Zuzana",
+      "version": "3.21.1"
+    },
+    {
+      "id": "60219707-51b8-4edf-bb20-ec20d9e58827",
+      "userName": "Jitka Arnoldová",
+      "date": "2026-11-18T15:29:34.361Z",
+      "score": 5,
+      "text": "jsem doposud velmi spokojená",
+      "text_normalized": "jsem doposud velmi spokojena",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-18T15:57:36.702Z",
+      "replyText": "Hezký den, Jitko,\ntěší mě, že jste s nabídkou našich služeb spokojená 🙂 Zuzana",
+      "version": "3.21.1"
+    },
     {
       "id": "7623b33d-6af7-4de4-8f6a-2c48ae3eba8a",
       "userName": "Petr Vasil",
@@ -39432,8 +39491,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2687,
-    "extractedAt": "2026-11-19T14:12:12.331Z",
+    "totalReviewsExtracted": 2691,
+    "extractedAt": "2026-11-20T13:53:54.235Z",
     "source": "google-play"
   }
 }

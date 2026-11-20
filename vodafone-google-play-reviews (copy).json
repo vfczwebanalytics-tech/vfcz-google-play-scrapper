@@ -1,18 +1,69 @@
 {
   "ratings": {
-    "score": 3.696165,
+    "score": 3.6995647,
     "scoreText": "3,7",
-    "totalRatings": 7258,
-    "totalReviews": 2847,
+    "totalRatings": 7267,
+    "totalReviews": 2849,
     "histogram": {
-      "1": 1798,
-      "2": 288,
-      "3": 353,
-      "4": 695,
-      "5": 4120
+      "1": 1802,
+      "2": 284,
+      "3": 347,
+      "4": 684,
+      "5": 4144
     }
   },
   "reviews": [
+    {
+      "id": "7623b33d-6af7-4de4-8f6a-2c48ae3eba8a",
+      "userName": "Petr Vasil",
+      "date": "2026-11-18T13:07:17.920Z",
+      "score": 5,
+      "text": "žádné odměny, nejde přihlásit",
+      "text_normalized": "zadne odmeny, nejde prihlasit",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-18T13:36:31.552Z",
+      "replyText": "Hezký den, Petře,\nje mi líto, že máte potíže s přihlášením 🙁 Doporučuji aplikaci přeinstalovat, věřím, že to bude v pořádku. Spoustu odměn najdete přímo ve Vodafone Happy, například na 1 nebo 3 měsíce předplatné Disney+ zdarma. Zuzana",
+      "version": "3.21.1"
+    },
+    {
+      "id": "ab33d119-8a53-41ca-ab40-f39472a217db",
+      "userName": "Jakub Petz",
+      "date": "2026-11-17T21:17:21.698Z",
+      "score": 1,
+      "text": "aplikace se stala nefunkční. odhlásila mne a nyní, když kliknu na přihlásit, vždy spadne. odinstalována, nainstalována. stejné.",
+      "text_normalized": "aplikace se stala nefunkcni. odhlasila mne a nyni, kdyz kliknu na prihlasit, vzdy spadne. odinstalovana, nainstalovana. stejne.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-18T06:09:58.604Z",
+      "replyText": "Pěkný den, Jakube,\ntakové potíže mě mrzí 🙁 Napište nám prosím detaily přes https://tam.je/dotaz, abychom to mohli prověřit a pomoct vám. Lucie",
+      "version": "3.21.1"
+    },
+    {
+      "id": "9c389b38-8c9a-425d-bd94-54ddce0d3b0f",
+      "userName": "Přemysl Romanovský",
+      "date": "2026-11-17T19:51:15.147Z",
+      "score": 1,
+      "text": "Verze 3.21.1 zase nefunguje. Obecně je aplikace můj Vodafone nejhorší co znám. Za takovou práci někdo dostává peníze? Četnost aktualizací je neuvěřitelná, bohužel, i přesto není stále bez chyb. Neustále ověřování, neustále zadávání kódu, hesel, atd. Dnes po aktualizaci, se nelze přihlásit. Podpora na lince Vodafone, absolutně neorientovaný pan co dokázal akorát rozsekat veškeré nastavení a propojení mého účtu. Vzal mi 4 hodiny života při snaze s již orienovanou paní dát vše znovu dohromady.",
+      "text_normalized": "verze 3.21.1 zase nefunguje. obecne je aplikace muj vodafone nejhorsi co znam. za takovou praci nekdo dostava penize? cetnost aktualizaci je neuveritelna, bohuzel, i presto neni stale bez chyb. neustale overovani, neustale zadavani kodu, hesel, atd. dnes po aktualizaci, se nelze prihlasit. podpora na lince vodafone, absolutne neorientovany pan co dokazal akorat rozsekat veskere nastaveni a propojeni meho uctu. vzal mi 4 hodiny zivota pri snaze s jiz orienovanou pani dat vse znovu dohromady.",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-18T06:09:15.700Z",
+      "replyText": "Dobrý den, Přemysle,\nto mě moc mrzí a omlouvám se za způsobené potíže 🙁 Rádi se na vše podíváme konkrétněji, když nám napíšete podrobnosti přes https://tam.je/dotaz. Lucie",
+      "version": "3.21.1"
+    },
     {
       "id": "76f48087-8257-4d99-8c35-5e9dd25a949f",
       "userName": "Tereza Garbulinská",
@@ -39381,8 +39432,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2684,
-    "extractedAt": "2026-11-18T13:43:29.495Z",
+    "totalReviewsExtracted": 2687,
+    "extractedAt": "2026-11-19T14:12:12.331Z",
     "source": "google-play"
   }
 }
