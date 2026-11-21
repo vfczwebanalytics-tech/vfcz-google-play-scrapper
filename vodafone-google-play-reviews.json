@@ -1,18 +1,77 @@
 {
   "ratings": {
-    "score": 3.6992805,
+    "score": 3.6918604,
     "scoreText": "3,7",
-    "totalRatings": 7274,
-    "totalReviews": 2852,
+    "totalRatings": 7288,
+    "totalReviews": 2859,
     "histogram": {
-      "1": 1810,
-      "2": 282,
-      "3": 344,
-      "4": 680,
-      "5": 4154
+      "1": 1842,
+      "2": 274,
+      "3": 348,
+      "4": 635,
+      "5": 4183
     }
   },
   "reviews": [
+    {
+      "id": "ca5941a4-89e3-4612-b087-70e87c922550",
+      "userName": "Michal Pop",
+      "date": "2026-11-20T08:57:31.641Z",
+      "score": 5,
+      "text": "Jsem spokojený",
+      "text_normalized": "jsem spokojeny",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-20T09:33:32.747Z",
+      "replyText": "Hezký den, Michale, děkujeme za hodnocení 🙂 Vaše spokojenost je pro nás důležitá 🙂 Petra",
+      "version": "3.21.1"
+    },
+    {
+      "id": "feded215-9420-4fdf-889c-8060736e072a",
+      "userName": "Paul",
+      "date": "2026-11-20T03:31:41.277Z",
+      "score": 1,
+      "text": "Ne j3n ze vodafone neustale zdrazuje tarify al4 neumi ani rict PROSIME ZAPLAŤTE,Vite to slovo v aplikaci kdyz je vyuctovani by se hodilo ne tak sproste zaplaťte.Dalsi tak jak mame nejdražší vyuctovani je sok pro celou rodinu,za jedno tel cislo jsem platil 870kc tedores 1000 kc,zadna zmena,spatny signal atd.Je nejlepsi se prestat neustale vymlouvat ze zdokonalujete sit,ale neni to videt.Vykladete si to špačkum.Ne nam!",
+      "text_normalized": "ne j3n ze vodafone neustale zdrazuje tarify al4 neumi ani rict prosime zaplatte,vite to slovo v aplikaci kdyz je vyuctovani by se hodilo ne tak sproste zaplatte.dalsi tak jak mame nejdrazsi vyuctovani je sok pro celou rodinu,za jedno tel cislo jsem platil 870kc tedores 1000 kc,zadna zmena,spatny signal atd.je nejlepsi se prestat neustale vymlouvat ze zdokonalujete sit,ale neni to videt.vykladete si to spackum.ne nam!",
+      "segments": [
+        "Obmezene_funkce",
+        "Cena"
+      ],
+      "replyDate": "2026-11-20T06:26:27.319Z",
+      "replyText": "Pěkný den, Paule,\nděkujeme za zpětnou vazbu, velmi si toho vážíme. Ohledně nastavení vašich služeb se prosím spojte se zákaznickou linkou na čísle 800 77 00 77. Veronika",
+      "version": "3.21.1"
+    },
+    {
+      "id": "4c20e82f-175a-4136-ba3d-25e08a2fe9c0",
+      "userName": "Jakub Ruprecht",
+      "date": "2026-11-19T20:13:18.186Z",
+      "score": 1,
+      "text": "Nejhorší aplikace,neni to vůbec přehledný",
+      "text_normalized": "nejhorsi aplikace,neni to vubec prehledny",
+      "segments": [
+        "UI",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-20T06:25:51.941Z",
+      "replyText": "Hezký den, Jakube, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do bude do budoucna vyhovovat více. Petra",
+      "version": null
+    },
+    {
+      "id": "be5e23c8-5d0b-468b-9864-b312b17ef178",
+      "userName": "Vojtěch Ruml",
+      "date": "2026-11-19T18:04:38.298Z",
+      "score": 1,
+      "text": "Nejhorší apka mezi operátory. Nejdřív zdlouhavé přihlašování a čekání půl hodiny než se otevře a teď po aktualizaci se člověk nedostane ani napřihlašovací panel aby si dobil kredit. Tak si asi dneska holt už nezavolám. Naprosto nechápu proč firma Vodafone má IT specialisty asi úplné debily když nejsou za rok schopni stvořit normální jednoduchou apku, když všechny jiné firmy mají funkční aplikace.",
+      "text_normalized": "nejhorsi apka mezi operatory. nejdriv zdlouhave prihlasovani a cekani pul hodiny nez se otevre a ted po aktualizaci se clovek nedostane ani naprihlasovaci panel aby si dobil kredit. tak si asi dneska holt uz nezavolam. naprosto nechapu proc firma vodafone ma it specialisty asi uplne debily kdyz nejsou za rok schopni stvorit normalni jednoduchou apku, kdyz vsechny jine firmy maji funkcni aplikace.",
+      "segments": [
+        "Prihlaseni",
+        "Zakaznicka_podpora"
+      ],
+      "replyDate": "2026-11-19T18:27:18.929Z",
+      "replyText": "Pěkný den, Vojtěchu,\npokud máte po aktualizaci s aplikací potíže, tak ji odinstalujte a znovu nainstalujte. V případě, že budete mít potíže i nadále, pošlete nám screenshoty a více podrobností na e-mail aplikace@vodafone.cz, o plošné potíže se nejedná. Veronika",
+      "version": "3.21.1"
+    },
     {
       "id": "310cff74-b6ae-4798-9f77-aec302b42ba2",
       "userName": "Uživatel Googlu",
@@ -39491,8 +39550,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2691,
-    "extractedAt": "2026-11-20T13:53:54.235Z",
+    "totalReviewsExtracted": 2695,
+    "extractedAt": "2026-11-21T13:17:27.989Z",
     "source": "google-play"
   }
 }
