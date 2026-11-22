@@ -1,18 +1,104 @@
 {
   "ratings": {
-    "score": 3.6918604,
+    "score": 3.6944444,
     "scoreText": "3,7",
-    "totalRatings": 7288,
-    "totalReviews": 2859,
+    "totalRatings": 7294,
+    "totalReviews": 2861,
     "histogram": {
-      "1": 1842,
-      "2": 274,
-      "3": 348,
-      "4": 635,
-      "5": 4183
+      "1": 1844,
+      "2": 266,
+      "3": 340,
+      "4": 661,
+      "5": 4179
     }
   },
   "reviews": [
+    {
+      "id": "c253ac4a-070f-494c-9b75-beb1ca1a12ca",
+      "userName": "Miro Sly",
+      "date": "2026-11-21T12:03:45.362Z",
+      "score": 1,
+      "text": "Doslova příšerná aplikace... o nervy...",
+      "text_normalized": "doslova priserna aplikace... o nervy...",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-21T12:31:17.305Z",
+      "replyText": "Pěkný den,\nje mi líto, pokud se vám aplikace nelíbí 🙁 Pokud budete mít konkrétnější zpětnou vazbu, budeme za ni rádi. Lucie",
+      "version": "3.21.1"
+    },
+    {
+      "id": "dffe1f4e-daad-460b-8e85-709093248319",
+      "userName": "Petra Vondráková",
+      "date": "2026-11-21T02:40:06.115Z",
+      "score": 1,
+      "text": "Co to znamená, dnes je 21. listopadu 2026: \"Omlouváme se, zrovna pracujeme na údržbě. Aplikace bude znovu dostupná po 02:00 18. říjen 2026.\"",
+      "text_normalized": "co to znamena, dnes je 21. listopadu 2026: \"omlouvame se, zrovna pracujeme na udrzbe. aplikace bude znovu dostupna po 02:00 18. rijen 2026.\"",
+      "segments": [
+        "Stabilita"
+      ],
+      "replyDate": "2026-11-21T07:25:17.779Z",
+      "replyText": "Pěkný den, Petro,\nomlouvám se vám za potíže 🙁 Zkuste prosím aplikaci přeinstalovat. V případě, že by to nepomohlo, napište nám prosím přes https://tam.je/dotaz, abychom se na to mohli podívat. Lucie",
+      "version": "3.21.1"
+    },
+    {
+      "id": "0bce1440-f8f4-4509-871e-3751db8ffdac",
+      "userName": "Zdeněk Lepík",
+      "date": "2026-11-20T22:49:12.186Z",
+      "score": 1,
+      "text": "Aplikace vůbec nefunguje, píše mi, že bude přístupná po 02:00 18 října 2026, to je už před měsícem... kdyby šlo dát minusové hodnocení, bylo by to mínus pět...",
+      "text_normalized": "aplikace vubec nefunguje, pise mi, ze bude pristupna po 02:00 18 rijna 2026, to je uz pred mesicem... kdyby slo dat minusove hodnoceni, bylo by to minus pet...",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-21T07:24:24.858Z",
+      "replyText": "Dobrý den, Zdeňku,\nomlouvám se vám za nepříjemnosti 🙁 Zkuste prosím aplikaci přeinstalovat. Pokud by potíže přetrvávaly, napište nám prosím přes https://tam.je/dotaz, abychom to mohli řešit konkrétněji. Lucie",
+      "version": "3.21.1"
+    },
+    {
+      "id": "b6921172-0086-4c87-b704-87f75b7df850",
+      "userName": "Miroslav Páral",
+      "date": "2026-11-20T17:49:54.979Z",
+      "score": 5,
+      "text": "Krásný přehled 👌",
+      "text_normalized": "krasny prehled 👌",
+      "segments": [
+        "UI"
+      ],
+      "replyDate": "2026-11-20T17:57:45.734Z",
+      "replyText": "Pěkný den, Miroslave,\nděkujeme vám za hodnocení. Těší mě, že jste s aplikací spokojený 🙂 Lucie",
+      "version": "3.21.1"
+    },
+    {
+      "id": "98e2955d-6e71-4fd3-8177-b334c6f565b4",
+      "userName": "Luboš Dostál",
+      "date": "2026-11-20T14:21:31.802Z",
+      "score": 1,
+      "text": "nefunguje",
+      "text_normalized": "nefunguje",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-20T14:27:18.975Z",
+      "replyText": "Pěkný den, Luboši,\nje mi líto, pokud máte s aplikací nějaké potíže 🙁 Rádi se na to podíváme konkrétněji, když nám napíšete přes https://tam.je/dotaz nebo zavoláte na 800 77 00 77, abychom vám mohli pomoct. Lucie",
+      "version": "3.21.1"
+    },
+    {
+      "id": "419f67f8-a9b9-429a-af8f-0669ba432adb",
+      "userName": "ROBLOXGAMES",
+      "date": "2026-11-20T13:59:02.442Z",
+      "score": 4,
+      "text": "mnese to odlasilo a teď nevím můj email a heslo dávám 4 hvězdy ok",
+      "text_normalized": "mnese to odlasilo a ted nevim muj email a heslo davam 4 hvezdy ok",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-11-20T13:58:02.271Z",
+      "replyText": "Pěkný den,\nto je mi líto 🙁 Rádi vám pomůžeme, když nám zavoláte na 800 77 00 77. Lucie",
+      "version": "3.21.1"
+    },
     {
       "id": "ca5941a4-89e3-4612-b087-70e87c922550",
       "userName": "Michal Pop",
@@ -39550,8 +39636,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2695,
-    "extractedAt": "2026-11-21T13:17:27.989Z",
+    "totalReviewsExtracted": 2701,
+    "extractedAt": "2026-11-22T13:09:08.393Z",
     "source": "google-play"
   }
 }
