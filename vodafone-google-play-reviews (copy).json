@@ -1,18 +1,61 @@
 {
   "ratings": {
-    "score": 3.6944444,
+    "score": 3.690407,
     "scoreText": "3,7",
-    "totalRatings": 7294,
+    "totalRatings": 7303,
     "totalReviews": 2861,
     "histogram": {
-      "1": 1844,
-      "2": 266,
-      "3": 340,
-      "4": 661,
-      "5": 4179
+      "1": 1835,
+      "2": 275,
+      "3": 349,
+      "4": 689,
+      "5": 4149
     }
   },
   "reviews": [
+    {
+      "id": "c0840c1a-5b59-4a4f-b45b-4a9a04cb350d",
+      "userName": "Paul",
+      "date": "2026-11-21T22:35:22.713Z",
+      "score": 1,
+      "text": "Nastaveni hlasove schanky u vodafone je šok!Nechali jsme si vygenerovat hlasovou zpravu do hlaso vy schranky a nejde nic.Kdyz nechceme uvadet sve jmeno nenutte lidi.Kdyz clovek si vygeneruje vzkaz v jiném hlase a dokonce nemelo ani 1MB a v takovem formatu jaky vy pozadujete a i tak to neslo hazelo to chybu.Tak tezky nastaveni schranky je ubohy a psychický šok.Nechte lidi v jakemkoliv formatu vygenerovany vzkaz s hlasem.a bude vse ok.Nemame zajem nahravat svuj hlas ale jaky my chceme.VYGENEROVANY",
+      "text_normalized": "nastaveni hlasove schanky u vodafone je sok!nechali jsme si vygenerovat hlasovou zpravu do hlaso vy schranky a nejde nic.kdyz nechceme uvadet sve jmeno nenutte lidi.kdyz clovek si vygeneruje vzkaz v jinem hlase a dokonce nemelo ani 1mb a v takovem formatu jaky vy pozadujete a i tak to neslo hazelo to chybu.tak tezky nastaveni schranky je ubohy a psychicky sok.nechte lidi v jakemkoliv formatu vygenerovany vzkaz s hlasem.a bude vse ok.nemame zajem nahravat svuj hlas ale jaky my chceme.vygenerovany",
+      "segments": [
+        "Stabilita",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-22T07:35:59.574Z",
+      "replyText": "Pěkný den, Paule,\nje mi líto, pokud nejste s nastavením Hlasové schránky spokojený, děkujeme za zpětnou vazbu. Pokud budete mít zpětnou vazbu k aplikaci Můj Vodafone+, budeme za ni rádi. Lucie",
+      "version": "3.21.1"
+    },
+    {
+      "id": "1d8eb158-880b-4d87-b5e5-9bad0fa49147",
+      "userName": "Radan",
+      "date": "2026-11-21T21:54:02.202Z",
+      "score": 1,
+      "text": "vubec se nerozjede. celej vodafone je parta diletantů",
+      "text_normalized": "vubec se nerozjede. celej vodafone je parta diletantu",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-22T07:34:32.937Z",
+      "replyText": "Pěkný den, Radane,\nje mi líto, pokud máte potíže 🙁 Zkuste prosím aplikaci přeinstalovat. Pokud by to nepomáhalo, napište nám přes https://tam.je/dotaz, rádi se na to podíváme. Lucie",
+      "version": "3.21.1"
+    },
+    {
+      "id": "5ccbcb3e-f2d9-4449-a9f1-cbe842501902",
+      "userName": "Aleš Ohrádka",
+      "date": "2026-11-21T16:43:43.474Z",
+      "score": 5,
+      "text": "fajn",
+      "text_normalized": "fajn",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-22T07:33:45.515Z",
+      "replyText": "Pěkný den, Aleši,\nděkujeme za hodnocení. Těší mě, že jste spokojený 🙂 Lucie",
+      "version": "3.21.1"
+    },
     {
       "id": "c253ac4a-070f-494c-9b75-beb1ca1a12ca",
       "userName": "Miro Sly",
@@ -39636,8 +39679,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2701,
-    "extractedAt": "2026-11-22T13:09:08.393Z",
+    "totalReviewsExtracted": 2704,
+    "extractedAt": "2026-11-23T15:46:20.677Z",
     "source": "google-play"
   }
 }
