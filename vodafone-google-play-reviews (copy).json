@@ -1,18 +1,47 @@
 {
   "ratings": {
-    "score": 3.690407,
+    "score": 3.6868687,
     "scoreText": "3,7",
-    "totalRatings": 7303,
-    "totalReviews": 2861,
+    "totalRatings": 7307,
+    "totalReviews": 2864,
     "histogram": {
-      "1": 1835,
-      "2": 275,
-      "3": 349,
-      "4": 689,
-      "5": 4149
+      "1": 1844,
+      "2": 273,
+      "3": 347,
+      "4": 695,
+      "5": 4142
     }
   },
   "reviews": [
+    {
+      "id": "91c1c028-10a9-4efe-b0fc-7b093201f0e2",
+      "userName": "machine dragon",
+      "date": "2026-11-23T08:12:28.901Z",
+      "score": 1,
+      "text": "Neustálé nucení aktualizací, které často nefungují a složitě se furt nutí přihlašovat",
+      "text_normalized": "neustale nuceni aktualizaci, ktere casto nefunguji a slozite se furt nuti prihlasovat",
+      "segments": [
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-11-23T08:41:04.962Z",
+      "replyText": "Pěkný den,\nděkujeme za zpětnou vazbu. Mrzí nás, pokud vám aktualizace znepříjemňují používání aplikace. Aktualizace ale přinášejí důležitá bezpečnostní vylepšení, opravy chyb a nové funkce, díky kterým může aplikace fungovat spolehlivěji. Veronika",
+      "version": "3.21.1"
+    },
+    {
+      "id": "3f34c0e3-385d-49fd-94bb-65c22f10bddb",
+      "userName": "Drahomira Fulinova",
+      "date": "2026-11-22T19:09:59.860Z",
+      "score": 1,
+      "text": "nefunguje krám jeden",
+      "text_normalized": "nefunguje kram jeden",
+      "segments": [
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-23T06:18:56.197Z",
+      "replyText": "Hezký den, Drahomíro,\nje mi líto, že máte potíže s aplikací 🙁 Doporučuji ji přeinstalovat, věřím, že to pomůže a bude vše funkční. V případě potíží nám zavolejte na linku *77 a kolegové se na to s vámi podívají. Zuzana",
+      "version": "3.21.1"
+    },
     {
       "id": "c0840c1a-5b59-4a4f-b45b-4a9a04cb350d",
       "userName": "Paul",
@@ -39679,8 +39708,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2704,
-    "extractedAt": "2026-11-23T15:46:20.677Z",
+    "totalReviewsExtracted": 2706,
+    "extractedAt": "2026-11-24T15:38:07.366Z",
     "source": "google-play"
   }
 }

@@ -1,18 +1,77 @@
 {
   "ratings": {
-    "score": 3.6868687,
+    "score": 3.6806967,
     "scoreText": "3,7",
-    "totalRatings": 7307,
-    "totalReviews": 2864,
+    "totalRatings": 7321,
+    "totalReviews": 2867,
     "histogram": {
-      "1": 1844,
-      "2": 273,
-      "3": 347,
-      "4": 695,
-      "5": 4142
+      "1": 1869,
+      "2": 265,
+      "3": 339,
+      "4": 700,
+      "5": 4143
     }
   },
   "reviews": [
+    {
+      "id": "f1ce8fca-d452-44db-ae6d-b4fa381e4df1",
+      "userName": "Jan Burda",
+      "date": "2026-11-24T13:48:33.538Z",
+      "score": 1,
+      "text": "Toto je zmetek prakticky nepoužitelný",
+      "text_normalized": "toto je zmetek prakticky nepouzitelny",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-24T14:20:17.780Z",
+      "replyText": "Hezký den, Jane, děkujeme za hodnocení, i když pro nás není pozitivní 🙁 Mrzí mě, že vám aplikace nevyhovuje. Na jejím vylepšení stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": "3.16.2"
+    },
+    {
+      "id": "0afad4e6-c6d0-4ffc-b75a-5ed5785b310b",
+      "userName": "zoulova1",
+      "date": "2026-11-23T18:58:54.477Z",
+      "score": 1,
+      "text": "Šílenost. Neustálá hláška NĚCO SE NEPOVEDLO....",
+      "text_normalized": "silenost. neustala hlaska neco se nepovedlo....",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-24T06:14:29.255Z",
+      "replyText": "Dobrý den,\nzkuste prosím aplikaci odinstalovat a znovu stáhnout. Kdybyste se vám i poté zobrazovala tato hláška, zavolejte nám prosím na 800 77 00 77 nebo napište přes https://tam.je/dotaz, rádi to prověříme. Martina",
+      "version": "3.21.1"
+    },
+    {
+      "id": "48157f44-d607-4420-9c14-1cf815740675",
+      "userName": "Tomáš Lev",
+      "date": "2026-11-23T18:36:59.918Z",
+      "score": 5,
+      "text": "Nová appka je uživatelsky přívětivá, nepadá a najdu vždy, co potřebuji. Oceňuji informaci o rychlosti stahovaní dat u mobilního tarifu. Využívám i občas výhody (nebo spíše se dívám jaké nabízí). Mám od VDF 2 neomezené mobilní tarify, internet a TV, se vším jsem plně spokojen. Váš spokojený dlouholetý zákazník, Tomáš",
+      "text_normalized": "nova appka je uzivatelsky privetiva, nepada a najdu vzdy, co potrebuji. ocenuji informaci o rychlosti stahovani dat u mobilniho tarifu. vyuzivam i obcas vyhody (nebo spise se divam jake nabizi). mam od vdf 2 neomezene mobilni tarify, internet a tv, se vsim jsem plne spokojen. vas spokojeny dlouholety zakaznik, tomas",
+      "segments": [
+        "Vykonnost",
+        "Stabilita",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-23T18:59:13.459Z",
+      "replyText": "Dobrý den, Tomáši,\nmoc děkujeme za krásnou zpětnou vazbu a za vaši dlouholetou přízeň 🙂 Těší nás, že jste spokojený s aplikací i našimi službami a že využíváte také naše výhody. Budeme se snažit, aby vaše spokojenost vydržela i nadále. Viki",
+      "version": "3.21.1"
+    },
+    {
+      "id": "93a0b233-7c26-473a-8987-8e457e0260c1",
+      "userName": "#51",
+      "date": "2026-11-23T17:03:29.750Z",
+      "score": 2,
+      "text": "Naprosto otřesné přihlašování do aplikace. Nestačí biometrické ověření. Po 30 dnes bez přístupu musíte zadávat znovu heslo. Pokud aplikaci používáte jen na placení vyúčtování jednou měsíčně máte problém. Místo pohodového placení musíte podstoupit přihlašování a vypisování hesla místo jednoduchého přístupu pres biometrii. A nemůžete si to nastavit a rozhodnout sami.",
+      "text_normalized": "naprosto otresne prihlasovani do aplikace. nestaci biometricke overeni. po 30 dnes bez pristupu musite zadavat znovu heslo. pokud aplikaci pouzivate jen na placeni vyuctovani jednou mesicne mate problem. misto pohodoveho placeni musite podstoupit prihlasovani a vypisovani hesla misto jednoducheho pristupu pres biometrii. a nemuzete si to nastavit a rozhodnout sami.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni"
+      ],
+      "replyDate": "2026-11-23T17:16:43.419Z",
+      "replyText": "Dobrý den, děkujeme za zpětnou vazbu. Pokud biometrické přihlášení nevyužíváte, zůstáváte v aplikaci přihlášený až 30 dní, poté je z bezpečnostních důvodů potřeba přihlášení obnovit. Na zjednodušování a dalším zlepšování aplikace průběžně pracujeme. Viki",
+      "version": "3.21.1"
+    },
     {
       "id": "91c1c028-10a9-4efe-b0fc-7b093201f0e2",
       "userName": "machine dragon",
@@ -39708,8 +39767,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2706,
-    "extractedAt": "2026-11-24T15:38:07.366Z",
+    "totalReviewsExtracted": 2710,
+    "extractedAt": "2026-11-25T15:22:23.385Z",
     "source": "google-play"
   }
 }
