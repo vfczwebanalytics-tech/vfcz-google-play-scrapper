@@ -1,18 +1,64 @@
 {
   "ratings": {
-    "score": 3.6806967,
+    "score": 3.6618075,
     "scoreText": "3,7",
-    "totalRatings": 7321,
-    "totalReviews": 2867,
+    "totalRatings": 7331,
+    "totalReviews": 2869,
     "histogram": {
-      "1": 1869,
-      "2": 265,
-      "3": 339,
-      "4": 700,
-      "5": 4143
+      "1": 1901,
+      "2": 266,
+      "3": 341,
+      "4": 715,
+      "5": 4103
     }
   },
   "reviews": [
+    {
+      "id": "89e3a9ed-8e6c-4b88-9788-e3edbe812226",
+      "userName": "Marie Volfova",
+      "date": "2026-11-25T11:43:14.461Z",
+      "score": 5,
+      "text": "Odesláno",
+      "text_normalized": "odeslano",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": null,
+      "replyText": null,
+      "version": "3.21.1"
+    },
+    {
+      "id": "7aabd00b-8887-43c6-926b-93084c7aea16",
+      "userName": "Petr Lilov",
+      "date": "2026-11-25T10:54:22.301Z",
+      "score": 1,
+      "text": "Nevim!Simka funguje, ale jinak jsou služby Vodafone přejombinovana, personizace simky je zbytecne slozita!Muj Samsung Galaxy dokonce vyhodnotil servery Vodafone jako nebezpecne s nizkym zabezpecenim!",
+      "text_normalized": "nevim!simka funguje, ale jinak jsou sluzby vodafone prejombinovana, personizace simky je zbytecne slozita!muj samsung galaxy dokonce vyhodnotil servery vodafone jako nebezpecne s nizkym zabezpecenim!",
+      "segments": [
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-25T11:23:31.675Z",
+      "replyText": "Pěkný den, Petře,\nmrzí mě, že nejste se službami Vodafone spokojený 🙁 Pokud máte s něčím ohledně služeb potíže, rádi to prověříme konkrétněji, když nám zavoláte na 800 77 00 77. Lucie",
+      "version": "3.22.0"
+    },
+    {
+      "id": "68d85754-f9eb-4e65-8a82-0b96e6aa3a82",
+      "userName": "Matěj Mika",
+      "date": "2026-11-25T06:18:54.576Z",
+      "score": 1,
+      "text": "Aplikace nefunguje! i když jsem odinstalovat a nainstaloval, tak do aplikace se nelze přihlásit. Aplikace byla dobrá, teď je o ničem. Ani vyúčtování si nemohu zkontrolovat. Fakt hrůza! Tohle stojí už i za přemýšlení, nejspíš vyměnit po letech operátora. Bo výhody žádné po 16 letech a ještě se ani nedozvím, kolik platím.",
+      "text_normalized": "aplikace nefunguje! i kdyz jsem odinstalovat a nainstaloval, tak do aplikace se nelze prihlasit. aplikace byla dobra, ted je o nicem. ani vyuctovani si nemohu zkontrolovat. fakt hruza! tohle stoji uz i za premysleni, nejspis vymenit po letech operatora. bo vyhody zadne po 16 letech a jeste se ani nedozvim, kolik platim.",
+      "segments": [
+        "Stabilita",
+        "Prihlaseni",
+        "Zakaznicka_podpora",
+        "Obmezene_funkce",
+        "Spokojenost"
+      ],
+      "replyDate": "2026-11-25T07:08:39.353Z",
+      "replyText": "Dobrý den, Matěji,\nto mě mrzí 🙁 Do aplikace se přihlásíte e-mailem a vlastním alfanumerickým heslem, poté SMS kódem. Pokud se vám trvale nedaří přihlásit, napište nám, prosím, více na náš e-mail aplikace@vodafone.cz. Podíváme se na to 🙂 Katka",
+      "version": null
+    },
     {
       "id": "f1ce8fca-d452-44db-ae6d-b4fa381e4df1",
       "userName": "Jan Burda",
@@ -39767,8 +39813,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2710,
-    "extractedAt": "2026-11-25T15:22:23.385Z",
+    "totalReviewsExtracted": 2713,
+    "extractedAt": "2026-11-26T14:51:15.640Z",
     "source": "google-play"
   }
 }
