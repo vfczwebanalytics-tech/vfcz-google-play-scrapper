@@ -1,18 +1,77 @@
 {
   "ratings": {
-    "score": 3.6652236,
+    "score": 3.6690962,
     "scoreText": "3,7",
-    "totalRatings": 7338,
-    "totalReviews": 2872,
+    "totalRatings": 7345,
+    "totalReviews": 2875,
     "histogram": {
-      "1": 1894,
-      "2": 263,
-      "3": 337,
-      "4": 740,
-      "5": 4097
+      "1": 1883,
+      "2": 256,
+      "3": 352,
+      "4": 759,
+      "5": 4089
     }
   },
   "reviews": [
+    {
+      "id": "62a5859a-3c56-47a3-89d6-79ef9d43d7ec",
+      "userName": "Petr Novák",
+      "date": "2026-11-27T11:47:55.613Z",
+      "score": 1,
+      "text": "hrůza děs",
+      "text_normalized": "hruza des",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-27T12:49:32.948Z",
+      "replyText": "Dobrý den, Petře,\nmrzí mě, že nejste s aplikací spokojený 🙁 Pokud pro nás budete mít konkrétní zpětnou vazbu, budeme za ni rádi, aplikaci se snažíme stále rozvíjet a vylepšovat. Katka",
+      "version": null
+    },
+    {
+      "id": "d221d712-644a-4aea-b688-d30a5f29588a",
+      "userName": "Jana Z. (Ammie)",
+      "date": "2026-11-27T08:41:57.235Z",
+      "score": 1,
+      "text": "Za mě hrozná aplikace. Nepřehledná, když chci něco změnit, nastavit, zásadně mi to trvá půl den neboť aplikace je jen okno pro webový prohlížeč, který načítá věčnost. Nejde vidět jasně aktivované balíčky a jejich čerpání, ani obnovení. Načítání aplikace je nekonečné a neustálé přihlašování otravné, stačilo by ověření biometrickými údaji nebo jednoduchým heslem. Zlatý SazkaMobil a jejich aplikace. Od přechodu pod Vodafone jen kvůli aplikaci zvažuju přechod jinam.Najít něco co mi vyhovuje jdu hned",
+      "text_normalized": "za me hrozna aplikace. neprehledna, kdyz chci neco zmenit, nastavit, zasadne mi to trva pul den nebot aplikace je jen okno pro webovy prohlizec, ktery nacita vecnost. nejde videt jasne aktivovane balicky a jejich cerpani, ani obnoveni. nacitani aplikace je nekonecne a neustale prihlasovani otravne, stacilo by overeni biometrickymi udaji nebo jednoduchym heslem. zlaty sazkamobil a jejich aplikace. od prechodu pod vodafone jen kvuli aplikaci zvazuju prechod jinam.najit neco co mi vyhovuje jdu hned",
+      "segments": [
+        "UI",
+        "Stabilita",
+        "Prihlaseni",
+        "Obmezene_funkce"
+      ],
+      "replyDate": "2026-11-27T09:16:58.358Z",
+      "replyText": "Hezký den, Jano, děkujeme za vaše hodnocení, i když pro nás není pozitivní 🙁 Na vylepšení aplikace stále pracujeme, tak pevně věřím, že se vám do budoucna bude líbit více. Petra",
+      "version": null
+    },
+    {
+      "id": "c82a8945-ee09-49f5-a25d-01d8cce80a87",
+      "userName": "Jarmila Hrabalová",
+      "date": "2026-11-27T08:00:41.468Z",
+      "score": 4,
+      "text": "Neustále přeskakuje mimo aplikaci.",
+      "text_normalized": "neustale preskakuje mimo aplikaci.",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-27T08:31:45.361Z",
+      "replyText": "Hezký den, Jarmilo, děkujeme za vaše hodnocení 🙂 Některé odkazy vás opravdu přesunou mimo aplikaci. Na vylepšení ale stále pracujeme, tak pevně věřím, že do budoucna budete s aplikací spokojenější. Petra",
+      "version": "3.22.0"
+    },
+    {
+      "id": "f13e5f2b-07f2-4503-8f4a-7fe4f25f5ed2",
+      "userName": "Jenda",
+      "date": "2026-11-26T19:07:19.460Z",
+      "score": 1,
+      "text": "To co je v aplikaci, vůbec neodpovídá náhledu v Google play store.😡",
+      "text_normalized": "to co je v aplikaci, vubec neodpovida nahledu v google play store.😡",
+      "segments": [
+        "Ine"
+      ],
+      "replyDate": "2026-11-27T06:33:03.664Z",
+      "replyText": "Hezký den, Jendo, děkujeme hodnocení, i když pro nás není pozitivní 🙁 Pokud pro nás máte nějakou konkrétní zpětnou vazbu, napište nám prosím na aplikace@vodafone.cz. Na vše se s vámi podíváme konkrétněji. Petra\n",
+      "version": null
+    },
     {
       "id": "b338c01b-500f-4e3b-ae6a-e2f1f9dd2b60",
       "userName": "Jiri David",
@@ -39841,8 +39900,8 @@
     }
   ],
   "metadata": {
-    "totalReviewsExtracted": 2715,
-    "extractedAt": "2026-11-27T14:49:44.077Z",
+    "totalReviewsExtracted": 2719,
+    "extractedAt": "2026-11-28T13:58:41.131Z",
     "source": "google-play"
   }
 }
